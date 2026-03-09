@@ -1,7 +1,6 @@
 streamlit
 openai
 pinecone
-google-genai
 fpdf2
 Markdown
 python-dotenv

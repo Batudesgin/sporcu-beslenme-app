@@ -1,9 +1,9 @@
 import streamlit as st
-from google import genai
+from openai import OpenAI
 
 # Initialize API client from Streamlit secrets (no .env required)
-gemini_api_key = st.secrets["GEMINI_API_KEY"]
-client = genai.Client(api_key=gemini_api_key)
+openai_api_key = st.secrets["OPENAI_API_KEY"]
+client = OpenAI(api_key=openai_api_key)
 
 def generate_nutrition_plan(profile, nutrition_data, academic_context):
     """
@@ -64,14 +64,16 @@ DİĞER KURALLAR:
 Lütfen yukarıdaki kurallara, matematiksel hedeflere ve akademik bağlama sıkı sıkıya bağlı kalarak 7 günlük diyet planını markdown tablosu formatında oluştur.
 """
     try:
-        response = client.models.generate_content(
-            model='gemini-2.0-flash',
-            contents=system_prompt + "\n\n" + user_prompt,
-            config=genai.types.GenerateContentConfig(
-                temperature=0.3,
-            )
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            temperature=0.3,
+            max_tokens=8000
         )
-        return response.text
+        return response.choices[0].message.content
     except Exception as e:
         print(f"OpenAI API Hatası: {e}")
         return f"Plan oluşturulurken teknik bir sorun oluştu: {str(e)}"
