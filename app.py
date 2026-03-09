@@ -103,7 +103,7 @@ th {
 """, unsafe_allow_html=True)
 st.title("🏃‍♂️ Kişiye Özel Sporcu Beslenme Planlayıcı")
 st.markdown("""
-Bu platform; yüzücü, koşucu, triatloncu ve bisikletçiler için kişiselleştirilmiş, 
+Bu platform; yüzücü, koşucu, triatloncu, bisikletçi ve fitness sporcuları için kişiselleştirilmiş, 
 bilimsel makalelere (ISSN, ACSM) dayalı 7 günlük beslenme planı oluşturur.
 """)
 
@@ -129,7 +129,7 @@ with st.form("athlete_profile_form"):
     st.subheader("Antrenman ve Hedef")
     col5, col6, col7, col8 = st.columns(4)
     with col5:
-        sport_type = st.selectbox("Spor Dalı", ["Koşucu", "Yüzücü", "Bisikletçi", "Triatloncu"])
+        sport_type = st.selectbox("Spor Dalı", ["Koşucu", "Yüzücü", "Bisikletçi", "Triatloncu", "Fitness"])
         goal = st.selectbox("Genel Hedef", ["Performans Artışı / Kilo Koruma", "Kilo Verme (Yağ Yakımı)", "Kas Gelişimi"])
     with col6:
         # Mesafeler spora göre değişir. Streamlit form içinde dinamik update zor olduğu için tüm seçenekleri gruplayabiliriz
@@ -141,7 +141,8 @@ with st.form("athlete_profile_form"):
             "Koşu: 5K / 10K", "Koşu: Yarı Maraton", "Koşu: Maraton / Ultra",
             "Yüzme: 400m-1500m", "Yüzme: Açık Su 5K+",
             "Bisiklet: Kriter / Kısa", "Bisiklet: Yol 100K+ / Gran Fondo",
-            "Triatlon: Sprint / Olimpik", "Triatlon: 70.3 / Ironman"
+            "Triatlon: Sprint / Olimpik", "Triatlon: 70.3 / Ironman",
+            "Fitness: Genel / Vücut Geliştirme"
         ])
     with col7:
         training_days = st.slider("Haftalık Antrenman Günü", 1, 7, 5)

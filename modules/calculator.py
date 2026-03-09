@@ -58,6 +58,14 @@ def calculate_macros(weight, sport_type, goal, avg_daily_hours, total_calories):
             carbs_per_kg = 7.0
         else:
             carbs_per_kg = 9.0
+    elif sport_type == "Fitness":
+        protein_per_kg = max(protein_per_kg, 1.8)  # Fitness needs higher protein
+        if avg_daily_hours < 1.0:
+            carbs_per_kg = 4.0
+        elif avg_daily_hours <= 2.0:
+            carbs_per_kg = 5.0
+        else:
+            carbs_per_kg = 6.0
     else: # Yüzücü
         if avg_daily_hours < 1.0:
             carbs_per_kg = 5.0

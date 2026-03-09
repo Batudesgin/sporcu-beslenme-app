@@ -35,10 +35,11 @@ Tabloyu yazmadan önce şu hesabı yap ve sonucu planın en başına yaz:
    - "Ekonomik" ise: Ağırlıklı olarak yumurta, lor, yoğurt, mercimek, nohut, tavuk but, ton konserve kullan. Somon ve bonfile gibi pahalı besinleri EKLEME. Bulgur, makarna, pirinç, kuru baklagiller ana karbonhidrat kaynağı olsun.
    - "Orta" ise: Tavuk göğsü, yumurta, ton balığı ağırlıklı ol. Haftada 1 kez kırmızı et veya somon ekleyebilirsin.
    - "Yüksek/Esnek" ise: Somon, dana biftek, hindi füme gibi premium kaynakları daha sık kullanabilirsin.
-7. Türk mutfak kültürüne uygun ol: Yoğurt, Ayran, Kefir, Lor peyniri, Bulgur, Kuruyemiş, Kuru baklagiller, Zeytinyağı, Pekmez vs. kullan.
+7. Türk mutfak kültürüne uygun ol: Yoğurt, Ayran, Kefir, Lor peyniri, Bulgur, Kuruyemiş, Kuru baklagiller, Zeytinyağı vs. kullan.
 8. Diyet tercihi "Vejetaryen" veya "Vegan" ise plana KESİNLİKLE et, tavuk, hindi, balık, bulyon vs. EKLEME. Bunun yerine tofu, tempeh, nohut, mercimek, kinoa gibi bitkisel protein kaynaklarını YOĞUN şekilde kullan.
 9. Porsiyon boyutlarını hedef makrolara ulaşacak şekilde CESURCA BÜYÜT. 50g yulaf yerine 120g, 100g tavuk yerine 250g yaz. HEDEFLERİ TUTTUR.
 10. YEMEK ÇEŞİTLİLİĞİ: 7 gün boyunca aynı kahvaltıyı ve aynı öğle yemeğini tekrarlama. En az 4-5 farklı kahvaltı, 5-6 farklı ana yemek çeşidi sun.
+11. HEDEF BAZLI BESİN YASAĞI (KRİTİK): Eğer kullanıcının hedefi "Kilo Verme (Yağ Yakımı)" ise şu besinleri plana KESİNLİKLE EKLEME: pekmez, bal, reçel, şeker, beyaz ekmek, beyaz makarna, meyve suyu, gazlı içecek, tatlı, pasta, kurabiye. Bunun yerine düşük glisemik indeksli besinler (yulaf, tam tahıl, bulgur, taze sebze, yeşillik) tercih et. Meyveyi sınırlı tut (günde max 2 porsiyon).
 
 ### ADIM 4: FORMAT KURALLARI
 11. Her gün için ayrı başlık aç (Örn: `### 1. Gün`). O günün altına şu formatta markdown tablo çiz:
