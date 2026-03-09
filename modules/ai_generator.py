@@ -7,7 +7,7 @@ client = OpenAI(api_key=openai_api_key)
 
 def generate_nutrition_plan(profile, nutrition_data, academic_context):
     """
-    Calls Google Gemini 2.0 Flash to generate a 7-day personalized meal plan 
+    Calls OpenAI GPT-4o-mini to generate a 7-day personalized meal plan 
     based on math modules and academic research context.
     """
     system_prompt = """Sen alanında uzman bir sporcu diyetisyeni ve beslenme danışmanısın. 
@@ -75,5 +75,5 @@ Lütfen yukarıdaki kurallara, matematiksel hedeflere ve akademik bağlama sık�
         )
         return response.choices[0].message.content
     except Exception as e:
-        print(f"OpenAI API Hatası: {e}")
         return f"Plan oluşturulurken teknik bir sorun oluştu: {str(e)}"
+
