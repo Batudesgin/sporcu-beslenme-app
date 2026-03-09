@@ -247,39 +247,129 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
     st.header("📝 7 Günlük Kişiye Özel Beslenme Planı")
     st.markdown(meal_plan)
     
-    # Generate PDF in memory using xhtml2pdf and markdown
+    # Generate PDF in memory using fpdf2
     def create_pdf(text_content):
         from fpdf import FPDF
+        import re
         
         class PDF(FPDF):
             def header(self):
-                self.set_font("helvetica", "B", 15)
-                self.cell(0, 10, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
-                self.ln(5)
+                self.set_font("Helvetica", "B", 16)
+                self.set_text_color(30, 58, 138)
+                self.cell(0, 12, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
+                self.set_draw_color(30, 58, 138)
+                self.set_line_width(0.5)
+                self.line(10, self.get_y(), self.w - 10, self.get_y())
+                self.ln(4)
 
             def footer(self):
                 self.set_y(-15)
-                self.set_font("helvetica", "I", 8)
+                self.set_font("Helvetica", "I", 8)
+                self.set_text_color(128, 128, 128)
                 self.cell(0, 10, f"Sayfa {self.page_no()}/{{nb}}", align="C")
 
-        pdf = PDF(orientation="landscape")
-        pdf.set_auto_page_break(auto=True, margin=15)
+        pdf = PDF(orientation="landscape", format="A4")
+        pdf.set_auto_page_break(auto=True, margin=20)
         pdf.add_page()
         
-        # FPDF2 has native markdown support
-        pdf.set_font("helvetica", size=10)
-        
-        # Clean up some markdown features that FPDF might struggle with
-        # FPDF2 supports basic markdown but we should ensure text is latin-1 safe or use unicode fonts
-        # For simplicity, we fallback to UTF-8 compliant unifont if available, but FPDF handles basic tr well if mapped
-        tr_map = str.maketrans("ğğıışşööççüüşşİIĞÜÖÇŞ", "ggiissooccoussIIGUOCS")
+        # Transliterate Turkish chars for latin-1 compatibility
+        tr_map = str.maketrans({
+            'ğ': 'g', 'Ğ': 'G', 'ı': 'i', 'İ': 'I',
+            'ş': 's', 'Ş': 'S', 'ö': 'o', 'Ö': 'O',
+            'ç': 'c', 'Ç': 'C', 'ü': 'u', 'Ü': 'U'
+        })
         safe_text = text_content.translate(tr_map)
         
-        try:
-            pdf.write_html(markdown.markdown(safe_text, extensions=['tables']))
-        except AttributeError:
-            # Fallback if write_html is missing/fails, we just write text
-            pdf.multi_cell(0, 5, safe_text)
+        # Convert markdown to styled HTML for fpdf2's write_html
+        lines = safe_text.split('\n')
+        html_parts = []
+        in_table = False
+        is_header_row = True
+        
+        for line in lines:
+            stripped = line.strip()
+            
+            # Headings
+            if stripped.startswith('### '):
+                if in_table:
+                    html_parts.append('</table><br>')
+                    in_table = False
+                html_parts.append(f'<br><font size="14" color="#1e3a8a"><b>{stripped[4:]}</b></font><br>')
+                is_header_row = True
+                continue
+            elif stripped.startswith('## '):
+                if in_table:
+                    html_parts.append('</table><br>')
+                    in_table = False
+                html_parts.append(f'<br><font size="16" color="#1e3a8a"><b>{stripped[3:]}</b></font><br>')
+                continue
+            elif stripped.startswith('# '):
+                if in_table:
+                    html_parts.append('</table><br>')
+                    in_table = False
+                html_parts.append(f'<br><font size="18" color="#1e3a8a"><b>{stripped[2:]}</b></font><br>')
+                continue
+            
+            # Table separator row (|---|---|)
+            if stripped.startswith('|') and set(stripped.replace('|', '').replace('-', '').replace(':', '').strip()) == set() :
+                continue
+                
+            # Table rows
+            if stripped.startswith('|') and stripped.endswith('|'):
+                cells = [c.strip() for c in stripped.split('|')[1:-1]]
+                
+                if not in_table:
+                    col_count = len(cells)
+                    col_width = int(96 / col_count) if col_count > 0 else 16
+                    html_parts.append(f'<table border="1" width="100%">')
+                    in_table = True
+                    is_header_row = True
+                
+                if is_header_row:
+                    row_html = '<tr>'
+                    for cell in cells:
+                        row_html += f'<td width="{col_width}%" bgcolor="#1e3a8a" align="center"><font color="#ffffff" size="9"><b>{cell}</b></font></td>'
+                    row_html += '</tr>'
+                    html_parts.append(row_html)
+                    is_header_row = False
+                else:
+                    # Check if this is a "Toplam" row
+                    is_total = any('toplam' in c.lower() for c in cells)
+                    bg = ' bgcolor="#e2e8f0"' if is_total else ''
+                    row_html = '<tr>'
+                    for i, cell in enumerate(cells):
+                        align = 'left' if i < 2 else 'center'
+                        bold_s = '<b>' if is_total else ''
+                        bold_e = '</b>' if is_total else ''
+                        row_html += f'<td width="{col_width}%"{bg} align="{align}"><font size="8">{bold_s}{cell}{bold_e}</font></td>'
+                    row_html += '</tr>'
+                    html_parts.append(row_html)
+                continue
+            
+            # Close table if we were in one
+            if in_table and not stripped.startswith('|'):
+                html_parts.append('</table><br>')
+                in_table = False
+                is_header_row = True
+            
+            # Bold text
+            if stripped.startswith('**') or stripped.startswith('- **'):
+                clean = stripped.replace('**', '').replace('- ', '')
+                html_parts.append(f'<font size="10"><b>{clean}</b></font><br>')
+                continue
+            
+            # Regular text
+            if stripped:
+                clean = stripped.replace('**', '')
+                html_parts.append(f'<font size="9">{clean}</font><br>')
+        
+        if in_table:
+            html_parts.append('</table>')
+        
+        full_html = '\n'.join(html_parts)
+        
+        pdf.set_font("Helvetica", size=9)
+        pdf.write_html(full_html)
             
         result = io.BytesIO()
         pdf.output(result)
