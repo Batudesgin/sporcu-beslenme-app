@@ -120,10 +120,14 @@ def get_athlete_nutrition(profile):
     avg_daily_hours = (profile['training_days'] * profile['training_hours']) / 7
     macros = calculate_macros(profile['weight'], profile['sport_type'], profile['goal'], avg_daily_hours, target_calories)
     
+    # Calculate hydration based on weight (typically 35ml per kg base + extra for training)
+    hydration_L = (profile['weight'] * 0.035) + (avg_daily_hours * 0.5)
+    
     return {
         "bmr": round(bmr),
         "tdee": round(tdee),
         "target_calories": round(target_calories),
         "activity_factor": round(activity_factor, 2),
+        "hydration_L": hydration_L,
         "macros": macros
     }
