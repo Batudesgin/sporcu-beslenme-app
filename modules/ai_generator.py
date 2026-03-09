@@ -26,27 +26,33 @@ Tabloyu yazmadan önce şu hesabı yap ve sonucu planın en başına yaz:
 3. Günlük Toplam satırındaki değerler = Üstteki tüm öğün satırlarının matematiksel toplamına eşit OLMALIDIR.
 4. ASLA AÇLIK DİYETİ YAZMA. Hedef 2700 kcal ise günlük toplam 2600-2800 kcal arasında olmalıdır, 2000 kcal'de KALAMAZ.
 
-### ADIM 3: BESİN KALİTESİ KURALLARI
-5. PROTEİN ÇEŞİTLİLİĞİ (KRİTİK): Diyet tercihi "Normal" veya belirtilmediyse, plana mutlaka şu hayvansal protein kaynaklarını DAHİL ET: tavuk göğsü, hindi, yumurta, balık (somon, ton, hamsi), kırmızı et (haftada 2-3 kez). Sadece lor peyniri ve yulafla protein hedefine ulaşılamaz.
-6. Türk mutfak kültürüne uygun ol: Yoğurt, Ayran, Kefir, Lor peyniri, Bulgur, Kuruyemiş, Kuru baklagiller vs. kullan.
-7. Diyet tercihi "Vejetaryen" veya "Vegan" ise plana KESİNLİKLE et, tavuk, hindi, balık, bulyon vs. EKLEME. Bunun yerine tofu, tempeh, nohut, mercimek, kinoa gibi bitkisel protein kaynaklarını YOĞUN şekilde kullan.
-8. Porsiyon boyutlarını hedef makrolara ulaşacak şekilde CESURCA BÜYÜT. 50g yulaf yerine 120g, 100g tavuk yerine 250g yaz.
+### ADIM 3: BESİN KALİTESİ VE BÜTÇE DENGESİ KURALLARI
+5. DENGELİ PROTEİN DAĞILIMI (KRİTİK): Tüm haftaya FARKLI protein kaynakları dengeli dağıt. Her gün aynı şeyleri tekrarlama. Haftalık dağılım şu şekilde olsun:
+   - UCUZ KAYNAKLAR (haftada 4-5 öğünde): Yumurta, lor peyniri, yoğurt, süt, peynir, kuru baklagiller (mercimek, nohut, kuru fasulye), bulgur pilavı
+   - ORTA FİYATLI KAYNAKLAR (haftada 3-4 öğünde): Tavuk göğsü, ton balığı konservesi, hindi, kıyma
+   - PAHALI KAYNAKLAR (haftada 1-2 öğünde): Somon, kırmızı et (biftek/bonfile)
+6. BÜTÇE UYUMU (ÇOK ÖNEMLİ): Kullanıcının "Bütçe" tercihine DİKKAT ET:
+   - "Ekonomik" ise: Ağırlıklı olarak yumurta, lor, yoğurt, mercimek, nohut, tavuk but, ton konserve kullan. Somon ve bonfile gibi pahalı besinleri EKLEME. Bulgur, makarna, pirinç, kuru baklagiller ana karbonhidrat kaynağı olsun.
+   - "Orta" ise: Tavuk göğsü, yumurta, ton balığı ağırlıklı ol. Haftada 1 kez kırmızı et veya somon ekleyebilirsin.
+   - "Yüksek/Esnek" ise: Somon, dana biftek, hindi füme gibi premium kaynakları daha sık kullanabilirsin.
+7. Türk mutfak kültürüne uygun ol: Yoğurt, Ayran, Kefir, Lor peyniri, Bulgur, Kuruyemiş, Kuru baklagiller, Zeytinyağı, Pekmez vs. kullan.
+8. Diyet tercihi "Vejetaryen" veya "Vegan" ise plana KESİNLİKLE et, tavuk, hindi, balık, bulyon vs. EKLEME. Bunun yerine tofu, tempeh, nohut, mercimek, kinoa gibi bitkisel protein kaynaklarını YOĞUN şekilde kullan.
+9. Porsiyon boyutlarını hedef makrolara ulaşacak şekilde CESURCA BÜYÜT. 50g yulaf yerine 120g, 100g tavuk yerine 250g yaz. HEDEFLERİ TUTTUR.
+10. YEMEK ÇEŞİTLİLİĞİ: 7 gün boyunca aynı kahvaltıyı ve aynı öğle yemeğini tekrarlama. En az 4-5 farklı kahvaltı, 5-6 farklı ana yemek çeşidi sun.
 
 ### ADIM 4: FORMAT KURALLARI
-9. Her gün için ayrı başlık aç (Örn: `### 1. Gün`). O günün altına şu formatta markdown tablo çiz:
+11. Her gün için ayrı başlık aç (Örn: `### 1. Gün`). O günün altına şu formatta markdown tablo çiz:
 `| Öğün | Besinler ve Porsiyonlar | Kalori (kcal) | Protein (g) | Karbonhidrat (g) | Yağ (g) |`
-10. Her öğün tabloda SADECE 1 SATIR kaplasın. O satırın "Besinler" sütununa tüm yiyecekleri alt alta yaz, makroları ise o öğünün TOPLAMI olarak tek rakam yaz.
-11. En alta "Günlük Toplam" satırı ekle.
-12. Akademik Bağlam kısmındaki bilimsel yönergeleri entegre et.
-13. Planın EN ALTINA 'Kaynaklar ve Gerekçeler' bölümü ekle. RAG veritabanından gelen akademik dayanakları referans göstererek kararlarını açıkla.
+12. Her öğün tabloda SADECE 1 SATIR kaplasın. O satırın "Besinler" sütununa tüm yiyecekleri alt alta yaz, makroları ise o öğünün TOPLAMI olarak tek rakam yaz.
+13. En alta "Günlük Toplam" satırı ekle.
+14. Akademik Bağlam kısmındaki bilimsel yönergeleri entegre et.
+15. Planın EN ALTINA 'Kaynaklar ve Gerekçeler' bölümü ekle.
 
-### DOĞRULAMA CHECKLIST (TABLOYU YAZDIKTAN SONRA KONTROL ET):
+### DOĞRULAMA CHECKLIST:
 - [ ] Her öğünün kalorisi = (P*4)+(K*4)+(Y*9) formülüne uyuyor mu?
 - [ ] Günlük Toplam satırı = Üstteki öğünlerin toplamına eşit mi?
-- [ ] Günlük toplam protein ≈ Hedef protein (±%5)?
-- [ ] Günlük toplam karbonhidrat ≈ Hedef karbonhidrat (±%5)?
-- [ ] Günlük toplam kalori ≈ Hedef kalori (±%5)?
-- [ ] Yeterli hayvansal protein kaynağı (tavuk, balık, yumurta, et) var mı? (Vejetaryen/Vegan hariç)
+- [ ] Günlük toplam protein, karbonhidrat ve kalori hedeflere (±%5) yakın mı?
+- [ ] Bütçe tercihine uygun besin kaynakları mı seçildi?
 """
 
     user_prompt = f"""
