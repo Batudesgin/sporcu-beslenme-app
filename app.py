@@ -129,7 +129,7 @@ with st.form("athlete_profile_form"):
     st.subheader("Antrenman ve Hedef")
     col5, col6, col7, col8 = st.columns(4)
     with col5:
-        sport_type = st.selectbox("Spor Dalı", ["Koşucu", "Yüzücü", "Bisikletçi", "Triatloncu", "Fitness"])
+        sport_type = st.selectbox("Spor Dalı", ["Koşucu", "Yüzücü", "Bisikletçi", "Triatloncu", "Fitness", "Dans", "Jimnastik", "Dövüş Sporları", "Tenis", "Powerlifting"])
         goal = st.selectbox("Genel Hedef", ["Performans Artışı / Kilo Koruma", "Kilo Verme (Yağ Yakımı)", "Kas Gelişimi"])
     with col6:
         # Mesafeler spora göre değişir. Streamlit form içinde dinamik update zor olduğu için tüm seçenekleri gruplayabiliriz
@@ -142,7 +142,10 @@ with st.form("athlete_profile_form"):
             "Yüzme: 400m-1500m", "Yüzme: Açık Su 5K+",
             "Bisiklet: Kriter / Kısa", "Bisiklet: Yol 100K+ / Gran Fondo",
             "Triatlon: Sprint / Olimpik", "Triatlon: 70.3 / Ironman",
-            "Fitness: Genel / Vücut Geliştirme"
+            "Fitness: Genel / Vücut Geliştirme",
+            "Dans: Performans / Yarışma", "Jimnastik: Artistik / Ritmik",
+            "Dövüş: MMA / Boks / Güreş", "Tenis: Tekler / Çiftler",
+            "Powerlifting: Squat / Bench / Deadlift"
         ])
     with col7:
         training_days = st.slider("Haftalık Antrenman Günü", 1, 7, 5)

@@ -64,6 +64,35 @@ def calculate_macros(weight, sport_type, goal, avg_daily_hours, total_calories, 
         if goal == "Kas Gelişimi":
             protein_per_kg = 2.2
         carbs_per_kg = 4.0 if avg_daily_hours < 1.0 else 5.0
+    elif sport_type == "Powerlifting":
+        protein_per_kg = max(protein_per_kg, 2.0)
+        if goal == "Kas Gelişimi":
+            protein_per_kg = 2.2
+        carbs_per_kg = 3.5 if avg_daily_hours < 1.0 else 4.5
+    elif sport_type == "Dövüş Sporları":
+        protein_per_kg = max(protein_per_kg, 1.8)
+        if avg_daily_hours < 1.0:
+            carbs_per_kg = 5.0
+        elif avg_daily_hours <= 2.0:
+            carbs_per_kg = 6.0
+        else:
+            carbs_per_kg = 7.0
+    elif sport_type == "Tenis":
+        protein_per_kg = max(protein_per_kg, 1.6)
+        if avg_daily_hours < 1.0:
+            carbs_per_kg = 5.0
+        elif avg_daily_hours <= 2.0:
+            carbs_per_kg = 6.0
+        else:
+            carbs_per_kg = 7.0
+    elif sport_type in ["Dans", "Jimnastik"]:
+        protein_per_kg = max(protein_per_kg, 1.6)
+        if avg_daily_hours < 1.0:
+            carbs_per_kg = 4.5
+        elif avg_daily_hours <= 2.0:
+            carbs_per_kg = 5.5
+        else:
+            carbs_per_kg = 6.5
     elif sport_type in ["Koşucu", "Bisikletçi", "Triatloncu"]:
         if is_endurance_long:
             # Long endurance: carb loading essential (5-8 g/kg)
