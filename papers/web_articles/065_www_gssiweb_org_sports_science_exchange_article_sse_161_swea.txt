@@ -1,0 +1,215 @@
+BAŞLIK: Sweat Testing Methodology in the Field: Challenges and Best Practices - Gatorade Sports Science Institute
+KAYNAK: https://www.gssiweb.org/sports-science-exchange/article/sse-161-sweat-testing-methodology-in-the-field-challenges-and-best-practices
+TARİH: 2026-03-08 21:20:13
+KELİME: 4591
+============================================================
+
+Skip to main content
+SSE #161
+Sweat Testing Methodology in the Field: Challenges and Best Practices
+Published
+January 2017
+Author
+Lindsay B. Baker, PhD
+Topics
+Hydration & Thermoregulation
+SSE #161
+Sweat Testing Methodology in the Field: Challenges and Best Practices
+In this Article
+Key Terms
+The amount of water and electrolytes (primarily sodium, Na+) lost as a consequence of thermoregulatory sweating during exercise can vary considerably within and among athletes. The reported range in sweating rate and sweat Na+ concentration ([Na+]) is ~0.5 to 2.0 L/h and ~10- 90 mmol/L, respectively.
+Sources of intra/interindividual variability in sweating rate and sweat [Na+] during exercise include exercise intensity, environmental conditions, heat acclimation status, aerobic capacity, genetic predisposition, body size/composition, protective equipment, sex, diet and hydration status.
+Sweat testing can be conducted to estimate individual sweating rates and sweat Na+ losses to help guide personalized fluid and electrolyte replacement recommendations.
+However, unstandardized methodological practices and challenging field conditions can produce inconsistent/inaccurate sweat testing results.
+Based on study findings to date, as well as some practical considerations, current best practices in sweat testing in the field (including collection, storage, analysis and interpretation) are proposed.
+Introduction
+Athletes lose water and electrolytes as a consequence of thermoregulatory sweating during training and competition. In some situations, sweat losses can be sufficient to cause excessive water/ electrolyte imbalances and impair performance (Sawka et al., 2007; Shirreffs & Sawka, 2011). It is well established that sweating rate and sweat electrolyte concentrations can vary widely within and among individuals. Therefore, it is recommended that fluid replacement strategies are personalized to the individual as well as tailored to the specific conditions (exercise intensity, environment, etc.) of training/ competition (Maughan & Shirreffs, 2008; Sawka et al., 2007; Shirreffs & Sawka, 2011). Many scientists and practitioners conduct sweat tests with athletes to estimate fluid and electrolyte losses during exercise. However, unstandardized methodological practices and challenging field conditions may produce inconsistent/inaccurate results (Dziedzic et al., 2014; Taylor & Machado-Moreira, 2013). The main objectives of this paper are to provide 1) an overview of the literature regarding sweat testing methodology, 2) discuss the effect of methodological variations on sweating rate and sweat electrolyte concentrations, and 3) propose best practices for sweat testing in the field.
+Thermoregulatory Sweating
+Whole-body sweating rate typically ranges from ~0.5 to ~2.0 L/h (17 to 68 oz/h), but can be > 3.0 L/h (101 oz/h) in rare occurrences (Baker et al., 2015; Sawka et al., 2007). This wide variability is due to a number of factors, which will be discussed only briefly here (see Armstrong & Maresh, 1998 and Sawka et al., 2011 for more detailed reviews). During exercise, the primary means by which the body gains heat is from metabolism (which is directly proportional to exercise intensity) and the environment; therefore, these factors are the major impetus for sweating (Gagnon et al., 2013). The sweating response to exercise-heat stress can be enhanced by heat acclimation and aerobic training and decreased by dehydration (Armstrong & Maresh, 1998). Other factors such as body size/composition or wearing protective equipment can modify sweating rate through their impact on metabolic heat gain and/or heat loss capacity (Sawka et al., 2007).
+Sweat is comprised of water as well as many electrolytes and other constituents. However, this paper will primarily focus on sodium (Na+) since it is the electrolyte lost in the greatest quantities and has the most significant impact on hydration (Shirreffs and Sawka, 2011). Sweat [Na+] typically ranges from ~10 to ~90 mmol/L (when measured via local methods) (Baker et al., 2015). The [Na+] of sweat excreted onto the surface of the skin is determined primarily by the rate of Na+ reabsorption in the sweat duct; and the predominate factors dictating ductal Na+ reabsorption include sweat flow rate and ion transporter (Na+/K+-ATPase) activity (Sato, 1977). Acute sweat flow rate and sweat [Na+] are directly related (Buono et al., 2007). For example, acute increases in sweat flow rate through the duct of the sweat gland, due to more vigorous exercise (Buono et al., 2007) or warmer ambient temperatures (Dziedzic et al., 2014), can lead to increases in sweat [Na+]. Chronic adaptations in sweat [Na+] can also occur. For example, heat acclimation and dietary Na+ restriction lead to improved salt conservation through a decrease in sweat [Na+] due to changes in sweat gland Na+/K+-ATPase activity (Eichner, 2008; Kirby & Convertino, 1986). The reader is referred elsewhere for more in-depth information on the factors determining sweat [Na+] and underlying mechanisms (Eichner, 2008; Sato, 1977).
+Sweat Testing Methods in the Field
+Whole-Body Sweating Rate
+Although there is currently no gold-standard method to measure hydration status or whole-body sweating rate, the simplest and most accurate assessment is via mass balance (Armstrong, 2007). That is, the acute change in body mass from before to after exercise can be used to calculate thermoregulatory sweat losses. Acute body mass change represents 1 mL (0.03 oz) of water (sweat) loss per 1 g (0.002 lb) of body mass loss. However, non-sweat sources of body mass change (i.e., fluid/food intake, urine/stool output, respiratory water loss, metabolic mass loss, trapped sweat in clothing) should also be measured and accounted for, when applicable (Maughan et al., 2007). For example, in a study with runners, when corrections were not made, urine loss led to an overestimation of sweat loss by 16-37%, and combined respiratory water loss and metabolic mass loss led to an overestimation of sweat loss by 9-20%. Trapped sweat in clothing resulted in an 8-10% underestimation of sweat loss (Cheuvront et al., 2002). The following section describes the methods and necessary supplies (Table 1) required to measure whole-body sweating rate in the field.
+Immediately before exercise, athletes should void their bladder and then have body mass measured on a digital platform scale (to the nearest 0.10 kg (0.22 lb)). To avoid the confounding effect of sweat trapped in clothing/uniforms, athletes should be weighed either nude or with minimal clothing (e.g., compression shorts for males, shorts and sport bra for females).
+Ad libitum
+fluid intake during exercise can be determined by weighing the drinking bottles before and after consumption. Water and/or sports drink of the athlete’s preference, in bottles labeled specifically for each athlete, should be made available by the investigators throughout the duration of the exercise. Athletes should be instructed to avoid spitting, spilling or pouring fluid from the labeled bottles used for testing purposes. If athletes desire to pour water over themselves, they can be given an additional bottle of water marked to use for this purpose.
+Ad libitum
+food intake during exercise can be determined by weighing the product (e.g., bars, gels or chews) in its wrapper before and after consumption. If athletes need to urinate during exercise they should be given a pre-weighed container and asked to collect all urine for subsequent weighing. If athletes need to have a bowel movement during the test, they should be instructed to inform the investigators so that their body mass can be measured before and after going to the bathroom (to determine stool mass loss). After completion of the exercise session, the athletes should towel-dry themselves and then have their body mass measured with the same scale and while wearing the same clothes (or nude, if applicable) as the pre-exercise body mass assessment. Study investigators and the athletes’ training staff should carefully observe the athletes during exercise and record any protocol deviations.
+Total whole-body sweat loss and whole-body sweating rate can be estimated using the following equations:
+Equation 1: WBSL (L) = [Body Mass
+PRE-EX
+– (Body Mass
+POST-EX
+– Fluid Intake
+EX
++ Urine Output
+EX
+)]
+Equation 2: WBSR (L/h) = WBSL / Exercise Duration
+Where EX is during exercise, PRE-EX is pre-exercise, POST-EX is post-exercise, WBSL is whole-body sweat loss, and WBSR is whole-body sweating rate.
+If exercise intensity (e.g., energy expenditure) is measured or estimated during the sweat test, then adjustments to the sweating rate calculation can be made for metabolic mass loss and respiratory water loss. For the most accurate results, this adjustment is recommended for exercise longer than 2-3 h (Sawka et al., 2007); particularly when exercise intensity is high and/or the ambient air is dry (Cheuvront et al., 2002; Maughan et al., 2007). The reader is referred to the following papers for equations to calculate mass loss from substrate oxidation and respiratory water (Maughan et al., 2007; Mitchell et al., 1972). There are currently no equations available to correct for trapped sweat in different clothing/uniform ensembles; however, the reader is directed elsewhere for more information (Cheuvront et al., 2002).
+Local Sweat Sodium Concentration
+Many methods have been used to determine sweat electrolyte concentrations in humans during exercise. The reference method for whole body Na+ loss is the washdown technique; this is considered the most accurate method because all sweat runoff is collected and accounted for and it does not interfere with the normal evaporative sweating process (Shirreffs & Maughan, 1997). However, in field studies, local methods for estimating sweat [Na+] are more commonly used because they are simpler and more practical than the whole-body washdown technique. Local methods include filter papers, absorbent patches, pouches, arm bags/gloves and plastic sweat capsules, among others (Taylor & Machado-Moreira, 2013). Of all these methods, the absorbent patch technique is probably the most conducive to sweat testing in the field. This is because the collection unit (absorbent pad) is covered with an occlusive adhesive dressing (prevents contamination), is low profile (does not fall off easily if bumped and does not interfere with athlete’s movement), and can be placed almost anywhere on the body (allows options for placement depending on accessibility and the clothing/equipment worn). The following section describes the methods and necessary supples (Table 2) to measure local sweat [Na+] using the absorbent patch technique in the field.
+Sweat Collection
+First, it is important to note that, to obtain results representative of sweating during exercise, patches (when possible) should be applied after the onset of physical activity. Sweating rate gradually increases from the onset of exercise until a steady state is reached. Although the optimal time to apply patches has not been determined and is likely to vary depending upon multiple factors (exercise intensity, environment, heat acclimation status, etc.), it has been suggested that applying patches ~20-30 min into the training session will provide sweating rate, and therefore sweat [Na+], results more indicative of exercise than initial sweat (Morris et al., 2013). However, additional research is needed to determine the impact of patch application timing on sweat [Na+] to help inform best practices in sweat testing.
+Immediately prior to patch application, the athlete’s skin should be cleaned with alcohol, rinsed with distilled or deionized water, and then dried with electrolyte-free gauze or paper towel. While investigators have shown that aggressive scrubbing and meticulous cleaning of the skin is necessary to avoid skin surface contamination (from skin desquamation and mineral residues) with trace minerals (iron, zinc, copper, magnesium and calcium), there is no evidence that this is necessary when measuring sweat [Na+] and potassium concentration ([K+]) (Ely et al., 2011). To minimize potential issues with patches coming loose or falling off the skin, investigators may want to shave the area prior to patch application. In addition, the forearm patch can be covered with an arm sleeve made of breathable material to prevent loss of adhesion. Patches should be monitored throughout exercise and removed when sufficient sample is absorbed (as determined by visual assessment), but prior to saturation. Then after separation from the adhesive dressing, the absorbent pad should be placed in an airtight plastic tube using clean forceps. During patch application and removal the investigator should wear clean, electrolyte-free gloves to prevent contamination of the sweat sample. To extract the sweat from the absorbent pad, the pad can be either: 1) placed in a filter tube and subsequently centrifuged at ~3000 rpm for ~10 min (e.g., if planning to send to a laboratory for analysis) or 2) placed in the barrel of a plastic syringe and squeezed with a plunger (e.g., if planning to conduct analysis in the field).
+Sweat Storage
+If absorbent pads or sweat samples need to be stored/transported to a laboratory for subsequent analysis the storage tubes should be sealed to prevent evaporation. Few studies have investigated the effects of sample storage temperature and duration on sweat [Na+]. Sweat testing guidelines established for the diagnosis of cystic fibrosis recommend samples are stored at ~4°C (~39°F) (i.e., refrigerated) for a maximum of 3 days to prevent evaporation (Collie et al., 2014). However, the studies on which these guidelines are based did not investigate longer durations of sample storage (e.g., ~1 wk) or the impact on sweat [Na+]. Thus, more work is needed to elucidate best practices for the maximum storage duration of absorbent pads and sweat samples.
+Sweat Analysis
+Many laboratory-based analytical techniques have been used to measure sweat [Na+], including ion chromatography (IC), mass spectrometry, ion-selective electrode (ISE) and flame photometry (FP). Contemporary laboratory reference techniques for sweat electrolyte analysis are IC and inductively-coupled plasma mass spectrometry, both of which require only small sample volumes and have been found to be highly accurate, sensitive, and reliable (CV ~1-5%) (Doorn et al., 2015; Pullan et al., 2013). However, if sample storage duration and conditions during transportation to a laboratory cannot be well-controlled, sweat analysis in the field is perhaps the best practice. The practical inconveniences (cost, delay in obtaining results) of transporting/shipping samples to a laboratory may be another reason investigators choose to conduct sweat [Na+] analysis in the field. Common field techniques for [Na+] analysis include ISE and conductivity. Compared with IC, ISE techniques have similar reliability (CVs ~1-4% for both methods) and produce sweat [Na+] values within ~2-4 mmol/L (or ~4-10%) (Baker et al., 2014; Goulet et al., 2012). Still, more studies comparing different analytical techniques are needed to determine best practices in sweat [Na+] analysis in the laboratory and the field. No study has directly compared all methods; but in separate studies, conductivity produced ~6% higher sweat [Na+] values than FP (Boisvert & Candas, 1994), FP values were ~20% higher than ISE (Dziedzic et al., 2014) and IC (Baker et al., 2015), and ISE values were ~4% (Goulet et al., 2012) and ~10% (Baker et al., 2014) higher than IC.
+Other Considerations
+It is important to note that local sweat [Na+] is usually not a valid direct measure for whole-body [Na+] because: 1) covering the skin surface with a patch creates a microenvironment (i.e., increased local humidity and skin wettedness), 2) sweat collected from within occlusive coverings may be confounded by interaction with the stratum corneum of the skin, and 3) sweat [Na+] varies across different regions of the body. The following section discusses these three limitations and how their confounding impact on sweat [Na+] can be mitigated.
+Because absorbent patches consist of occlusive coverings they increase moisture accumulation on the skin. This leads to progressive blocking of sweat ducts and sweat suppression (i.e., hidromeiosis) at the area of sweat sample collection (Candas et al., 1983). However, it has been proposed that hidromeiosis can be minimized by using patches made of material with a high absorbent capacity and/or limiting patch time on skin (Havenith et al., 2008; Taylor & Machado-Moreira, 2013). While some have suggested a maximum adherence time of 5 min (Morris et al., 2013), others have left patches on the athletes’ skin for ~15-30 min or even up to ~90 min in field studies. These longer patch adherence times in field studies are likely due to limited accessibility to the athlete during live practices/games or done out of necessity to collect sufficient sample volume (e.g., in athletes with low sweating rates). It is currently unclear how patch adherence time impacts local sweat [Na+], thus more work in this area is needed to determine best practices in sweat collection using the absorbent patch method.
+Leaching of electrolytes (from the skin to the local sweat sample) and/or absorption of water (from the sweat into the skin) can lead to falsely high sweat electrolyte concentrations from samples collected within occlusive coverings (Van Heyningen & Weiner, 1952; Weschler, 2008). To mitigate this potential issue, sweat [K+] can be used as a quality control check of the sweat sample. Sweat [K+] is expected to stay relatively consistent despite changes in sweating rate. Therefore, if sweat [K+] is outside the normal range (~2-10 mmol/L), potential issues with leaching or sample evaporation/contamination may be suspected (Dziedzic et al., 2014; Maughan & Shirreffs, 2008; Weschler, 2008).
+It is well-known that sweating rate and sweat [Na+] vary considerably across the body within an individual (Taylor & Machado-Moreira, 2013). Regional variations in sweat [Na+] can be explained in part by regional variations in local sweating rate. Not surprisingly, inter-regional differences in local sweating rate and sweat [Na+] have been reported to follow the same general pattern (e.g., forehead > chest > scapula > forearm > thigh) (Patterson et al., 2000). Most of the local anatomical sites typically used in sweat testing (e.g., forearm, scapula, chest and forehead) overestimate whole-body sweat [Na+] by ~25-100% (Baker et al., 2009; Patterson et al., 2000; Shirreffs & Maughan, 1997). Nonetheless, local sweat [Na+] has been reported to be highly and significantly correlated with whole-body sweat [Na+]. Thus regression equations are available to predict whole-body sweat [Na+] from local sweat [Na+] using absorbent patches (Baker et al., 2009) and Parafilm® pouches (Patterson et al., 2000).
+Prediction of Whole-Body-Sweat [Na
++
+] Losses
+The whole-body (WB) sweat [Na+] prediction equation for the forearm site using absorbent patches is as follows (Baker et al., 2009):
+Equation 3: Predicted WB sweat [Na+] (mmol/L) = 0.57 (forearm sweat Na+) + 11.05
+Studies report no significant bilateral differences in forearm sweat [Na+] (Baker et al., 2015; Dziedzic et al., 2014); thus the right and left forearm results can be used interchangeably. See Baker et al. (2009) for prediction equations from the scapula, chest, forehead, thigh and a composite of all five sites.
+Total whole-body sweat Na+ loss can be estimated from total sweat loss and whole-body sweat [Na+] using the following equation:
+Equation 4: WB Sweat Na+ Loss (mmol) = WB Sweat Loss * WB Sweat [Na+]
+Total whole-body sweat Na+ loss can be converted from mmol to mg using the molar mass of Na+ (22.99 mg/mmol) in the following equation:
+Equation 5: WB Sweat Na+ Loss (mg) = WB Sweat Na+ Loss * 22.99 mg/mmol * 1 g/1000 mg
+Sweat Testing Challenges and Best Practices
+Tables 3 and 4 show lists of the common challenges and corresponding best practices to consider when measuring whole-body sweating rate and sweat [Na+], respectively, in athletes during exercise. Although these recommendations are intended to be used simply as a guide, significant protocol deviations may warrant the need for sweat testing to be repeated, or at the very least, for the results to be interpreted with caution. It is acknowledged that additional work is needed in some areas to corroborate or refine these best practices. For example, future research should determine the impact of patch application/removal timing, patch saturation level, sweat sample storage conditions and variations in analytical technique on sweat [Na+].
+Practical Applications
+Whole-body sweating rate can be estimated in the field from the change in body mass from pre- to post-exercise, provided appropriate corrections for non-sweat sources of body mass (e.g., fluid intake, urine output, etc.) are made.
+Local sweat [Na+] can be estimated in the field using the absorbent patch technique. Published regression equations can be used to predict whole body sweat [Na+] from local sweat [Na+].
+Example calculations using Equations 1-5 listed above and using the following theoretical data: Pre-exercise body mass = 82.5 kg; post-exercise body mass = 81.0 kg; fluid intake = 1.1 L; urine loss = 0.3 L; forearm sweat [Na+] = 54 mmol/L; exercise duration = 1 h and 45 min.
+WBSL (L) = 82.5 kg – (81.0 kg – 1.1 kg + 0.3 kg) = 2.3 L (assumes 1 kg = 1 L) WBSR (L/h) = 2.3 L/1.75 h = 1.3 L/h
+WB Sweat [Na+] (mmol/L) = 0.57 (54 mmol/L) + 11.05 = 41.83 mmol/L
+WB Sweat Na+ Loss (mmol) = 2.3 L * 41.83 mmol/L = 96.21 mmol
+WB Sweat Na+ Loss (mg) = 96.21 mmol * 22.99 mg/mmol * 1 g/1000 mg = 2.2 g
+There is considerable variability in sweating rate (~0.5 to 2.0 L/h) and sweat [Na+] (~10-90 mmol/L) within and among athletes.
+Much of this variability is expected as a result of differences in exercise intensity, environmental conditions, heat acclimation status, genetic predisposition and many other factors. However, some (unexpected or unwanted) variability in results can be due to poor or inconsistent methodology (e.g., ~5-35% in sweating rate and ~5-100% in sweat [Na+]).
+Even when best practices are followed, some natural within-athlete variability in sweat testing results is still expected. For example, the day-to-day coefficient of variation has been reported to be ~5-7% for whole-body sweating rate and ~5- 16% for local sweat [Na+].
+Thus, differences in results between tests may only have practical significance (e.g., warrant changes in fluid replacement strategy) when a change in conditions (e.g., exercise intensity, environment, methodology, etc.) elicit changes in sweating rate by > ~5% and sweat [Na+] by > ~15%.
+Summary
+The use of appropriate methodological control and standardization when sweat testing athletes can minimize errors and unwanted variability in results. Moreover, it is important that sweat tests are interpreted in the appropriate context. For example, sweating rate and sweat [Na+] results are only applicable to the specific conditions (i.e., exercise intensity, environment, etc.) in which the testing was conducted. Thus it is important to conduct field studies so that athletes are tested in their native training and game conditions. Additionally, comparisons among sweat tests are only valid if the same methods are used. In summary, sweat testing can be a useful tool to estimate athletes’ sweating rate and sweat Na+ loss to help guide fluid/electrolyte replacement strategies, provided that data are collected, analyzed and interpreted appropriately.
+References
+Armstrong, L.E. (2007). Assessing hydration status: the elusive gold standard.
+J. Am. Coll. Nutr.
+26:575S-584S.
+Armstrong, L.E., and C.M. Maresh (1998). Effects of training, environment, and host factors on the sweating response to exercise.
+Int. J. Sports Med.
+19:S103-S105.
+Baker, L.B., K.A. Barnes, M.L. Anderson, D.H. Passe, and J.R. Stofan (2015). Normative data for regional sweat sodium concentration and whole-body sweating rate in athletes.
+J. Sports Sci.
+12:1-11.
+Baker, L.B., J.R. Stofan, A.A. Hamilton, C.A. and Horswill (2009). Comparison of regional patch collection vs. whole body washdown for measuring sweat sodium and potassium loss during exercise.
+J. Appl. Physiol.
+107:887-895.
+Baker, L.B., C.T. Ungaro, K.A. Barnes, R.P. Nuccio, A.J. Reimel, and J.R. Stofan (2014). Validity and reliability of a field technique for sweat Na+ and K+ analysis during exercise in a hot-humid environment.
+Physiol. Rep.
+2(5):e12007.
+Boisvert, P., V. Candas (1994). Validity of the Wescor's sweat conductivity analyzer for the assessment of sweat electrolyte concentrations.
+Eur. J. Appl. Physiol.
+69:176-178.
+Buono, M.J., K.D. Ball, and F.W. Kolkhorst (2007). Sodium ion concentration vs. sweat rate relationship in humans.
+J. Appl. Physiol.
+103:990-994.
+Candas, V., J.P. Libert, and J.J. Vogt (1983). Sweating and sweat decline of resting men in hot humid environments.
+Eur J. Appl. Physiol. Occup. Physiol.
+50:223-234.
+Cheuvront, S.N., E.M. Haymes, and M.N. Sawka (2002). Comparison of sweat loss estimates for women during prolonged high-intensity running.
+Med. Sci. Sports Exerc.
+34:1344- 1350.
+Collie, J.T., R.J. Massie, O.A. Jones, V.A. LeGrys, and R.F. Greaves (2014). Sixty-five years since the New York heat wave: advances in sweat testing for cystic fibrosis.
+Pediatr. Pulmonol.
+49:106-117.
+Doorn, J., T.T. Storteboom, A.M. Mulder, W.H. de Jong, B.L. Rottier, and I.P. Kema (2015). Ion chromatography for the precise analysis of chloride and sodium in sweat for the diagnosis of cystic fibrosis.
+Ann. Clin. Biochem.
+52(Pt 4):421-427.
+Dziedzic, C.E., M.L. Ross, G.J. Slater, and L.M. Burke (2014). Variability of measurements of sweat sodium ysing the regional absorbent patch method.
+Int. J. Sports Physiol. Perform.
+9:832-838.
+Eichner, E.R. (2008). Genetic and other determinants of sweat sodium.
+Curr. Sports Med. Rep.
+7:S36-S40.
+Ely, M.R., R.W. Kenefick, S.N. Cheuvront, T.D. Chinevere, C.P. Lacher, H.C. Lukaski, and S.J. Montain (2011). Surface contamination artificially elevates initial sweat mineral concentrations.
+J. Appl. Physiol.
+110:1534-1540.
+Gagnon, D., O. Jay, and G.P. Kenny (2013). The evaporative requirement for heat balance determines whole-body sweat rate during exercise under conditions permitting full evaporation.
+J. Physiol.
+591:2925-2935.
+Goulet, E.D., T. Dion, and E. Myette-Cote (2012). Validity and reliability of the Horiba C-122 compact sodium analyzer in sweat samples of athletes.
+Eur. J. Appl. Physiol.
+112:3479- 3485.
+Havenith, G., A. Fogarty, R. Bartlett, C.J. Smith, and V. Ventenat (2008). Male and female upper body sweat distribution during running measured with technical absorbents.
+Eur. J. Appl. Physiol.
+104:245-255.
+Kirby, C.R., and V.A. Convertino (1986). Plasma aldosterone and sweat sodium concentrations after exercise and heat acclimation.
+J. Appl. Physiol.
+61:967-970.
+Maughan, R.J., and S.M. Shirreffs (2008). Development of individual hydration strategies for athletes.
+Int. J. Sport Nutr. Exerc. Metab.
+18:457-472.
+Maughan, R.J., S.M. Shirreffs, and J.B. Leiper (2007). Errors in the estimation of hydration status from changes in body mass.
+J. Sports Sci
+. 25:797-804.
+Mitchell, J.W., E.R. Nadel, and J.A. Stolwijk (1972). Respiratory weight losses during exercise.
+J. Appl. Physiol.
+32:474-476.
+Morris, N.B., M.N. Cramer, S.G. Hodder, G. Havenith, and O. Jay O (2013). A comparison between the technical absorbent and ventilated capsule methods for measuring local sweat rate.
+J. Appl. Physiol.
+114:816-823.
+Patterson, M.J., S.D. Galloway, and M.A. Nimmo (2000). Variations in regional sweat composition in normal human males.
+Exp. Physiol.
+85:869-875.
+Pullan, N.J., V. Thurston, and S. Barber (2013). Evaluation of an inductively coupled plasma mass spectrometry method for the analysis of sweat chloride and sodium for use in the diagnosis of cystic fibrosis.
+Ann. Clin. Biochem.
+50:267-270.
+Sato, K (1977). The physiology, pharmacology, and biochemistry of the eccrine sweat gland.
+Rev. Physiol. Biochem. Pharmacol.
+79:51-131.
+Sawka, M.N., L.M. Burke, E.R. Eichner, R.J. Maughan, S.J. Montain, and N.S. Stachenfeld (2007). American College of Sports Medicine position stand. Exercise and fluid replacement.
+Med. Sci. Sports Exerc.
+39:377-390.
+Sawka, M.N., L.R. Leon, S.J. Montain, and L.A. Sonna (2011). Integrated physiological mechanisms of exercise performance, adaptation, and maladaptation to heat stress.
+Compr. Physiol.
+1:1883-1928.
+Shirreffs, S.M., and R.J. Maughan (1997). Whole body sweat collection in humans: an improved method with preliminary data on electrolyte content.
+J. Appl. Physiol.
+82:336- 341.
+Shirreffs, S.M., and M.N. Sawka (2011). Fluid and electrolyte needs for training, competition, and recovery.
+J. Sports Sci.
+29:S39-S46.
+Taylor, N.A., and C.A. Machado-Moreira (2013). Regional variations in transepidermal water loss, eccrine sweat gland density, sweat secretion rates and electrolyte composition in resting and exercising humans.
+Extrem. Physiol. Med.
+2:4.
+Van Heyningen, R., and J.S. Weiner (1952). A comparison of arm-bag sweat and body sweat.
+J. Physiol.
+116:395-403.
+Weschler, L.B. (2008). Sweat electrolyte concentrations obtained from within occlusive coverings are falsely high because sweat itself leaches skin electrolytes.
+J. Appl. Physiol.
+105:1376-1377.
+Recommended Reading
+June 2025
+SSE #265 Beyond sport: Hydration and Body Cooling Considerations to Prevent Heat-Related Injury and Improve Productivity - Part 2
+June 2025
+SSE #264 Beyond Sport: Sports Science Applications for Laborer Acute and Long-Term Health Issues and Considerations in a Warmer World - Part 1
+April 2025
+SSE #262 HYDRATION AND NUTRITION CONSIDERATIONS FORENDURANCE CYCLING EXERCISE IN THE HEAT
+Download
+Share
+Site search
+Clear
+Search
+Continuing Education(6)
+Sports Science Exchange(3)
+Research(3)
+Expert Panel (3)
+GSSIU (3)
+Cohorts (3)
+About: (3)
+Continuing Education (6)
+Sports Science Exchange(3)
+Research(3)
+GSSIU(3)
+Expert Panel:(3)
+Cohorts:(3)
+About(3)
+Thank you for your patience while we search our large sports science library
+Enter text to begin searching

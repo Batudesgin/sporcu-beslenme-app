@@ -1,0 +1,88 @@
+BAŞLIK: How and when do I use it? | ASC
+KAYNAK: https://www.ausport.gov.au/ais/nutrition/supplements/group_a/performance-supplements2/creatine/how-and-when-do-i-use-it
+TARİH: 2026-03-08 21:24:34
+KELİME: 876
+============================================================
+
+How and when do I use it?
+Professor Roger Harris first demonstrated that oral ingestion of creatine monohydrate can increase muscle creatine and phosphorylcreatine. After many years of study, multiple research teams confirm that muscle creatine can be increased by ingesting about 5 grams of creatine monohydrate, 4 times per day, for about 5 days (i.e. “creatine loading”).
+5
+Suggested dosing based on body mass is about 0.3 g of creatine/kg body mass per day, for 5 days, typically in 3-4 divided doses (i.e. with meals), followed by a maintenance dose of 0.03g/ kg body mass once a day thereafter.
+Subsequently, Professor Eric Hultman showed that increased muscle creatine could be maintained after creatine loading with ingestion of a maintenance dosage of about 3 to 5 g/d).
+6
+Alternatively, one could bypass the loading phase, simply ingest a maintenance dose (3 to 5 g/d), and increase muscle creatine to saturation levels over about 4 weeks.
+6
+Muscle creatine uptake is insulin mediated, so a larger increase in muscle creatine in response to supplementation could be obtained with coingestion of a meal that generates an acute increase in blood insulin levels. Early studies used large amounts of simple sugars to accomplish this (i.e. >90 g of sugar + 5 g creatine four times/d), but subsequent studies confirm the same effect can be accomplished by ingesting creatine following a meal that includes both protein (50 g) and carbohydrate (50 g) rich foods.
+Muscle creatine uptake is similarly increased when supplementation is combined with exercise which has insulin like effects. Although there are not many data to demonstrate that post-exercise creatine ingestion is more effective than pre-exercise ingestion, ingestion of creatine supplements following exercise and with the post-exercise meal is prudent advice and may help athletes establish a habit of proper postexercise nutritional intake.
+Creatine loading is analogous to carbohydrate loading. Physical activities, such as endurance exercise, that are limited by carbohydrate availability and metabolism may benefit from carbohydrate loading (i.e. several days of a high-carbohydrate diet). Physical activities, such as sprinting, that are limited by creatine availability and metabolism may benefit from creatine loading/supplementation.
+Individuals with the lowest muscle creatine (e.g. vegetarians) have the largest potential for increase in response to supplementation. Muscle creatine levels appear to be relatively unaffected by training style or intensity (i.e. sprinters do not necessarily have high muscle creatine and sprint training does not increase muscle creatine). In response to increased (e.g. supplementation) or decreased (e.g. changing to a meat free diet) dietary creatine intake, muscle creatine quickly increases or decreases, respectively.
+It is consistently found that creatine supplementation combined with resistance exercise improves resistance training outcomes, such as muscle strength, endurance, and muscle hypertrophy. This points to creatine supplementation being an effective training aid to augment strength and conditioning programs. See Table 1.
+Creatine supplementation improves the performance of brief (usually <30 sec), high-intensity exercise, especially when there are repeated bouts. These are common characteristics to many team sports, indicating that creatine supplementation can improve sports performance across a wide range of sports and activities. Maximal exercise performance is also enhanced when sprints are included during and/or at the end of endurance exercise events. See Table 1.
+There is some indication that creatine supplementation can improve recovery from periods of disuse atrophy, such as when recovering from an injury. Extremely low levels of physical activity, such as during immobilization, result in decreased muscle creatine, strength, endurance, and mass, among many other adverse changes, while creatine supplementation attenuates or reverses these decrements. See Table 1.
+Creatine supplementation has multiple direct effects on muscle (e.g. increased glycogen, phosphorylcreatine resynthesis, growth factor expression, satellite cell number, cellular hydration, etc.) which could indirectly benefit athletic performance, adaptation to exercise training, or muscular performance in a number of different patient populations.
+7
+See Table 1.
+Table 1: Known effects of creatine monohydrate supplementation
+Exercise/Performance Type
+Exercise Intensity/ Duration
+Benefit
+Relevant Review Citation
+High-intensity laboratory
+exercise tests
+Maximal; <30 sec
+Increased peak/mean power, decreased fatigue,
+especially over repeated bouts
+1
+High-intensity field exercise
+tests
+Maximal; <30 sec
+Increased speed/decreased time to complete a fixed
+distance
+1
+Swimming
+Various
+Increased power/decreased time to complete a
+fixed distance, improved performance over repeated
+sprint intervals likely but less likely in single sprints
+8
+Resistance exercise
+Intermittent
+Spontaneous increase in total lifting volume,
+increased number of repetitions at a given weight,
+increased strength, increased lean body mass
+9. 10
+Sprinting during or following
+endurance exercise
+Maximal; <30 sec
+Increased power output and speed; decreased
+fatigue, and time to complete a fixed distance
+1
+Rehabilitation from laboratory
+simulations of extreme
+inactivity
+N/A
+Better maintenance of muscle mass, strength, and
+endurance, maintenance of or increase in muscle
+creatine and GLUT4, increased muscle glycogen,
+and increased growth factor expression
+11
+Brain health (cognitive
+processing and mTBI/
+concussion)
+N/A
+Improves cognitive processing, especially when
+there are brain energy deficits induced by acute
+(e.g. sleep deprivation, exercise) or chronic (e.g.
+depression, aging, mTBI) stressors. Aids in cellular
+energy crisis caused by mTBI and may decrease
+other features of mTBI, such as membrane
+disruption, calcium influx, nerve damage,
+mitochondrial
+        dysfunction, oxidative stress, and
+inflammation. May improve other aspects of mTBI
+such as behaviour, headaches, dizziness, and
+fatigue
+2, 3
+Table adapted from previous research.
+12
+Back to top

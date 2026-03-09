@@ -1,0 +1,153 @@
+# BMR Calculator - Mt. SAC
+
+BMR Calculator
+Please enable JavaScript for full functionality.
+BMR Calculator
+What is BMR?
+Basal Metabolic Rate (or "BMR")
+refers to the amount of energy you use while at rest (i.e. not performing physical
+activity other than some internal metabolic processes, not including digestion).
+It's measured in a unit of energy per unit of time, and is usually given in
+Calories per day.
+Basically,
+BMR calculations are useful for people who want to know how many Calories their body
+is burning on a daily basis
+without performing any type of physical activity.
+IMPORTANT
+:
+In general, competitive athletes with a consistent and rigorous training regimen
+burn
+much
+more energy than non-athletes, even on days when these athletes don't train.
+Still...
+BMR is a useful first step for athletes to determine how many Calories they should
+be consuming each day.  Once an athlete's BMR is calculated, it can be adjusted to
+more accurately account for all the Calories an athlete burns each day, both while
+exercising and at rest.
+How to Calculate Your BMR
+The
+Mifflin-St Jeor
+equation is seen by the nutrition community today as the standard in calculating
+BMR. This formula changes slightly between males and females, and is expressed as
+follows:
+Males
+(10 x weight
+in
+kilograms
+) + (6.25 x height
+in
+centimeters
+) - (5 x age
+in
+years
+) + 5
+Females
+(10 x weight in
+kilograms
+) + (6.25 x height in
+centimeters
+) - (5 x age in
+years
+) - 161
+NOTE
+: 1 kilogram equals
+2.2 pounds
+, and 1 centimeter equals
+0.4 inches
+The numerical value calculated from the equation of choice above refers to the number
+of Calories burned by the body on a daily basis
+without performing any physical activity
+(including normal activities like walking around or even eating and digesting food).
+Normally active people usually multiply this baseline value by about 1.2- 1.7 to account
+for their physical activity energy needs.
+But for athletes, this value usually increases significantly more than for non-athletes,
+because athletes burn significantly more Calories every day in order to fuel the body
+with the nutrients and energy it needs to perform at its best.  When long bouts of
+exercise are incorporated into the athlete's daily (or near daily) routine, this initial
+BMR value increases sometimes by two to three times.
+PLUS...
+if an athlete is trying to gain or lose weight, this figure will be modified (higher
+or lower) even more to meet those fitness goals.
+NOTE
+:
+when attempting a weight-loss or weight-gain program, consult with your coaches,
+your doctor, and/or other experienced health professionals in order to safely and
+responsibly execute the demands of a dieting program.  In general, it is recommended
+that competitive athletes not lose or gain more than 3-4 pounds of fat and/or lean
+muscle mass per week so their bodies perform at their best, athletically and otherwise.
+... in other words...
+BE CAREFUL
+when dieting!!!
+So... once BMR is calculated for an athlete for an athlete trying to maintain weight,
+this number may be multiplied by about
+1.2 to 2.0
+or even higher in certain cases, depending on sport.  Some popular sports and corresponding
+BMR multiple suggestions are included below:
+Sport
+Multiplier
+Soccer:
+1.5- 1.8+
+Track & Field:
+1.5- 2.0+
+Cross Country:
+2.0+
+Football:
+1.8- 2.0+
+Swimming:
+1.5- 2.0+
+Golf:
+1.2- 1.5+
+Basketball:
+1.5- 2.0+
+Tennis:
+1.2- 1.8+
+Cycling:
+1.5- 2.0+
+Wrestling:
+1.5- 2.0+
+Volleyball:
+1.5- 1.8+
+Baseball/ Softball:
+1.2- 1.8+
+Water Polo:
+1.5- 2.0+
+Dance/ Pep/ Cheer:
+1.5- 2.0+
+For example:
+A
+20
+year old
+male
+wrestler who is
+5'10"
+and
+170 pounds
+, his BMR baseline intake number would be:
+(10 x 170/2.2) + (6.25 x 70/0.4) - (5 x 20) + 5 =
+1772
+Calories (approx)
+Then...
+to account for this athlete practicing 5-7 times a week or more, every day he should
+consume about 1.8 times the number of calories calculated by the BMR equation
+for men
+(above) to stay at his current weight.
+1772 x 1.8 =
+3,190
+Calories (approx)
+Now...
+based on this modified BMR value, the athlete can now design meal plans (daily, weekly,
+etc.) that meet the caloric needs of the athlete to perform at his or her best on
+a daily basis.
+Note:
+For more info on meal planning, see
+Meal Planning
+.
+ATTENTION
+:
+All content relating to nutrition herein should be considered general, non-clinical
+information and guidance.  Always consult with your doctor or a professional nutritionist
+when seeking
+ANY
+personalized dietetic advice that may significantly affect your immediate and/or
+long-term health.
+dired link

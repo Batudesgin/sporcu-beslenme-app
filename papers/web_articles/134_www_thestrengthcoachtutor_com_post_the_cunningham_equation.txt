@@ -1,0 +1,57 @@
+BAŞLIK: The Cunningham Equation
+KAYNAK: https://www.thestrengthcoachtutor.com/post/the-cunningham-equation
+TARİH: 2026-03-08 21:22:21
+KELİME: 366
+============================================================
+
+Before we tackle the Cunningham Equation, let's make sure we have mastered the basics...
+Macronutrient vs Micronutrient
+Macronutrient:
+nutrients essential to our body that have calories
+-Fats
+-Carbs
+-Protein
+Micronutrient:
+nutrients essential to our body that do not have calories
+-Water
+-Vitamins
+-Minerals
+Calorie/kilocalorie
+: unit of energy
+Nutrient-dense vs Calorie-dense foods
+Nutrient-dense:
+ample vitamins and/or minerals with few calories. Think vegetables, fruits, and lean protein
+Calorie-dense:
+ample calories with minimal vitamins and/or minerals. Think junk food like candy, chips, soda
+Metabolism
+Basal Metabolic Rate (BMR) vs Resting Metabolic Rate (RMR)
+BMR:
+the amount of energy or calories required to sustain normal body functions while at rest. How many calories are needed to keep your heart beating, lungs breathing, and all of your other organs working properly. Think how calories are needed to just keep the lights on.
+RMR:
+RMR includes your BMR, but also accounts for your physical activity levels and thermic effect of food (TEF). TEF is the amount of energy expended to digest and process the food you eat.
+TDEE:
+total daily energy expenditure. How many calories are you expending, or using up, in a given day. This is typicallly used as a baseline to determine someone’s daily caloric intake. We can use this number to then determine what our daily caloric intake should be to gain or lose weight. (*This is essentially the same thing as RMR!*)
+Cunningham Equation
+RMR = 500 + 22(LBM)
+LBM: lean body mass
+Example: 150 lb / 68kg athlete, 15% body weight
+Step 1:
+68kg x .15 = 10.2 kg
+10.2 kg is how many kg of fat they have.
+Step 2:
+To determine lean body mass, take their total body weight and subtract fat mass
+68kg - 10.2kg = 57.8kg of LBM. Let’s round up to 58 to keep the math simple.
+Step 3:
+Now plug 58kg into the Cunningham equation.
+RMR = 500 + 22(58)
+RMR = 500 + 1276
+RMR = 1776 kcals
+Step 4:
+Lastly, we multiply our answer by a physical activity factor, ranging from 1.2-1.9
+1.2 = sedentary
+1.9 = very physically active
+Let’s use 1.5 for our example
+RMR = 1776 x 1.5
+RMR = 2664 kcals
+With gumption,
+Dan

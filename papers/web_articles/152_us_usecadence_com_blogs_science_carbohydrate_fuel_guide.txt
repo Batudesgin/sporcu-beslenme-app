@@ -1,0 +1,102 @@
+BAŞLIK: Başlık yok
+KAYNAK: https://us.usecadence.com/blogs/science/carbohydrate-fuel-guide
+TARİH: 2026-03-08 21:23:05
+KELİME: 1363
+============================================================
+
+An Introduction to Carbohydrates
+Athletes rely heavily on carbohydrate as a primary fuel
+source during prolonged, high-intensity exercise. However, the body's carbohydrate stores are limited to roughly 400 – 600 grams in muscle glycogen and an additional 90 – 120 grams in the liver.
+Carbohydrate loading before a race can increase these stores by as much as 20–40%, providing a larger energy reservoir. Athletes might experience the “hitting the wall” phenomenon during competition. This occurs when glycogen stores are depleted and the
+athlete is forced to slow down
+as there is no fuel to sustain the higher intensities.
+Glycogen depletion is characterized by fatigue, reduced performance, and inability to maintain pace.
+Optimal carbohydrate intake during exercise helps maintain blood glucose levels, delay glycogen depletion, and sustain performance. Research consistently shows that carbohydrate ingestion can improve time-to-exhaustion and time-trial performance during endurance events lasting more than two hours (Jeukendrup, 2014).
+Interestingly glycogen stores are now viewed as
+more than a store
+. Research has indicated that glycogen stores serve as an indicator of energy reserves and can impact gene signaling and the adaptive response to exercise, with elite athletes now carefully periodising carbohydrate intake. This concept is discussed in more detail here. As an athlete, understanding the composition and delivery of carbohydrates during exercise bouts is essential for peak performance.
+Absorption of Carbohydrates
+Carbohydrates differ in molecular structure and this greatly influences the way they are absorbed, transported and ultimately utilized by the body. Carbohydrates are made up of sugars, starches, and fiber. Sugars are monosaccharides, these are simple molecules like glucose, fructose, and sucrose. Starches are complex carbohydrates that break down into glucose during digestion, providing a sustained energy source. Fiber, which is mostly indigestible, supports gut health by acting as a fuel for the trillions of bacteria that inhabit the gut microbiome. Fiber also slows the absorption of sugar and other nutrients into the bloodstream.
+The most common types of sugar include glucose, fructose, sucrose, maltose, and galactose. Research has demonstrated that the absorption of each sugar is facilitated by a has a unique transport protein.
+Glucose
+is absorbed via the sodium-glucose linked transporter (SGLT1).
+Fructose
+is absorbed through the glucose transporter 5 (GLUT5).
+Sucrose
+, is made up of glucose and fructose, which is broken down and then absorbed through the respective transporters.
+Maltose
+, composed of two glucose units, is broken down by maltase into glucose.
+Galactose
+is absorbed through SGLT1, similar to glucose.
+Since SGLT1 transporters have a limited capacity of approximately 60 grams per hour, consuming only glucose can lead to saturation of this transporter and potentially cause gastrointestinal (GI) discomfort as backlog of sugar develops. However, combining glucose and fructose takes advantage of multiple transport pathways, enabling higher rates of absorption and oxidation.
+Traditional Thoughts on Carbohydrate Intake
+A carbohydrate intake of 60 grams per hour during endurance exercise was originally recommended to maintain performance. However,
+this recommendation was based on the maximum capacity of SGLT1 transporters to absorb glucose
+. While effective for shorter events, this approach often fell short in ultra-endurance scenarios where higher carbohydrate delivery and oxidation rates are necessary to sustain energy levels over prolonged periods.
+Multiple Transportable Carbohydrates
+Researchers began to question
+whether or not this was the ceiling for carbohydrate intake and hypothesized what would occur if they introduced another form of sugar to take advantage of other transporter proteins. This led to the introduction of multiple transportable carbohydrates, which has completely revolutionized endurance fueling strategies.
+The initial research
+showed that a 2:1 ratio of glucose to fructose, delivering up to 90 grams per hour, was able to increase carbohydrate oxidation rates by 50% when compared to glucose alone. Results also demonstrated that this ratio was also better able to preserve glycogen stores and minimize gastrointestinal discomfort.
+Studies demonstrated that combining glucose and fructose in a 2:1 ratio could achieve oxidation rates of approximately 108 grams per hour, while also minimising residual carbohydrate in the gut. This was a significant improvement over glucose-only strategies.
+Based on these
+new findings
+the researches landed at a recommendation of 90 grams of carbohydrate per hour in a 2:1 ratio of glucose to fructose as the safest and most efficacious strategy for endurance athletes.
+New Age Fueling Strategies
+Since then the
+research has advanced further
+, such that now most researchers agree that the optimal ratio of carbohydrate depends upon the total amount of carbohydrate ingested. If an athlete is aiming for around 90 grams of carbohydrate per hour, then a 2:1 ratio of glucose to fructose is ideal. But if higher total carbohydrate intakes are required to fuel performance then a ratio closer to 1:1 is likely required.
+Many elite endurance and
+ultra-endurance athletes
+, including marathon legend Eliud Kipchoge have now adopted a 1:0.8 glucose-to-fructose ratio, refining fueling strategies based on research by
+Hearris et al., (2022)
+to maximize performance. This is because they target carbohydrate intakes of 90 - 120 grams per hour, so the 2:1 ratio is no longer suited.
+Adjusting the carbohydrate composition will ultimately improve the tolerability and energy delivery during prolonged exercise.
+Train the Gut
+Research suggests that ingestion rates as high as 120 grams of carbohydrate per hour are feasible for some athletes,
+provided they undergo gut training
+. Gut training involves the repeated consumption of carbohydrates during exercise to condition the gastrointestinal system to handle higher doses without discomfort.
+Studies indicate that this approach can reduce gastrointestinal symptoms by 26-47% and improve carbohydrate absorption by 45-54%. This adaptation occurs due to increased expression of intestinal transport proteins, such as SGLT1 for glucose and GLUT5 for fructose, which enhances absorption and oxidation rates.
+Conversely, sudden increases in carbohydrate intake without prior training can lead to gastrointestinal distress, such as bloating, cramping, and nausea, which may impair performance. By gradually exposing the gut to higher doses of carbohydrate during training, athletes can optimize energy delivery and delay fatigue during endurance events (
+Martinez et al., 2023
+).
+Rowlands et al. (2020) demonstrated that highly trained athletes who have also trained their gut can tolerate 120 grams of carbohydrate per hour without adverse effects when consumed in a 1:0.8 ratio.
+Practical Recommendations: Easy Runs to Race Day
+Athletes are recommended to adjust their carbohydrate intake based on the intensity and duration of their training or competition:
+Duration
+Moderate (below LT1)
+Heavy (Between LT1 &
+CP/MLSS/LT2
+Severe (above
+CP/MLSS/LT2)
+<90 minutes - Before
+Low to Moderate: 1-2 g/kg; 1-4 h before
+Moderate to High: 2-4 g/kg; 1-4 h before
+Commencing exercise session with sufficient muscle glycogen stores is essential: 2-4 g/kg; 1-4 h before
+<90 minutes - During
+No carbohydrates required during training sessions
+CHO intake recommended if CHO availability before session is limited: 30-60 g/h
+Aggressive feeding not recommended; smaller quantities including mouth rinsing advised: 0-30 g/h or mouth rinsing
+>90 minutes - Before
+Moderate to High: 2-4 g/kg; 1-4 h before
+High: 3-4 g/kg; 1-4 h before
+High: 3-4g/kg; 1-4 hours before
+>90 minutes - During
+Moderate to High: 30-90 g/h
+High: 60-90 g/h
+High: 60-90g/hour
+*CHO = Carbohydrates, LT1 = Lactate Threshold 1, CP = Critical Power, MLSS = Maximal Lactate Steady State, LT2 = Lactate Threshold 2.
+**Figure Adapted from
+Podloger & Wallis (2022)
+Easy Runs (<60 minutes):
+Water or electrolytes only
+Moderate Training (60–120 minutes):
+30–60 grams per hour; glucose or glucose-fructose combinations.
+Intense Training/Races (120–240 minutes):
+60–90 grams per hour; 2:1 glucose-to-fructose ratio.
+Races/Ultra-Endurance Events (>240 minutes):
+90–120 grams per hour; 1:0.8 glucose-to-fructose ratio.
+Practical sources include energy gels, carbohydrate-electrolyte drinks, and customized solutions that match individual needs and preferences. Athletes should test their fueling strategies during training to minimize gastrointestinal discomfort and optimize performance on race day.
+Conclusion
+Understanding the optimal composition of carbohydrates is vital for endurance athletes. Advances in sports nutrition—particularly the use of multiple transportable carbohydrates—have enabled athletes to achieve higher carbohydrate oxidation rates, enhance performance, and reduce the risk of GI issues. By tailoring carbohydrate intake to match exercise intensity and duration, athletes can unlock new levels of performance.
+Rest assured that Cadence understand and utilise this complex nutrition science to develop and deliver products that meet the requirements of training and competition, to support you in your quest.

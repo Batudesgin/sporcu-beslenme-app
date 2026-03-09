@@ -1,0 +1,557 @@
+BAŞLIK: Başlık yok
+KAYNAK: https://us.usecadence.com/blogs/science/ultramarathon-nutrition-guide
+TARİH: 2026-03-08 21:19:07
+KELİME: 6338
+============================================================
+
+Introduction
+Admittedly, I have never run, nor even considered running an ultra marathon. Truth be told, my research into ultra endurance running began back in 2017 in Eugene, Oregon. I was Director of Sports Nutrition at University of Oregon, thrust into trail season. I had to learn quickly for fear of letting the most historic college track team down.
+By definition an ultra marathon is anything beyond a marathon distance of 26.2 miles. The nutrition strategy adopted by ultra runners can have a significant impact on their finish times and overall enjoyment. Reports suggest that more than
+>93% of ultra marathon runners
+experience exercise-associated gastrointestinal symptoms during a race and clock up
+huge energy deficits
+. These are just two of the many performance problems they face.
+This guide serves to provide the latest research and evidence-based recommendations to support those brave enough to embark on an ultra. We have broken down the most significant areas of nutrition, hydration and supplementation, discussing the primary problems to present scientifically supported solutions to support you in your ultra quest.
+Energy
+Data shows that the energy expenditure during ultra events that extend beyond 24-hours is anywhere between
+13,000 and 17,750 kcal
+. The average energy intake typically only
+covers 36 - 53% of that energy expenditure
+. This huge energy deficiency can be costly to both performance and health.
+Energy deficits of 9957 kcal
+have been reported in a single elite race.
+Failing to meet basic energy requirements can impair performance, recovery, immune function and increase the risk of injury. Most ultra runners fail to meet carbohydrate requirements, with
+reports of 37 grams of carbohydrate per hour
+, well short of the recommended 60 - 90 grams per hour required to maintain optimal glycogen stores. This underfueling leads to 90% of runners having elevated urinary ketones, muscle protein breakdown, compromised immune function and recovery.
+In order to maintain performance across an ultra event, prior practice and meticulous planning is an absolute necessity. Runners must sustain energy availability and be metabolically flexible to utilise both fat and carbohydrate efficiently at different periods of the race. Do this well and it can become a huge competitive advantage,
+as data also shows that only 20% of endurance athletes
+meet carbohydrate requirements of training and competition, overconsume poor quality sources of fat and have huge micronutrient deficiencies. The
+key factors to consider within your fuelling
+include:
+Carbohydrates
+: 5–8 g/kg/day in general training; up to 10 g/kg in peak phases.
+Protein
+: 1.6–2.5 g/kg/day to support recovery from muscle damage that can be
+10–15x higher
+post-ultra compared to a standard marathon.
+Fats
+: 1.0–1.5 g/kg/day to meet energy demands and aid hormonal balance without displacing necessary carbs.
+Interestingly,
+data from the Marathon des Sables
+demonstrated that successful runners consumed an average of 6.2 g/kg/day carbohydrate through a variety of energy dense foods (391 kcal/100g) and 98.5% compliance with their nutrition plan. So the secret is to study, plan and then execute this evidence-based system.
+Training Nutrition
+Training for an ultra marathon is not just about fueling individual sessions, it's about engineering a metabolism capable of generating energy efficiently and effectively. It's also about training the gut to handle extreme energy intakes and energy dense foods, while also running consistently. Training nutrition must also balance muscle and metabolic adaptations against muscle and metabolic recovery, and support immune and hormonal health during intensified training.
+Carbohydrate Periodisation
+Carbohydrate was traditionally viewed as a fuel
+for the muscle during high intensity activities, although our understanding about the role of carbohydrate, especially the storage form –
+muscle glycogen has advanced exponentially
+over the last fifteen years. Endurance athletes are now recommended to ‘
+fuel the work required
+’ through strategic carbohydrate periodisation, whereby you manipulate carbohydrate availability to reflect the demands and objectives of the session.
+Completing certain sessions with low carbohydrate availability
+can add greater stress, a larger training stimulus, enhancing AMPK cell signalling, and up-regulating GLUT-4 transporters, transcription factors and regulators of gene expression involved in mitochondrial biogenesis and substrate metabolism driving greater mitochondrial biogenesis, fat oxidation and metabolic flexibility, and ultimately aerobic adaptations.
+However, carbohydrate is still king in the performance sense.
+Train low sessions will always be completed at a lower intensity
+. Chronic low carbohydrate availability will elevate cortisol, suppress immune function, increase muscle protein breakdown and
+negatively impact the intensity
+and quality of training. So when completing intense sessions that mimic competition then carbohydrate availability should always be high.
+Recommended Intake:
+Daily CHO
+: 5–8 g/kg/day (up to 10 g/kg in peak volume weeks).
+“Train low” strategy
+: Used for low-to-moderate intensity sessions.
+“Compete high”
+: Always fuel race pace and high-intensity sessions with sufficient CHO to protect intensity and output.
+Be strategic with carbohydrate intake and availability during the preparation period to optimize your engine.
+Carbohydrate availability is a product of dietary intake of carbohydrates; as such there are
+various methods of altering carbohydrate availability
+. Modifications to endogenous (muscle and liver glycogen) and/or exogenous (ingested during exercise) carbohydrate are detailed in the table below with reference to their potential application in the ultra training context.
+Method
+How
+Limitations
+Low carbohydrate or ketogenic diet
+Reduce daily carbohydrate intake (1 – 4 g/kg) for a period of time.
+Will likely reduce overall workload and intensity, and compromise the quality of training. May result in immunosuppression and hormonal issues.
+Fasted training
+Training on an empty stomach, generally upon waking.
+Only liver glycogen is affected. Will likely reduce overall workload and intensity, and compromise the quality of training.
+Carbohydrate restriction during prolonged training
+Withhold carbohydrate for 1 – 4 hours after training.
+Likely compromises intensity and quality of training. Potentially heightens risk of injury late in training, although is likely to occur in training already.
+Carbohydrate restriction after training
+Consume only water during prolonged training session (90-mins).
+Recovery is compromised.
+Two a day training sessions
+Train twice a day, with no carbohydrate consumed between first and second session.
+Second session likely completed at a lower intensity and players motivation maybe significantly lower. It will also increase recovery time
+Sleep low
+Train in the evening with no carbohydrate consumed before sleep, then wake up the following morning and train again.
+Impractical and hard to manage, can you entrust a player to go home and consume no carbohydrate?
+Fuel the work required
+Strategically adjust carbohydrate intake to reflect the demands and objectives of the session.
+Balances performance and adaptations.
+In the context of ultra training, fasted training is perhaps the most practical and efficient means of achieving these adaptations. However, the detrimental effect of completing long training sessions in the fasted state that elicit large energy deficits cannot be overlooked. So a simple strategy to overcome that would be to consume only protein and fat prior to these sessions - eg. a protein shake with whole milk and 2-3 tablespoons of peanut butter.
+Protein
+Ultra endurance events often involve a significant amount of eccentric loading, through downhill running, running on uneven or unstable surfaces or changing direction. This can result in
+muscle damage 10 - 15 times greater than marathon running
+. To optimise the strength, function, growth and repair of muscle tissue you must pay particular attention to protein intake and distribution.
+Recommended Intake:
+1.8–2.5 g/kg/day
+, scaled based on training load and total energy intake.
+Evenly distributed
+: ~0.25 - 0.4 g/kg/meal every 3–4 hours for optimal muscle protein synthesis (MPS).
+Pre-sleep protein
+: 40 g of protein prior to sleep, ideally from a slow releasing source to optimise overnight growth and repair processes, and recovery.
+Consider the addition of L-Leucine
+: 3–6 g/day to support anabolic signaling, particularly in older athletes or during significant energy deficits.
+This is not about maximizing muscle gain—it’s about preserving and protecting lean muscle mass, accelerating recovery, and reducing the long-term hormonal suppression often seen in underfueled athletes.
+Fat
+Fat is a critical component of the ultra-runner’s diet—both as an dense energy source of fuel and a tool to drive metabolic adaptations. During base training, strategically increasing dietary fat, while also reducing carbohydrate intake, can
+dramatically increase fat oxidation up to 2 grams per minute
+, spare glycogen, and enhance endurance efficiency. This is essentially training metabolism to become better at utilising fat as a fuel at higher exercise intensities. But this all comes at the cost of exercise economy and carbohydrate oxidation, so high intensity performance is impaired. In layman's terms you get better in the lower gears, but then struggle to shift up as the intensity increases.
+In recent years the
+research on exogenous ketone supplementation has developed
+, following widespread use within professional tour cycling and research demonstrating a
+2% improvement in endurance
+performance in cyclists. The mechanisms and theory are solid. Ketone ingestion can provide
+an additional and alternative energy source of oxidizable fuel
+for the brain, heart and muscle, while also enhancing fat oxidation, providing more energy. An early study suggested that
+15-20% of energy
+during low to moderate intensity endurance events (40-70% VO2max) was provided by ketones, although
+more recent data
+has shown that its actually closer to 3-8%. They may also spare muscle glycogen, preserving stores. Although they might also impair carbohydrate oxidation, as
+evidenced by reduced lactate concentrations
+. This might be advantageous during long, slow endurance events, but for faster ultras or when you need to step up the intensity this is certainly not ideal. To date
+the actual performance benefits of exogenous ketone supplementation is limited
+, some studies support supplementation while others do not, and some even suggest they might cause unwanted gastrointestinal issues. It is likely that ketone supplementation is more beneficial for longer, slower ultra runs.
+Recommended Intake:
+1.0–1.5 g/kg/day
+, ideally from sources rich in mono- and polyunsaturated fats (nuts, seeds, olive oil, oily fish).
+Use
+fat adaptation phases
+—e.g., 7–10 days of high-fat (60–70% energy) intake—during early training blocks to enhance fat oxidation, fat metabolism and metabolic flexibility.
+Avoid chronic ketogenic diets
+unless medically supervised; they blunt high-intensity performance, and fat adaptation alone does not eliminate the need for carbohydrates during racing.
+Gut Training
+It is
+reported that 50 - 80%
+of ultra runners experience some form of gastrointestinal issue during a race, with 65% experiencing severe symptoms. Symptoms range from nausea, vomiting and diarrhea.
+The gut is trainable, just like a muscle
+. So gut training during the preparation period is absolutely critical. This is not only important for ensuring smooth digestion and absorption of elevated intakes of energy and macronutrients, but also to maintain the microbiome and protect the integrity of the gut barrier.
+Research has shown that
+levels of butyrate-producing bacteria dropped by 45% post-race
+. One runner lost 85.7% of their baseline levels. Butyrate is a short-chain fatty acid that reduces inflammation, nourishes colon cells, and supports the tight junctions that prevent endotoxins from leaking into the bloodstream—a process often referred to as “leaky gut.” Its sharp decline during and post-race increases the risk of immune dysfunction, gastrointestinal permeability, and systemic inflammation. The
+runners also showed 3× higher levels of lipopolysaccharides
+post-race, a marker of gut barrier breakdown and immune activation.
+This heightens the risk of severe symptoms, illness and impaired recovery during and after the race.
+Gut Training Protocol:
+Begin
+8–12 weeks before race day
+.
+Practice taking in
+30 g/h
+, progressing to
+60–120 g/h
+of carbohydrate during longer runs.
+Use a
+1:0.8
+or
+2:1 glucose:fructose ratio
+to maximize absorption (via dual-transport pathways).
+Train with real race-day nutrition: same gels, fluids, fuel bars and solid foods (
+sandwiches, muffins etc.
+) to familiarise your gut.
+For GI-sensitive athletes, trial
+low-FODMAP nutrition
+on key training days to minimize bloating and cramping.
+Protective Polyphenols
+Post-race, avoid refined sugar drinks, which delay gut recovery by spiking lipopolysaccharides and inflammation.
+A 2024 study showed cloudy apple juice, rich in polyphenols, supports gut barrier recovery and doesn’t elevate gut damage markers like pure sugar drinks do.
+Include foods like New Zealand blackcurrant before and during the race, berries, pomegranate juice, dark chocolate, and green tea in recovery nutrition to nourish gut flora.
+Prebiotics and Probiotics
+Consider targeted supplementation or food sources (e.g., fermented foods, resistant starches) to support the regrowth of butyrate-producing strains.
+Faecalibacterium prausnitzii
+may rebound within 10 days post-race, but only if nutritional support is in place.
+Protein, Fat, and Microbial Impact
+Microbiota shifts are influenced by macronutrient intake. One study found an increase in protein intake was correlated with an increase in
+Drancourtella massiliensis
+—a stress-responsive microbe.
+Fat and sodium intake were also linked with decreased abundance of beneficial Ruminococcaceae strains. This reinforces the need for balance, not excess, especially during long races.
+Time-Dependent Recovery
+Most microbiome disruptions returned to baseline within 10 days post-race, but key strains may take longer depending on post-race diet, sleep, and stress management.
+Support full recovery by maintaining high-fiber, whole food intake, even in taper and post-race weeks.
+Critical Insight: One of the biggest predictors of race completion is carbohydrate intake. Finishers of 100-mile races
+consistently consume ~70 g/h
+, while non-finishers average less than 45 g/h. When it comes to training, do not forget to train your gut to handle these higher dosages.
+Race Day Recommendations
+Energy
+On the day of the race, the number one priority is maintaining adequate energy availability. Yet, most ultra-runners fail to meet even half of their energy needs. Data from 24-hour ultra events shows runners
+expend an average of 13,140 kcal per day
+, but only consume ~4,780 kcal owing to practical issues of time and accessibility. This deficit in energy significantly impairs performance.
+Recommended caloric intake:
+50-mile races
+: 150–300 kcal/hour
+100-mile races
+: 200–400 kcal/hour
+Research has confirmed that finishers of long races
+consistently consume more energy and carbohydrate
+. One study found that non-finishers of a 100-mile event averaged <200 kcal/h, while finishers met or exceeded 250–300 kcal/h and
+the elites consume 333 kcal/h
+, often with a mix of liquid and solid sources.
+Planning for your hourly energy needs based on body mass and expected race intensity is essential. For example, a 65 kg athlete aiming for 250 kcal/h would need approximately:
+60 g carbohydrates (240 kcal)
+Plus small contributions from protein/fat if tolerated
+Failure to meet these recommendations is not a matter of ill discipline, it’s usually poor planning and inadequate gut training. Your fueling must be prioritised, practiced and structured to avoid fatigue and the dreaded DNF.
+Macronutrient Strategy
+Carbohydrates
+are the foundation of race-day fueling. They fuel and maintain the required race pace and support mood and cognitive function.
+Research typically suggests 60-90 g/hour
+, although
+more recent research has indicated that 120 g/hour
+at a specific 1:0.8 ratio of glucose to fructose might be more beneficial, perhaps reserved for particularly intense or mountainous sections of the race. In ultra races where energy and carbohydrate intake has been analysed,
+elite finishers average ~70 g/h
+, while non-finishers consume <45 g/h. Such low carbohydrate intakes not only impair physical performance, but mental performance too. This is particularly relevant in races that require navigation. Aim for a combination of drinks, gels, bars and solid sources of carbohydrate.
+Dual fuel carbohydrates
+(glucose + fructose)
+improve absorption through separate intestinal transporters, allowing higher hourly intake without GI distress. A
+1:0.8
+or
+2:1 glucose:fructose
+ratio is ideal for hitting the upper range of 90-120 g/h.
+Protein
+during a race is often overlooked but plays an important role in preserving lean mass and reducing central fatigue.
+Consuming 5–10 g/hour
+of high quality, leucine-rich sources has been shown to reduce muscle breakdown and enhance recovery, especially in events exceeding 12-hours. Including small, consistent doses of protein (via bars, nut butters, jerky or fortified drinks) also enhances satiety and mood, and may delay the onset of flavor fatigue.
+Fat
+becomes increasingly relevant in ultra events over 8–10 hours. Foods rich in fat are not only energy dense to help overcome the inevitable energy deficit during the race, but they also help reduce palatability burnout from sweet, sugary fuels.
+Finishers of 100-mile races were shown to consume ~5× more fat than non-finishers
+—often in the form of cheese, nuts and nut butters, hummus, jerky or savory snacks. This shift supports gut comfort, flavor variety, and sustained energy.
+Hydration
+Maintaining fluid and electrolyte balance during an ultra is another obvious issue. Relying on thirst is not good enough and both hypohydration and hyperhydration are genuine issues that runners face. Fluid and electrolyte requirements vary significantly from runner to runner, and from race to race. Variables such as individual sweat rate and sweat sodium composition, environmental factors, clothing and equipment being carried can all influence the amount of fluid and electrolytes required. Research shows average fluid intake during a
+24-hour race is ~378 mL/h
+, yet some athletes
+consumed up to 673 mL/h
+, often through plain water with no sodium. Hyperhydration via plain water can lead to exercise-associated hyponatremia. Research published by
+Costa et al. reported plasma volume increased by 10.2%
+on average, and 80% of runners showed signs of hyperhydration. This highlights just how easy this is, especially when relying on plain water only.
+Target fluid intake:
+450–750 mL/hour
+, adjusted for body size, individual sweat rate, and environment.
+But fluid volume alone is not enough. The sodium concentration of the fluids consumed is equally important and
+should ideally exceed 500 mg/L
+, especially in warm climates or long races. Many commercial sports drinks fall short (~200–400 mg/L), leaving athletes vulnerable. If plasma sodium drops below 135 mmol/L the risk of exercise-associated hyponatremia increases exponentially resulting in nausea, confusion, seizures, and in severe cases, death.
+Sodium replacement recommendations
+:
+Add sodium sachets (500 mg each) every 60–90 min
+Select whole foods with salt: salted nuts, nut butters, broth, jerky, crackers, cheese
+Hydration must be personalized. In training,
+calculate your sweat rate
+and assess sweat sodium composition with FlowBio to ensure you meet your unique, individual requirements allowing for precise fluid planning.
+Common Mistakes
+Gastrointestinal issues
+is the leading non-injury reason for ultra runners DNF. As mentioned previously,
+ultra running impacts the gut microbiome
+and compromises gut permeability, allowing molecules to pass through the gut and increase inflammation, causing various degrees of damage. Common symptoms include bloating, nausea, cramping, diarrhea, and vomiting. These issues are predictable and preventable, most commonly linked to:
+Inadequate
+gut training
+during long runs
+Poor
+fuel composition
+(e.g., too many simple sugars, fiber, or fat at once)
+Lack of
+feeding schedule
+High intake of
+hypertonic fluids
+or cold gels
+In a 24-hour ultra,
+faster runners were 2.5× more likely to experience GI symptoms
+due to higher fueling loads and intensity.
+The solution
+is not to eat less—
+it’s to train your gut
+to handle more. As previously mentioned at the beginning of the training block start with 30 g/h and progress toward the race recommendations of 60–120 g/h using dual fuels to familiarise the gut and ensure tolerance, not just absorption. Runners with
+repeated gastrointestinal issues should trial low-FODMAP diets
+and foods in training and during the race itself.
+Energy deficits
+of 9957 kcal/day have been reported. This can result in
+Glycogen depletion (90% of runners showed
+urinary ketones
+post-race)
+Accelerated
+muscle protein breakdown
+Impaired
+immune function
+Elevated
+inflammatory markers
+Compromised
+gut function
+Increased
+injury risk
+and
+slowed recovery
+Elite ultra-runners not only finish races, but finish races quickly because they fuel strategically and aggressively. Finishers consistently consume >250 kcal/h,
+while DNFs average under 200 kcal/h
+. Successful strategies include pre-race carbohydrate loading (8–10 g/kg/day for 48h) and high-energy-dense, portable foods during racing. Failure to plan a consistent energy intake guarantees fatigue and DNF.
+Sweet fatigue
+is a real phenomenon that must be addressed during a race. As the race itself progresses,
+the appeal of sweet flavours rapidly declines
+, with a shift toward salty and savoury food items. If this is not addressed or accounted for then overall energy intake can reduce and performance will be impaired. In the Marathon des Sables,
+participants struggled to consume sugary gels and drinks once exposed to heat
+, describing them as "unpalatable" after several hours. Mouth dryness, heat, and fatigue all worsen the aversion to these fuelling options. Racers will often vomiting or simply refuse to eat, not due to GI distress, but due to
+sensory burnout
+.
+Combat this with
+palate diversity
+:
+Salty options: crackers, miso soup, salted nuts, broth, Fuel Bars
+Umami options: jerky, cheese, nut butters, savory rice balls
+Temperature-sensitive items: avoid items that spoil or melt in the heat
+The most successful ultra-athletes do not rely solely on sports nutrition products. They carry real food, often with mixed macronutrient profiles (e.g., PBJ sandwiches, hummus wraps, small cheese rolls, salted rice balls with nut butter and raisins) to support sustained appetite and psychological comfort.
+Mind and Mood
+In ultra-endurance racing, it is rarely the legs that fatigue first—it’s the mind. When sleep deprivation, emotional volatility, mood disturbance, gastrointestinal issues and environmental extremes collide with physical fatigue, mental resilience becomes the most under-trained, under-valued variable. The difference between finishing and quitting often comes down to mood regulation, perception of effort, and the ability to stay cognitively engaged despite overwhelming stress.
+In a study of ultra-runners
+competing in a 120-mile Arctic ultra-marathon
+, mental toughness—not sleep duration—was the strongest predictor of emotional stability across three days of racing. Athletes with higher mental toughness scores experienced significantly less depression (r = −0.62), less anger (r = −0.61), less confusion (r = −0.56), and more vigor (r = 0.50), despite racing in −20°C temperatures while pulling sleds with all of their race gear.
+While 83% of runners in the study experienced injuries or illness, there was no correlation between injury rates and sleep or toughness—but mood stability remained crucial for performance pacing, decision-making, and perseverance. These findings reinforce the importance of integrating psychological skills training into every ultra-runner’s preparation, including visualization, coping strategies, positive self-talk, and task-focused thinking. Putting yourself in difficult situations daily, whether than be ice baths, fasted training or more can strengthen the metal toughness required to race optimally.
+Sleep
+Sleep deprivation is a given in multi-day events
+. Research shows that ultra-runners are still able to perform under extreme sleep restriction, averaging just 4.1 hours of sleep across three days in Arctic ultra settings. Surprisingly, sleep quantity wasn’t significantly linked to mood or injury, suggesting that well-conditioned athletes can buffer some effects of deprivation with mental preparation and proper pacing.
+However,
+sleep still plays a critical role
+in neuroendocrine recovery, inflammation regulation, and perceived exertion—especially in longer events (>48 hours) or when cumulative fatigue sets in. Pre-race sleep banking, strategic use of short naps, and post-race sleep prioritization remain vital components of the ultra-recovery cycle.
+Key strategies:
+Practice
+“micro-sleeps”
+(10–30 minutes) in training for multi-day events
+Use caffeine (3–6 mg/kg)
+strategically
+in late-race phases to preserve alertness without crashing later
+Take
+caffeine naps
+to aid mental and physical performance
+Reduce blue light exposure and stimulus in the final taper week to
+optimize pre-race sleep quality
+Food and Mood
+Cognitive performance during ultra-races is highly sensitive to blood glucose availability.
+Studies have shown that carbohydrate restriction or underfueling
+impairs reaction time, decision-making, and motivation. Maintaining stable blood glucose via regular carbohydrate intake (60–120 g/h) not only sustains physical output but also supports mental clarity.
+Additionally, low energy availability has been strongly linked to mood disorders, irritability, and apathy. Persistent low energy availability in training leading up to an ultra results in hormonal disruption (e.g., low testosterone, low leptin), elevated cortisol, and suppressed dopamine signaling—all of which negatively impact mood, drive, and emotional regulation. Interestingly
+ketone supplementation might help overcome the decline in dopamine
+and maintain cognitive function.
+Nutrition to stabilize mental state:
+Avoid long stretches without calories
+—even small hourly intakes protect mental stamina
+Include
+protein, fat and possibly ketones
+in long races to stabilize blood sugar, maintain dopamine and reduce mood disturbances.
+Post-race, support mood recovery with
+omega-3s (EPA/DHA)
+, magnesium, and polyphenol-rich foods to reduce inflammation and restore neurochemical balance
+Female specific considerations
+Female ultra-endurance athletes are not simply smaller versions of their male counterparts. They have unique physiological, hormonal, and nutritional needs that must be considered and addressed. That said, most training and fueling guides in ultra-running are still based on male-dominant data. Ignoring female-specific factors puts women at risk of underperformance, injury, and long-term health complications. This section provides the critical, evidence-based considerations that female athletes, coaches, and nutritionists need to integrate into their preparation and performance plans.
+Metabolic Efficiency and Substrate Use
+Women oxidize significantly more fat at submaximal intensities than men—
+24–56% higher fat oxidation per kg of fat-free mass
+during endurance activity. This promotes better glycogen sparing and may contribute to greater fatigue resistance in ultra events. In fact, studies show that female ultra-athletes exhibit less peripheral muscle fatigue, more consistent pacing, and greater resistance to muscle damage in the later stages of long races.
+However, this advantage can be blunted by poor fueling practices. While women may rely less on carbohydrates early in a race, they still require a steady carbohydrate intake of 30 - 60 g/hour to maintain blood glucose, cognitive function, and overall energy availability. The higher carbohydrate recommendations for male athletes (90-120 g/h)
+often result in greater GI distress
+in women due to smaller stomach volumes and slower gastric emptying rates.
+Recommendation:
+Start CHO fueling lower (30–40 g/h), progress gradually in gut training to 50–60 g/h using dual fuel blends (glucose:fructose), and favor small, frequent intakes over large boluses to enhance tolerance.
+Hormonal Implications of Underfueling
+The hormonal cost of underfueling is disproportionately higher in female athletes. Low energy availability (LEA) leads to estrogen suppression, which drives a cascade of issues:
+Disrupted menstrual function (amenorrhea, oligomenorrhea)
+Decreased bone mineral density (BMD)
+Increased risk of stress fractures
+Impaired immune function and mood stability
+Up to 50% of female endurance athletes show signs of LEA at any given time, often unintentionally due to appetite suppression post-training, weight pressures, or lack of nutrition education.
+A study by Tiller et al. (2021)
+found that 21% of female ultra-runners had experienced bone stress injuries, and many exhibited poor iron status and cycle irregularity—
+classic indicators of RED-S
+(Relative Energy Deficiency in Sport).
+Female endurance athletes are advised to monitor menstrual cycles monthly as a primary health and energy availability indicator.
+Athletes should aim for EA > 45 kcal/kg FFM/day
+and be screened regularly for iron, vitamin D, and calcium levels.
+Gastrointestinal and Hydration Considerations
+Women are more prone to GI distress, particularly bloating, nausea, and constipation during racing. Factors include slower gut transit time, smaller gastric capacity, and hormonal fluctuations across the menstrual cycle. High carbohydrate intakes (>60 g/h) may exacerbate symptoms unless gut training is methodically performed.
+Fluid needs are also lower in women due to smaller body size and lower sweat rates, yet they are at higher risk of hyponatremia due to greater intake of plain water relative to body mass. In Costa et al.'s 24-hour ultra study, female runners consumed
+83% of their fluids as plain water
+, compared to 52% in males—contributing to hyperhydration and hyponatremia risk.
+Solution:
+Use low-FODMAP strategies in training blocks to reduce GI stress.
+Tailor fluid plans to ~0.4–0.6 L/h, including ≥500 mg/L sodium.
+Practice gut training during the luteal phase, when GI sensitivity tends to be highest.
+Supplement Considerations
+Selecting the right supplements can undoubtedly enhance endurance performance, when used intentionally at efficacious dosages. Unfortunately most endurance athletes do not do not currently utilise and evidence-based approach to supplementation.
+Carbohydrate
+Carbohydrate supplementation has long been a cornerstone of endurance nutrition
+, but the science continues to evolve around how best to deliver and time those carbs for maximal benefit. During ultra-endurance events, carbohydrate intake is essential to maintain blood glucose levels, spare muscle glycogen, delay fatigue, and support high-intensity surges. Fast-digesting products like energy gels, drinks, and
+bars
+provide a convenient, effective way to meet energy demands without overwhelming the gut. Multi-source carbohydrate formulations (e.g., glucose:fructose blends) can increase total absorption and oxidation rates, helping to maintain performance for hours on end.
+Performance data has shown:
+2–3% improvement in time trial and marathon performance with carb ingestion
+30–90 g/hour of CHO improves endurance capacity in events lasting 2–3 hours
+Up to 120 g/hour (
+using glucose:fructose in 1:08 or 2:1 ratio
+) enhances performance in ultra-distance events
+25–50% reduction in perceived exertion and mental fatigue during prolonged activity
+Faster recovery of glycogen stores post-race when carbs are consumed immediately after exercise
+Recommendation:
+Consume 30–90 g (up to 120 g during mountainous/intense sections) of carbohydrate per hour during endurance sessions and races lasting more than 90 minutes. For ultra-endurance events, choose dual-source carbohydrate options like the
+Core 40 Fuel Bar
+, which delivers 40 g of carbs in an easy-to-chew, fast-absorbing bar that’s gentle on the gut and optimized for long-haul fueling. Combine with gels and drinks for variety and digestive comfort, and train your gut to tolerate higher intakes during race efforts.
+Electrolytes
+Electrolyte supplementation is essential for endurance athletes
+, especially during long events where substantial fluid and sodium losses can impair performance and health. Prolonged sweating leads to the depletion of key electrolytes—particularly sodium, but also potassium, magnesium, and chloride—which are critical for maintaining fluid balance, muscle function, and nerve signalling. Without replacement, this can lead to cramping, fatigue, reduced power output, and in extreme cases, hyponatremia. Strategic electrolyte supplementation helps support hydration, thermoregulation, and endurance capacity, especially in hot, humid, or high-altitude environments.
+Performance data has shown:
+10–20% improvement in endurance capacity when sodium is replaced during long events
+Reduced incidence of muscle cramping, fatigue, and gastrointestinal issues
+Maintenance of blood plasma volume and thermoregulation during multi-hour races
+Lower heart rate and perceived effort during exercise with electrolyte supplementation
+Enhanced carbohydrate absorption and hydration when sodium is present in drinks
+Recommendation:
+Supplement with 500–1000 mg of sodium per hour during ultra-endurance events, adjusted based on individual sweat rate and environmental conditions. Use a balanced product like
+Core 500 Electrolyte Sachets
+, which delivers 500 mg sodium, 200 mg potassium, and 20 mg magnesium per serving—formulated for precision, bioavailability, and gut comfort. Mix with water and consume consistently across the race to stay ahead of dehydration and electrolyte loss.
+Addresses the
+common underdosing problem
+—most runners fall short of the recommended
+575–1000 mg sodium/L
+for hot or long races.
+Ideal for fluid intake targets of
+450–750 mL/hour
+without risk of dilutional hyponatremia.
+Caffeine
+Caffeine is one of the most evidence-based and
+widely used ergogenic aids in endurance sports
+. It works primarily by blocking adenosine receptors in the brain, reducing perceived exertion and delaying fatigue. Caffeine also increases dopamine and noradrenaline, enhances motor unit recruitment, improves muscle contractility, and can help sustain mental focus during long races. These effects make caffeine especially useful in events requiring sustained effort, mental resilience, or a final sprint finish. While some benefits are psychological, the physiological effects are consistent across a wide range of endurance sports, including running, cycling, and triathlon.
+Performance data has shown:
+17% increase in time to exhaustion in running trials
+2–3% faster completion times in time trial events
+12% improvement in time to exhaustion at 4 mg/kg dose
+Greater benefits observed in longer-duration events and during high fatigue or cognitive demand
+Cadence
+Race 500 Electrolyte Sachets
+delivers 100 mg caffeine with 200 mg of L-theanine for optimal cognitive function, combined with 500 mg sodium.
+Recommendation:
+Supplement with 3–6 mg/kg of body mass around 60 minutes before exercise. For ultra-endurance events, consider spreading lower doses (1–2 mg/kg) throughout the race. Caffeine is especially effective when taken before long sessions or when mental alertness and perception of effort are limiting factors.
+Creatine Monohydrate
+Creatine supplementation is more commonly associated with strength, speed and power sports.
+But recent research has uncovered a potential role for it within endurance sports too
+. Consistent supplementation will elevate phophocreatine stores boosting ATP synthesis, improving short performance during short sprints and recovery following intensive training. Creatine supplementation is also associated
+with improved glycogen storage
+, calcium handling, hydrogen ion buffering capacity and mitochondrial biogenesis, and reduced inflammation, oxidative stress and muscle damage, all of which favour endurance performance. Not to mention the
+benefits to performance when sleep deprived
+and the
+cognitive benefits too
+.
+Performance data has shown:
+9–11% improvement
+in time to exhaustion and high-intensity sprint tests.
+8–9% boost
+in peak/mean sprint power post-race in cyclists.
+2–3 seconds
+improved finish in rowing and swimming events.
+18% increase
+in sprint power after cycling endurance blocks.
+Recommendation:
+Supplementation with 5 grams per day during training and up to 0.1 g/kg per day during intensive competition.
+Nitrates
+Nitrate supplementation is commonly associated with improved cardiovascular health and
+endurance performance
+. Once ingested, dietary nitrates are converted into nitric oxide—a powerful molecule that vasodilates blood vessels, improving blood flow, reducing the oxygen cost of exercise, and enhancing muscle efficiency. These effects make nitrate particularly beneficial during long-duration, submaximal exercise, which is common in ultra endurance sports. There's also evidence to suggest improved mitochondrial efficiency, greater fat oxidation, and reduced reliance on carbohydrate stores. Nitrate may even help preserve cognitive function and reaction time in long, mentally fatiguing races.
+Performance data has shown:
+4.6 W average increase in power output during endurance efforts
+25.3 seconds longer time to exhaustion
+164 meters greater distance covered in fixed-time trials
+Enhanced sprint performance after 2 hours of endurance work (+25 W in final 30 seconds)
+Faster muscle oxygen extraction and preserved mental alertness in ultra-endurance events
+Recommendation:
+Supplement with 6–8 mmol (~500 ml beetroot juice or equivalent shots) 2–3 hours before exercise. For ultra-endurance races, consider chronic loading for 5–7 days before competition, and a mid-race top-ups if exercise exceeds 2–3 hours.
+New Zealand Blackcurrant Extract
+New Zealand blackcurrant supplementation is
+gaining momentum in the endurance world
+thanks to its high concentration of anthocyanins—powerful plant compounds with antioxidant and vasodilatory effects.
+These compounds help improve blood flow
+, enhance fat oxidation, reduce oxidative stress, and support faster recovery from strenuous exercise. In endurance athletes, blackcurrant extract has been shown to increase the efficiency of oxygen delivery to muscles, potentially sparing glycogen and extending performance during long-duration events. There’s also evidence for improved cardiovascular function, reduced exercise-induced inflammation, and better metabolic flexibility, making it a valuable tool for athletes tackling back-to-back training or multi-hour races.
+Performance data has shown:
+11–23% increase in fat oxidation during submaximal endurance exercise
+11% reduction in carbohydrate use, suggesting glycogen sparing
+2–4% improvement in endurance time trial performance
+Enhanced post-exercise recovery and reduced muscle soreness
+Improved blood flow and oxygen extraction under fatiguing conditions
+Recommendation:
+Supplement with 600 mg of New Zealand blackcurrant extract daily (providing ~210 mg anthocyanins) for at least 7 days leading into competition. Benefits may be further enhanced when combined with endurance training or used during multi-day events.
+Probiotics
+Probiotic supplementation is most often associated with gut health, but growing research has uncovered a promising role for it in supporting endurance performance too. By improving the balance of beneficial bacteria in the gut, probiotics enhance nutrient absorption, reduce gastrointestinal distress, and support immune health—crucial for athletes during periods of heavy training or competition. Probiotics may also reduce systemic inflammation, improve recovery, and even influence energy metabolism by producing short-chain fatty acids. Certain
+strains have been linked to better time-to-exhaustion
+, fewer sick days, and enhanced performance in hot and high-stress conditions.
+Performance data has shown:
+2–4% improvements in time-to-exhaustion and time trial performance
+30–50% fewer upper respiratory tract infections during high-volume training blocks
+Reduced incidence and severity of gastrointestinal symptoms in endurance athletes
+Enhanced recovery of anaerobic power and reduced muscle soreness after intensive exercise
+Improved gut barrier integrity and reduced inflammation markers
+Recommendation:
+Supplement with a multi-strain probiotic containing at least 10–20 billion CFU per day. Look for strains such as
+Lactobacillus rhamnosus GG
+,
+Bifidobacterium lactis
+, and
+Lactobacillus plantarum
+, and use consistently for a minimum of 4–8 weeks to see benefits in endurance training and recovery.
+Fueling Templates
+A great ultra-marathon fueling strategy isn’t just about hitting macros—it’s about delivering consistent, digestible energy across all phases of the race while adapting to real-time physiological and sensory changes. Understanding your energy, nutrient, fluid and electrolyte, and supplement requirements per hour is critical. But then building out a practical, yet flexible system that evolves over the course of the race, gut and mood is also essential.
+Food Preferences
+As race duration increases, so does
+palate fatigue
+. Studies from the Marathon des Sables and 24-hour ultras confirm that runners initially prefer sweet, high-carb options (e.g., gels and sports drinks), but over time develop aversions to them and begin to crave savory, salty, and fat-rich foods—especially when heat, mouth dryness, or GI symptoms emerge.
+Key patterns:
+0–4 hours
+: Sweet, fast-absorbing fuels dominate (e.g., gels, chews, drink mix)
+4–10 hours
+: Preference begins shifting—salty and chewy foods become more tolerable
+10+ hours
+: Real food, savory snacks, and solid textures help reduce nausea and “sweet fatigue”
+Runners who fail to account for this shift often stop eating late in races, resulting in significant energy deficits.
+Energy targets
+(per hour)
+Metric
+50–100K Events
+100M+ Events
+Calories
+150–300 kcal
+200–400 kcal
+Carbs
+30–60 g
+50–90 g
+Protein
+Optional
+5–10 g
+Fat
+Minimal
+5–7 g
+Sodium
+≥575 mg/L
+600–1000 mg/L
+Customizable Fueling Flowchart
+Pre Race (-3-1 hrs)
+→ Large carbohydrate rich meal (1-4 g/kg)
+→ Sodium: Core 500 Electrolyte Sachet + 5-10 ml/kg water
+→ Nitrates: 800 mg from beetroot juice or shots
+→ Optional: caffeine (~100-150 mg)
+Early Race
+(0–4 hrs):
+→ Prioritize carbohydrate from liquids/gels: drinks + gels
+→ Optional: caffeine (Race 500 ~100 mg)
+Mid Race
+(4–10 hrs):
+→ Rotate in solid foods: CORE 40 bar, dried fruits, PBJ wraps/sandwiches
+→ Begin protein: small bites (5–10 g/h)
+Late Race
+(10+ hrs):
+→ Emphasize savory, salty, fatty options
+→ Use hot aid station items (broth, mashed potato)
+→ Add caffeine and ketones if alertness dips
+Conclusion
+The path to an enjoyable or even elite-level ultra performance is paved with a personalized, planned and practiced nutrition strategy—not guesswork. With a modular plan, evidence-based interventions from training through race, you can turn fueling into a competitive advantage.

@@ -1,0 +1,147 @@
+BAŞLIK: The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis
+      -
+KAYNAK: https://research.tus.ie/en/publications/the-effect-of-hormonal-contraceptive-use-on-skeletal-muscle-hyper/
+TARİH: 2026-03-08 21:18:11
+KELİME: 2011
+============================================================
+
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis
+David Nolan
+, Kelly L. McNulty
+, Mika Manninen
+, Brendan Egan
+Dublin City University
+UPMC Sports Medicine
+Florida Institute for Human and Machine Cognition
+Research output
+:
+Contribution to journal
+›
+Review article
+›
+peer-review
+18
+Citations
+(Scopus)
+Abstract
+Background: Resistance exercise training is widely used by general and athletic populations to increase skeletal muscle hypertrophy, power and strength. Endogenous sex hormones influence various bodily functions, including possibly exercise performance, and may influence adaptive changes in response to exercise training. Hormonal contraceptive (HC) use modulates the profile of endogenous sex hormones, and therefore, there is increasing interest in the impact, if any, of HC use on adaptive responses to resistance exercise training. Objective: Our aim is to provide a quantitative synthesis of the effect of HC use on skeletal muscle hypertrophy, power and strength adaptations in response to resistance exercise training. Methods: A systematic review with meta-analysis was conducted on experimental studies which directly compared skeletal muscle hypertrophy, power and strength adaptations following resistance exercise training in hormonal contraceptive users and non-users conducted before July 2023. The search using the online databases PUBMED, SPORTDiscus, Web of Science, Embase and other supplementary search strategies yielded 4669 articles, with 8 articles (54 effects and 325 participants) meeting the inclusion criteria. The methodological quality of the included studies was assessed using the “Tool for the assessment of study quality and reporting in exercise”. Results: All included studies investigated the influence of oral contraceptive pills (OCP), with no study including participants using other forms of HC. The articles were analysed using a meta-analytic multilevel maximum likelihood estimator model. The results indicate that OCP use does not have a significant effect on hypertrophy [0.01, 95% confidence interval (CI) [− 0.11, 0.13], t = 0.14, p = 0.90), power (− 0.04, 95% CI [− 0.93, 0.84], t = − 0.29, p = 0.80) or strength (0.10, 95% CI [− 0.08, 0.28], t = 1.48, p = 0.20). Discussion: Based on the present analysis, there is no evidence-based rationale to advocate for or against the use of OCPs in females partaking in resistance exercise training to increase hypertrophy, power and/or strength. Rather, an individualised approach considering an individual’s response to OCPs, their reasons for use and menstrual cycle history may be more appropriate. Registration: The review protocol was registered on PROSPERO (ID number and hyperlink: CRD42022365677).
+Original language
+English
+Pages (from-to)
+105-125
+Number of pages
+21
+Journal
+Sports Medicine
+Volume
+54
+Issue number
+1
+DOIs
+https://doi.org/10.1007/s40279-023-01911-3
+Publication status
+Published -
+1 Jan 2024
+UN SDGs
+This output contributes to the following UN
+Sustainable Development Goals (SDGs)
+SDG 3
+Good Health and Well-being
+Access to Document
+10.1007/s40279-023-01911-3
+Other files and links
+Link to publication in Scopus
+Fingerprint
+Dive into the research topics of 'The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis'. Together they form a unique fingerprint.
+Muscle Growth
+Nursing and Health Professions
+100%
+View full fingerprint
+Cite this
+APA
+Author
+BIBTEX
+Harvard
+Standard
+RIS
+Vancouver
+Nolan, D., McNulty, K. L., Manninen, M., & Egan, B. (2024).
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis
+.
+Sports Medicine
+,
+54
+(1), 105-125.
+https://doi.org/10.1007/s40279-023-01911-3
+Nolan, David ; McNulty, Kelly L. ; Manninen, Mika et al. /
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training : A Systematic Review and Multilevel Meta-analysis
+. In:
+Sports Medicine
+. 2024 ; Vol. 54, No. 1. pp. 105-125.
+@article{42150e5ab8364844b5890aa5d289ff16,
+title     = "The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis",
+abstract  = "Background: Resistance exercise training is widely used by general and athletic populations to increase skeletal muscle hypertrophy, power and strength. Endogenous sex hormones influence various bodily functions, including possibly exercise performance, and may influence adaptive changes in response to exercise training. Hormonal contraceptive (HC) use modulates the profile of endogenous sex hormones, and therefore, there is increasing interest in the impact, if any, of HC use on adaptive responses to resistance exercise training. Objective: Our aim is to provide a quantitative synthesis of the effect of HC use on skeletal muscle hypertrophy, power and strength adaptations in response to resistance exercise training. Methods: A systematic review with meta-analysis was conducted on experimental studies which directly compared skeletal muscle hypertrophy, power and strength adaptations following resistance exercise training in hormonal contraceptive users and non-users conducted before July 2023. The search using the online databases PUBMED, SPORTDiscus, Web of Science, Embase and other supplementary search strategies yielded 4669 articles, with 8 articles (54 effects and 325 participants) meeting the inclusion criteria. The methodological quality of the included studies was assessed using the “Tool for the assessment of study quality and reporting in exercise”. Results: All included studies investigated the influence of oral contraceptive pills (OCP), with no study including participants using other forms of HC. The articles were analysed using a meta-analytic multilevel maximum likelihood estimator model. The results indicate that OCP use does not have a significant effect on hypertrophy [0.01, 95\% confidence interval (CI) [− 0.11, 0.13], t = 0.14, p = 0.90), power (− 0.04, 95\% CI [− 0.93, 0.84], t = − 0.29, p = 0.80) or strength (0.10, 95\% CI [− 0.08, 0.28], t = 1.48, p = 0.20). Discussion: Based on the present analysis, there is no evidence-based rationale to advocate for or against the use of OCPs in females partaking in resistance exercise training to increase hypertrophy, power and/or strength. Rather, an individualised approach considering an individual{\textquoteright}s response to OCPs, their reasons for use and menstrual cycle history may be more appropriate. Registration: The review protocol was registered on PROSPERO (ID number and hyperlink: CRD42022365677).",
+author    = "David Nolan and McNulty, \{Kelly L.\} and Mika Manninen and Brendan Egan",
+note      = "Publisher Copyright: {\textcopyright} 2023, The Author(s).",
+year      = "2024",
+month     = jan,
+day       = "1",
+doi       = "10.1007/s40279-023-01911-3",
+language  = "English",
+volume    = "54",
+pages     = "105--125",
+journal   = "Sports Medicine",
+issn      = "0112-1642",
+publisher = "Springer International Publishing AG",
+number    = "1",
+}
+Nolan, D, McNulty, KL, Manninen, M & Egan, B 2024, '
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis
+',
+Sports Medicine
+, vol. 54, no. 1, pp. 105-125.
+https://doi.org/10.1007/s40279-023-01911-3
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-analysis.
+/ Nolan, David; McNulty, Kelly L.; Manninen, Mika et al.
+In:
+Sports Medicine
+, Vol. 54, No. 1, 01.01.2024, p. 105-125.
+Research output
+:
+Contribution to journal
+›
+Review article
+›
+peer-review
+TY  - JOUR
+T1  - The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training
+T2  - A Systematic Review and Multilevel Meta-analysis
+AU  - Nolan, David
+AU  - McNulty, Kelly L.
+AU  - Manninen, Mika
+AU  - Egan, Brendan
+N1  - Publisher Copyright:
+© 2023, The Author(s).
+PY  - 2024/1/1
+Y1  - 2024/1/1
+N2  - Background: Resistance exercise training is widely used by general and athletic populations to increase skeletal muscle hypertrophy, power and strength. Endogenous sex hormones influence various bodily functions, including possibly exercise performance, and may influence adaptive changes in response to exercise training. Hormonal contraceptive (HC) use modulates the profile of endogenous sex hormones, and therefore, there is increasing interest in the impact, if any, of HC use on adaptive responses to resistance exercise training. Objective: Our aim is to provide a quantitative synthesis of the effect of HC use on skeletal muscle hypertrophy, power and strength adaptations in response to resistance exercise training. Methods: A systematic review with meta-analysis was conducted on experimental studies which directly compared skeletal muscle hypertrophy, power and strength adaptations following resistance exercise training in hormonal contraceptive users and non-users conducted before July 2023. The search using the online databases PUBMED, SPORTDiscus, Web of Science, Embase and other supplementary search strategies yielded 4669 articles, with 8 articles (54 effects and 325 participants) meeting the inclusion criteria. The methodological quality of the included studies was assessed using the “Tool for the assessment of study quality and reporting in exercise”. Results: All included studies investigated the influence of oral contraceptive pills (OCP), with no study including participants using other forms of HC. The articles were analysed using a meta-analytic multilevel maximum likelihood estimator model. The results indicate that OCP use does not have a significant effect on hypertrophy [0.01, 95% confidence interval (CI) [− 0.11, 0.13], t = 0.14, p = 0.90), power (− 0.04, 95% CI [− 0.93, 0.84], t = − 0.29, p = 0.80) or strength (0.10, 95% CI [− 0.08, 0.28], t = 1.48, p = 0.20). Discussion: Based on the present analysis, there is no evidence-based rationale to advocate for or against the use of OCPs in females partaking in resistance exercise training to increase hypertrophy, power and/or strength. Rather, an individualised approach considering an individual’s response to OCPs, their reasons for use and menstrual cycle history may be more appropriate. Registration: The review protocol was registered on PROSPERO (ID number and hyperlink: CRD42022365677).
+AB  - Background: Resistance exercise training is widely used by general and athletic populations to increase skeletal muscle hypertrophy, power and strength. Endogenous sex hormones influence various bodily functions, including possibly exercise performance, and may influence adaptive changes in response to exercise training. Hormonal contraceptive (HC) use modulates the profile of endogenous sex hormones, and therefore, there is increasing interest in the impact, if any, of HC use on adaptive responses to resistance exercise training. Objective: Our aim is to provide a quantitative synthesis of the effect of HC use on skeletal muscle hypertrophy, power and strength adaptations in response to resistance exercise training. Methods: A systematic review with meta-analysis was conducted on experimental studies which directly compared skeletal muscle hypertrophy, power and strength adaptations following resistance exercise training in hormonal contraceptive users and non-users conducted before July 2023. The search using the online databases PUBMED, SPORTDiscus, Web of Science, Embase and other supplementary search strategies yielded 4669 articles, with 8 articles (54 effects and 325 participants) meeting the inclusion criteria. The methodological quality of the included studies was assessed using the “Tool for the assessment of study quality and reporting in exercise”. Results: All included studies investigated the influence of oral contraceptive pills (OCP), with no study including participants using other forms of HC. The articles were analysed using a meta-analytic multilevel maximum likelihood estimator model. The results indicate that OCP use does not have a significant effect on hypertrophy [0.01, 95% confidence interval (CI) [− 0.11, 0.13], t = 0.14, p = 0.90), power (− 0.04, 95% CI [− 0.93, 0.84], t = − 0.29, p = 0.80) or strength (0.10, 95% CI [− 0.08, 0.28], t = 1.48, p = 0.20). Discussion: Based on the present analysis, there is no evidence-based rationale to advocate for or against the use of OCPs in females partaking in resistance exercise training to increase hypertrophy, power and/or strength. Rather, an individualised approach considering an individual’s response to OCPs, their reasons for use and menstrual cycle history may be more appropriate. Registration: The review protocol was registered on PROSPERO (ID number and hyperlink: CRD42022365677).
+UR  - https://www.scopus.com/pages/publications/85173018245
+U2  - 10.1007/s40279-023-01911-3
+DO  - 10.1007/s40279-023-01911-3
+M3  - Review article
+AN  - SCOPUS:85173018245
+SN  - 0112-1642
+VL  - 54
+SP  - 105
+EP  - 125
+JO  - Sports Medicine
+JF  - Sports Medicine
+IS  - 1
+ER  -
+Nolan D, McNulty KL, Manninen M, Egan B.
+The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training:
+A Systematic Review and Multilevel Meta-analysis
+.
+Sports Medicine
+. 2024 Jan 1;54(1):105-125. doi: 10.1007/s40279-023-01911-3

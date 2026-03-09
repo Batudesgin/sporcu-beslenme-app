@@ -1,0 +1,160 @@
+BAŞLIK: Resting Metabolic Rate: How to Measure & Boost It | Certified News | ACE
+KAYNAK: https://www.acefitness.org/certifiednewsarticle/2882/resting-metabolic-rate-best-ways-to-measure-it-and-raise-it-too/
+TARİH: 2026-03-08 21:22:02
+KELİME: 2173
+============================================================
+
+By Mark P. Kelly, Ph.D.
+Unless you have been living on an island or mountaintop somewhere (or simply don’t watch television), you’ve undoubtedly seen numerous infomercials talking about
+resting metabolic rate (RMR)
+and how one exercise or another will increase it, causing body fat to just melt away. Not surprisingly, there are many fallacies about how to measure RMR, how accurate those measurements are, and what particular exercises or diets will affect it. The purpose of this article is to clear up some of the confusion surrounding RMR and its energy expenditure cousins:
+non-exercise activity thermogenesis
+(NEAT)
+and
+excess post-exercise oxygen consumption
+(EPOC).
+We’ll do a quick review of the basics of metabolism, discuss the relative accuracy of different methods and formulas for calculating RMR and cover some tricks of the trade you can use to help your clients raise their RMRs, both acutely and chronically.
+What Is Resting Metabolic Rate?
+RMR Formulas in Action
+Following are sample calculations for a 48-year-old man who is 180 cm (5’8”) and weighs 80 kg (176 lb) using several popular RMR equations.
+* Revised Harris-Benedict BMR Equations
+(calories/day):
+Male: (88.4 + 13.4 x weight) + (4.8 x height) – (5.68 x age)
+Female: (447.6 + 9.25 x weight) + (3.10 x height) – (4.33 x age)
+weight in kilograms, height in centimeters, age in years
+Sample: 88.4 + 1072 + 864 – 272.6 =
+1,751
+* A more accurate formula is the
+Mifflin-St Jeor Equation
+(calories/day):
+Male: 9.99 x weight + 6.25 x height – 4.92 x age + 5
+Female: 9.99 x weight + 6.25 x height – 4.92 x age – 161
+weight in kilograms, height in centimeters, age in years
+Sample: 800 + 1125 – 236 + 5 =
+1,694
+Two formulas that consider lean body mass (LBM) include the
+Katch-McArdle equation
+(BMR) and the
+Cunningham equation
+(RMR). These formulas should be used for more athletic clients, where muscle mass is significantly higher than average. A study (Johnstone et al., 2005) involving 150 adults in Scotland revealed that 62.3 percent of the variations seen in BMRs are related to fat-free mass (bone, tissue, muscle).
+* Katch-McArdle (BMR)
+(calories/day):
+370 + (21.6 x LBM)
+To calculate LBM, multiple total body weight by body-fat percentage. If our sample client has 10 percent body fat and weighs 80 kg, his LBM would be 72 kg (i.e., body weight of 80 kg – 10 percent body fat of 8 kg = 72 kg of LBM). Therefore, using the Katch-McArdle equation:
+370 + (21.6 x 72) =
+1,925
+Note that this result is significantly higher than the non-LBM formulas (i.e., revised Harris-Benedict and Mifflin-St Jeor equations).
+* Cunningham: RMR
+(This formula is similar to Katch-McArdle, but provides a slightly higher estimate.)
+500 + (22 x LBM)
+500 + (22 x 72) =
+2,084
+Metabolic processes in the body require energy and are comprised of anabolic processes, which build up tissues, and catabolic processes, which break down tissues and fuel sources for energy. The rate at which these processes occur is measured in calories per unit of time, and is most often given in calories per day.
+The term
+basal metabolic rate
+(BMR)
+is often confused and/or interchanged with RMR or resting energy expenditure (REE). Basal metabolic rate, however, can only be found during an awake, but totally rested and post-absorptive state, and in a neutrally temperate environment. Thus, it is quite restrictive and only used in clinical or laboratory settings. The total amount of calories an individual burns in a given day is known as total daily energy expenditure (TDEE) and it comes from several sources including RMR, the thermogenic effect of food (TEF), non-exercise activity thermogenesis (NEAT), excess post-exercise oxygen consumption (EPOC) and, of course, exercise (Ex).
+TDEE = RMR + TEF + NEAT + EPOC + Ex
+RMR and TEF are relatively constant, with minor fluctuations due to muscle mass and conditioning, and to dietary shifts, respectively. The NEAT and exercise components have large variability and can greatly influence one’s total caloric expenditure.
+How Do I Calculate RMR?
+There are two main ways to determine how many calories you or your client burns in a given day. A relatively accurate (but more difficult) method is called indirect calorimetry, which uses expired gases to calculate the amounts and types of fuel being utilized. The Weir equation below can be used to calculate the number of calories burned per minute. Thus, to work it up to a full 24-hour day, simply multiply the total by 1,440. The respiratory quotient (RQ) is helpful in determining what type of fuel is being catabolized for energy. RQ values are typically in the mid-70s when an individual is at rest; this figure will increase to the 90s as activity level increases. Popular devices such as the BodyGem utilize respiratory gases and the Weir equation for a more accurate metabolic-rate determination.
+Abbreviated Weir Equation:
+REE = [3.9 (VO
+2
+) + 1.1 (VCO
+2
+)] 1.44
+VO
+2
+= volume of oxygen uptake (mL/min)
+VCO
+2
+= volume of carbon dioxide output (mL/min)
+Respiratory quotient (RQ) = VCO
+2
+/VO
+2
+fat 0.70
+underfeeding <0.71
+protein 0.80
+mixed energy 0.85
+carbohydrate 1.00
+fat storage
+>
+1.00
+ketosis <0.70
+A less accurate, but much easier, method for determining RMR is to use one of several different formulas (see sidebar, "RMR Formulas in Action"). Keep in mind, however, that some sources claim these formulas can be off by as much as 1,000 calories, with the majority of error or variation occurring in the calculation of daily energy expenditure. Several websites, including
+Health-calc,
+make it possible to more accurately record daily activity, which can increase the accuracy of the RMR calculation.
+What Is the Impact of Activity on Total Daily Calories Expended?
+Exercise is easily the most adjustable variable in total daily energy expenditure. Some sedentary people expend just a little bit above their RMR in a given day, while others can more than double it. The following list defines various activity levels and applies an “activity factor” that can be multiplied by BMR or RMR to calculate TDEE.
+Sedentary —
+desk job and little to no exercise (multiply by 1.2)
+Lightly Active —
+light exercise/sports 1–3 days/week (multiply by 1.375)
+Moderately Active —
+moderate exercise/sports 3–5 days/week (multiply by 1.55)
+Very Active —
+hard exercise/sports 6–7 days/week (multiply by 1.725)
+Extremely Active —
+hard daily exercise/sports and physical job or training (multiply by 1.9)
+What Variables Affect Metabolic Rate?
+Genetics.
+Some people are born with faster metabolisms, while others naturally have slower metabolisms.
+Gender.
+Because men, on average, have a greater muscle mass and a lower body-fat percentage than women, they generally have a higher basal metabolic rate.
+Age.
+BMR is greater in childhood than in adulthood. After age 20, BMR is estimated to drop about 2 percent to 3 percent each decade.
+Weight.
+The more an individual weighs, the higher his or her BMR will be. For example, the metabolic rate of very overweight individuals is generally higher than that of their normal-weight counterparts.
+Height.
+Taller people typically have greater body surface area and more lean body mass (LBM).
+Body-fat Percentage.
+All other things being equal, people with a higher body-fat percentage have a lower BMR than those with a lower-body fat percentage.
+Diet.
+Starvation or serious abrupt calorie-reduction can dramatically reduce BMR by up to 30 percent. Likewise, restrictive, low-calorie weight-loss diets may cause BMR to drop by as much as 20 percent. (See sidebar, What Does Reducing Caloric Intake Do to RMR?)
+Body Temperature/Health.
+For every increase of 0.5 degrees C in internal temperature of the body, BMR increases by about 7 percent. The chemical reactions in the body actually occur more quickly at higher temperatures. Therefore, a person with a fever of 42 degrees C (about 4 degrees C above normal) would have an increase of about 50 percent in BMR.
+External temperature.
+Temperature outside the body also affects basal metabolic rate. Exposure to cold temperature causes an increase in the BMR, as the body tries to create the extra heat needed to maintain its internal temperature. A short exposure to hot temperature has little effect on the body’s metabolism because of compensatory increases in heat loss. However, prolonged exposure to heat can raise BMR.
+Glands.
+Thyroxin (produced by the thyroid gland) is a key BMR regulator that speeds up the body’s metabolic activity. The more thyroxin produced, the higher the BMR. If too much thyroxin is produced (a condition known as thyrotoxicosis), BMR can actually double. If too little thyroxin is produced (myxoedema), BMR may shrink to 30 percent to 40 percent of normal. Like thyroxin, adrenaline also increases the BMR, but to a lesser extent.
+Exercise.
+Physical exercise not only influences body weight by burning calories, it also helps raise BMR by building extra muscle. The greater the exercise intensity, the longer it takes the body to recover, which results in a longer and higher excess post-exercise oxygen consumption (EPOC).
+What Does Reducing Caloric Intake Do to RMR?
+For a personal trying to lose body fat, one of the worst things he or she can do is cause a major drop in RMR by fasting from eating. Studies show that RMR can often be maintained on very-low-calorie diets (VLCD) when sufficient exercise is sustained (van Dale, Saris and ten Hoor, 1990). However, if an individual goes on a VLCD without exercise, RMR will be reduced dramatically and muscle tissue will likely be catabolized as a source of protein for ketosis to occur. Therefore, to achieve weight loss while also maintaining RMR, calorie intake should be reduced by no more than 500 calories per day, while exercise expenditure should be account for approximately 250 to 1000 calories per day.
+What Are the Best Exercises For Raising Metabolic Rate and Losing Weight?
+Unfortunately, this question does not have one simple answer and research has shown conflicting results (Connolly, Romano and Patruno, 1999). Currently, high-intensity interval training (HIIT) appears to be a leading contender for the title of best RMR enhancer, and the exercises that build muscle (i.e., resistance training) are believed to have the greatest effect on the resting metabolic rate. It is worth noting that hypertrophy-focused workouts, with high resistance to maximize muscle building, don’t burn a high number of calories and, likewise, the EPOC is small. A proper HIIT approach, however, which involves raising the heart rate and calorie expenditure to a high level and results in a significant EPOC, may be one of the most effective methods of increasing RMR.
+References
+Connolly, J. Romano, T. and Patruno, M. (1999). Effects of dieting and exercise on resting metabolic rate and implications for weight management.
+Family Practice,
+16, 2, 196–201.
+Johnstone, A.M. et al. (2005). Factors influencing variation in basal metabolic rate include fat-free mass, fat mass, age and circulating thyroxine, but not sex, circulating leptin or triiodothyronine.
+American Journal of Clinical Nutrition,
+82, 5, 941–948.
+van Dale, D., Saris, W.H., ten Hoor, F. (1990). Weight maintenance and resting metabolic rate 18–40 months after a diet/exercise treatment.
+International Journal of Obesity,
+14, 4, 347–359.
+Want to Learn More About RMR and Metabolic Training?
+With the popularity of high-intensity interval training rising fast, trainers need to understand the physiological principles that make this training approach so effective, particularly for helping clients overcome plateaus and achieve their weight-loss goals. The
+ACE Metabolic Training Workshop
+provides the tools and information you need to safely offer your clients fun and effective high-intensity metabolic conditioning sessions that will help them shed pounds and keep them coming back for more.
+In this 8-hour workshop valued at 0.8 CECs, you’ll learn:
+How to explain a personal trainer’s scope of practice for providing nutritional advice to clients
+How identifying Resting Metabolic Rate (RMR) can determine the optimal level of caloric intake for promoting weight loss
+Role of macronutrients and how they relate to physical activity
+How to estimate the energy cost of exercise using Metabolic Equivalents (METs)
+Program design using the ACE Integrated Fitness Training
+®
+(ACE IFT
+®
+) model for clients who want to lose weight
+There are no prerequisite educational requirements to attend this workshop and registration closes two business days prior to the workshop date. Click
+here
+for more information on when this workshop will be offered and how to register, or call 888-825-3636, Ext. 713.
+Upcoming Dates:
+November 10, 2012   American Council on Exercise   San Diego, Calif.
+November 10, 2012   Equinox, 43rd Street   New York, NY
+__________________________________________________________________
+Mark P. Kelly, Ph.D., ACE-CPT, C.S.C.S.,
+is an exercise physiologist for the American Council on Exercise. He has been involved in exercise sciences as an author, presenter, trainer and athlete for more than 25 years. He has been teaching sciences in universities and performing research and physiological assessments in exercise science for more than 20 years. He has had his scientific studies published by ACSM, NSCA and FASEB and was a nationally ranked duathlete. He currently creates workshops, presentations, webinars and articles to bridge the gap between science and application for trainers and the general public.

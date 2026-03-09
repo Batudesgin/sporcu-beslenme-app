@@ -1,0 +1,307 @@
+# Resting Metabolic Rate: How to Calculate and Improve Yours - NASM
+
+Resting Metabolic Rate: How to Calculate and Improve Yours
+NASM.org
+Fitness
+CPT
+Nutrition
+CES
+Sports Performance
+Workout Plans
+Wellness
+CPT
+Weight Loss
+exercise science
+Resting Metabolic Rate: How to Calculate and Improve Yours
+Fabio Comana
+|
+Stay Updated with NASM!
+Mention the term ‘metabolism’ and it captures attention given how obsessed many of us have become over calories. As a
+nutrition coach
+or
+weight loss specialist
+, this is a topic you may get asked about from time to time.
+To the general public, boosting your metabolism is associated with the transformation from ‘fat-to-fit’ or ‘flab-to-fab’. This is an outcome of enhanced caloric expenditure, increased lean body mass, greater fat utilization and overall weight loss.
+Our resting metabolic rate (RMR) plays a significant role in this, and it’s understandable why it garners so much attention. But before we dive into RMR, let’s take a look at the components of total daily energy expenditure (TDEE).
+In this article:
+Total Daily Energy Expenditure
+What is Resting Metabolic Rate?
+Calculating RMR
+Uncontrollable RMR Factors
+Controllable RMR Factors
+Assessing Starvation States for Optimal RMR
+Total Daily Energy Expenditure
+Scientific references to metabolism refer to the bodily processes needed to maintain life. But for most of us, it refers to total daily energy expenditure and how it influences our energy in versus energy out equation.
+Our TDEE is essentially comprised of three components:
+Resting metabolic rate (RMR): the energy required to keep your body functioning at rest
+The thermic effect of food (TEF): the energy cost of chewing, swallowing, digesting, absorbing and storing food
+The thermic effect of physical activity (TEPA): the energy of activity (e.g., exercise, physical activity) and non-exercise activity thermogenesis (NEAT).*
+*
+Non-exercise Activity Thermogenesis
+: Energy expended for everything you do that does not include sleeping, eating, physical activity or exercise – ranges from simple standing to fidgeting and moving about.
+Can we calculate our RMR? Can we influence it or is it predetermined? Let’s examine these questions more closely.
+What is Resting Metabolic Rate?
+Resting metabolic rate is the total number of calories burned when your body is completely at rest. RMR supports breathing, circulating blood, organ functions, and basic neurological functions. It is proportional to lean body mass and decreases approximately 0.01 kcal/min for each 1% increase in body fatness.
+Calculating RMR
+Calorimetry
+Direct calorimetry measures the amount of heat produced by a subject enclosed within a small chamber to calculate energy expenditure. Indirect calorimetry measures oxygen utilization rates via gas analysis to calculate energy expenditure.
+Although direct and indirect calorimetry
+provide accurate estimates of RMR
+, these techniques are
+expensive
+,
+time consuming
+and
+difficult to access
+.
+As a result, more accessible and affordable techniques that estimate RMR have been developed over the past 100 years. They measure this value with varying degrees of accuracy.
+Perhaps the most common methods utilized today are mathematical formulas. You can access these with calorie calculators on the Internet, an app or through wearable devices.
+Here’s an example of one online calculator you can use to find out your RMR:
+NASM Online Calorie Calculator
+Harris and Benedict Equation
+The
+Harris and Benedict (H&B) equation created in 1918
+and
+amended in 1984
+remains widely used today (1-2).
+While it was intended to measure basal metabolic rate (BMR) or basal energy expenditure (BEE), they are used interchangeably with RMR.
+Technically, BMR measures energy expenditure in a darkened room (reclining position) after eight hours of sleep and following a 12-hour fast whereas RMR measurements are less restrictive and reflect the body’s resting energy expenditure after an overnight fast.
+The revised H&B equations for males and females (2) are:
+Men
+: 88.362 + (13.397 × weight in kg) + (4.799 × height in cm) - (5.677 × age in years)
+Women
+: 447.593 + (9.247 × weight in kg) + (3.098 × height in cm) - (4.330 × age in years)
+As an example, for a 38-year old female, who stands 5’6” (167.6 cm) and weighs 145 pounds (65.9 kg), her BMR or RMR would equal approximately 1,411 calories.
+This is the energy needed daily to maintain normal physiological function.
+Mifflin-St Jeor Equation
+The
+Mifflin-St Jeor equation
+, created in the 1990s, provided an alternative and more valid estimate of RMR (3).
+The equations for males and females are:
+Men:
+(10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) + 5
+Women:
+(10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) - 161
+Using that same example and this equation, the female’s RMR would equal approximately 1,356 calories.
+Potential Errors
+At first, this error appears small (i.e., 55 calories), but extrapolated over a one-year period, it amounts to almost six pounds of energy or body weight.
+Furthermore, these formulas also imply that all individuals of the same gender, age, height and weight have the same RMR, a fact that is certainly not accurate. Your
+lean body mass will significantly influence RMR
+and should always be considered.
+Although the Katch-McArdle and Cunningham formulas are derived from lean body mass rather than total body weight, they rely upon an accurate measurement on lean body mass.
+The
+errors of these formulas can be quite significant
+– studies have demonstrated accuracy within
+10% of true RMR
+(Mifflin St Jeor) to
+as high as 36% error in obese individuals
+(H&B) (4-5).
+Although newer equations continue to emerge (e.g., Oxford equations), they are still subject to varying degrees of error.
+Uncontrollable RMR Factors
+Age, genetics and even biological adaptations are just a few non-controllable events.
+Age
+For example, age-related reductions in our resting metabolic rate (RMR) can decrease by approximately
+2% per decade
+after peak growth is attained (late teens for females, early 20’s for men) (6).
+Considering how RMR contributes around 60-to-75% of TDEE, in practical terms this equals approximately 25-to-30 calories per day for the average adult or 2½-to-3 pounds (1.1-1.4 Kg) per year.
+Genetics and Epigenetics
+Genetics and epigenetics can also play a significant role. Over 100 different genes have been identified by scientists that are related to obesity.
+The
+fat mass and obesity-associated gene,
+the
+FTO gene
+, can
+cause people to overeat due to low satiety
+(
+7
+).
+Eating behaviors associated with a low satiety include eating larger portions, preferring calorie-dense foods high in fat and sugar, enjoying palatable foods like appetizers and snacks, and snacking more frequently.
+This FTO gene can also alter RMR by up to 160 calories per day – this amounts to almost 17 pounds (7.5 Kg) over the span of a year.
+Epigenetics
+is the field of study that examines inheritable changes within our genetic expression that occurs without change to our underlying DNA sequence.
+It is both a regular and natural occurrence and is
+influenced by age, environment, diet, geographical location, lifestyle and disease
+.
+Research
+continues to examine potential links between epigenetics and TDEE considering how it can influence food uptake and overall metabolism – possibly altering RMR by a few percentage points or 60-to-75 calories daily (8).
+Controllable RMR Factors
+This list is potentially endless, but the reality is that most fitness professionals usually limit their strategies to exercise,
+macronutrients
+, calories and various stimulants.
+Stimulants
+For example,
+evidence
+supports a temporary thermogenic-boosting effect by 4-to-5% with edibles like caffeine and capsaicin that can amount to approximately 15-to-25 calories in a day (9).
+Lean Body Mass
+Building
+lean body mass
+is another effective method for boosting RMR. Peak muscle mass in humans usually occurs at ages 28-to-32 after which muscle losses begin to occur.
+The ability to preserve muscle mass or even better, build muscle mass can help preserve our age-related losses. Even a small gain of 2-to-4 pounds of muscle mass can provide a 7-to-8% boost in metabolism, which can add approximately 90-to-110 kcal to TDEE per day or 9-to-11 lbs. per year.
+Sleep
+It might interest you to know that even a lack of sleep (i.e., sleep debt) can negatively impact your RMR.
+Low Caloric Intake
+Thirty years of research demonstrates how the practice of eating very low caloric intakes (e.g., starvation, 800-calorie diets) can suppress RMR, a number that by some estimates can be as high as 20%.
+Under this stress, sustained, elevated levels of cortisol can suppress thyroid stimulating hormone production which will ultimately impact thyroid hormones that regulate metabolism.
+Furthermore, these starvation states can also waste away valuable muscle mass which in turn will also reduce RMR.
+To put this into perspective, for a person with an RMR between 1,200 and 1,500 calories, a 20% suppression can amount to 240-to-300 kcal/day or approximately 25-to-31 pounds annually.
+For more on
+hormone production and how it pertains to metabolic function
+, follow the link.
+Assessing Starvation States for Optimal RMR
+So, how do you gauge whether you are in starvation states where RMR might be negatively impacted?
+Formulas as Guidelines
+Unless true RMR is known which can set a minimal threshold for daily caloric intake, you might just be guessing with mathematical formulas (even though the Mifflin St Jeor is probably the best to use).
+An alternative to the BMR formulas is to simply follow the commonly suggested minimal numbers of 1,000-to-1,200 calories for women and 1,200-to-1,600 calories for men.
+These numbers, however, provide estimates at best because the macronutrient composition of a diet (e.g., high protein, fiber), timing and even physical form of food (i.e., liquid versus solid) can all impact TEF, absorption and ultimately RMR.
+Hunger Scale
+The sensation of hunger is another viable option to use as a guide, but the sensation of hunger is considered plastic (i.e., modifiable) and for some, confusion exists in distinguishing hunger from appetite.
+Regardless, the hunger scale can help you gain a sense of whether you are providing adequate food calories to your body to avoid starvation – in other words, the opportunity to
+listen to your body
+.
+Hunger Score
+Description
+1
+Starving, weak, dizzy, headache, lack of concentration
+2
+Irritable, cranky, very hungry, low energy, lots of stomach growling
+3
+Strong urge to eat, stomach growls a little
+4
+Feeling a little hungry – thinking about food
+5
+Body feels fueled (starting to feel satisfied), neither hungry nor full
+6
+Fully satisfied - little full, but pleasantly full
+7
+A little uncomfortable, but could still eat additional item
+8
+Feeling stuffed
+9
+Feel very bloated - very uncomfortable, stomach hurts
+10
+Feel sick from overeating
+Ideally
+, you would spend your waking hours between
+hunger scores of
+4-and-6
+.
+In other words, when a ‘4’ is reached, eat something to prevent dropping to the ‘3’ where ravenous, binge eating is more likely, but learn to stop at a ‘6’ rather than a ‘7’ or higher as many individuals do.
+Hunger vs. Appetite
+Lastly, take the time to understand some basic differences between hunger and appetite which are outlined below:
+Hunger
+It is considered a biological response to replenish the body’s energy reserves.
+Protects us from starvation.
+Usually triggered by an event occurring below the neckline:
+Low blood sugar.
+Empty (growling) stomach.
+Hormone fluctuations.
+Need to warm body (hypothermia).
+Gradual onset, appearing after several hours without food and typically diminishes after eating.
+It is generally satisfied by almost any food that provides energy (calories).
+Appetite
+It is considered a desire or interest to eat a specific food.
+Usually triggered by an event occurring above the neckline consciously or subconsciously:
+Thoughts, emotions and moods.
+Social (e.g., happy hour)
+Cultural (e.g., family)
+Environmental (e.g., walking into a bakery).
+More rapid onset and often independent of hunger.
+Not time-dependent and may persist after eating.
+Usually only satisfied by a specific food (e.g., sweet, salty) which may then evoke emotions and thoughts afterwards (e.g., pleasure, guilt, shame).
+While RMR is an important component of TDEE, an accurate measurement remains elusive for many. Subsequently, we resort to mathematical formulas, but considering their potential errors, the values determined should always be considered a general estimate rather than an accurate value. Given this, there may also be value in including other methods as a guide to avoiding starvation.
+Lastly, while we need to acknowledge the fact that RMR is not entirely controllable, there are some influencing factors we can manipulate and should leverage every opportunity to exploit them.
+Additional Resources to Check out
+5 Things to Know About Your Metabolism
+5 Ways to Speed up your metabolism
+References:
+1.     Harris JA, and Benedict FG, (1918). A Biometric Study of Human Basal Metabolism.
+Proceedings of the National Academy of Sciences of the United States of America
+. 4(12): 370-373.
+2.     Roza AM, and Shizgal HM, (1984). The Harris Benedict equation reevaluated: resting energy requirements and the body cell mass.
+The American Journal of Clinical Nutrition
+, 40(1):168-182.
+3.     Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, and Koh YO, (1990). A new predictive equation for resting energy expenditure in healthy individuals.
+The American Journal of Clinical Nutrition
+, 51(2):241-247.
+4.     Frankenfield D, Roth-Yousey L, and Compher C, (2005). Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults: a systematic review.
+Journal of the American Dietetic Association
+, 105(5):775-789.
+5.     Frankenfield DC, 2013). Bias and accuracy of resting metabolic rate equations in non-obese and obese adults.
+Clinical Nutrition
+, 32(6):976-982.
+6.     Roberts SB, and Dallal GE, (2005). Energy requirements and aging.
+Public Health Nutrition
+, 8(7A):1028-1036.
+7.     Cecil JE, Tavendale R, Watt P, Hetherington MM, and Palmer CNA, (2008). An Obesity-Associated FTO Gene Variant and Increased Energy Intake in Children.
+The New England Journal of Medicine
+, 359:2558-2566.
+8.     Enayet N, (2014). The unknown link: Epigenetics, metabolism and nutrition. The People, Ideas, and Things,
+Journal
+, cycle 5. http://pitjournal.unc.edu/article/unknown-link-epigenetics-metabolism-and-nutrition (retrieved July 17, 2019).
+9.     Hursel R, and Westerterp-Plantenga MS, (2010). Thermogenic ingredients and body weight regulation.
+International Journal of Obesity
+, 34(4):659-669.10.  Omichinski L, (1992).
+You count, calories don’t,
+self-published
+The Author
+Fabio Comana
+Fabio Comana, M.A., M.S., is a faculty instructor at San Diego State University, and University of California, San Diego and the National Academy of Sports Medicine (NASM), and president of Genesis Wellness Group. Previously as an American Council on Exercise (ACE) exercise physiologist, he was the original creator of ACE’s IFT™ model and ACE’s live Personal Trainer educational workshops. Prior experiences include collegiate head coaching, university strength and conditioning coaching; and opening/managing clubs for Club One. An international presenter at multiple health and fitness events, he is also a spokesperson featured in multiple media outlets and an accomplished chapter and book author.
+×
+|
+|
+Related Posts
+CPT
+Weight Loss
+exercise science
+Considering Medication for Obesity? Here's What You Need to Know
+CPT
+Weight Loss
+exercise science
+What is a Mesomorph Diet: Food Lists, Sample Menus, Benefits & Beyond
+CPT
+Weight Loss
+exercise science
+Body Types: Mesomorph, Ectomorph, & Endomorph Explained
+Sign up to receive content, exclusive offers, and much more from NASM!
+Popular
+Recent
+Protein and Weight Loss: How Much Protein Do You Need to Eat Per Day?
+By Brad Dieter
+Banded Clamshell Workout
+By Kinsey Cave
+Sagittal, Frontal and Transverse Body Planes: Exercises & Movements
+By Andrew Payne
+Body Types: Mesomorph, Ectomorph, & Endomorph Explained
+By Kinsey Cave
+Periodization Training Simplified: Your Guide to the Cycles and Phases
+By Andre Adams
+Augie Nieto: 2024 Don Wildman Commitment to Excellence Award Winner
+By Bill Apablasa
+Discussing Alcohol & Nutrition: Making Mindful Choices
+By Darlene Marshall
+Global Wellness Institute: Highlighting The Fitness & Wellness Evolution
+By Rick Richey, MS
+Mindfulness & Drinking: Knowing How Much Alcohol is Too Much
+By NASM
+Here's How to Calculate & Improve Your RMR
+By Dana Bender
+Get NASM Edge App!
+NASM Podcast Network
+NASM Promotions
+Free NASM Courses
+How to Eat Healthy At Home
+The Importance of Foam Rolling
+Downloads
+Exercise Library
+Equipment Library
+© 2024
+NASM, LLC.
+All Rights Reserved.
+Your Privacy Choices
+X
+Start Your Fitness Career Today
+Become A Top-Notch Certified Personal Trainer
+A NASM Advisor will contact you to help you get started.
+Sign Up
+A NASM advisor will contact you to help you get started.
+Get Started

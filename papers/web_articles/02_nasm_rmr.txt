@@ -1,0 +1,259 @@
+KAYNAK: https://blog.nasm.org/resting-metabolic-rate-how-to-calculate-and-improve-yours
+İNDİRME TARİHİ: 2026-03-08 20:25:16
+============================================================
+
+NASM.org
+Fitness
+CPT
+Nutrition
+CES
+Sports Performance
+Workout Plans
+Wellness
+Fitness
+Sports Performance
+wellness
+spotlight
+Here's How to Calculate & Improve Your RMR
+Dana Bender
+|
+Stay Updated with NASM!
+The term “metabolism” often grabs attention, especially in a culture fixated on calorie counting. As a nutrition coach or weight loss specialist, you're probably familiar with the inquiries about how to boost metabolism. This is often associated with a journey from 'fat-to-fit' or 'flab-to-fab,' driven by enhanced caloric expenditure, increased lean body mass, greater fat utilization, and overall weight loss.
+Resting metabolic rate (RMR) is a key player in this process, which explains why it's a hot topic. Let’s dive into exactly what resting metabolic rate is and how to calculate it.
+Table of Contents
+What is Resting Metabolic Rate?
+How to Calculate RMR
+Can You Change Your RMR?
+How to Increase Your RMR for Weight Loss
+Learn critical concepts about metabolism, how they relate to losing or maintaining weight, how to accurately measure it, and more with our
+Metabolic Makeover
+course.
+What is resting metabolic rate?
+Resting metabolic rate is the total number of calories burned when your body is completely at rest. RMR supports breathing, circulating blood, organ functions, and basic neurological functions. It is proportional to lean body mass and decreases approximately 0.01 kcal/min for each 1% increase in body fat.
+RMR is also the foundation of the body’s total daily energy expenditure (TDEE), the amount of energy your body exerts in total throughout the day. Understanding how TDEE and RMR work together can help you with your weight management and fitness goals.
+What is resting energy?
+Metabolism is all the chemical processes needed to convert food into energy, breathe, and maintain organ function. RMR is essentially the minimum number of calories needed for the body to perform all of these necessary functions.
+Total Daily Energy Expenditure (TDEE) is the total calories burned throughout the day from both exercise and bodily processes like metabolism. It essentially accounts for everything your body does internally, plus movement or exercise, throughout the day. RMR is just one component of our TDEE but plays an important role. The higher the RMR, the more calories the body burns at rest.
+TDEE is essentially comprised of three components:
+Resting metabolic rate (RMR): the energy required to keep your body functioning at rest
+The thermic effect of food (TEF): the energy cost of chewing, swallowing, digesting, absorbing and storing food
+The thermic effect of physical activity (TEPA): the energy of activity (e.g., exercise, physical activity) and non-exercise activity thermogenesis (NEAT)*
+*
+Non-exercise Activity Thermogenesis
+(NEAT) are daily activities that burn calories but aren’t planned exercise sessions. Even small, unconscious movements contribute to our TDEE. Here are a few examples of NEAT activities:
+Pacing while on the phone
+Going up and down stairs
+Standing in line
+Fidgeting in transit or while sitting
+Walking to and from your car
+Doing chores around the house
+Resting metabolic rate vs. basal metabolic rate
+Resting metabolic rate and basal metabolic rate are similar. They both measure the number of calories your body burns at rest. But there are differences in how and what exactly they measure.
+Basal metabolic rate
+(BMR)
+is the minimum energy needed for vital functions like breathing, circulation, and organ function.
+BMR can be difficult to measure and needs to be measured under strict conditions.
+Resting
+metabolic rate (RMR) is the rate at which your body burns calories while at rest.
+RMR is usually measured after a light breakfast and rest and tends to be easier to measure than BMR.
+Learn the science of nutrition and use it to promote better health in yourself and others through smarter dietary choices, sustainable change, and a better relationship with food as a
+Certified Nutrition Coach
+.
+How to calculate RMR
+You can calculate RMR using specific equations or calculators, or by going to a clinic and having a health professional measure it for you.
+Resting metabolic rate (RMR) calculator
+Resting metabolic rate calculators are one of the easiest, most affordable ways to calculate RMR. You enter your weight, height, sex, and age into the calculator to provide an estimate. However, the calculators might not be as accurate as other RMR measurements. NASM’s RMR calculator is a great, fairly accurate option.
+NASM Resting Metabolic Rate calculator
+Reminder: This calculation is just an estimate and might not be accurate for everyone.
+Calorimetry
+Another way to calculate resting metabolic rate calculator is calorimetry.
+Calorimetry
+is the science of measuring heat transfer associated with chemical reactions like metabolism.
+There are two types: direct calorimetry or indirect calorimetry.
+Direct calorimetry
+calculates energy expenditure by measuring the amount of heat a subject produces while enclosed within a small chamber.
+Indirect calorimetry
+calculates energy expenditure by measuring oxygen utilization rates through gas analysis.
+Although direct and indirect calorimetry
+provide accurate estimates of RMR
+, these techniques are
+expensive, time consuming, and difficult to access.
+Calculators tend to be easier to use and more affordable, even though they are a little less accurate.
+Harris Benedict equation
+The Harris and Benedict equation was created in 1918 and amended in 1984 and remains widely used today (1-2).
+The Harris Benedict equation for males and females are:
+Males: 88.362 + (13.397 × weight in kg) + (4.799 × height in cm) - (5.677 × age in years)
+Females: 447.593 + (9.247 × weight in kg) + (3.098 × height in cm) - (4.330 × age in years
+For example, a 38-year-old female, who stands 5’6” (167.6 cm) and weighs 145 pounds (65.9 kg), would have an RMR of approximately 1,411 calories. This is the energy she would need daily to maintain normal physiological function.
+Disclaimer: In this article, NASM uses the binary terms “male” and “female” for sex and gender in a scientific context to match standardized scientific language across experiments and studies. This established standard also helps with collection methods and protocols. However, NASM and the scientific community recognize gender diversity and acknowledge the limitations of this binary model.
+How accurate is the Harris Benedict equation?
+Although the Harris Benedict equation is widely used to calculate RMR, it does have some potential errors. Factors like body composition, ethnicity, and certain health conditions can impact the results, like overestimating or underestimating the calorie calculation.
+Also, the Harris Benedict equation doesn’t include daily activity and energy expenditure, which is a significant part of our day. Despite these limitations, this equation can be a great baseline tool to get started.
+Mifflin-St. Jeor equation
+The
+Mifflin-St Jeor equation
+, developed in the 1990s, is an alternative and more valid way to estimate RMR (3).
+The equations for males and females are:
+Males: (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) + 5
+Females: (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) - 161
+Using this equation, a 38-year-old female who is 5’6” (167.6 cm) and weighs 145 lbs (65.9 kg), her RMR would equal approximately 1,356 calories.
+How accurate is the Mifflin-St. Jeor equation?
+The Mifflin-St. Jeor equation is considered a more accurate and reliable RMR calculation method than the Harris Benedict equation takes diverse body compositions and ethnicities into consideration.
+Although the Mifflin-St. Jeor equation is more accurate, like any equation, it is still just an estimate with a marginal risk of error. There are still individual factors that could lead to an inaccurate result.
+RMR calculation clinics
+You can go to places like fitness centers, health labs, nutrition clinics, and hospitals to have a health professional calculate your RMR. Hospitals are the most accurate and most expensive option because professionals use specialized equipment and direct calorimetry to calculate it. This type of calculation can cost from $100 to several hundred dollars per test, depending on the location.
+Nutrition clinics or fitness centers are more cost effective. Dieticians and fitness professionals usually have specialized equipment for RMR calculation, like bio impedance scales. These tests are sometimes free with a gym membership or have an additional cost up to $50.
+Can you change your RMR?
+You can’t change some factors that impact RMR, like genetics, age, sex, and height. But you can make positive lifestyle changes to improve your resting metabolic rate, like doing weight training exercises that help create lean muscle mass over time, or eating a balanced diet and getting enough sleep.
+Uncontrollable RMR factors
+Age
+As you age, your RMR decreases around 2% per decade after initial peak growth (often late teens for females and early twenties for males). That means the average adult burns around 25-30 fewer calories per day (around 2½ to 3 pounds per year) as they age.
+Genetics and epigenetics
+You also can’t control or change your genetics to impact your RMR. Scientists have identified over 100 different genes that can contribute to obesity and negatively impact RMR.
+Epigenetics is the field of study that examines inheritable changes within our genetic expression that occur without any change to our DNA. It can be impacted by age, environment, poor diet, geographical location, lifestyle, and disease. Researchers are looking at the relationship between epigenetics and TDEE, as well as how they both play a role in overall metabolism and RMR.
+Controllable RMR factors
+There are some factors that you can control in order to improve your RMR.
+Lean body mass
+The more lean muscle mass you have, the more calories your body burns at rest. Building more lean muscle mass through regular weight training can help minimize the age-related losses in RMR. Research has shown that even a small gain of two to four pounds of muscle mass can provide a 7
+–
+8% boost in metabolism.
+Sleep
+Sleep
+is another important factor that can impact RMR. If you don’t sleep enough, it can negatively impact your RMR. It’s important to get a good night’s rest: approximately seven to eight hours.
+Caloric intake
+Another factor that can impact RMR is caloric intake. Research shows that eating a very low caloric intake (e.g., starvation, 800-calorie diets) can suppress RMR as much as 20%. Low levels of calories create stress on our body and suppress the hormones that regulate metabolism.
+Everyone has a different ideal calorie range for RMR, but your calorie range should never go below 1,200 calories. Try to eat mindfully and manage your caloric intake in a balanced way. Strict caloric intake can be incredibly dangerous and increase the risk of developing an eating disorder.
+Caloric restriction and strict calorie counting can lead to dangerous eating disorders. If you or someone you know need support with disordered eating, contact the National Eating Disorder Association (NEDA) at
+https://www.nationaleatingdisorders.org/
+or 1-800-931-2237. For the Crisis Text Line, text HOME to 741741.
+Learn more about hormone production and how it pertains to
+metabolic function
+.
+Stimulants
+Research shows that stimulants like
+caffeine
+in moderation can increase RMR by 4
+–
+5% or approximately 15
+–
+25 calories in a day.
+How to increase resting metabolic rate for weight loss
+Calculate your current RMR
+Your current resting metabolic rate (RMR) can help you better understand your nutrition and weight loss goals. You can use a calculator or equation or go to a clinic to calculate your RMR to figure out your starting point for weight loss.
+Develop a nutrition plan
+Once you know your RMR, you can use it to create a healthy diet plan within your ideal calorie range. A consistent, healthy diet can improve your metabolism and positively impact your RMR.
+The macronutrients we eat can impact the Thermic Effect of Food (TEF), or the increase in metabolic rate from eating. Each macronutrient requires a different amount of energy to process. For example, the body requires more energy (20-30% of the food’s calories) to digest and absorb protein, which can help increase TEF. Carbohydrates use 5-10% of calories for TEF, and fat only uses 0-3%.
+Assess your hunger before you eat
+You can use your hunger to help you eat mindfully, but the sensation of hunger can be changeable and confusing to measure. The
+hunger scale
+can help you tell if you’re consuming enough calories to avoid starvation. In other words, listen to your body.
+Hunger Score
+Description
+1
+Starving, weak, dizzy, headache, lack of concentration
+2
+Irritable, cranky, very hungry, low energy, lots of stomach growling
+3
+Strong urge to eat, stomach growls a little
+4
+Feeling a little hungry, thinking about food
+5
+Body feels fueled (starting to feel satisfied), neither hungry nor full
+6
+Fully satisfied, pleasantly full
+7
+A little uncomfortable but could still eat additional item
+8
+Feeling stuffed
+9
+Feeling very bloated, very uncomfortable, stomach hurts
+10
+Feeling sick from overeating
+Ideally, you would spend your waking hours between hunger scores of 4 and 6.
+When you reach a 4, eat something to prevent dropping to the 3 to prevent binge eating. Learn to stop at a 6 for the best RMR. Reaching 7 or higher means you have likely consumed too much.
+Get enough sleep
+Sleep is a critical part of both physical and mental health and can impact everything from mood to our immune system. Sleep debt negatively impacts your RMR, as do inconsistent sleep patterns.
+Set a consistent bed and wake with a positive sleep routine that creates a relaxing, optimal sleep environment. Dim the lights before heading to bed, keep the bedroom dark, and minimize device usage to get a good night’s sleep.
+If you think you might have a sleep disorder, visit the
+National Sleep Disorder Foundation
+. You can also talk with your primary care physician or a sleep specialist.
+Make an exercise plan to increase lean body mass
+You can increase your RMR by having more lean body mass. Make an exercise plan that focuses on building lean body mass. Doing
+weight training exercises
+two to four times a week is a great way to build muscle. You can target all major muscle groups with compound exercises like lunges, squats, push-ups, planks, and rows.
+Add more weight and resistance over time to keep building that lean muscle. Also, as you increase your physical activity level, you need to increase the number of calories you to not slip into starvation mode.
+Use stimulants (within reason)
+Stimulants like caffeine can help increase your RMR if used in moderation. Overconsumption of caffeine and certain stimulants can have negative effects like anxiety, digestive issues, headaches, etc. Talk to a doctor and pay attention to your body’s signals to figure out how much you should use. Try to rely on long-term, sustainable methods like diet and exercise instead.
+Become a Certified Nutrition Coach!
+Want to learn more about the science behind nutrition and how to help clients achieve their health goals? Check out our
+Certified Nutrition Coach
+course to better understand calculating resting metabolic rates and building a personalized plan to improve it.
+What to read next :
+The Blue Zone Diet: What to Eat to Live Longer
+A Quick & Healthy Guide: 4 Easy Steps to Meal Prep
+Considering Medication for Obesity? Here's What You Need to Know
+The Author
+Dana Bender
+Dana Bender, MS, NBC-HWC, ACSM, E-RYT. Dana works as a Wellness Strategy Manager with Vitality and has 15+ years experience in onsite fitness and wellness management. Dana is also a National Board Certified Health and Wellness Coach, an Adjunct Professor with Rowan University, an E-RYT 200 hour Registered Yoga Teacher, AFAA Group Exercise Instructor, ACSM Exercise Physiologist, and ACE Personal Trainer. Learn more about Dana at www.danabenderwellness.com.
+×
+|
+|
+Related Posts
+Fitness
+Sports Performance
+wellness
+spotlight
+Augie Nieto: 2024 Don Wildman Commitment to Excellence Award Winner
+Fitness
+Sports Performance
+wellness
+spotlight
+Discussing Alcohol & Nutrition: Making Mindful Choices
+Fitness
+Sports Performance
+wellness
+spotlight
+Global Wellness Institute: Highlighting The Fitness & Wellness Evolution
+Sign up to receive content, exclusive offers, and much more from NASM!
+Popular
+Recent
+Protein and Weight Loss: How Much Protein Do You Need to Eat Per Day?
+By Brad Dieter
+Banded Clamshell Workout
+By Kinsey Cave
+Sagittal, Frontal and Transverse Body Planes: Exercises & Movements
+By Andrew Payne
+Body Types: Mesomorph, Ectomorph, & Endomorph Explained
+By Kinsey Cave
+Periodization Training Simplified: Your Guide to the Cycles and Phases
+By Andre Adams
+Augie Nieto: 2024 Don Wildman Commitment to Excellence Award Winner
+By Bill Apablasa
+Discussing Alcohol & Nutrition: Making Mindful Choices
+By Darlene Marshall
+Global Wellness Institute: Highlighting The Fitness & Wellness Evolution
+By Rick Richey, MS
+Mindfulness & Drinking: Knowing How Much Alcohol is Too Much
+By NASM
+Here's How to Calculate & Improve Your RMR
+By Dana Bender
+Get NASM Edge App!
+NASM Podcast Network
+NASM Promotions
+Free NASM Courses
+How to Eat Healthy At Home
+The Importance of Foam Rolling
+Downloads
+Exercise Library
+Equipment Library
+© 2024
+NASM, LLC.
+All Rights Reserved.
+Your Privacy Choices
+X
+Start Your Fitness Career Today
+Become A Top-Notch Certified Personal Trainer
+A NASM Advisor will contact you to help you get started.
+Sign Up
+A NASM advisor will contact you to help you get started.
+Get Started

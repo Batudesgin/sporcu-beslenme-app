@@ -1,0 +1,248 @@
+BAŞLIK: NUTRITIONAL FACTORS THAT AFFECT FAT OXIDATION RATES DURING EXERCISE - Gatorade Sports Science Institute
+KAYNAK: https://www.gssiweb.org/sports-science-exchange/article/nutritional-factors-that-affect-fat-oxidation-rates-during-exercise
+TARİH: 2026-03-08 21:19:32
+KELİME: 4838
+============================================================
+
+Skip to main content
+SSE #206
+NUTRITIONAL FACTORS THAT AFFECT FAT OXIDATION RATES DURING EXERCISE
+Published
+July 2020
+Author
+Rebecca K. Randell, PhD; Lawrence L. Spriet, PhD
+Topics
+Sports Nutrition
+,
+Athlete Health
+SSE #206
+NUTRITIONAL FACTORS THAT AFFECT FAT OXIDATION RATES DURING EXERCISE
+In this Article
+KEY POINTS
+Indirect calorimetry is a common noninvasive technique used to study the contribution of fat to energy expenditure during exercise.
+An incremental exercise test has been developed which measures maximal fat oxidation rates (MFO) and the exercise intensity where MFO occurs (FATMAX).
+There is large individual variation in MFO and FATMAX, with new emerging research suggesting that individuals may have a unique fat oxidation curve.
+Ingesting carbohydrate prior to exercise has been found to decrease fat oxidation rates by ~30%.
+Ingestion of green tea, New Zealand blackcurrants (NZBC), caffeine and omega-3 fatty acids have been suggested to increase fat oxidation. Only green tea and NZBC have shown promise, but more research is needed on their effects under exercise conditions and on the mechanism(s) of action.
+Strategies to decrease muscle and/or liver glycogen availability prior to exercise training may increase the adaptation of the pathways that metabolize fat and increase the oxidation of fat during exercise.
+However, increasing fat oxidation during exercise is not associated with improvements in performance.
+INTRODUCTION
+During exercise, the oxidation of fat and carbohydrate (CHO) provides energy for the contracting muscles. Fat is the dominant fuel at low exercise intensities and contributes about 50% of the fuel at exercise intensities of ~50-60% of maximal oxygen uptake (
+V
+O
+2
+max). As exercise intensity increases above ~60-65%
+V
+O
+2
+max there is a shift in energy substrate utilization, with a progressive increase in the relative contribution of CHO and a concomitant decrease in fat to total energy expenditure. The regulation of fat oxidation during exercise has been discussed in a complementary Sports Science Exchange (SSE) article by Spriet and Randell (2020).
+An increase in fat metabolism during exercise may reduce the utilization of the finite sources of CHO, stored in the muscle and liver. This is often seen as attractive for athletes and/or sports practitioners, as it is assumed that the preservation of muscle and liver glycogen (the endogenous stores of CHO) could be readily used for periods of high intensity exercise (for example in stop-and-go sports) and delay fatigue. Increasing the reliance on fat during exercise training may also augment the adaptations that occur in the pathways that metabolize fat in skeletal muscle. The purpose of this SSE article is to examine how manipulations in diet, nutritional supplements and nutritional training strategies may affect fat oxidation during exercise and, where data are available, comment on the potential exercise performance effects.
+FAT OXIDATION RATES IN ATHLETES
+Indirect calorimetry is one of the most widely used techniques to study the contribution of fat to energy expenditure during exercise, due to it being a noninvasive method. In addition, this technique, albeit indirect and requiring a steady state, allows the measurements of fat oxidation during one exercise bout over a wide range of exercise intensities. Achten et al. (2002) developed and validated an incremental test protocol which established maximal fat oxidation (MFO; the highest rate of fat oxidation), as well as the exercise intensity (most commonly represented as the %
+V
+O
+2
+max) where MFO occurred (FATMAX) (Figure 1). First developed on a cycle ergometer, the test involves continuous increases in work rate, every 3 min by 35 W, until exhaustion. Throughout the test breath-by-breath measurements are obtained and rates of fat oxidation are calculated (using stoichiometric equations) for each stage of the test (Jeukendrup & Wallis, 2005). Following this inaugural study a treadmill test protocol was also developed by the same group (Venables et al., 2005).
+Numerous studies have since used this incremental test, performed on either a treadmill or cycle ergometer, to determine MFO rates in trained (Achten et al., 2003), untrained (Stisen et al., 2006) and obese and sedentary (Venables et al., 2005) adults. An interesting observation from these data was that large inter-individual differences existed in both MFO and FATMAX, within each study, and between studies that have recruited similar participants in terms of fitness level, age and body composition. In a study by Randell et al. (2017), 1,121 athletes ranging in age, competitive level (recreational – elite/professional) and sport completed a single incremental test in a fasted state (≥ 5 h). On average, the MFO rate in this athletic population was 0.59 ± 0.18 g∙min
+-1
+. However, this study also found large individual variations in MFO between all athletes (range, 0.17 – 1.27 g∙min
+-1
+) and within sports (Table 1).
+To understand why this variation exists, studies have investigated the variables which may predict MFO. It has been found that body composition, level of fitness, gender and diet accounts for ~50% of the variation in MFO (Fletcher et al., 2017; Randell et al., 2017; Venables et al., 2005). More specifically, in two large-scale studies fat free mass (FFM) was found to be the single most significant variable in predicting MFO, proposing that individuals with greater FFM often exhibit higher MFO (Randell et al., 2017; Venables et al., 2005). However, it is still to be determined what accounts for the remaining 50% of MFO variance.
+Maximal Fat Oxidation Rate (g∙min
+-1
+)
+FATMAX (%
+V
+O
+2
+max)
+Mean
+Range
+Mean
+Range
+Soccer (N = 283)
+0.58
+0.17 – 1.11
+51.8
+22.9 – 88.8
+Basketball (N = 164)
+0.65
+0.22 – 1.20
+49.8
+23.3 – 88.6
+Tennis (N = 143)
+0.51
+0.25 – 0.88
+47.5
+25.4 – 84.4
+Baseball (N = 125)
+0.54
+0.25 – 0.94
+44.8
+24.1 – 87.5
+American Football (N = 84)
+0.65
+0.27 – 1.27
+43.7
+23.3 – 79.2
+Golf (N = 60)
+0.49
+0.21 – 0.97
+47.1
+22.6 – 86.9
+Field Hockey/ Lacrosse (N = 60)
+0.63
+0.31 – 1.04
+47.2
+25.3 – 77.0
+Rugby (N = 47)
+0.72
+0.38 – 1.09
+53.5
+24.6 – 79.2
+Table 1.
+It should be noted that in the aforementioned studies, only one incremental exercise test was performed, with the focus on reporting MFO rates and FATMAX. Unpublished observations from the Randell et al. (2017) study showed that each individual appeared to have a unique fat oxidation curve. However, as only a single test was performed it could not be determined if the curve would be similar, within individuals, if tested on multiple occasions.
+Recently, a study by Randell et al. (2019) reported fat oxidation curves from professional soccer players tested on two occasions, separated by a year. Interestingly, it was observed that in 13 out of the 16 players (80%) no differences were found in the shape of the fat oxidation curve, when the two tests were compared. However, in 6/16 players there was a difference in the vertical shift of the curve year-on-year. Additionally, a recent publication found large day-to-day variability in MFO (Coefficient of Variation (CV) 21%) and FATMAX (CV 26%), in a heterogenous population, when tested on two occasions (Chrzanowski-Smith et al., 2020). These data suggest that although individuals may have a unique fat oxidation curve shape, the height (i.e., the capacity to oxidize fat) is more susceptible suspectable to change and repeated tests should be performed to more accurately determine MFO and FATMAX on an individual basis.
+NUTRITIONAL FACTORS THAT AFFECT FAT OXIDATION
+Many factors are attributed to having a direct or indirect effect on increasing fat oxidation rates during exercise. The regulation of fat metabolism in skeletal muscle during exercise and the adaptations that occur with regular endurance training that increases the capacity of skeletal muscle to oxidize fat and increase whole body MFO have been addressed in an accompanying SSE article (Spriet & Randell, 2020). In addition, and although outside the scope of this SSE, it should be noted that sex differences exist in fat oxidation during exercise and the reader is referred to the recent review by Purdom et al. (2018), as this topic will not be covered here.
+Pre-Exercise Feeding
+It has been repeatedly demonstrated that CHO ingestion pre-exercise results in reduced fat oxidation during subsequent exercise. This is due to the resultant rise in insulin concentrations, which are known to inhibit fat oxidation (Horowitz et al., 1997; Sidossis et al., 1996). These studies also report the effect of CHO ingestion on substrate metabolism during prolonged exercise (Horowitz et al., 1997; Sidossis et al., 1996).
+In terms of CHO feeding and the effects on FATMAX and MFO, Achten and Jeukendrup (2003) fed 75 g of glucose, or a non-CHO placebo control, 45-min prior to an incremental test performed on a cycle ergometer. In the placebo trial MFO was 0.46 ± 0.06 g∙min
+-1
+and FATMAX occurred at an exercise intensity of 60.1 ± 1.9%
+V
+O
+2
+max. However, in the CHO trial, MFO was reduced by ~30% (0.33 ± 0.06 g∙min
+-1
+) and FATMAX occurred at a lower exercise intensity (52.0 ± 3.4%
+V
+O
+2
+max). It should be highlighted that the type and timing of CHO delivered in this study was not entirely representative of an athlete’s pre-exercise meal. Thus, more research is warranted to investigate the effects of a high CHO meal, ingested 3-4 hours prior to an incremental test, on MFO and FATMAX.
+Nutritional Supplements
+There is currently an abundance of commercially available supplements referred to as “fat burners.”
+More specifically, some of these supplements contain ingredients which are associated with increasing fat oxidation during exercise (for a detailed review, see Jeukendrup & Randell, 2011).
+Green Tea
+Green tea leaves are nonoxidized/nonfermented and therefore contain high quantities of catechin-polyphenols, of which the most abundant is (-)-epigallocatechin-3-gallate (EGCG). Green tea or green tea extract (GTE), due to the large polyphenol content, has been studied extensively due to its potential ability to increase thermogenesis and fat metabolism (Hodgson et al., 2013). A meta-analysis conducted by Hursel et al. (2011) reported a 16% increase in fat oxidation at rest when a GTE (including caffeine) had been consumed; however, only six studies were included in the analysis. During exercise, studies which have investigated the effects of GTE supplementation on fat oxidation rates have reported equivocal findings. Venables et al. (2008) found a 17% increase in fat oxidation rates during a 30-min steady state cycle performed at 60%
+V
+O
+2
+max following an acute dose of GTE consumed prior to exercise, compared to placebo. To determine if fat oxidation was further augmented with longer term supplementation, Randell et al. (2013) compared the effects of 1-day and 7-day GTE ingestion compared to placebo. Despite an increase in plasma levels of EGCG (the putative bioactive component of green tea), mean fat oxidation rates during a 60-min cycle at 50%
+W
+max in the two green tea trials did not differ from the placebo trial. In a follow-up study, 4-week ingestion of GTE also failed to increase fat oxidation rates during steady state exercise (30-min cycle at 50%
+W
+max) (Randell et al., 2014).
+Unpublished findings by Randell (2013) investigated the effects of acute GTE supplementation on fat oxidation during an incremental exercise test. Again, no statistically significant differences were observed in MFO or FATMAX between the GTE vs. placebo trial. Taken together it appears that green tea ingestion may increase fat oxidation at rest (although data are limited). However, the effects, if any, are not as apparent during exercise conditions, and it could be concluded that GTE is unable to augment fat oxidation over and above the exercise stimulus alone.
+Blackcurrant
+Blackcurrant is another ingredient which has gained attention in the scientific literature for increasing fat oxidation during exercise. Blackcurrant ingestion has been found to increase peripheral blood flow (Matsumoto et al., 2005), and therefore, the theory suggests that delivery of fat substrate to the contracting muscles may be increased for potential oxidation. In support, Cook et al. (2015)found a significant increase (27%) in fat oxidation during moderate intensity exercise (65%
+V
+O
+2
+max), following a 7-day supplementation period of 300 mg/d of New Zealand Blackcurrants (NZBC) in male participants. This increase (27%) was also found in females when a higher dose (600 mg/d) of NZBC was consumed for a 7-day period (Strauss et al., 2018). Furthermore, when 15 endurance trained males consumed 0, 300, 600 or 900 mg/d of NZBC for 7-days, prior to a 120 min steady state cycle bout, a 22% and 24% increase in fat oxidation was found only in the higher dose trials (600 and 900 mg/d, respectively) (Cook et al., 2017). Mechanistic studies into this area are limited, but it is speculated that the upregulation of fat metabolism following ingestion of blackcurrants could be multifaceted, including the aforementioned increase in blood flow (Matsumoto et al., 2005) and upregulation of metabolic pathways (for a detailed review see Cook & Willems, 2019). It should be noted that to date, the proposed mechanisms have not been investigated under exercise conditions.
+Caffeine and Omega Fatty Acids
+It is also prudent to mention that research has examined whether ingestion of caffeine and omega-3 fatty acids (FAs) may have the potential to increase fat oxidation during exercise. Caffeine ingestion at moderate to high doses (~5-9 mg/kg/body mass (bm)) has been found to increase resting free fatty acids (FFA) and glycerol concentrations, but many studies have not reported concomitant increases in fat oxidation rates (Graham et al., 2000; Spriet, 2014). Any increases in fat metabolism would occur only in the initial minutes of exercise as plasma [FFA] are quickly reduced at the onset of exercise. In addition, with the more common lower doses of caffeine (~3 mg/kg/bm) used in contemporary research, no increases in [FFA] or fat oxidation have been reported (Spriet, 2014).
+It has also been demonstrated that ingested omega-3 FAs incorporate into skeletal muscle membrane phospholipids (Gerling et al., 2019) and may influence the permeability and fluidity of the membrane, and subsequently alter the metabolic processes of this tissue (Jeromson et al., 2015). A study by Logan and Spriet (2015) reported an increase in resting metabolic rate (14%), resting fat oxidation (19%), exercise energy expenditure (10%) and exercise fat oxidation (27%), following 12-weeks of omega-3 FA supplementation in older, very inactive females. However, when the same supplementation protocol was administered to young healthy male subjects, and a mixed group of active older men and women, no changes in resting metabolic rate or substrate metabolism were observed (Jannas-Vela et al., 2017; 2020). To date, the literature examining the effects of omega-3 FA supplementation on fat metabolism is limited, especially during exercise, and warrants further investigation.
+NUTRITIONAL TRAINING STRATEGIES
+Undergoing endurance training with low muscle and/or liver glycogen availability has been found, on the whole, to increase the expression of genes involved in fat metabolism in human skeletal muscle (Impey et al., 2018). Strategies used to decrease muscle and/or liver glycogen content include training twice a day, sleep low and/or consuming a high fat diet, and will be briefly discussed here (also see Burke & Hawley, 2018;Impey et al., 2018 for detailed reviews).
+Training Twice a Day
+This method of manipulating fuel availability involves twice-a-day training in which the second session is performed with low muscle glycogen availability (by reducing CHO intake post session one). Training with low muscle glycogen, for as little as 3-weeks, has been found to increase the expression of fat metabolism enzymes along with a concomitant increase in fat oxidation by ~25% in well trained cyclists (Hulston et al., 2010). However, it should be highlighted that this training method (twice a day), often reduces the exercise intensity at which the second exercise bout can be performed. Thus, this type of training regime should only be implemented at specific times of the season when training adaptation is the primary goal (and not performance).
+Train High, Sleep Low
+The premise of the “train high, sleep low” approach involves the manipulation of CHO intake around the exercise training sessions. In a study by Lane et al. (2015)participants consumed a CHO meal (8 g/kg/bm) before an evening session of high-intensity exercise and then slept without eating (FASTED), or consumed a 4 g/kg/bm CHO meal prior to and following the exercise session (FED). In addition, a steady state cycle bout was performed the morning after. The rationale behind this strategy is that the acute restriction of CHO in the FASTED condition prolongs the duration of low CHO availability, and as a consequence, the time course of metabolic gene expression (as well as their targeted proteins) will be extended and possibly augmented. In line with the hypothesis, the expression of fat metabolism genes and synthesis of fat metabolism proteins, were elevated in the FASTED condition compared to FED, and this was accompanied with a 21% increase in fat oxidation during the steady state exercise bout. However, further work in this area has produced equivocal findings, as Marquet et al. (2016a) found no change in substrate utilization following a one-week intervention of sleep low. In addition, no differences in fat oxidation were observed during submaximal exercise when the “train high, sleep low” method was incorporated for a longer period of time (3-week) (Marquet et al., 2016b). However, in the two aforementioned studies, muscle biopsies were not undertaken and therefore it is unknown what, if any, adaptations occurred at the molecular level.
+Fasted Training
+Another regimen that is often utilized by athletes is training in the morning following an overnight fast, with no food ingested prior to or during exercise. This training protocol is often referred to as “fasted training” and has been associated with an increased oxidative capacity of the muscle. It is important to note that in this situation muscle glycogen concentrations may be normal or high, but liver glycogen is low.
+In a study by De Bock et al. (2008)moderately active males underwent an endurance training programme for 6-weeks, performed either in a fed or fasted state. Following the 6-week training period, fat metabolism proteins increased to a greater extent in the fasted group compared to the fed group. However, no differences were found in fat oxidation rates between the two groups, but the consumption of CHO during the exercise bouts may have prevented any changes in fat oxidation. In addition, a similar study from the same research laboratory, observed greater intramuscular triglyceride breakdown during exercise following a period of fasted training compared to fed training. Again, no differences were found in fat oxidation rates. However, the authors state that the post-training exercise bout may have been performed at an intensity below FATMAX and, as such, lower fat oxidation rates were observed (Van Proeyen et al., 2011).
+High Fat Diets and Training
+It has also been suggested that elevating circulating FFA (through consumption of a low CHO-high fat diet (LCHF)) may upregulate pathways involved in fat metabolism. In an eloquent study by Burke et al. (2017),elite endurance athletes underwent a 3-wk training period with either high CHO availability, periodized CHO availability, or a LCHF. Following the 3-wk period, a 2.5-fold increase in fat oxidation was observed in the LCHF group (0.62 vs. ~1.5 g∙min
+-1
+pre vs. post, respectively), compared to the other groups. However, CHO oxidation was significantly compromised in the LCHF group as well as running economy during a simulated race, which could explain the slower performance time in this group. Although data are limited in this area, this suggests that a LCHF diet is to be avoided in elite athletes during endurance events if performance is key.
+PRACTICAL APPLICATIONS AND CONCLUSION
+It appears that different strategies can be employed to either increase or decrease fat oxidation during exercise. CHO feeding prior to exercise has been found to decrease fat oxidation by ~30%. On the other hand, there is emerging evidence that certain supplements (i.e., NZBC) may increase fat oxidation by ~20%. Furthermore, decreasing muscle and/or liver glycogen content or consuming a LCHF diet may augment fat oxidation between 20-60% during exercise (Figure 2). Increasing the reliance on fat during exercise may also augment the training-induced adaptations in the pathways that metabolize fat in skeletal muscle. However, it should be highlighted that increasing fat oxidation during exercise is not associated with improvements in performance. Therefore, methods to increase fat metabolism should be incorporated into training programs at specific times of the athlete’s season, not associated with competitions.
+Rebecca Randell is employed by the Gatorade Sports Science Institute, a division of PepsiCo, Inc. The views expressed are those of the authors and do not necessarily reflect the position or policy of PepsiCo, Inc.
+Table and Figure Legends
+Table 1.
+Maximal fat oxidation rates and FATMAX in different sports. VO
+2
+max, maximal oxygen uptake. FATMAX, percent of VO
+2
+max where the rate of fat oxidation is maximal.
+Figure 1
+. Example of a fat oxidation curve (adapted from Achten et al., 2002). MFO, maximal rate of fat oxidation; FATMAX, percent of maximal oxygen uptake (VO
+2
+max) where the rate of fat oxidation is maximal.
+Figure 2.
+Hypothetical changes in fat oxidation depending on the nutritional intervention employed. LCHF = low carbohydrate (CHO) high fat. Shaded area depicts the potential 20-60% increase in fat oxidation due to LCHF diet. VO
+2
+max, maximal oxygen uptake.
+REFERENCES
+Achten, J., and A.E. Jeukendrup (2003). The effect of pre-exercise carbohydrate feedings on the intensity that elicits maximal fat oxidation. J. Sports Sci. 21:1017-1024.
+Achten, J., M. Gleeson, and A. E. Jeukendrup (2002). Determination of the exercise intensity that elicits maximal fat oxidation. Med. Sci. Sports Exerc. 34:92-97.
+Achten, J., M.C. Venables, and A.E. Jeukendrup (2003). Fat oxidation rates are higher during running compared with cycling over a wide range of intensities. Metabolism 52:747-752.
+Burke, L.M., and J.A. Hawley (2018). Swifter, higher, stronger: What's on the menu? Science 362:781-787.
+Burke, L.M., M.L. Ross, L.A. Garvican-Lewis, M. Welvaert, I.A. Heikura, S.G. Forbes, J.G. Mirtschin, L.E. Cato, N. Strobel, A.P. Sharma, and J.A. Hawley (2017). Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers. J. Physiol. 595:2785-2807.
+Chrzanowski-Smith, O.J., R.M. Edinburgh, M.P. Thomas, N. Haralabidis, S. Williams, J.A. Betts, and J.T. Gonzalez (2020). The day-to-day reliability of peak fat oxidation and FATMAX. Eur. J. Appl. Physiol. Epub ahead of print.
+Cook, M.D., and M.E.T. Willems (2019). Dietary anthocyanins: a review of the exercise performance effects and related physiological responses. Int. J. Sport Nutr. Exerc. Metab. 29:322-330.
+Cook, M.D., S.D. Myers, S.D. Blacker, and M.E. Willems (2015). New Zealand blackcurrant extract improves cycling performance and fat oxidation in cyclists. Eur. J. Appl. Physiol. 115:2357-2365.
+Cook, M.D., S.D. Myers, M.L. Gault, V.C. Edwards. and M.E.T. Willems (2017). Dose effects of New Zealand blackcurrant on substrate oxidation and physiological responses during prolonged cycling. Eur. J. Appl. Physiol. 117:1207-1216.
+De Bock, K., W. Derave, B.O. Eijnde, M.K. Hesselink, E. Koninckx, A.J. Rose, P. Schrauwen, A. Bonen, E.A. Richter, and P. Hespel (2008). Effect of training in the fasted state on metabolic responses during exercise with carbohydrate intake. J. Appl. Physiol. 104:1045-1055.
+Fletcher, G., F.F. Eves, E.I. Glover, S.L. Robinson, C.A. Vernooij, J.L. Thompson, and G.A. Wallis (2017). Dietary intake is independently associated with the maximal capacity for fat oxidation during exercise. Am. J. Clin. Nutr. 105:864-872.
+Gerling, C.J., K. Mukai, A. Chabowski, G.J.F. Heigenhauser, G.P. Holloway, L.L. Spriet, and S. Jannas-Vela (2019). Incorporation of omega-3 fatty acids into human skeletal muscle sarcolemmal and mitochondrial membranes following 12 weeks of fish oil supplementation. Front. Physiol. 10:348.
+Graham, T.E., J.W. Helge, D.A. MacLean, B. Kiens, and E.A Richter (2000). Caffeine ingestion does not alter carbohydrate or fat metabolism in skeletal muscle during exercise. J. Physiol. 529:837–847.
+Hodgson, A.B., R.K. Randell, and A.E. Jeukendrup (2013). The effect of green tea extract on fat oxidation at rest and during exercise: evidence of efficacy and proposed mechanisms. Adv. Nutr. 4:129-140.
+Horowitz, J.F., R. Mora-Rodriguez, L.O. Byerley, and E.F. Coyle (1997). Lipolytic suppression following carbohydrate ingestion limits fat oxidation during exercise. Am. J. Physiol. 273:E768-775.
+Hulston, C.J., M.C. Venables, C.H. Mann, C. Martin, A. Philp, K. Baar, and A.E. Jeukendrup (2010). Training with low muscle glycogen enhances fat metabolism in well-trained cyclists. Med. Sci. Sports Exerc. 42:2046-2055.
+Hursel, R., W. Viechtbauer, A.G. Dulloo, A. Tremblay, L. Tappy, W. Rumpler, and M.S. Westerterp-Plantenga (2011). The effects of catechin rich teas and caffeine on energy expenditure and fat oxidation: a meta-analysis. Obes. Rev. 12:e573-581.
+Impey, S.G., M.A. Hearris, K.M. Hammond, J.D. Bartlett, J. Louis, G.L. Close, and J.P. Morton (2018). Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. Sports Med. 48:1031-1048.
+Jannas-Vela, S., K. Roke, S. Boville, D.M. Mutch, and L.L. Spriet (2017). Lack of effects of fish oil supplementation for 12 weeks on resting metabolic rate and substrate oxidation in healthy young men: a randomized controlled trial. PLoS One 12:e0172576.
+Jannas-Vela, S., S.L. Klingel, D.T. Cervone, K.A. Wickham, G.J.F. Heigenhauser, G.P. Holloway, D.M. Mutch, and L.L. Spriet (2020). Skeletal muscle sarcoplasmic reticulum and sodium potassium ATPase activities are not affected by fish oil in healthy older adults. Physiol. Rep. 8:e14408.
+Jeromson, S., I.J. Gallagher, S.D. Galloway, and D.L. Hamilton (2015). Omega-3 fatty acids and skeletal muscle health. Mar. Drugs 13:6977-7004.
+Jeukendrup, A.E., and G.A. Wallis (2005). Measurement of substrate oxidation during exercise by means of gas exchange measurements. Int. J. Sports Med. 26 Suppl 1:S28-S37.
+Jeukendrup, A.E., and R.K. Randell (2011). Fat burners: nutrition supplements that increase fat metabolism. Obes. Rev. 12:841-851.
+Lane, S.C., D.M. Camera, D.G. Lassiter, J.L. Areta, S.R. Bird, W.K. Yeo, N.A. Jeacocke, A. Krook, J.R. Zierath, L.M. Burke, and J.A. Hawley (2015). Effects of sleeping with reduced carbohydrate availability on acute training responses. J. Appl. Physiol. 119:643-655.
+Logan, S.L., and L.L. Spriet (2015). Omega-3 fatty acid supplementation for 12 weeks increases resting and exercise metabolic rate in healthy community-dwelling older females. PLoS One 10:e0144828.
+Marquet, L.A., C. Hausswirth, O. Molle, J.A. Hawley, L.M. Burke, E. Tiollier, and J. Brisswalter (2016a). Periodization of carbohydrate intake: short-term effect on performance. Nutrients 8:E755.
+Marquet, L.A., J. Brisswalter, J. Louis, E. Tiollier, L.M. Burke, J.A. Hawley, and C. Hausswirth (2016b). Enhanced endurance performance by periodization of carbohydrate intake: "sleep low" strategy. Med. Sci. Sports Exerc. 48:663-672.
+Matsumoto, H., E. Takenami, K. Iwasaki-Kurashige, T. Osada, T. Katsumura, and T. Hamaoka (2005). Effects of blackcurrant anthocyanin intake on peripheral muscle circulation during typing work in humans. Eur. J. Appl. Physiol. 94:36-45.
+Purdom, T., L. Kravitz, K. Dokladny, and C. Mermier (2018). Understanding the factors that effect maximal fat oxidation. J. Int. Soc. Sports Nutr. 15:3.
+Randell, R.K. (2013). Factors affecting fat oxidation in exercise. Ph.D Thesis, University of Birmingham.
+Randell, R.K., A.B. Hodgson, S.B. Lotito, D.M. Jacobs, N. Boon, D.J. Mela, and A.E. Jeukendrup (2013). No effect of 1 or 7 d of green tea extract ingestion on fat oxidation during exercise. Med. Sci. Sports Exerc. 45:883-891.
+Randell, R.K., A.B. Hodgson, S.B. Lotito, D.M. Jacobs, M. Rowson, D.J. Mela, and A.E. Jeukendrup (2014). Variable duration of decaffeinated green tea extract ingestion on exercise metabolism. Med. Sci. Sports Exerc. 46:1185-1193.
+Randell, R.K., I. Rollo, T.J. Roberts, K.J. Dalrymple, A.E. Jeukendrup, and J.M. Carter (2017). Maximal fat oxidation rates in an athletic population. Med. Sci. Sports Exerc. 49:133-140.
+Randell, R.K., J.M. Carter, A.E. Jeukendrup, M.A. Lizarraga, J.I. Yanguas, and I. Rollo (2019). Fat oxidation rates in professional soccer players. Med. Sci. Sports Exerc. 51:1677-1683.
+Sidossis, L.S., C.A. Stuart, G.I. Shulman, G.D. Lopaschuk, and R.R. Wolfe (1996). Glucose plus insulin regulate fat oxidation by controlling the rate of fatty acid entry into the mitochondria. J. Clin Invest. 98:2244-2250.
+Spriet, L.L. (2014). Exercise and sport performance with low doses of caffeine. Sports Med. 44:S175-S184.
+Spriet, L.L., and R.K. Randell (2020). Regulation of fat metabolism in skeletal muscle during exercise. SSE #205.
+Stisen, A.B., O. Stougaard, J. Langfort, J.W. Helge, K. Sahlin, and K. Madsen (2006). Maximal fat oxidation rates in endurance trained and untrained women. Eur. J. Appl. Physiol. 98:497-506.
+Strauss, J.A., M.E.T. Willems, and S.O. Shepherd (2018). New Zealand blackcurrant extract enhances fat oxidation during prolonged cycling in endurance-trained females. Eur. J. Appl. Physiol. 118:1265-1272.
+Van Proeyen, K., K. Szlufcik, H. Nielens, M. Ramaekers, and P. Hespel (2011). Beneficial metabolic adaptations due to endurance exercise training in the fasted state. J. Appl. Physiol. 110:236-245.
+Venables, M.C., J. Achten, and A.E. Jeukendrup (2005). Determinants of fat oxidation during exercise in healthy men and women: a cross-sectional study. J. Appl. Physiol. 98:160-167.
+Venables, M.C., C.J. Hulston, H.R. Cox, and A.E. Jeukendrup (2008). Green tea extract ingestion, fat oxidation, and glucose tolerance in healthy humans. Am. J. Clin. Nutr. 87:778-784.
+Recommended Reading
+October 2025
+SSE #269 THE IMPACT OF PROTEIN QUANTITY, QUALITY, DISTRIBUTION, AND FOOD MATRIX ON MUSCLE PROTEIN SYNTHESIS
+September 2025
+SSE #268 FUELING PERFORMANCE STARTS WITH SLEEP: HOW SLEEP LOSS UNDERMINES NUTRITIONAL GOALS
+September 2025
+SSE #267 FUNCTIONAL INGREDIENTS FOR THE ATHLETE AND BEYOND
+Download
+Share
+Site search
+Clear
+Search
+Continuing Education(6)
+Sports Science Exchange(3)
+Research(3)
+Expert Panel (3)
+GSSIU (3)
+Cohorts (3)
+About: (3)
+Continuing Education (6)
+Sports Science Exchange(3)
+Research(3)
+GSSIU(3)
+Expert Panel:(3)
+Cohorts:(3)
+About(3)
+Thank you for your patience while we search our large sports science library
+Enter text to begin searching

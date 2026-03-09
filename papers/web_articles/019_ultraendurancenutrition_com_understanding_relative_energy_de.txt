@@ -1,0 +1,94 @@
+BAŞLIK: Understanding Relative Energy Deficiency in Sport
+KAYNAK: https://ultraendurancenutrition.com/understanding-relative-energy-deficiency-in-sport-key-updates-and-reflections/
+TARİH: 2026-03-08 21:18:36
+KELİME: 2094
+============================================================
+
+Relative Energy Deficiency in Sport (RED-S): Key Updates for Nutrition Practitioners
+October 5, 2024
+Dr. Paul Fairbairn
+TLDR:
+Relative Energy Deficiency in Sport (RED-S) arises from prolonged low energy availability, impacting various physiological systems and performance.
+The 2023 IOC consensus emphasises its relevance across all athlete populations, introduces the RED-S CAT2 assessment tool, and distinguishes between adaptable and problematic LEA.
+While LEA remains central, it’s crucial to consider other contributing factors like psychological stress and training load.
+A holistic, multidisciplinary approach is essential for effective prevention and management.
+Recently two defining articles have been published that every practitioner working with athletes should be aware of. The first is the International Olympic Committee (IOC) consensus statement on relative energy deficiency in sport (RED-S). The second, a more recent article, provides a constructive yet critical analysis of that IOC statement. As with a lot of models there can be differences in opinions within the scientific community on the interpretation of the research. I believe as practitioners its important to understand both perspectives to help us make informed decisions to best support the athletes we work with. This articles covers my reflections on these key publications and how this influences the work I do as a performance nutritionist.
+What is RED-S?
+RED-S was introduced by the International Olympic Committee (IOC) in 2014 as an expansion of the Female Athlete Triad, addressing both male and female athletes. It describes a syndrome of negative health and performance outcomes caused by prolonged Low Energy Availability (LEA), where athletes fail to consume enough energy to support both training and basic physiological functions.
+According to the IOC’s 2023 update, RED-S can lead to:
+Decreased metabolic rate
+Reproductive health issues (e.g., menstrual disturbances)
+Poor bone health (lower bone density, higher injury risk)
+Compromised immune function
+Cardiovascular and gastrointestinal problems
+Psychological issues like reduced cognitive function and low mood
+Key Updates within the 2023 IOC Consensus
+In their latest consensus, the IOC reiterates that LEA is central to the RED-S model but recognises the complexity of diagnosis and management. There are a lot of factors that can contribute towards low energy availability. You could have one athlete who has a naturally low appetite and a high training load, meaning they struggle to eat enough despite wanting to adequately fuel. They could simply need some education and support from their nutritionist on how to increase their energy intake. Alternatively you could also have an athlete in the grips of a complex eating disorder who is going to need much more support from a range of professionals. Both have low energy availability but the way that’s going to be supported is very different.
+Updated Physiological Model
+The scope of symptoms has expanded, and the model now includes a wider array of consequences, including mental health impacts and additional physiological systems.
+RED-S CAT2 Tool
+The IOC introduced an improved Clinical Assessment Tool (CAT2) to attempt to diagnose RED-S more effectively. This tool helps practitioners stratify athletes based on their risk levels, offering guidelines for return-to-play decisions.
+Focus on Male Athletes and Para-Athletes
+The new guidelines emphasize that RED-S affects male athletes and athletes with disabilities, populations that have historically received less attention. Whilst women remain more at risk for RED-S it’s important we also consider a broader range of athletes within these conversations.
+Prevention and Awareness
+The IOC stresses the importance of early detection through regular screenings and education for athletes and coaches. Preventing LEA through proper nutrition planning and lifestyle management is key to avoiding the condition altogether. This is part of the reason why I believe everyone working in sport should have some level of awareness of RED-S and LEA. Although the diagnosis and treatment of RED-S might involve a host of specialist practitioners, providing consistent messaging around sufficient energy intake and sensible training loads, as well as being able to spot potential signs and sometimes of low energy availability is a role that can really be taken up by anyone within sport.
+The Introduction of Adaptable LEA
+The consensus statement makes a key distinction between adaptable and problematic LEA. Adaptable LEA refers to situations where an athlete may experience a period of low energy availability without experiencing significant health issues or performance declines. This could be due to the severity of the LEA or the length of time spent in a low energy state. As someone who has worked with weight classified athletes. Problematic LEA, on the other hand, occurs when LEA is prolonged or severe enough to cause lasting negative effects on health and performance. This is the stage where athletes may develop symptoms of RED-S. Problematic LEA is associated with more severe consequences and requires targeted interventions to prevent long-term damage.
+I think this is a really important distinction as it highlights that not all LEA is inherently harmful, and that the severity and duration of the energy deficit play a crucial role in determining whether it leads to RED-S. I pride myself in prioritising the athletes health and I have always been somewhat concerned about having athletes sit at quite low energy intakes, but also conscious that without this they simply won’t make the weight required for their competition. This updates falls in line with some case studies from weight classified sports where even very low energy intakes of 20kcal/kg of fat free mass over a short period of time did not seem to have any negative physiological impacts. That being said this should not be an excuse to have weight classified athletes engage in more extreme weight cuts just because it might not do any harm, I think we have enough of that already and this culture still needs to be challenged. There are very real harms that can come from rapid weight loss and weight classified athletes need careful coaching and monitoring throughout any weight cut.
+Criticism of the Current RED-S Model
+While the IOC’s updates offer valuable insights, a recent paper challenges several aspects of the RED-S model. Here are some of the main critiques:
+LEA as the Sole Cause?
+The authors argue that positioning LEA as the primary cause of RED-S oversimplifies the issue. In reality, many of the symptoms linked to RED-S, for example, fatigue, poor performance, mood disturbances can stem from other factors like psychological stress, inadequate recovery, or even unrelated medical conditions. Some of these factors might leads to symptoms independent of any impact they have on energy expenditure. I think this is a fair argument supported by evidence. For example whilst high levels of psychological stress or poor sleep can influence eating behaviour they can also impact both health and performance outcomes independent of any effect that have on the energy balance equation. So we understand that energy availability is important but if we view everything through a calorie-centric lens the answer is always going to be to related to energy intake or expenditure, when actually the factors that contribute towards energy availability or these symptoms of RED-S can be multifaceted. As such, practitioners should avoid an exclusive focus on LEA and consider multiple causes of issues related to health and performance.
+Symptom-Based Diagnosis
+One major challenge of the RED-S model is the reliance on symptoms for diagnosis. Many symptoms attributed to RED-S, such as fatigue, poor sleep, or low mood, are generic and could be caused by various factors. There are also questions on the validity of tools including the new RED-S CAT2, suggesting that they may not accurately capture all contributing factors to an athlete’s health. Instead the authors recommend using a broader framework. They propose the Athlete Health and Readiness Checklist (AHaRC), which looks at an athlete’s overall well-being considering training load, psychological health, sleep quality, and stress management. This more comprehensive approach allows practitioners to screen and address multiple factors simultaneously.
+Questions on the Evidence Underpinning the RED-S Model
+A consistent critique of our current understanding of RED-S is that it’s quite reliant on observational evidence especially cross-sectional studies which are especially weak when it comes to deriving any kind of causality. Whilst I think this is fair criticism I do believe there are notable ethical barriers to running experimental studies in this area. I think greater investment in prospective observational research, utilising established and objective measures of energy expenditure, alongside the development of improved methods for measuring dietary intake could be a great middle ground that still move the field forward. Either way I am interested to see the direction the research takes in this area to better inform what we do in practice.
+Comparison of the current REDs model that centers around LEA and the more holistic approach that has been suggested
+How Should Nutrition Practitioners Apply This Information?
+Collaborate with a Multidisciplinary Team:
+Diagnosing and treating RED-S requires a team approach and specialist knowledge across different fields, and it’s important we stay within our scope of practice regardless of our role in sport. Where possible work with coaches, physiotherapists, psychologists, and sports physicians to ensure a comprehensive strategy for your athlete’s health. The earlier you identify risk factors, the sooner you can intervene.
+Broaden Your Lens:
+While it’s essential to assess an athlete’s energy intake and expenditure, certain symptoms or reduced performance probably can’t always be reduced to energy availability. Look for other signs of stress, overtraining, or psychological strain that could contribute to the symptoms you see in athletes.
+Educate Athletes and Coaches:
+Prevention is always going to be better than cure. Educating athletes about what RED-S is and the importance of good nutrition and proper recovery is going to be important in avoiding LEA. Make sure coaches understand that more training isn’t always better and that there are health and performance related consequences to under-fuelling.
+Conclusion
+RED-S is a multifaceted condition that requires a multifaceted approach. While the IOC’s 2023 guidelines provide valuable insights into the importance of managing LEA, and make some key distinctions like that difference between adaptable and problematic LEA, there is still certainly work to do to solidify our understanding and ensure we are providing the best possible care to our athletes. By adopting a slightly more holistic view and considering the bigger picture around health and performance, nutrition practitioners can better serve their athletes and help them achieve optimal performance without sacrificing long-term health.
+Dr. Paul Fairbairn, SENr, RNutr
+Paul is a sports nutrition consultant and educator with a PhD in Nutrition and Exercise Science. With over a decade of experience, Paul specialises in optimising performance and recovery for endurance athletes through evidence-based strategies.  As a lecturer and researcher, Paul has published in peer-reviewed journals and worked with athletes, sports teams, and organisations to achieve peak performance.
+References
+Jeukendrup, A.E., Areta, J.L., Van Genechten, L.
+et al.
+Does Relative Energy Deficiency in Sport (REDs) Syndrome Exist?.
+Sports Med
+(2024). https://doi.org/10.1007/s40279-024-02108-y
+Langan-Evans C, Germaine M, Artukovic M, Oxborough DL, Areta JL, Close GL, Morton JP. The Psychological and Physiological Consequences of Low Energy Availability in a Male Combat Sport Athlete. Med Sci Sports Exerc. 2021 Apr 1;53(4):673-683. doi: 10.1249/MSS.0000000000002519. PMID: 33105389.
+Mountjoy M, Sundgot-Borgen J, Burke L, Carter S, Constantini N, Lebrun C, Meyer N, Sherman R, Steffen K, Budgett R, Ljungqvist A. The IOC consensus statement: beyond the Female Athlete Triad–Relative Energy Deficiency in Sport (RED-S). Br J Sports Med. 2014 Apr;48(7):491-7. doi: 10.1136/bjsports-2014-093502. PMID: 24620037.
+Mountjoy M, Ackerman KE, Bailey DM, Burke LM, Constantini N, Hackney AC, Heikura IA, Melin A, Pensgaard AM, Stellingwerff T, Sundgot-Borgen JK, Torstveit MK, Jacobsen AU, Verhagen E, Budgett R, Engebretsen L, Erdener U. 2023 International Olympic Committee’s (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs). Br J Sports Med. 2023 Sep;57(17):1073-1097. doi: 10.1136/bjsports-2023-106994. Erratum in: Br J Sports Med. 2024 Feb 7;58(3):e4. doi: 10.1136/bjsports-2023-106994corr1. PMID: 37752011.
+Share with a Friend
+Facebook
+X
+LinkedIn
+Email
+Threads
+Cutting Through the Noise: Actionable Nutrition & Training Advice for Endurance Athletes, Every Monday
+Subscribe
+*
+indicates required
+Email Address
+*
+First Name
+*
+Marketing Permissions
+Please select all the ways you would like to hear from :
+Email
+You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.
+We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing.
+Learn more
+about Mailchimp's privacy practices.
+Follow on Instagram
+Get Evidence Based Nutrition and Training Tips
+A FREE weekly email from Dr Paul Fairbairn. No nonsense nutrition advice for endurance athletes who are tired of navigating confusion around performance nutrition
+First Name
+Last Name
+Email
+Suscribe

@@ -1,0 +1,118 @@
+BAŞLIK: Vegan athlete nutritionl considerations - CISN
+KAYNAK: https://intsportsnutrition.com/articles/nutritional-considerations-for-the-vegan-athlete/
+TARİH: 2026-03-08 21:23:50
+KELİME: 2651
+============================================================
+
+Skip to content
+Nutritional considerations for the vegan athlete – Simone do Carmo
+Veganism is becoming increasingly popular among athletes who believe it can improve their health and help them succeed in their sport. Simone do Carmo takes us through some important nutritional considerations and shares practical guidelines for athletes who have adopted or are transitioning to this dietary approach.
+Veganism is taking the sporting world by storm. Athletes are swapping beef for beets, believing this may improve their health, performance and recovery. Anecdotally, certain vegan athletes report feeling at the top of their game. Tennis player Venus Williams, boxer David Haye, Formula-1 driver Lewis Hamilton, weightlifter Kendrick Ferris, footballer Jermain Defoe and ultra-marathon runner Scott Jurek are all fully vegan and thriving. Research on the effects of veganism on athletic performance has been lacking. However, a new review has been published in an attempt to construct practical guidelines for vegan athletes based on current literature from other academic fields (1). I aim to summarise this review’s key points while bringing in other research plus my practical experience as a sports nutritionist who deals with plant-based athletes.
+Before we start, let’s make sure we understand the different vegan dietary variations. Typical vegans avoid all animal-based and animal-derived foods and products; raw-food vegans also avoid all foods cooked above 48ºC; 80-10-10 vegans consume 80 per cent carbohydrates, 10 per cent protein and 10 per cent fat as their total daily energy intake; and high-carb, low-fat vegans consume high amounts of carbohydrates, while eating minimal fat.
+I think the most important thing to acknowledge with a vegan diet is that an athlete’s essential nutrient needs for health are unlikely to be met without supplementation. However, this does not mean that following a vegan diet is necessarily as restrictive as commonly believed. It is possible to cover most essential nutrients if the diet is well-planned. In fact, research has shown that the average vegan diet scores higher in nutritional quality than an omnivorous diet and even outperforms vegetarian variants (2). If a vegan diet is poorly planned, this could predispose the athlete not only to macronutrient (protein and omega-3s) and micronutrient (vitamin B12, vitamin D, iron, zinc, calcium and iodine) deficiencies but also to slower recovery, limited training adaptations, reduced strength and endurance performance, and immunodepression (1).
+Nutritional Consideration #1: Energy intake
+I commonly see weight loss when athletes transition to a vegan diet. Why? Well, plant-based foods are known to be high-volume and take up a lot of room in the stomach without packing a lot of calories. Plus, they provide more fibre, which leads to greater and earlier satiety. Therefore, it is important for vegan athletes to consume energy-dense foods such as nuts and nut butter, seeds, trail mixes, hummus, olive oil and good-quality granola bars to ensure that energy requirements are met and to avoid unwanted weight loss (1).
+If athletes are not meeting their energy requirements, this could increase their risk of immunodepression, leading to illness and forcing them to take time off training and competitions. Additionally, they may experience a loss in muscle mass, creating havoc with their strength levels and work capacity and therefore stunting their progress (1).
+Nutritional Consideration #2: Protein
+Plant-based protein sources are usually incomplete because they lack one or more of the essential amino acids and branched-chain amino acids found in animal-based protein sources. Therefore, a combination of plant-based protein sources must be consumed each day to achieve a complete amino acid profile. Generally, a complete amino acid profile will be consumed if a grain is eaten with a pulse or legume (e.g. lentils/beans and rice), a grain with a nut/seed (e.g. porridge with almonds) or a legume with a nut/seed (e.g. hummus made with chickpeas and sesame paste) (1,3).
+Plant proteins are less digestible than animal-based proteins, so I normally advise that vegan athletes consume at least 1.8 grams/kilograms of body weight/day of plant-based protein to compensate for this. Current guidelines are 1.4-2.0 g/kg/body weight/day and higher protein intakes (>2 g/kg body weight/day) during weight loss periods (4,5).
+Good plant-based protein sources include seitan, tofu, tempeh, pumpkin seeds, lentils, beans, oats and quinoa (one of the few sources with a complete amino acid profile). Vegan protein powders such as pea and hemp can also be useful. To reduce the phytic acid content, I advise athletes to soak their beans, legumes, grains and nuts/seeds, use sprouted variations, and ferment, mill or cook them. Phytic acid binds to calcium, magnesium, iron and zinc, reducing the absorption of these nutrients in the digestive tract (6,7).
+I ask my athletes not to over-rely on soya products: they are particularly high in isoflavones (a source of phytoestrogens), which in the case of fermented soya can be used therapeutically, but non-fermented soya in high quantities, such as soya milk, can potentially cause endocrine dysfunction (8).
+Nutritional Consideration #3: Carbohydrates
+Because vegan diets are typically rich in carbohydrates (including fibre), particularly from grains, legumes, fruit and vegetables, it is pretty easy to meet carbohydrate needs. Fruit and vegetables also deliver an abundance of phytochemicals and antioxidants that may balance out oxidative stress and inflammation in the body, allowing for better and quicker recovery (1). Athletes also anecdotally report feeling like they can recover better on a vegan diet, but research confirming this is lacking.
+When transitioning to a vegan diet, athletes should not increase their fibre intake too rapidly because this may cause gastrointestinal distress. Additionally, to avoid this unnecessary condition, it may also be important for them to periodise low-fibre and high-fibre sources according to their training or competition schedule (1).
+Nutritional Consideration #4: Fat and omega-3 fatty acids
+Total and saturated fat content tend to be lower in vegan diets, while omega-6 fat intake tends to be higher. These trends tie in with the reported health benefits of veganism: decreased risk of heart disease, hypertension, cholesterol, type II diabetes and cancer (1). However, the role of fat is a controversial topic in nutritional science, and increasing evidence supports the therapeutic effects of consuming a high-fat diet, without obvious association between saturated fat and cardiovascular disease, as once thought (9,10). High-fat diets, due to their metabolic benefits of promoting a higher fat oxidation rate and providing a glycogen-sparring effect, can even be used to improve exercise performance, particularly in ultra-endurance events (11). When combined with resistance training programmes, high-fat diets may also help reduce body weight and fat mass while maintaining fat-free mass (11).
+Guidelines suggest a total fat intake of 0.5-1.5 g/kg body weight/day for athletes (1). This is easy to achieve because of the popular vegan fat sources of nuts, seeds, avocados and healthy oils.
+Due to the synergistic effects of omega-3s and omega-6s, in contrast to the typical Western diet ratio of 15:1 to 17:1, a healthy diet should contain a balanced omega-6 to omega-3 ratio of 1:1 to 4:1 (12). Since both types of omega fatty acids use the same enzyme systems, over-consuming one may lead to decreased conversion of the other to its longer-chain form (13). Vegan athletes should definitely avoid consumption of margarine and refined vegetable oils (rich in a trans-state of omega-6 linoleic acid), such as sunflower and canola, as these inverse the inflammatory balance towards a pro-inflammatory state (1,14).
+Vegan athletes are at risk of long-chain omega-3 fatty acid insufficiency because they avoid marine sources such as oily fish. The long-chain omega-3s eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are particularly important for athletes because they have anti-inflammatory effects, they can increase nitric oxide production, contributing to a greater vasodilatory response, and they can improve heart rate variability (1). Flaxseeds, chia seeds and walnuts are good sources of the omega-3 fatty acid α-linoleic acid. This is an important component of cellular membranes that is converted to EPA and DHA, but efficiency is low, and only small amounts are converted. In particular, some people genetically are poor converters of short to long-chain fatty acids. Possible sources of EPA and DHA for vegans include algae (EPA) and seaweed (both EPA and DHA). Microalgae oil can raise both EPA and DHA blood levels (1). We may also see omega-3 fatty acids produced through bioengineered plants in the future, but this approach is still in its infancy (15). The recommended optimal total amount and EPA: DHA ratio for athletes is 1-2 g/day at a ratio of 2:1 (1,16).
+Vegan Nutritional Consideration #5: Vitamin B12
+I mentioned that it is impossible to cover all essential needs in a vegan diet without supplementation. This is because vitamin B12 can only be found in animal-based sources. Fortified food sources, such as breakfast cereals, nutritional yeast and plant-based milks, are options. However, relying on processed breakfast cereals is not a great choice, as these are one of the furthest removed food sources from nature. To be on the safe side, a vitamin B12 supplement (up to 6 ug/day) is recommended; exceeding recommended daily amounts has no adverse effects (1,17). Vitamin B12 absorption can be an issue for vegans, so they should monitor their vitamin B12 levels because long-term deficiency can result in irreversible neurological damage (1,17). If oral supplements are not working, it is vital to use subcutaneous or intramuscular injections (1,17).
+Vegan Nutritional Consideration #6: Iron
+Plant-based foods have lower bioavailability of iron, which may translate into a lower iron status. Although gut adaptations can increase absorption, it is recommended that vegans increase their iron intake by 80 per cent (men: 14 mg/day; women: 33mg/day) (1). It is also important that vegan athletes reduce their consumption of dietary inhibitors, such as phytic acid (already mentioned) and tannins found in coffee, tea and cocoa, especially around meal times. To increase absorption, vitamin C-rich foods should also be consumed in conjunction with iron-rich sources (legumes, grains, nuts, seeds, greens and fortified foods) (1,18).
+Vegan Nutritional Consideration #7: Zinc
+Zinc is widely available in plant-based sources, such as pumpkin seeds, nuts, oats, nutritional yeast and beans, but just like iron, is less bioavailable when compared to animal sources (1). To compensate for this, vegan athletes should increase their zinc consumption by 50 per cent (men: 16.5 mg/ day; women: 12mg/day), while also using methods to reduce the phytic acid content in these food sources (1,6,7).
+Vegan Nutritional Consideration #8: Calcium
+Studies have shown that vegans do not get enough calcium in their diet, putting them at higher risk of fractures (1). Dairy is not an option, yet there are many vegan-friendly food sources, and these athletes can still get the recommended 1000 mg/day if their diet is well-planned (1). Plant-based food sources include calcium-set tofu, greens (particularly broccoli, kale and bok choi), sprouts, pulses, beans, poppy seeds, linseeds, tahini and fortified plant-based milk. Be aware that spinach, rhubarb and parsley contain oxalates that might limit calcium absorption (1,7,19), although cooking reduces levels of oxalates.
+Vegan Nutritional Consideration #9: Iodine
+Although research has shown that vegans consume excessive and low amounts of iodine, most vegan athletes are on the low side (1). The iodine content in plant-based foods varies according to iodine levels in soil, the growing season, and the farming methods used. Seaweed and sea vegetables are iodine-rich food sources, while potatoes, prunes and cranberries provide moderate amounts. If athletes regularly eat these foods, they can ideally omit regular iodised table salt from their diet: I prefer sea salt as a nutritional option. Even though it generally has less iodine than regular table salt, sea salt undergoes minimal processing and contains trace amounts of other essential micronutrients like magnesium and potassium (20). If sufficiency cannot be achieved, a supplement that meets the 150 ug/day requirement is advised (1). Vegan athletes should also be aware that goitrogenic foods (e.g. cruciferous vegetables, kale, Brussel sprouts, soya and cassava), especially when eaten raw and in large amounts, can interfere with iodine intake. Steaming, cooking and fermenting will help reduce the goitrogenic effect (1,7).
+Vegan Nutritional Consideration #10: Vitamin D
+If a vegan athlete is getting enough sun exposure, vitamin D deficiency should theoretically not be a problem, but because of our indoor lifestyle, most people are actually vitamin D deficient these days. Vegan athletes should therefore consider a vegan-friendly supplemental version of cholecalciferol (D3) derived from lichen, a more bioavailable option than the plant-based ergocalciferol (D2) (1,21). Doses vary from 200-1000IU, similar to animal-based cholecalciferol (D3) supplements, allowing for flexibility and individualised strategies based on the athlete’s blood levels (<20ng/day is considered clinical deficiency; 40-70ng/day is considered optimal) (1).
+Final thoughts
+My key message is that some athletes can potentially succeed on a vegan diet, but only if it is well-planned. Issues with absorption, digestibility and the high-volume nature of plant-based foods that contribute towards greater satiety and may affect energy intake are all factors to take into account. It is essential that vegan athletes make appropriate food choices, focusing on food quantity and quality to support their health, performance and recovery, as unhealthy athletes will not be well-performing long-term.
+References
+Rogerson D (2017). Vegan diets: practical advice for athletes and exercisers.
+J Int Soc Sports Nutr
+. 14:36.
+Clarys P et al (2014). Comparison of nutritional quality of the vegan, vegetarian, semi-vegetarian, pescovegetarian and omnivorous diet.
+Nutrients
+. 6(3):1318- 1332.
+Phillips F (2005). Vegetarian nutrition.
+Nutr Bull
+. 30(2):132-167.
+Hoffman J & Falvo M (2004). Protein – which is best?
+J Sports Sci Med
+. 3(3):118-130.
+Jäger R (2017). International Society of Sports Nutrition Position Stand: protein and exercise.
+J Int Soc Sports Nutr
+. 14:20.
+Gupta, R (2015). Reduction of phytic acid and enhancement of bioavailable micronutrients in food grains.
+J Sci Food Technol
+. 52(2):676-684.
+Dolan L et al (2010). Naturally occurring food toxins.
+Toxins (Basel)
+. 2(9):2289-2332.
+Aragon A (2017). Potential pitfalls of vegan diets. Alan Aragon Research Review [online]. Available at: https:// alanaragon.com/ (Accessed 17 November 2017).
+De Souza R (2015). Intake of saturated and trans unsaturated fatty acids and risk of all cause mortality, cardiovascular disease, and type 2 diabetes: a systematic review and meta-analysis of observational studies.
+BMJ
+. 351:h3978.
+Koloverou E & Panagiotakos D (2016). Macronutrient composition and managament of non-insulin-dependent diabetes mellitus (NIDDM): A new paradigm for individualized nutritional therapy in diabetes patients.
+Rev Diabet Stud
+. 13(1):6-16.
+Chang CK (2017). Low-carbohydrate-high-fat diet: can it help exercise performance?
+J Hum Kinet
+. 56:81-92.
+Simopoulos AP (2002). The importance of the ratio of omega-6/omega-3 essential fatty acids. Biomed
+Pharmacother
+. 56(8):365-379.
+Zivkovic A et al (2014). Dietary omega-3 fatty acids aid in the modulation of inflammation and metabolic health.
+Calif Agric (Berkeley)
+. 65(3):106-111.
+Patterson E et al (2012). Health implications of high dietary omega-6 polyunsaturated fatty acids.
+J Nutr Metab
+. 2012:539426.
+Khan W (2017). Bioengineered plants can be a useful source of omega-3 fatty acids.
+Biomed Res Int
+. 2017:7348919.
+Simopoulos AP (2007). Omega-3 fatty acids and athletics.
+Curr Sports Med Rep
+. 6(4):230-236.
+National Institutes of Health – Office of Dietary Supplements (2016). Vitamin B12 – Dietary Supplement Fact Sheet. Available at:
+https://ods.od.nih.gov/ factsheets/VitaminB12-HealthProfessional/
+(Accessed 20 November 2017).
+Zijp IM (2000). Effect of tea and other dietary factors on iron absorption.
+Crit Rev Food Sci Nutr.
+40(5):371-398.
+Weaver CM et al (1999) Choices for achieving adequate dietary calcium with a vegetarian diet.
+Am J Clin Nutr
+. 70(3 Suppl):543S-548S.
+American Heart Association (2013).
+Eat less salt: an easy action plan for finding and reducing the sodium hidden in your Diet
+. Clarkson Potter Publishers, New York.
+The Vegan Society (2014). Team up for healthy bones. Available at:
+https://www.vegansociety.com/resources/ nutrition-and-health/nutrients/vitamin-d
+(Accessed 20 November 2017).
+About the author
+Simone do Carmo MSci SENr CISNCert
+is a sports nutritionist, exercise physiologist and personal trainer. Within the Centre for Integrative Sports Nutrition, she is the joint course coordinator and student facilitator. Simone is a practitioner registrant on the
+UK Sport and Exercise Nutrition Register
+and owns
+Personal Best Fitness & Nutrition.
+Twitter/X:
+@Sport_Bokkie
+LinkedIn
+Find out more about our exciting courses
+Certificate Course
+Other Courses
+Search
+Search

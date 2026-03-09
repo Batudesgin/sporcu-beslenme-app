@@ -1,0 +1,169 @@
+BAŞLIK: DIETARY CARBOHYDRATE AND THE ENDURANCE ATHLETE: CONTEMPORARY PERSPECTIVES - Gatorade Sports Science Institute
+KAYNAK: https://www.gssiweb.org/sports-science-exchange/article/dietary-carbohydrate-and-the-endurance-athlete-contemporary-perspectives
+TARİH: 2026-03-08 21:19:41
+KELİME: 4048
+============================================================
+
+Skip to main content
+SSE #231
+DIETARY CARBOHYDRATE AND THE ENDURANCE ATHLETE: CONTEMPORARY PERSPECTIVES
+Published
+October 2022
+Author
+Gareth A. Wallis, PhD & Tim Podlogar, PhD
+Topics
+Training & Performance
+,
+Sports Nutrition
+,
+Athlete Health
+SSE #231
+DIETARY CARBOHYDRATE AND THE ENDURANCE ATHLETE: CONTEMPORARY PERSPECTIVES
+In this Article
+KEY POINTS
+The importance of carbohydrate as a fuel source for endurance exercise and athletic performance is well established. Despite this, dietary carbohydrate recommendations for endurance athletes need to continually evolve to reflect contemporary knowledge and practice.
+To ensure sufficient muscle glycogen availability, endurance competition or high-quality intense training should be preceded by daily dietary carbohydrate intakes scaled to the demands of the subsequent exercise, which from a practical perspective could mean daily carbohydrate intakes ranging from 7 to 12 g·kg
+-1
+body mass (BM).
+Consuming carbohydrate quantities of 1 to 4 g·kg
+-1
+BM in the 1 to 4 h before exercise is recommended for exercise lasting > 60 min. In this context, pre-exercise nutrition combining glucose and fructose carbohydrate sources can optimize liver glycogen storage and endurance performance.
+Carbohydrate feeding during exercise lasting > 60 min can be beneficial for performance with ingestion rates ranging from 30 to 90 g·h
+-1
+recommended. When consuming moderate doses (i.e., 30 to 60 g·h
+-1
+) athletes can select from a range of carbohydrate types (i.e., glucose, glucose polymers, sucrose, lactose, glucose-fructose, or glucose-galactose mixes) and formats (e.g., drinks, gels, bars). At higher doses (i.e., 60 to 90 g·h
+-1
+) glucose-fructose mixtures are preferable to speed-up intestinal absorption and such blends also present athletes with the greatest flexibility for within-event modulation of carbohydrate intake.
+The main aim of carbohydrate nutrition after exhaustive exercise is recovery of glycogen stores. Consumption of moderate to high glycemic index carbohydrates as soon as possible after exercise at the rate of 1.0 to 1.2 g·kg
+-1
+BM·h
+-1
+for the first 4 hours after which a normal diet reflecting daily fuel needs is currently recommended. There may be benefit in consuming glucose-fructose based carbohydrate sources to optimize recovery of both liver and muscle glycogen stores.
+Carbohydrate intakes for training should adopt a periodized approach based on the demands of training which allow the execution of the prescribed training program to elicit maximal adaptations whilst minimizing the risk of development of relative energy deficiency in sport (RED-S).
+INTRODUCTION
+The importance of carbohydrate as a fuel source for exercise and athletic performance is well established. Equally well developed are dietary carbohydrate intake guidelines for endurance athletes seeking to optimize their performance (Thomas et al., 2016). Nonetheless, despite decades of intense carbohydrate research within the field of sports nutrition, new research and understanding continue to be generated and there is a need to continually evolve nutritional recommendations to reflect contemporary knowledge and practice. The purpose of this Sports Science Exchange article is to briefly present contemporary research and application perspectives regarding the role of dietary carbohydrates for endurance athletes. A more detailed narrative review of this area is presented elsewhere (Podlogar & Wallis, 2022).
+CARBOHYDRATE INTAKE BEFORE COMPETITION
+It is well-known that dietary carbohydrate intake in the days and hours before exercise can influence carbohydrate storage and its availability in the body, and consequently impact the capacity to undertake endurance exercise. Indeed, the concept of carbohydrate or glycogen loading is ingrained in nutrition practice within endurance sport communities. This is based on original research indicating it is possible to super compensate muscle glycogen stores by consuming a very high carbohydrate diet before exercise, and higher muscle glycogen stores can extend prolonged endurance capacity (Bergstrom & Hultman, 1967). If supercompensation is desired, athletes are advised to consume carbohydrate at a quantity of 10 to 12 g·kg
+-1
+body mass (BM) per day for 36 to 48 h before competition (Thomas et al., 2016). Such practices may be conducive to optimizing carbohydrate availability for prolonged sustained or high-intensity intermittent events lasting > 90 min. However, when event durations are < 90 min, such aggressive dietary carbohydrate intakes may not be necessary. For example, a study conducted by Sherman and colleagues (1981) found that whilst increasing dietary carbohydrate intake resulted in elevated pre-exercise muscle glycogen stores, this did not translate to improved half-marathon treadmill running performance. Thus, a more appropriate approach would be to scale dietary carbohydrate intake to ensure sufficient muscle glycogen is available according to the demands of the subsequent competition, which from a practical perspective could mean daily carbohydrate intakes ranging from 7 to 12 g·kg
+-1
+BM (Thomas et al., 2016). Such an approach may also be preferable from the perspective of body mass maintenance. It is well known that water is stored in the process of glycogen synthesis and thus excessive carbohydrate feeding relative to the demands or needs of the sport may result in an unnecessary body mass gain prior to competition. Relative to muscle glycogen, there are comparatively fewer studies that have explored how to optimize liver glycogen availability before exercise. Liver glycogen is critical as its breakdown provides glucose to support blood glucose stability during exercise, blood glucose supply for the brain and an additional fuel source for exercising muscles. Unlike muscle glycogen, it does not appear liver glycogen supercompensation occurs (Gonzalez et al., 2016). Nonetheless, liver glycogen is reduced after an overnight fast whereas muscle glycogen remains stable (Gonzalez et al., 2016). Commencing exercise with replete liver glycogen will ensure adequate glycogen is available to maintain blood glucose concentrations during exercise. General guidelines for pre-event fueling are to consume carbohydrate in quantities ranging from 1 to 4 g·kg
+-1
+BM during the 1 to 4 h period before exercise. Interestingly, a recent study found that addition of fructose to a carbohydrate-rich breakfast improves endurance capacity in trained cyclists as compared to a glucose-only based carbohydrate-rich breakfast (Podlogar et al., 2022a) (Figure 1).
+It was proposed, based on studies of post-exercise liver glycogen metabolism (Gonzalez et al., 2016), that pre-exercise feeding of a glucose-fructose mixture enhanced liver glycogen content due to preferential metabolism of fructose in the liver, and this underpinned the extended endurance. Whilst the precise mechanism remains to be determined, what this does mean is that nutritional strategies that target liver and muscle glycogen storage will likely represent the optimal approach for carbohydrate intake before competition or intense training sessions.
+CARBOHYDRATE INTAKE DURING EXERCISE
+Carbohydrate feeding during exercise has been clearly demonstrated to enhance endurance capacity or performance in a variety of contexts (Stellingwerff & Cox, 2014). The positive effects of carbohydrate feeding have been largely attributed to the provision of an additional fuel source that serves to maintain blood glucose concentrations and the use of carbohydrate as a fuel during exercise whilst sparing use of the body’s existing glycogen stores (i.e., liver and/or muscle glycogen) (Stellingwerff & Cox, 2014). Some evidence also suggests carbohydrate feeding may positively influence the central nervous system to improve performance via a non-metabolic mechanism, possibly through oral carbohydrate sensing (Jeukendrup & Chambers, 2010). Nonetheless, our greatest understanding of the effects of carbohydrate feeding is through its potential to contribute directly to energy metabolism during exercise. One of the key approaches to determine the potential effectiveness of ingested carbohydrates has been to use stable or radioactive isotope tracer techniques to measure the so-called exogenous carbohydrate oxidation (Jeukendrup & Jentjens, 2000). This simply refers to the rate at which the ingested carbohydrate is used to provide energy during exercise. Using these approaches, it was established that within the recommended range for carbohydrate intakes during exercise lasting 1 to 2.5 h (i.e., 30 to 60 g·h
+-1
+), most carbohydrate sources can be regarded as viable (i.e., glucose, glucose polymers, glucose-fructose [including sucrose] or glucose-galactose mixtures [including lactose]) (Jeukendrup, 2011; Odell et al., 2020). In some situations, particularly when prolonged strenuous exercise exceeds 2.5 to 3 h, it may be necessary for more aggressive carbohydrate feeding strategies and current guidance suggests consuming carbohydrates at rates of up to 90 g·h
+-1
+may help to optimize carbohydrate availability for performance (Thomas et al., 2016). In these situations, it is suggested that mixtures of glucose and fructose are consumed to maximize intestinal carbohydrate absorption and exogenous carbohydrate oxidation and minimize incidence of gastrointestinal issues. Given the utility for glucose-fructose mixtures across the entire range of carbohydrate intake recommendations (i.e., 30 to 90 g·h
+-1
+), it would seem these blends present athletes with the greatest degree of flexibility to modulate their carbohydrate intake within an event, if necessary. Despite the now widespread acceptance of glucose-fructose mixtures there remains current debate as to what constitutes the most effective ratio and dose. For instance, most studies and indeed guideline recommendations refer to a 2:1 glucose-fructose ratio (Jeukendrup, 2011). However, a more contemporary perspective informed by the work of Rowlands and colleagues (2015) suggests that a glucosefructose ratio closer to unity (i.e., 1:0.8) represents the most effective blend when considering a combination of benefits including exogenous carbohydrate oxidation, gut comfort, and endurance performance. Regarding dose, recent studies have advocated that carbohydrate intakes up to 120 g·h
+-1
+during exercise be considered (Hearris et al., 2022; Urdampilleta et al., 2020). Indeed, the work of Hearris and colleagues (2022) was informative in demonstrating consuming 120 g·h
+-1
+of carbohydrate (in a 1:0.8 glucose polymer/glucose-fructose ratio) as a range of formats (i.e., drink, gel chews) to be practically tolerable and elicit high exogenous carbohydrate oxidation rates during exercise. However, our recent work, whilst demonstrating superiority of consuming carbohydrate at 120 g·h
+-1
+versus 90 g·h
+-1
+during exercise for exogenous carbohydrate oxidation, failed to show additional benefit of the higher dose for sparing endogenous carbohydrate oxidation. (i.e., liver and/ or muscle glycogen) (Podlogar et al., 2022b). It would therefore seem prudent to establish if there are any clear performance advantages to consuming 120 g·h
+-1
+before revising upwards the current consensus to consume carbohydrates at rates of up to 90 g·h
+-1
+(Thomas et al., 2016).
+CARBOHYDRATE INTAKE AFTER EXERCISE
+The main aim of carbohydrate nutrition in the post-exercise period is recovery of liver and muscle glycogen stores. The extent to which aggressive carbohydrate feeding is required after exercise is to a large extent determined by the degree of glycogen depletion resulting from exercise, the time until the subsequent exercise session, and the nature of that subsequent exercise (i.e., intensity). To optimize glycogen synthesis after exhaustive exercise athletes are recommended to consume moderate to high glycemic index carbohydrates as soon as possible after exercise at the rate of 1.0 to 1.2 g·kg
+-1
+BM·h
+-1
+for the first 4 hours after which a normal diet reflecting daily fuel needs which may be up to 12 g·kg
+-1
+BM is suggested (Thomas et al., 2016). There is now sufficient evidence to suggest further refinement of guidelines to facilitate short-term term recovery (i.e., hours after exhaustive exercise) and possibly even day-to-day recovery, particularly when considering tissue-depot specific glycogen synthesis. For example, enhanced liver glycogen synthesis after exercise has been observed when glucosefructose based carbohydrates sources are consumed as compared to glucose-only based carbohydrate sources (Decombaz et al., 2011; Fuchs et al., 2016), despite the fact fructose is a low glycemic index carbohydrate. Muscle glycogen synthesis after exercise appears similar between glucose-fructose and glucose-only carbohydrates (Trommelen et al., 2016; Wallis et al., 2008). Accordingly, short-term recovery of endurance capacity has been shown to be enhanced with post-exercise glucose-fructose feeding (Gray et al., 2020; Maunder et al., 2018), although this ergogenic potential has not always been seen (Podlogar et al., 2020). Nonetheless, based on the current evidence it could be recommended that athletes seeking to recover glycogen stores as quickly as possible consider ingesting carbohydrates from a combination of glucose-based carbohydrates and fructose to optimally stimulate both liver and muscle glycogen resynthesis (Figure 2).
+CARBOHYDRATES FOR TRAINING
+Dietary carbohydrates play a critical role in supporting training from several perspectives. Firstly, a dietary carbohydrate intake that ensures glycogen availability is sufficient to allow execution of a prescribed training program is of paramount importance. In this respect, contemporary approaches suggest that dietary carbohydrate intake is periodized based on the demands of training, referred to elsewhere as the fuel for the work required paradigm (Impey et al., 2018). Such an approach encompasses a second important aspect of dietary carbohydrates and training. That is, dietary carbohydrate availability and in particular muscle glycogen has been considered to directly modulate adaptation to endurance training. Specifically, the achievement of low muscle glycogen because of strenuous exercise is a key signal that initiates training adaption at a molecular level (Philp et al., 2012). Based on this premise, strategic dietary carbohydrate restriction (i.e., trainlow) around selected training sessions has been advocated to augment training adaptation (Impey et al., 2018). However, despite the theoretical advantages of this approach, a recent meta-analysis revealed a paucity of evidence supporting strategic carbohydrate restriction to augment training-induced improvements in endurance performance (Gejl & Nybo, 2021). Nonetheless, the train-low approach may offer a way for athletes to maximize training adaptation if they are time-limited (i.e., a time-efficient strategy), or to induce additional metabolic perturbation if athletes have exhausted other possibilities to improve performance by increasing training volume. Whilst strategic carbohydrate restriction may not always be necessary, the periodized approach allows for carbohydrate intakes based on need and may mitigate against any potential for excessive carbohydrate availability to impede training adaptation. Finally, a periodized approach would minimize the potential for developing overtraining and/or relative energy deficiency in sport (RED-S), both of which appear to have links to chronic low carbohydrate availability (Stellingwerff et al., 2021). A framework for carbohydrate periodization in relation to the upcoming session demands is presented in Figure 3, based on the above premises of providing sufficient carbohydrates for training, avoiding impedance of training adaptation, and minimizing health risks to the athlete.
+INDIVIDUALIZING CARBOHYDRATE INTAKE
+Dietary carbohydrate intake guidelines for athletes are well established (e.g., Thomas et al., 2016) and further developed within this article. These ranges are a good starting point for practitioners and athletes and combined with a good understanding of the general demands of training or competition it is possible to develop pragmatically effective dietary strategies. The advent of new technologies that allow the potential for enhanced physiological monitoring or understanding brings the opportunity for development of increasing individualized or personalized carbohydrate nutrition strategies. For example, more individualized understanding of muscle glycogen utilization in training or competition could assist in devising a tailored dietary carbohydrate strategy. Unfortunately, non-invasive, and cost-effective methods that might be used by practitioners to quantify muscle glycogen concentrations in field settings such as using ultrasound have so far not been shown in independent research studies to be valid (Bone et al., 2021). There are an increasing number of research studies that have directly measured muscle glycogen use during various endurance-based sports (e.g., Impey et al., 2020) and perhaps these data currently represent the best practical approach in that practitioners could determine the relative carbohydrate demands (i.e., low, medium, and high) of certain sessions and tailor guidance accordingly. Building from this approach, Jagnesakova and colleagues (2022) have introduced machine learning as an approach to predicting muscle glycogen use during exercise based on published research studies. With further development, this may also represent a way to non-invasively predict glycogen utilization to guide personalized exercise-nutrition strategies. One technology that is increasingly discussed within the endurance sport community is the use of continuous glucose monitoring (CGM), which aims to provide athletes with insights into their individual blood glucose responses to nutrition and exercise. Theoretically, knowledge of blood glucose responses could allow an individual athlete to tailor their carbohydrate intake in a way that ensures stable blood glucose levels during exercise or at least avoids the occurrence of hypoglycemia. However, at present, the evidence suggests CGM devices for use during exercise appear less accurate than when used under resting or post-prandial conditions (Clavel et al., 2022; Fabra et al., 2021). This suggests CGM devices may provide some utility for tailoring carbohydrate intake to maintain blood glucose stability under nonexercise conditions, but further research is needed to fully understand the potential of CGM to help individualize carbohydrate intake during exercise.
+PRACTICAL APPLICATIONS
+Endurance competition or high-quality intense training should be preceded by daily dietary carbohydrate intakes ranging from 7 to 12 g·kg
+-1
+BM dependent upon energetic demands.
+Consuming carbohydrate quantities of 1 to 4 g·kg
+-1
+BM in the 1 to 4 h before exercise is recommended for exercise lasting > 60 min; combining glucose and fructose carbohydrates sources can benefit endurance performance.
+During exercise lasting > 60 min, carbohydrate intake ranging from 30 to 90 g·h
+-1
+are recommended. A range of carbohydrate types (i.e., glucose, glucose polymers, sucrose, lactose, glucose-fructose, or glucose-galactose mixes) can support moderate carbohydrate intake goals (i.e., 30 to 60 g·h
+-1
+). At higher doses (i.e., 60 to 90 g·h
+-1
+) glucose-fructose mixtures are preferable.
+For recovery from strenuous endurance exercise, consumption of moderate to high glycemic index carbohydrates with a focus on including glucose-fructose based carbohydrates as soon as possible after exercise at the rate of 1.0 to 1.2 g·kg
+-1
+BM·h
+-1
+for the first 4 hours, after which a normal diet reflecting daily fuel needs, is recommended.
+Carbohydrate intakes for training should adopt a periodized approach based on the demands of training which allow the execution of the prescribed training program to elicit maximal adaptations whilst minimizing the risk of development of relative energy deficiency in sport (RED-S).
+SUMMARY
+Despite decades of intense carbohydrate research within the field of sports nutrition, new knowledge continues to be generated with the potential to inform practice. To ensure sufficient muscle glycogen availability, endurance competition or high-quality intense training should be preceded by daily dietary carbohydrate intakes scaled to the demands of the subsequent exercise. The optimization of liver and muscle glycogen content in the hours before and hours directly after exercise are important goals for carbohydrate nutrition. In this respect, nutrition strategies that combine glucose and fructose carbohydrate sources appear most beneficial for enhancement of performance and recovery. Athletes looking to benefit from carbohydrate feeding during exercise can choose from a wide range of readily oxidizable carbohydrate sources, with glucose-fructose blends (including sucrose) affording the greatest flexibility for within-event modulation of carbohydrate intake. Finally, a periodized approach to dietary carbohydrate intake around training will ensure athletes have sufficient fuel to execute the demands of training to maximize training adaptation whilst minimizing the potential for adverse health or performance consequences (e.g., through development of RED-S).
+The views expressed are those of the authors and do not necessarily reflect the position or policy of PepsiCo, Inc.
+REFERENCES
+Bergstrom, J., and E. Hultman (1967). A study of glycogen metabolism in man. J. Clin. Lab. Invest. 19:218-228.
+Bone, J.L., M.L. Ross, K.A. Tomcik, N.A. Jeacocke, A.K.A. McKay, and L.M. Burke (2021). The validity of ultrasound technology in providing an indirect estimate of muscle glycogen concentrations is equivocal. Nutrients 13:2371.
+Clavel. P., E. Tiollier, C. Leduc, M.Fabre, M. Lacome, and M. Buchheit (2022). Concurrent validity of a continuous glucose-monitoring system at rest and during and following a high-intensity interval training session. Int. J. Sports Physiol. Perf. 17:627–633.
+Décombaz, J., R. Jentjens, M. Ith, F. Scheurer, T. Buehler, A. Jeukendrup, and C. Boesch (2011). Fructose and galactose enhance postexercise human liver glycogen synthesis. Med. Sci. Sports Exerc. 43:1964-1971.
+Fabra, E.M., J.L. Díez, J. Bondia, and A.J.L. Sanz (2021). A comprehensive review of continuous glucose monitoring accuracy during exercise periods. Sensors (Basel). 21(2) 479-498.
+Fuchs, C.J., J.T. Gonzalez, M. Beelen, N.M. Cermak, F.E. Smith, P.E. Thelwall, R. Taylor, M.I. Trenell, E.J. Stevenson, and L.J. van Loon (2016). Sucrose ingestion after exhaustive exercise accelerates liver, but not muscle glycogen repletion compared with glucose ingestion in trained athletes. J. Appl. Physiol. 120:1328-1334.
+Gejl, K.D., and L. Nybo (2021). Performance effects of periodized carbohydrate restriction in endurance trained athletes - a systematic review and meta-analysis. J. Int. Soc. Sports Nutr. 8:37.
+Gonzalez, J.T., C.J. Fuchs, J.A. Betts, and L.J. van Loon (2016). Liver glycogen metabolism during and after prolonged endurance-type exercise. Am. J. Physiol. 311:E543-E553.
+Gray, E.A., T.A. Green, J.A. Betts, and J.T. Gonzalez (2020). Postexercise glucose–fructose coingestion augments cycling capacity during short-term and overnight recovery from exhaustive exercise, compared with isocaloric glucose. Int. J. Sport Nutr. Exerc. Metab 30:54–61.
+Hearris, M.A., J.N. Pugh, C. Langan-Evans, S.J. Mann, L. Burke, T. Stellingwerff, J.T. Gonzalez, and J.P. Morton (2022). 13C-glucose-fructose labelling reveals comparable exogenous CHO oxidation during exercise when consuming 120 g/h in fluid, gel, jelly chew or co-ingestion. J. Appl. Physiol. 132:1394-1406.
+Impey, S.G., E. Jevons, G. Mees, M. Cocks, J. Strauss, N. Chester, I. Laurie, D. Target, A. Hodgson, S.O. Shepherd, and J.P. Morton (2020).. Glycogen utilization during running: intensity, sex, and muscle-specific responses. Med. Sci. Sports Exerc. 52:1966–1975.
+Jagnesakova, D., D.M. Dunne, J.L. Areta, C.E. Lefevre, X. Yan, R. Mazorra, and S. Impey (2022). A machine learning approach to predicting muscle glycogen use during exercise. 2022. Nutrients - in review.
+Jeukendrup, A.E. (2011) Nutrition for endurance sports: Marathon, triathlon, and road cycling. J. Sports Sci. 29:S91-S99.
+Jeukendrup, A.E., and R. Jentjens (2000). Oxidation of carbohydrate feedings during prolonged exercise. Sports Med. 29:407–424.
+Jeukendrup, A.E., and E.S. Chambers. Oral carbohydrate sensing and exercise performance. Curr. Opin. Clin. Nutr. Metab. Care 13:447-451.
+Maunder, E., T. Podlogar, and G.A. Wallis (2018). Postexercise fructose–maltodextrin ingestion enhances subsequent endurance capacity. Med. Sci. Sports Exerc. 50:1039–1045.
+Odell, O.J., T. Podlogar, and G.A. Wallis (2020). Comparable exogenous carbohydrate oxidation from lactose or sucrose during exercise. Med. Sci. Sports Exerc. 52:2663–2672.
+Olsson, K.‐E., and B. Saltin (1970). Variation in total body water with muscle glycogen changes in man. Acta Physiol. Scand. 80:11–18.
+Philp, A., M. Hargreaves, and K. Baar (2012). More than a store: Regulatory roles for glycogen in skeletal muscle adaptation to exercise. Am. J. Physiol. 302:E1343-E1351.
+Podlogar, T., and G.A. Wallis (2020). Impact of post-exercise fructose-maltodextrin ingestion on subsequent endurance performance. Front. Nutr. 7:82.
+Podlogar, T., and G.A. Wallis (2022). New horizons in carbohydrate research and application for endurance athletes. Sports Med. In press.
+Podlogar, T., S. Cirnski, S. Bokal, N. Verdel, and J. Gonzalez (2022a). Addition of fructose to a carbohydrate-rich breakfast improves cycling endurance capacity in trained cyclists. Int. J. Sport Nutr. Exerc. Metab. In press.
+Podlogar, T., S. Bokal, S. Cirnski, and G.A. Wallis (2022b). Increased exogenous but unaltered endogenous carbohydrate oxidation with combined fructose-maltodextrin ingested at 120 g·h-1 versus 90 g·h-1 at different ratios. Eur. J. Appl. Physiol. In press.
+Rowlands, D.S., S. Houltham, K. Musa-Veloso, F. Brown, L. Paulionis, and D. Bailey (2015). Fructose–glucose composite carbohydrates and endurance performance: critical review and future perspectives. Sports Med. 45:1561–1576.
+Sherman, W.M., D.L. Costill, W.J. Fink, and J.M. Miller (1981). Effect of exercise-diet manipulation on muscle glycogen and its subsequent utilization during performance. Int. J. Sports Med. 2:114–118.
+Stellingwerff,T., and G.R. Cox (2014). Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations. Appl. Physiol. Nutr. Metab. 39:998-1011.
+Stellingwerff, T., I.A. Heikura, R. Meeusen, S. Bermon, S. Seiler, M.L. Mountjoy, and L.M. Burke (2021). Overtraining syndrome (OTS) and relative energy deficiency in sport (RED-S): Shared pathways, symptoms and complexities. Sports Med. 51:2251-2280.
+Thomas, D.T., K.A. Erdman, and L.M. Burke (2016). Nutrition and athletic performance. Med. Sci. Sports Exerc. 48:543–568.
+Trommelen, J., M. Beelen, P.J. Pinckaers, J.M. Senden, N.M. Cermak, and L.J. Van Loon (2016). Fructose coingestion does not accelerate postexercise muscle glycogen repletion. Med. Sci. Sports Exerc. 48:907-912.
+Urdampilleta, A., S. Arribalzaga, A. Viribay, A. Castañeda-Babarro, J. Seco-Calvo, and J. Mielgo-Ayuso (2020). Effects of 120 vs. 60 and 90 g/h carbohydrate intake during a trail marathon on neuromuscular function and high intensity run capacity recovery. Nutrients 12:2094.
+Wallis, G.A., C.J. Hulston, C.H. Mann, H.P. Roper, K.D. Tipton, and A.E. Jeukendrup (2008). Postexercise muscle glycogen synthesis with combined glucose and fructose ingestion. Med. Sci. Sports Exerc. 40:1789–1794.
+Recommended Reading
+October 2025
+SSE #269 THE IMPACT OF PROTEIN QUANTITY, QUALITY, DISTRIBUTION, AND FOOD MATRIX ON MUSCLE PROTEIN SYNTHESIS
+September 2025
+SSE #268 FUELING PERFORMANCE STARTS WITH SLEEP: HOW SLEEP LOSS UNDERMINES NUTRITIONAL GOALS
+September 2025
+SSE #267 FUNCTIONAL INGREDIENTS FOR THE ATHLETE AND BEYOND
+Download
+Share
+Site search
+Clear
+Search
+Continuing Education(6)
+Sports Science Exchange(3)
+Research(3)
+Expert Panel (3)
+GSSIU (3)
+Cohorts (3)
+About: (3)
+Continuing Education (6)
+Sports Science Exchange(3)
+Research(3)
+GSSIU(3)
+Expert Panel:(3)
+Cohorts:(3)
+About(3)
+Thank you for your patience while we search our large sports science library
+Enter text to begin searching

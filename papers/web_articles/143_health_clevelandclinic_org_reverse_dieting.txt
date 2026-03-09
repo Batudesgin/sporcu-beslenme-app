@@ -1,0 +1,249 @@
+BAŞLIK: Reverse Dieting: Does It Work?
+KAYNAK: https://health.clevelandclinic.org/reverse-dieting
+TARİH: 2026-03-08 21:22:43
+KELİME: 1733
+============================================================
+
+Post or Recipes debug info:
+client: {"assets":{},"datasets":{},"live":{},"projects":{},"users":{},"observable":{"assets":{},"datasets":{},"live":{},"projects":{},"users":{}}}
+Now: 1772707270863
+Cache Key: heDataBySlug:reverse-dieting
+fetchCache[heDataBySlug:reverse-dieting].expirationTime: 1772707280438
+fetchCache[heDataBySlug:reverse-dieting]. seconds remaining: 9.575
+All fetchCache expiration times:
+-- Key: heNotFoundPageData, seconds remaining: 9575
+-- Key: heDataBySlug:beets-turn-poop-and-pee-red, seconds remaining: -349618
+-- Key: heDataBySlug:overactive-immune-system, seconds remaining: -335465
+-- Key: heDataBySlug:favicon.ico, seconds remaining: -170740
+-- Key: heDataBySlug:reverse-dieting, seconds remaining: 9575
+conditions:
+-- true,
+-- true,
+-- true,
+-- true
+-- false
+Cache hit for key heDataBySlug:reverse-dieting
+CCCache.dataFetchCount: 354
+Cache uses for key heDataBySlug:reverse-dieting: 1
+Search
+Advertisement
+Advertisement
+January 10, 2024
+/
+Diet, Food & Fitness
+/
+Weight Loss
+Does Reverse Dieting Work?
+This strategy doesn’t boost metabolism, but it may help maintain weight loss
+Image
+content:
+This
+image
+is available to
+view
+online.
+View image
+online
+(
+https://assets.clevelandclinic.org/transform/79ca8465-536d-4d49-9d23-4acf791e5861/Reverse-Dieting-1480953408-967x544-1_jpg
+)
+close-up of plate with eggs, wheat toast, avocados, hands holding knife and fork
+The word “diet” can conjure up images of super restrictive ways of eating. But a “reverse diet” sounds like the opposite of that. So, does a reverse diet really mean you get to eat whatever you want and magically lose weight? Sadly, no.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+But a reverse diet can be a handy way to prevent regaining pounds after weight loss. Registered dietitian Natalie Romito, RD, LD, explains reverse diet myths and facts — and provides tips for how to do it.
+What is a reverse diet?
+Reverse dieting is a strategy that typically comes after a regular diet.
+“A reverse diet is when you slowly increase your calorie intake after a period of
+reduced calories
+or dieting,” says Romito. “It’s a way to reach a point where you’re eating to maintain your weight loss.”
+She says reverse dieting first gained popularity in the fitness community. Before a competition, bodybuilders often restrict calories to reach very low body fat. Then, they’ll use a reverse diet to slowly reintroduce calories to return to a more sustainable body composition and weight.
+But a reverse diet isn’t just for the ultra-muscular. People who follow a restrictive diet for a short time, such as very low carb or calorie, may also use reverse dieting.
+“I don’t typically recommend restrictive diets or
+rapid weight loss
+,” says Romito. “But if you do it (under a healthcare provider’s supervision), a reverse diet can keep you from eating too many calories as you come off the diet.”
+People who use a slow-and-steady approach to weight loss may also use reverse dieting to transition off their diet.
+Advertisement
+Is reverse dieting just another fad?
+“A reverse diet isn’t a fad or gimmick,” clarifies Romito. “It’s a strategy for adding calories after restricting or dieting to avoid
+unwanted weight gain
+.”
+However, she says some claims about reverse dieting aren’t accurate. It can’t help with:
+Metabolism.
+There’s no evidence that reverse dieting after calorie restriction boosts your
+metabolism
+.
+Muscle maintenance.
+“Some people claim that reverse dieting helps maintain muscle. But the way you were eating before the reverse diet affects muscle maintenance more than the reverse diet does,” she says.
+Does reverse dieting work?
+It depends on your expectations.
+“If you’re coming off a diet and you don’t know how many calories to eat to maintain your weight loss, a reverse diet works well to help you figure that out,” says Romito.
+But if you’re expecting a metabolism boost, it doesn’t work that way.
+The
+amount of calories you need
+depends on several factors that are specific to you. Here’s an example of how a reverse diet after weight loss might work:
+Say you’ve been eating 1,500 calories a day and
+losing weight
+.
+You reach your weight loss goal (yay!) and don’t need to lose more.
+You start a reverse diet, increasing your calorie intake by small amounts while tracking your weight.
+When you stop losing weight, you know you’ve reached a daily calorie amount that will maintain your new weight.
+Essentially, a reverse diet can help you discover that daily calorie sweet spot where you’re not losing or gaining weight. There’s currently
+no research
+on the effectiveness of reverse dieting to maintain weight loss, but it’s a popular strategy, and Romito has seen it work well.
+How to reverse diet
+“You can’t talk about the reverse diet without talking about what you were doing before it — typically a weight loss diet of some kind,” says Romito. “To lose weight, we typically recommend a calorie amount that allows you to drop a half pound to 2 pounds per week.”
+A reverse diet involves tracking your calorie intake and weight while adding a few calories a week at a time.
+So, taking the example from before (eating 1,500 calories a day for weight loss), here’s how the reverse diet would work:
+For one week, eat 1,600 calories a day. Track your weight to see if there’s any change.
+If you’re still losing weight at 1,600 calories a day, increase to 1,700 calories a day for the next week. Track your weight again.
+If you’re still losing weight at 1,700 calories a day, do a week at 1,800 calories per day.
+Once you get to a daily calorie intake where you’re not losing or gaining weight, your reverse diet is done. You now know how many calories to eat daily to maintain your current weight.
+Advertisement
+If you want to increase by only 50 calories instead of 100, you can try that. A little more can be fine, too.
+“Adding 50 to 150 calories at a time is a good range,” Romito says.
+You can also spend two weeks instead of one week at each new calorie amount. This can be especially helpful if your day-to-day weight tends to fluctuate a lot. The longer period will make it easier to see if your weight is going up, going down or staying steady.
+Typically, you’ll have added 200 to 500 calories to your daily total after reverse dieting, says Romito. You’ll still choose similar foods (if you were following a
+healthy, balanced eating plan
+). You’ll just eat a bit more than when you were in weight loss mode.
+Is a reverse diet safe?
+In general, a reverse diet is safe because it’s simply adding calories to your diet in a slow and measured way.
+“The diet you follow before the reverse diet is more likely to be a concern,” says Romito. “A concerning diet would be any extremely restrictive way of eating that causes you to lose muscle or any diet that’s too extreme to sustain.”
+That level of restriction negatively impacts your metabolism and health.
+While a reverse diet is typically safe, Romito warns that if you’ve been
+fasting
+for several days or longer, there’s a risk of
+refeeding syndrome
+when you start eating again. This condition is a potentially dangerous
+electrolyte
+imbalance. She recommends coming off a fast under medical supervision rather than using reverse dieting.
+Advertisement
+What if you’re still trying to lose more weight and you’ve hit the dreaded
+weight loss plateau
+?
+“Sometimes, six months to a year after starting to lose weight, your weight loss will stall,” notes Romito. “The best thing to do during this time is wait it out. Focus on
+building muscle
+rather than the temptation to cut more calories.”
+You can also explore
+different weight loss diets
+if you struggle to stay consistent with your current eating pattern. After a few months, you’ll likely start losing weight again. And once you reach your target weight, you can reverse diet your way to weight maintenance.
+Advertisement
+Better health starts here
+Sign up for our Health Essentials emails for expert guidance on nutrition, fitness, sleep, skin care and more.
+Example email
+Sign up
+Sign up
+Example email
+Learn more about our
+editorial process
+.
+Health Library
+Nutrition
+Overview
+Additional Common Questions
+Health Library
+Nutrition
+Overview
+Additional Common Questions
+Advertisement
+Related Articles
+January 26, 2026
+/
+Nutrition
+What Is Intermittent Fasting?
+https://health.clevelandclinic.org/intermittent-fasting-4-different-types-explained
+Alternating between periods of eating and fasting may benefit your health
+January 23, 2026
+/
+Heart Health
+The What and How of the Portfolio Diet: A Brief Summary
+https://health.clevelandclinic.org/portfolio-diet
+This plant-based eating plan focuses on lowering cholesterol, making it a great companion to the Mediterranean diet
+August 4, 2025
+/
+Nutrition
+How To Follow a Soft Food Diet
+https://health.clevelandclinic.org/soft-food-diet
+Choose foods that are low in fiber and easy to chew and swallow
+July 1, 2025
+/
+Nutrition
+The MIND Diet: What To Know
+https://health.clevelandclinic.org/mind-diet-boost-memory
+The flexible eating plan aims to boost your brain health by focusing on plant-based foods and limiting saturated fat
+June 18, 2025
+/
+Nutrition
+DASH Diet: What It Is, Meal Plans and Recipes
+https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes
+Designed to lower your blood pressure, this eating plan focuses on heart-healthy foods like whole grains, fruits and vegetables
+April 22, 2025
+/
+Nutrition
+What Is the Pescatarian Diet?
+https://health.clevelandclinic.org/pescatarian-diet
+Pescatarians don’t eat poultry, game or red meat, but they do eat fish and seafood, dairy and eggs
+March 26, 2025
+/
+Diet, Food & Fitness
+What Are the Benefits of Volume Eating?
+https://health.clevelandclinic.org/volume-eating
+This eating style has many health benefits, including weight loss, an improved microbiome, and increased nutrient and mineral consumption
+March 18, 2025
+/
+Weight Loss
+The Best Weight Loss Diets, According to a Dietitian
+https://health.clevelandclinic.org/whats-the-best-weight-loss-diet
+Research shows promising results from options like the DASH diet and Mediterranean diet
+Trending Topics
+Diabetes & Endocrinology
+7 Self-Care Tips for People With Type 2 Diabetes
+https://health.clevelandclinic.org/type-2-diabetes-self-care
+Prioritize your health by managing stress, strengthening your social connections and getting quality sleep
+Exercise & Fitness
+Essential Yoga Props for Every Yoga Practice
+https://health.clevelandclinic.org/yoga-props
+Bolsters, blankets, pillows and blocks can offer extra support, stability and comfort
+Cold, Flu & Respiratory Illnesses
+Why Am I Coughing So Much?
+https://health.clevelandclinic.org/why-am-i-coughing-so-much
+Allergies, postnasal drip, asthma or reflux could be to blame for a cough that won’t quit
+Health Categories To Explore
+Brain & Nervous System
+Children's Health
+Exercise & Fitness
+Heart Health
+Men's Health
+Mental Health
+Nutrition
+Orthopaedics
+Primary Care
+Skin Care & Beauty
+Wellness
+Women's Health
+Other Popular Categories
+Aging Well
+Allergies
+Cancer Care & Prevention
+Chronic Pain
+Cold, Flu & Respiratory Illnesses
+Diabetes & Endocrinology
+Digestive
+Ear, Nose & Throat
+Eye Care
+Infectious Disease
+Lung
+Oral Health
+Parenting
+Pregnancy & Childbirth
+Recipes
+Rheumatology & Immunology
+Senior Health
+Sex & Relationships
+Sleep
+Urinary & Kidney Health
+Weight Loss
+Ad
+Rendered:
+Thu Mar 05 2026 10:41:10 GMT+0000 (Coordinated Universal Time)

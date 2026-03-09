@@ -1,0 +1,5020 @@
+BAŞLIK: Frontiers | Low carbohydrate high fat ketogenic diets on the exercise crossover point and glucose homeostasis
+KAYNAK: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1150265/full
+TARİH: 2026-03-08 21:19:38
+KELİME: 16077
+============================================================
+
+REVIEW article
+Front. Physiol.
+, 28 March 2023
+Sec. Metabolic Physiology
+Volume 14 - 2023 |
+https://doi.org/10.3389/fphys.2023.1150265
+Low carbohydrate high fat ketogenic diets on the exercise crossover point and glucose homeostasis
+T
+D
+T. D. Noakes
+1
+P
+J
+P. J. Prins
+2
+J
+S
+J. S. Volek
+3
+D
+P
+D. P. D’Agostino
+4,5
+A
+P
+A. P. Koutnik
+5
+*
+1.
+Department of Medical and Wellness Science, Cape Peninsula University of Technology, Cape Town, South Africa
+2.
+Department of Exercise Science, Grove City College, Grove City, PA, United States
+3.
+Department of Human Sciences, The Ohio State University, Columbus, OH, United States
+4.
+Department of Molecular Pharmacology and Physiology, University of South Florida, Tampa, FL, United States
+5.
+Human Healthspan, Resilience and Performance, Institute of Human and Machine Cognition, Pensacola, FL, United States
+See more
+Article metrics
+View details
+32
+Citations
+33,8k
+Views
+7,5k
+Downloads
+Abstract
+In exercise science, the crossover effect denotes that fat oxidation is the primary fuel at rest and during low-intensity exercise with a shift towards an increased reliance on carbohydrate oxidation at moderate to high exercise intensities. This model makes four predictions: First, >50% of energy comes from carbohydrate oxidation at ≥60% of maximum oxygen consumption (VO
+2
+max), termed the crossover point. Second, each individual has a maximum fat oxidation capacity (FATMAX) at an exercise intensity lower than the crossover point. FATMAX values are typically 0.3–0.6 g/min. Third, fat oxidation is minimized during exercise ≥85%VO
+2
+max, making carbohydrates the predominant energetic substrate during high-intensity exercise, especially at >85%VO
+2
+max. Fourth, high-carbohydrate low-fat (HCLF) diets will produce superior exercise performances
+via
+maximizing pre-exercise storage of this predominant exercise substrate. In a series of recent publications evaluating the metabolic and performance effects of low-carbohydrate high-fat (LCHF/ketogenic) diet adaptations during exercise of different intensities, we provide findings that challenge this model and these four predictions. First, we show that adaptation to the LCHF diet shifts the crossover point to a higher %VO
+2
+max (>80%VO
+2
+max) than previously reported. Second, substantially higher FATMAX values (>1.5 g/min) can be measured in athletes adapted to the LCHF diet. Third, endurance athletes exercising at >85%VO
+2
+max, whilst performing 6 × 800 m running intervals, measured the highest rates of fat oxidation yet reported in humans. Peak fat oxidation rates measured at 86.4 ± 6.2%VO
+2
+max were 1.58 ± 0.33 g/min with 30% of subjects achieving >1.85 g/min. These studies challenge the prevailing doctrine that carbohydrates are the predominant oxidized fuel during high-intensity exercise. We recently found that 30% of middle-aged competitive athletes presented with pre-diabetic glycemic values while on an HCLF diet, which was reversed on LCHF. We speculate that these rapid changes between diet, insulin, glucose homeostasis, and fat oxidation might be linked by diet-induced changes in mitochondrial function and insulin action. Together, we demonstrate evidence that challenges the current crossover concept and demonstrate evidence that a LCHF diet may also reverse features of pre-diabetes and future metabolic disease risk, demonstrating the impact of dietary choice has extended beyond physical performance even in athletic populations.
+Exercise crossover concept
+A time-honored physiological principle is that energy metabolism during exercise of increasing intensity changes from a predominance of energy derived from fat oxidation at lower exercise intensities to an increased reliance on carbohydrate oxidation at higher exercise intensities (
+Achten et al., 2002
+;
+Achten and Jeukendrup, 2003
+;
+Venables et al., 1985
+;
+Jeukendrup and Wallis, 2005
+;
+Randell et al., 2017
+;
+Frandsen et al., 2017
+). Ultimately at the highest exercise intensities, expressed as a percentage of maximal oxygen consumption (VO
+2
+max), carbohydrate becomes the exclusive or obligatory fuel. Above an exercise intensity of 85%VO
+2
+max, humans are no longer able to extract any energy from fat oxidation (
+Achten et al., 2002
+;
+Achten and Jeukendrup, 2003
+;
+Venables et al., 1985
+;
+Jeukendrup and Wallis, 2005
+;
+Randell et al., 2017
+;
+Frandsen et al., 2017
+;
+Vest et al., 2018
+;
+Brooks, 1997
+;
+Brooks, 1998
+;
+Brooks and Mercier, 1985
+;
+Brooks and Trimmer, 1985
+;
+Kolodziej and O'Halloran, 2021
+;
+Kenney et al., 2021
+). This concept is depicted graphically [
+Figure 1
+; (
+Brooks and Mercier, 1985
+;
+Kenney et al., 2021
+)] as the “crossover” point which is defined as “the power output at which energy from carbohydrates-derived fuels predominates over energy from lipids, with further increases in power eliciting a relative increment in carbohydrate utilization and a decrement in lipid oxidation” (
+Brooks and Mercier, 1985
+). The proposed explanations for this phenomenon are the following: “2. Lipid is the major fuel (approximately 60%) for non-contracting muscle and the body at rest. 3. Energy flux, as determined by exercise intensity, is the major factor determining the balance of substrate oxidation during exercise. Thus, moderate and greater exercise intensities increase contraction-induced muscle glycogenolysis and glycolysis, increase recruitment of fast-twitch muscle fibers, increase sympathetic nervous system (SNS) activity and downregulate mitochondrial fatty acid uptake. 4. Glycogen and glucose utilization scale exponentially to relative exercise power output with a greater gain in glycogen than in glucose use at high power. The relationship between free fatty acid (FFA) flux and power output is an inverted hyperbola. Consequently, at high power outputs, the role of lipid oxidation is diminished. 5. Factors such as endurance training, energy supply, as influenced by dietary manipulation, and prior exercise play secondary roles in determining the balance of substrate utilization during exercise” [(
+Brooks, 1997
+), p. 889]. In addition, “Prior endurance training results in muscular biochemical adaptations that enhance lipid oxidation as well as decrease the SNS response to given submaximal exercise stresses. These adaptations promote lipid oxidation during mild-to moderate-intensity exercise. In contrast, increases in exercise intensity are conceived to increase contraction-induced muscle glycogenolysis, alter the pattern of fiber type recruitment, and increase SNS activity” [(
+Brooks and Mercier, 1985
+), p. 2253]. Type 2 diabetes mellitus (T2DM) increases carbohydrate oxidation at low exercise intensities (
+Ghanassia et al., 2006
+) and elevates SNS activity (
+Huggett et al., 2003
+;
+Thackeray et al., 2012
+). According to this interpretation, the point at which this crossover from fat to carbohydrate oxidation occurs with increasing intensity is relatively fixed so that “factors such as endurance training, energy supply as influenced by dietary manipulation, and prior exercise play secondary role in determining the balance of substrate oxidation during exercise” [(
+Brooks, 1997
+), p.889].
+FIGURE 1
+The relation between the relative contributions of fat and carbohydrate (CHO) utilization to overall energy expenditure as a function of exercise intensity. The point at which the two lines intersect illustrates the classic crossover concept. Reproduced and redrawn from (
+Brooks and Mercier, 1985
+;
+Kenney et al., 2021
+).
+The crossover concept (
+Brooks, 1997
+;
+Brooks, 1998
+;
+Brooks and Mercier, 1985
+;
+Brooks and Trimmer, 1985
+;
+Kolodziej and O’Halloran, 2021
+;
+Kenney et al., 2021
+) has contributed to a commonly held belief that high-carbohydrate diets are ergogenic whereas high-fat diets are more likely to impair performance, especially during high-intensity or more prolonged exercise whilst sustaining higher intensities as it is believed that carbohydrate oxidation is required and preferred (
+Burke, 2015
+). Thus: “For most events at the Olympics (and others), carbohydrate is the primary fuel for anaerobic and aerobic metabolism” [(
+Hargreaves and Spriet, 2020
+), p.817] so that “Fat-derived ATP production is designed to provide a ‘helper fuel’ during exercise, with a maximum amount of energy at power outputs of ∼60–65%VO
+2
+max (
+Achten and Jeukendrup, 2003
+)” [ (
+Hargreaves and Spriet, 2020
+), p.820]. A logical prediction of the crossover concept is that each human, on average, has a maximal rate of fat oxidation that occurs at ∼65%VO
+2
+max (
+Figure 2
+) with some analyses suggesting maximal rate of fat oxidation may be achieved at slightly lower intensities [48%VO
+2
+max; (
+Venables et al., 1985
+)].
+Figure 2
+shows fat oxidation increases somewhat as the exercise intensity increases from 50 to ∼63%VO
+2
+max and fall steeply as exercise reaches higher intensities. Above an exercise intensity of approximately 85%VO
+2
+max, the rate of fat oxidation reaches zero. According to this model, peak rates of fat oxidation measured at exercise intensities below ∼61%VO
+2
+max vary from approximately 0.2–0.6 g/min in different populations (
+Randell et al., 2017
+;
+Maunder et al., 2018
+;
+Chrzanowski-Smith et al., 2020
+;
+Chrzanowski-Smith et al., 2021
+) although some individual values approaching 1 g/min have been measured in both male and female Ironman triathletes (
+Frandsen et al., 2017
+;
+Vest et al., 2018
+). A well-known limitation of estimating substrate oxidation from gas exchange is the underestimation of fat oxidation at exercise intensities >70% VO
+2
+max. During progressive exercise, high rates of glycolysis generate an accumulation of H
++
+in the contracting muscle that are transported to the extracellular fluid, which is buffered by [HCO
+3
+−
+]. This excess (non-oxidative) CO
+2
+is excreted through hyperpnoea, elevating the VCO
+2
+. As a result, indirect calorimetry artifactually elevates respiratory exchange ratio (RER) thereby overestimating carbohydrate oxidation and underestimating fat oxidation during high-intensity exercise >70% VO
+2
+max. The extent to which these artifacts influence measurement of fat oxidation
+via
+indirect calorimetry in low-carbohydrate adapted athletes remains unclear as they would be expected to have lower rates of glycolysis and H
++
+generation. To the extent this occurs at some point during progressive exercise, it would underestimate the reported fat oxidation rates.
+FIGURE 2
+According to the crossover concept, rates of fat oxidation initially increase during exercise of low to moderate intensity reaching a maximal rate of fat oxidation (MFO) at between 60%–65%VO
+2
+max (FATMAX) before falling steeply as the exercise intensity increases further. The model predicts that the rate of fat oxidation reaches zero at exercise intensities greater than 85%VO
+2
+max. Redrawn from reference (
+Achten and Jeukendrup, 2003
+).
+Low-carbohydrate high-fat diets and the crossover point
+Substrate oxidation
+In 2016 Volek et al. (
+Volek et al., 2016
+) reported much higher rates of fat oxidation in ultramarathon runners chronically adapted to an LCHF diet. Peak rates of fat oxidation were significantly higher in these runners than in a control group who followed the traditional high-carbohydrate low-fat (HCLF) diet but were otherwise matched for athletic caliber and VO
+2
+max [1.6 g/min vs. 0.7 g/min; Figure 2 in ref (
+Volek et al., 2016
+)]. Peak rates of fat oxidation also occurred at a higher %VO
+2
+max in the ultramarathoners eating the LCHF diet [70% vs. 55%; Figure 2 in reference (
+Volek et al., 2016
+)]. A reasonable conclusion might be that the higher rates of fat oxidation in ultramarathoners habituated to the LCHF diet is likely due to whole-body metabolic adaptions (
+Kolodziej and O'Halloran, 2021
+;
+Chrzanowski-Smith et al., 2021
+) that result from their vigorous and prolonged endurance training whilst eating a diet restricted in carbohydrates for an extended period; 20 months on average in that trial. The next significant analysis of this phenomenon comes from a series of meticulously conducted studies on Olympic-class athletes (
+Burke et al., 2017
+;
+Burke et al., 2020
+;
+Burke, 2021
+;
+Burke et al., 2021
+). Like the results of
+Volek et al. (2016)
+, these studies reported substantially higher rates of fat oxidation in these elite athletes adapted to the LCHF diet for varying periods. For example, fat oxidation rates measured during exercise at high %VO
+2
+max were 1.60 g/min at 79%VO
+2
+max (
+Burke et al., 2017
+); 1.25 g/min at 77%VO
+2
+max (
+Burke et al., 2020
+); 1.40 g/min at 74%VO
+2
+max (
+Burke et al., 2021
+). In their most recent publication, these authors (
+Burke et al., 2021
+) also reported the time course of this adaptation. Rates of fat oxidation increased from 0.50 g/min to 1.40 g/min in just 5 days following adoption of the LCHF diet. With a return to the habitual HCLF diet, these changes reversed over a similar period. This suggests that this adaptation is not dependent on chronic whole-body training-induced adaptations but is more likely the result of a rapid change (<1 week) in the metabolic and hormonal milieu before and during exercise. The most obvious candidate would be a significant change in blood insulin concentrations and action (glucose-lowering effect of insulin) since even at modest blood concentrations, insulin exerts powerful control over the rates of glucose (
+Thiebaud et al., 1982
+) and fat oxidation (
+Bonadonna et al., 1990
+;
+Campbell et al., 1992
+;
+Horowitz et al., 1997
+). In an attempt to understand other factors which influence substrate oxidation during exercise, Rothschild et al. conducted a multivariable regression of 434 studies (
+Rothschild et al., 2022
+). Exercise duration, dietary fat intake, age, VO
+2
+max, and percentage of type 1 muscle fiber all were associated with decreased RER, while dietary carbohydrate intake, exercise intensity, male sex, and carbohydrate intake before and during exercise increased RER. While these factors are important considerations on substrate oxidation and account for 36%–59% of RER variability in these models, it is important to denote that multiple studies have controlled for some, or all, of these variables and still demonstrate robust alteration of substrate oxidation with habituation to LCHF diets when directly assessing these effects in randomized controlled trials (
+Prins et al., 2023a
+). Additionally, insulin may also explain why many of these cited factors altered cross-over kinetics (i.e., fitness level/VO
+2
+max (
+Lohmann et al., 1978
+;
+Wirth et al., 1981
+;
+King et al., 1990
+;
+Solomon et al., 2015
+), exercise intensity (
+Lin et al., 2022
+), carbohydrate intake (
+Collier and O’Dea, 1983
+), FFA availability and oxidation, and enzymatic changes (
+Puchalska and Crawford, 2017
+;
+Puchalska and Crawford, 2021
+), as discussed below.
+Other studies have since reported higher rates of fat oxidation during exercise of moderate to high intensity in athletes adapted over shorter durations to the LCHF diet—1.22 g/min at 71%VO
+2
+max (
+Coyle et al., 1985
+); 1.21 g/min at 72%VO
+2
+max (
+Webster et al., 2016
+); 1.7 g/min at 65%VO
+2
+max (
+Webster et al., 2018
+); 1.7 g/min at 80%VO
+2
+max (
+Webster et al., 2018
+); 0.93 g/min at ∼64%VO
+2
+max (
+Rowlands and Hopkins, 2002
+); 0.78 g/min at 88%VO
+2
+max (
+Prins et al., 2019
+). A value of 0.99 g/min at 70%VO
+2
+max was measured in subjects who began exercise with reduced muscle glycogen content (
+Weltan et al., 1998
+). Even the original study establishing the value of carbohydrate supplementation during prolonged exercise (
+Coyle et al., 1985
+) found that athletes who ingested 100 g carbohydrates per hour during prolonged exercise at ∼71%VO
+2
+max reached fat oxidation rates of >0.95 g/min even without following the LCHF diet. When they ingested a placebo during exercise, their fat oxidation rates reached 1.22 g/min. Another study (
+Rauch et al., 2022
+) found that approximately 50% of subjects eating a HCLF diet and ingesting 90 g carbohydrates per hour for the first 2 h of a 3-hour exercise bout at 60%VO
+2
+max achieved peak fat oxidation rates >1 g/min. While these results demonstrate consistent elevations in fat oxidation on LCHF diets, it is important to contextualize absolute fat oxidation values across studies for protocol differences (i.e., graded exercise, steady state, etc. [
+Bordenave et al., 2007
+;
+Egan et al., 2016
+)] and the described underestimation of fat oxidation of >70%VO
+2
+max (
+Hetlelid et al., 2015
+). None the less, these findings are incompatible with the cross-over concept.
+Since
+Prins et al. (2019)
+performed VO
+2
+max tests in their subjects when eating either the LCHF or HCLF diets for 6 weeks, they were able to study the effects of this dietary change on the crossover point during progressive exercise to exhaustion [(
+Prins et al., 2023b
+);
+Figure 3
+]. Interestingly,
+Figure 3
+(left panel) shows that when eating the HCLF diet subjects did not show a definitive crossover point. Instead, they derived more than 50% of their energy from carbohydrate oxidation at all exercise intensities. Peak rates of fat oxidation (0.53 g/min) were achieved at 60%VO
+2
+max after which values fell progressively, reaching close to zero (0.09 g/min) at 100%VO
+2
+max. In contrast, when following the LCHF diet, subjects generated 50% or more of their energy requirements from fat even at exercise intensities up to 90%VO
+2
+max, reaching the crossover point at ∼85%VO
+2
+max (
+Figure 3
+; right panel). When subjects ate the LCHF diet, they showed progressive, exponential changes in carbohydrate oxidation with increasing exercise intensity as predicted in
+Figure 1
+.
+Figure 4
+includes the data for peak rates of fat oxidation measured in that study (
+Prins et al., 2023b
+) as well as data from Achten and Jeukendrup (
+Achten and Jeukendrup, 2003
+) and the most recent study of Burke et al. (
+Burke et al., 2021
+). Whereas the data from
+Prins et al. (2023b)
+are from well-trained recreational athletes who adapted to the LCHF diet for 6 weeks, the data from Burke et al. (
+Burke et al., 2021
+) are from elite Olympic class racewalkers who followed the LCHF diet for just 5 days before resuming their more usual HCLF diet for another 5 days whereafter they were re-tested. These data provide two striking findings. First, amongst the highest rates of fat oxidation (1.5 g/min) yet measured were recorded in the Olympic-class racewalkers following adoption of a LCHF diet for just 5 days (
+Burke et al., 2017
+;
+Burke et al., 2021
+). These data are very similar to those measured in recreational but well-trained runners who had adapted to the LCHF diet for 6 weeks (
+Prins et al., 2019
+;
+Prins et al., 2023b
+). While these rapid adaptations may be partially explained by elite-level fitness (
+Rothschild et al., 2022
+), recent analyses have demonstrated that respiratory quotient and substrate oxidation changes occur in 4 days in male endurance athletes on an isocaloric LCHF diet (
+Prins et al., 2019
+), within 7 days (
+Hall et al., 2016
+) and 14 days in moderately trained athletes (
+Cipryan et al., 2018
+) and overweight/obese subjects (
+Buga et al., 2021
+;
+Hall et al., 2021
+), as biochemical changes consistent with increase fat oxidation (i.e., reduced glucose and insulin load; increase ketones) occur upon the first 24 h following reduced carbohydrate intake (<50 g/day) (
+Hengist et al., 2022
+). While the timeline for changes and plateaus in substrate oxidation following LCHF adaptations remains unknown, changes are initiated within the first 24 h of LCHF feeding and the plateaus appear to occur at some point within the first two weeks and are likely influenced by the baseline fitness level of each individual. Second, despite this very short adaptation period, rates of fat oxidation over 0.8 g/min were measured even during exercise at 87%VO
+2
+max in the Olympic racewalkers.
+FIGURE 3
+Relative contribution (%) of carbohydrate and fat to energy expenditure during exercise across a range of intensities in response to consuming a HCLF (left panel) or LCHF (right panel) diet for 6 weeks. Left panel; energy expenditure on HCLF diet; Right panel; energy expenditure on LCHF diet,
+n
+= 7. Data: Mean ± SD. *
+p
+< 0.05, **
+p
+< 0.01, ***
+p
+< 0.001, significant difference between LCHF and HCLF. This is reproduced from reference (
+Prins et al., 2023b
+). The orange box in the left panel indicates high rates of carbohydrate oxidation at low exercise intensities with no obvious crossover point when following the HCLF diet. In contrast rates of carbohydrate oxidation are low when following the LCHF diet (orange box in right panel) and there is a clear crossover point at about 85%VO
+2
+max (arrow). Redrawn from reference (
+Prins et al., 2023b
+).
+FIGURE 4
+Changes in rates of fat oxidation with increasing exercise intensity (%VO
+2
+max) in three different studies (
+Achten and Jeukendrup, 2003
+;
+Burke et al., 2021
+;
+Prins et al., 2023b
+). Note the equally high rates of fat oxidation at high exercise intensities in two studies (
+Burke et al., 2021
+;
+Prins et al., 2023b
+) of athletes quite different in their performance ability, level of training and duration of exposure to the LCHF diet [5 (
+Burke et al., 2021
+) vs. 42 (
+Prins et al., 2023b
+) days].
+These data from two separate research groups therefore unequivocally disprove the popular concept that human athletes are unable to extract any meaningful degree of energy from fat oxidation during exercise at intensities >85%VO
+2
+max (
+Figure 2
+) (
+Achten et al., 2002
+;
+Achten and Jeukendrup, 2003
+;
+Venables et al., 1985
+;
+Jeukendrup and Wallis, 2005
+;
+Randell et al., 2017
+;
+Frandsen et al., 2017
+;
+Vest et al., 2018
+;
+Brooks, 1997
+;
+Brooks, 1998
+;
+Brooks and Mercier, 1985
+;
+Brooks and Trimmer, 1985
+;
+Kolodziej and O’Halloran, 2021
+;
+Kenney et al., 2021
+;
+Ghanassia et al., 2006
+;
+Burke, 2015
+;
+Hargreaves and Spriet, 2020
+;
+Chrzanowski-Smith et al., 2020
+;
+Chrzanowski-Smith et al., 2021
+;
+Maunder et al., 2018
+;
+Hawley and Leckey, 2015
+;
+Leckey et al., 1985
+;
+Torrens et al., 2016
+). These data also identify a paradoxical observation included in the original description of the crossover point [ (
+Brooks and Mercier, 1985
+)—see earlier] but missing from
+Figure 1
+. At low exercise intensities, between 50%–70% of energy was derived from carbohydrate oxidation (outlined in left panel;
+Figure 3
+). This conflicts with the graph in
+Figure 1
+but is compatible with findings from an earlier study (
+Goedecke et al., 2000
+) showing that the RER at rest is highly variable but is 0.70 (indicating 100% fat oxidation) in less than 5% of subjects (
+Figure 5
+). Instead, the mean resting RER in that sample was 0.81 indicating that carbohydrate oxidation provided 37% of the resting energy expenditure in this sample. In a second study from the same laboratory (
+Goedecke et al., 2001
+), the resting RER on three separate occasions varied from 0.87–0.88 indicating that 57%–60% of resting energy expenditure was derived from carbohydrate oxidation in those subjects. McNeil et al. (
+McNeill et al., 1988
+) reported similar values (0.83) in healthy women; this value increased to 0.86 when subjects increased their dietary carbohydrate content from 44.5% to 54.4% for six days before evaluation. Additionally, 24-hour respiratory quotient data measured in 112 healthy subjects in “energy balance” eating a HCLF diet whilst living in a respiratory chamber for 3 days found that 44% of their energy metabolism at rest was derived from carbohydrates [Table 1 in (
+Pannacciulli et al., 2007
+)]. Indeed, the literature includes an alternative figure (
+Figure 6
+) of the crossover point which predicts that carbohydrates provide ∼30% of the resting energy expenditure and this rises even during low-intensity exercise, reaching the crossover point at just over 35%VO
+2
+max (
+Kolodziej and O’Halloran, 2021
+).
+FIGURE 5
+Distribution of Respiratory Exchange Ratios (RER) at rest in 61 subjects in the study of Goedecke et al. (
+Goedecke et al., 2000
+). Note that the mean RER at rest was 0.817 indicating that ∼37% of the resting energy expenditure was derived from carbohydrate oxidation. Reproduced from (
+Goedecke et al., 2000
+).
+FIGURE 6
+The publication of Kolodziej and O’Halloran (
+Kolodziej and O’Halloran, 2021
+) includes this figure which differs substantially from the more usual graph shown in
+Figure 1
+. Note that the rate of carbohydrate oxidation of ∼30%–40% at rest and during low-intensity exercise is substantially higher than values in
+Figure 1
+. Also, the crossover point occurs at less than 40%VO
+2
+max. Reproduced from (
+Kolodziej and O’Halloran, 2021
+).
+These findings identify a crucial paradox: If the key (obligatory) role of carbohydrate oxidation during exercise is to provide the energy required for high-intensity exercise (>75%VO
+2
+max) (
+Brooks, 1997
+;
+Brooks, 1998
+;
+Brooks and Mercier, 1985
+;
+Brooks and Trimmer, 1985
+;
+Kolodziej and O'Halloran, 2021
+;
+Kenney et al., 2021
+;
+Ghanassia et al., 2006
+;
+Burke, 2015
+;
+Hargreaves and Spriet, 2020
+;
+Chrzanowski-Smith et al., 2020
+;
+Chrzanowski-Smith et al., 2021
+;
+Maunder et al., 2018
+;
+Hawley and Leckey, 2015
+;
+Leckey et al., 1985
+;
+Torrens et al., 2016
+), then why does carbohydrate oxidation contribute such a large (∼50%–60%) fraction of the energy expenditure at rest or during low-intensity exercise in some humans, especially if they eat a high-carbohydrate diet (
+McNeill et al., 1988
+)? One potential answer may be that carbohydrate oxidation at rest serves a purpose other than energy provision since the oxidation of fat is perfectly capable of covering the energy requirements of humans at rest as clearly shown in the original graph of the crossover point (
+Brooks and Mercier, 1985
+;
+Kenney et al., 2021
+). Thus, this finding (
+Figures 3
+,
+6
+) raises two important questions: First, why is so much energy derived from carbohydrate oxidation at rest or low-intensity exercise if the role of carbohydrates is to provide the obligatory fuel source during high-intensity exercise? Second, why is so much energy derived from fat oxidation during exercise at high intensities (∼85%VO
+2
+max) on the LCHF diet if fat oxidation is merely a “helper fuel” (
+Hargreaves and Spriet, 2020
+) that cannot sustain high-intensity exercise?
+Fat oxidation, mitochondria and insulin
+The most recent publication of
+Prins et al. (2023a)
+provides more evidence of these paradoxical findings. They studied a group of highly trained recreationally competitive athletes who completed a 1609 m time trial (TT) and subsequently a high-intensity interval running session (6 × 800 m) on a laboratory treadmill following 4 weeks/31 days of adaptation to both the HCLF and LCHF diets. Unexpectedly, subjects exercising at >85%VO
+2
+max during the 6 × 800 m repetitions when adapted to the LCHF diet achieved the highest average rates of fat oxidation yet measured in humans: peak fat oxidation rates measured at 86.40% ± 6.24% VO
+2
+max were 1.58 ± 0.33 g/min with 30% of subjects achieving values > 1.85 g/min. Since these athletes were not of Olympic ability but were well-trained middle-aged athletes, this suggests that a key driver of oxidating so much fat and extending the crossover point to ∼85%VO
+2
+max is probably not superior athletic ability. Although training-induced increases in physical fitness levels are known to lower blood insulin concentrations and increase insulin action in various populations (
+Borghouts and Keizer, 2000
+;
+Roberts et al., 2013
+;
+Bird and Hawley, 2016
+;
+Thabit and Leelarathna, 2016
+;
+Lin et al., 2022
+), a more likely explanation for these findings is the middle-aged subject’s accumulated mitochondrial volume and capacity through years of endurance training in parallel with the dietary-induced changes on mitochondrial function and blood insulin concentrations. It is known that endurance exercise training increases mitochondrial size, number, and oxidative activity in a dose-dependent manner (i.e., training volume) contributing to improved whole-body glucose metabolism (
+Holloszy, 1967
+;
+Holloszy and Coyle, 1984
+;
+Constable et al., 1987
+;
+Kim et al., 2008
+;
+Bishop et al., 2019
+). Prins et al. cohort was very fit competitive endurance athletes (VO
+2
+max: top 5% (
+Rapp et al., 2018
+)) with high endurance training volume (running: 50 km/week; 10 years) in their middle age, with considerable capacity to accumulate mitochondrial size and number for maximizing potential substrate oxidation (
+Prins et al., 2023a
+). Dietary strategies which dramatically lower insulin (i.e., LCHF/ketogenic diets) have been demonstrated to increase molecular markers of skeletal muscle mitochondrial biogenesis (i.e., PGC-1α; TFAM (
+Kim et al., 2008
+;
+Bishop et al., 2019
+)) in pre-clinical models over a short duration (3 weeks) independent of exercise (
+Huang et al., 2021
+). Additional work has demonstrated that a ketogenic diet may also increase skeletal muscle mitochondrial volume (
+Parry et al., 2018
+), and mitochondrial enzymatic activity (
+Zhou et al., 2021
+), in preclinical models of aging. Direct ketone administration
+via
+exogenous ketone diester administration in a preclinical model also improved skeletal muscle regeneration, electron transport chain, and insulin sensitivity (
+Roberts et al., 2022
+), suggesting a potential role for ketones in facilitating these changes (
+Poff et al., 2020
+).
+Miller et al. (2020)
+found that after 12 weeks of a LCHF/ketogenic versus a HCLF diet (both combined with a resistance exercise program), diet did not increase mitochondrial volume. However, the LCHF/ketogenic diet reduced insulin load and insulin resistance, increased whole body fat oxidation, and demonstrated directional improvements in
+ex-vivo
+mitochondrial ATP production, ATP per Gram of O
+2
+consumed, and ATP per Gram of H
+2
+O
+2
+produced from carbohydrates, fat, and ketones when controlling per Gram of skeletal muscle, indicating increased mitochondrial capacity and efficiency in the LCHF/ketogenic diet group relative to the HCLF diet group. Taken together, this data suggests that the record levels of fat oxidation observed in our analyses of middle-aged competitive endurance athletes (
+Prins et al., 2023a
+), likely did not result from shifts mitochondrial volume over the 4 weeks LCHF/ketogenic dietary protocol, but instead resulted from mitochondrial function and efficiency changes in the low insulin environment in response to the LCHF/ketogenic diet. The low insulin environment appears to be a critical contributor to these observations as low blood insulin concentrations (
+Bonadonna et al., 1990
+;
+Campbell et al., 1992
+;
+Horowitz et al., 1997
+;
+Weltan et al., 1998
+) favor increased adipose tissue lipolysis resulting in increased FFA availability, thereby providing increased substrate in the form of FFA for enhanced skeletal muscle fat metabolism. The opposite is observed in persons with type-2 diabetes whose fitness levels are very low; whose blood glucose and insulin concentrations are high; in whom insulin action is impaired; and who have low rates of fat oxidation, even during low-intensity exercise when fat oxidation should be maximized (
+Ghanassia et al., 2006
+). The availability of FFA is a key determinant of fat oxidation and thus ketogenesis, but only in low-insulin environments in which insulin’s direct roles in attenuating both adipocyte lipolysis, hepatic fat oxidation and ketogenesis, and whole-body lipid oxidation (
+Owen et al., 1969
+;
+Balasse, 1979
+;
+Moller, 2020
+;
+Deru et al., 2021
+;
+Hengist et al., 2022
+) are removed. For example, Hengist et al. (
+Hengist et al., 2022
+) have recently reported that a single isocaloric and isoprotein LCHF meal increases fat oxidation and blood ketone concentrations and lowered carbohydrate oxidation post-prandially but only when blood insulin concentrations are very low. Indeed, fat oxidation is exquisitely sensitive to small changes in insulin within the physiological range and the effects are rapid (
+Bonadonna et al., 1990
+;
+Coppack et al., 1994
+), and result in widespread biochemical changes (
+Puchalska and Crawford, 2017
+;
+Puchalska and Crawford, 2021
+). Gribok et al., measured 24-h minute-to-minute substrate oxidation
+via
+whole-body indirect calorimetry and glycemia utilizing continuous glucose monitoring and found excellent agreement between measures of substrate oxidation (RER), glycemia and metabolic changes in response to high and low carbohydrate meals (
+Gribok et al., 2016
+) supporting the link between diet, substate oxidation, insulin and glycemia. Thus, accumulated mitochondrial machinery in concert with diet-induced changes in mitochondrial function and insulin load may explain the record levels of fat oxidation observed in Prins et al. middle-aged athletes (
+Prins et al., 2023a
+), as well as other observations in long-standing endurance athletes with exceptionally high fat oxidation rates while consuming LCHF diets (
+Volek et al., 2016
+;
+Burke et al., 2021
+). These shifts in mitochondrial and insulin function may also help explain how fitness level/VO
+2
+max (
+Lohmann et al., 1978
+;
+Wirth et al., 1981
+;
+King et al., 1990
+;
+Solomon et al., 2015
+), exercise intensity (
+Lin et al., 2022
+), carbohydrate intake (
+Collier and O’Dea, 1983
+), FFA availability and oxidation, and enzymatic changes (
+Lohmann et al., 1978
+;
+Wirth et al., 1981
+;
+Puchalska and Crawford, 2017
+;
+Puchalska and Crawford, 2021
+) influence the crossover point, as all these factors influence, or are influenced by, mitochondrial and/or insulin biology, as noted above.
+Glycogen content
+Additionally findings from Prins et al., (
+Prins et al., 2023a
+), demonstrated that performance during the 1609 mTT was unaffected by the LCHF diet. However, whilst the glycogen content of the leg muscles of recreational athletes eating the LCHF diet may be reduced (
+Phinney et al., 1983
+;
+Webster et al., 2016
+), they are not zero. Thus, one possible explanation for this unexpected finding could be that recreational athletes eating the LCHF diet still have sufficient muscle glycogen to power one maximal effort lasting ∼6 min. To examine this possibility, the authors included another exercise test involving 6 × 800 m interval running repetitions on a treadmill. This form of repetitive high-intensity exercise rapidly depletes muscle glycogen stores (
+Impey et al., 2020
+). Therefore, according to the prevailing hypothesis of an obligatory role for muscle glycogen use during high-intensity exercise (
+Noakes, 2022
+), when subjects followed the LCHF diet, muscle glycogen depletion would prematurely limit their exercise performance in the latter stages of the interval session. But the key finding was that exercise performance during the 6 × 800 m repetitions was unaffected by the LCHF diet (LCHF: 1236.1 ± 69.2 s; HCLF: 1254.0 ± 101.2 s). This suggests that despite a predicted greater muscle glycogen depletion following the LCHF diet, athletes performed equally well on either diet. These findings are also in line with recent reviews which show equivalent exercise performance across a range of athletic contexts in subjects when they followed either the LCHF (<50 g carbohydrates/day) or the HCLF diets (
+McSwiney et al., 2019
+;
+Murphy et al., 2021
+;
+Noakes, 2022
+). However, some data suggests that low muscle glycogen may not universally impede high-intensity performance (
+Vigh-Larsen et al., 2021
+). However, this appears to be governed by duration of high-intensity exercise and its resulting impact on muscle glycogen content. As an example, one study demonstrated that reduced muscle glycogen content following 3 min of high-intensity exercise did not impede performance (
+Bangsbo et al., 1992
+). However, a subsequent high-intensity exercise bout following the initial 3-minute bout did demonstrate reduced exercise performance as a result of greater reductions in muscle glycogen content. Of note,
+Prins et al. (2023a)
+demonstrated evidence that 4 weeks habituation to LCHF did not reduce performance even following a repeated sprint protocol which lasted ∼21 min in duration, nor were there decrement in 1609 m time trial performance for exercise lasting between 6–7 min in duration, both of which would be expected to reliably produce pronounced reductions in muscle glycogen content. The reduction in muscle glycogen in
+Prins et al. (2023a)
+analyses following 6–21 min of high-intensity exercise is further supported by prior analyses showing that both 4 weeks of eucaloric LCHF feeding and ≥24 weeks LCHF feeding in weight stable athletes resulted in 45%–47% reductions in muscle glycogen at rest (
+Phinney et al., 1983
+), and even more pronounced reduction following a single bout of exercise.
+Glucose homeostasis in athletes
+Dysglycemia
+As different diets can produce markedly different metabolic effects, they may also have important impacts on acute- and/or long-term health for athletes. Maffetone and Laursen described the fit but unhealthy athlete in 2015, citing modern-day highly processed, high glycemic diets as a contributing factor (
+Maffetone and Laursen, 2015
+). Another unexpected finding from Prins et al. was that 30% (3 of 10) of athletes showed evidence of pre-diabetic blood glucose (100–125 mg/dL) values while eating their usual HCLF diet (
+Prins et al., 2023a
+), consistent with pre-diabetes interstitial glucose values using analogous technology (
+Yost et al., 2020
+); this phenotype disappeared when they ate a LCHF diet. Importantly, these pre-diabetic glucose values could not be explained by underlying demographics, body composition or physical activity differences as pre-diabetic subjects had near equivalent age (pre-diabetic: 41.7 years/o; cohort: 39.3 years/o), running experience (pre-diabetic: 8.7 years; cohort: 9.7 years), body weight (pre-diabetic: 84.0 kg; cohort: 86.7 kg), BMI (pre-diabetic: 25.4 kg/m
+2
+; cohort: 26.2 kg/m2), body fat percentage (pre-diabetic: 14.8%; cohort: 15.7%) and VO
+2
+max (pre-diabetic: 61.0 mL/kg/min; cohort: 58.7 mL/kg/min) when compared to the entire cohort (
+Prins et al., 2023a
+).
+Figure 7
+demonstrate 24-hour multiday glycemic averages captured across five studies [(
+Thomas et al., 2016
+;
+Flockhart et al., 2021
+;
+Kulawiec et al., 2021
+;
+Prins et al., 2023a
+) (Prins, Koutnik unpublished)]. Thomas et al., (
+Thomas et al., 2016
+), and Kulawiec et al. (
+Kulawiec et al., 2021
+) reported on the same cohort and found that 30% (3 of 10) of sub-elite normal-weight endurance athletes eating HCLF diets had pre-diabetic fasting glycemic values. Thomas et al., reported an even higher percentage of athletes >100 mg/dL (7 of 10) when assessing the entire 24-hour/6 days free-living glycemic profile.
+Flockhart et al. (2021)
+found that 30% (4 of 12) of recreationally active athletes and 47% (7 of 15) of competitive endurance athletes (i.e., elite) had 24-hour mean glucose values > 100 mg/dL over a two-week period ((
+Flockhart et al., 2021
+); author correspondence). Our team found that a smaller percentage of (12%; 3 of 26) recreationally active college students ≤23 years of age presented with >100 mg/dL over a 4-week HCLF observational period (Prins, Koutnik unpublished). These preliminary observations suggest that a small percentage of athletes may be developing features of pre-diabetes while consuming HCLF diets.
+FIGURE 7
+Multiday averages of minute-by-minute continual glucose monitoring from 73 athletes of different fitness calibers are presented across 5 different studies (
+Thomas et al., 2016
+;
+Flockhart et al., 2021
+;
+Kulawiec et al., 2021
+;
+Prins et al., 2023a
+) (Prins, Koutnik unpublished). (
+Thomas et al., 2016
+) median glucose values were captured cumulative distribution plots of the entire averaged continuous glucose signal over the 6-day period (
+Figure 5
+; 0.5; (
+Thomas et al., 2016
+)). Prins, Koutnik unpublished data represented continuous glucose values from recreationally athletes over a 4-week duration [cohort: (
+Buga et al., 2023
+)]. Median [(
+Thomas et al., 2016
+;
+Prins et al., 2023a
+) Prins, Koutnik unpublished] or mean (
+Flockhart et al., 2021
+) multiday average glucoses values were presented. Red line differentiates individual athlete’s 24 h blood glucose averages above and below 100 mg/dL.
+Potential limitations of these assessments include acute exercise-induce hyperglycemia, intensified training mitochondrial dysfunction, method of capture, differences between fasting, post-prandial and 24-hour glucose, and glycemic bias (improvements) from continuous glucose monitoring devices. Acute exercise training (
+Ishihara et al., 2020
+;
+Prins et al., 2023a
+) has been demonstrated to elevate glucose values during exercise. Multiweek intensified training has also been demonstrated to induce short-term mitochondrial and glycemic dysfunction (
+Flockhart et al., 2021
+). However, exercise typically makes up ≤ 17% of total daily hours even in elite athletes (
+Fiskerstrand and Seiler, 2004
+) and results in increased insulin sensitivity for up to 16 h afterwards (
+Borghouts and Keizer, 2000
+) attenuating the prospect that acute hyperglycaemia during exercise is driving these elevation in 24-hour glucose values. In an initial controlled analysis of a progressive intensified training program, mitochondrial dysfunction, and acute signs of dysglycemia were discovered (
+Flockhart et al., 2021
+). However,
+Thomas et al. (2016)
+,
+Kulawiec et al., (2021)
+, and
+Prins et al. (2023a)
+, all captured free-living and fasting windows and
+Prins et al. (2023a)
+, specifically controlled for activity throughout the entire 4-week study period to ensure training volume was consistent, suggesting intensified training cannot explain the elevation in fasting and 24-h glucose values. Importantly, these glycemic phenotypes were captured utilizing 24-hour, minute-by-minute continuous glucose monitoring as it tracks long-term to HbA
+1c
+(
+Bergenstal et al., 2018
+;
+Hirsch et al., 2019
+;
+Valenzano et al., 2021
+), short term continuous glucose monitoring readings (10–14 days) are good estimates of 3-month continuous glucose monitoring averages (
+Chehregosha et al., 2019
+), and emergent evidence suggest that continuous glucose monitoring metrics track better with mean glucose (r = 0.92–0.98) than HbA
+1c
+(r = 0.71) in larger trails (
+Beck et al., 2019
+). Post-prandial eating windows on HCLF diet can lead to elevated glucose values during non-fasted window and influence 24-hour/multiday glycemic values. However, these pre-diabetic glycemic values in a percentage of athletes following standard HCLF dietary approaches [(
+Prins et al., 2023a
+), (
+Thomas et al., 2016
+;
+Flockhart et al., 2021
+;
+Kulawiec et al., 2021
+)] were not just during post-prandial/feeding windows but represented 24-hour mean glucose values across multiple days.
+Prins et al. (2023a)
+,
+Thomas et al. (2016)
+, and
+Kulawiec et al. (2021)
+all reported >100 mg/dL fasting values in 30% of athletes which attenuates the possibility that these pre-diabetic glycemic values are just a consequence of post-prandial glucose elevations. None the less, these findings in athletes were observed despite the known bias for improved glycemia in the general population when utilizing glycaemic monitoring tools and enrolled in research studies (
+Poolsup et al., 2013
+;
+Bailey et al., 2016
+;
+Liao and Schembre, 2018
+;
+FORTMANN et al., 2020
+;
+Liao et al., 2020
+;
+Yost et al., 2020
+;
+Dehghani Zahedani et al., 2021
+;
+Dicembrini et al., 2021
+;
+Whelan et al., 2021
+;
+Chekima et al., 2022
+;
+Naguib et al., 2022
+). Together, these data suggest that acute exercise-induce hyperglycemia, intensified training mitochondrial dysfunction and method and timing of capture cannot negate these pre-diabetic glycemic findings.
+In line with these observation in athletes engaging in regular exercise,
+Dehghani Zahedani et al. (2021)
+also reported that many people who self-classified as healthy were reclassified as pre-diabetic or diabetic upon further analyses of continuous glucose values of ≥10 days. While the exact consequences of these pre-diabetic glucose values in populations regularly engaging in physical activity requires additional analyses, and additional confirmation is warranted, it appears unlikely that persistent and elevated glucose values would be recommended granted the demonstrated adverse effects of poor glycemic control is dose-dependent, accumulate over the lifespan, and are not completely reversible despite future glycemic improvement (
+Diabetes et al., 1993
+;
+Holman et al., 2008
+;
+Forbes and Cooper, 2013
+;
+Nathan et al., 2013
+;
+Lind et al., 2014
+;
+Nathan and Group, 2014
+;
+Nordwall et al., 2015
+;
+Diabetes, 2016a
+;
+Diabetes, 2016b
+;
+Diabetes, 2016c
+;
+Stahl et al., 2017
+;
+Lind et al., 2019
+;
+El Malahi et al., 2022
+). Together these data preliminarily suggest that even young to middle age, very physically active (i.e., endurance athletes), normal bodyweight individuals may develop signs of undetected pre-diabetic glucose values which may be attributed to dietary choice and Prins et al. (
+Prins et al., 2023a
+) found that all subjects resolved their pre-diabetic glycemic phenotype when following a LCHF/ketogenic diet without reported changes in calories consumed or in exercise training load, or as a result of differences in body composition across groups. This appears to directly implicate diet as a modifiable factor in glycemic control, even in seemingly “healthy” athletes who develop pre-diabetic glucose values without risk factors or overt diagnoses of carbohydrate intolerance. Interestingly, individuals with the highest 4-week average blood glucose concentrations while eating their usual HCLF diet also experienced the greatest glycemic benefits when switching to the LCHF diet. These improvements in glycemic control were also associated with very high levels of fat oxidation measured during exercise, clearly demonstrating key links between HCLF glycemic homeostasis, diet-induced changes in glycemic control, and diet-induced changes in rates of fat oxidation.
+Dysglycemia, mitochondria and insulin
+Mitochondrial and insulin biology may partially, or completely, explain these observations (
+Thomas et al., 2016
+;
+Flockhart et al., 2021
+;
+Prins et al., 2023a
+) of pre-diabetic glycemic values in athletes consuming a HCLF diet. First, it is established that mitochondrial volume, function, and adaptation decline with age (
+Trounce et al., 1989
+;
+Cooper et al., 1992
+;
+Boffoli et al., 1994
+;
+Short et al., 2005
+;
+Menshikova et al., 2006
+;
+Kim et al., 2008
+) and mitochondrial dysfunction is associated with insulin resistance and load through reduced fat-oxidation, increased reactive oxygen species, and reduced ATP production, which is not completely explained by changes in mitochondrial volume (
+Kim et al., 2008
+). Second, skeletal muscle is integral to the development of insulin resistance and is a major reservoir for postprandial glucose storage (
+Shulman et al., 1990
+;
+Meyer et al., 2002
+;
+Karlsson et al., 2006
+;
+Pagel-Langenickel et al., 2010
+). In skeletal muscle, disruption of mitochondrial biology is evident in some insulin-resistant subjects years before they develop diabetes (
+Patti et al., 2003
+;
+Petersen et al., 2004
+;
+Befroy et al., 2007
+) and continuous glucose monitoring has been utilized to observe mitochondrial dysfunction through dynamic and continuous glycemic monitoring (
+Flockhart et al., 2021
+). These combined observations help explains our findings which demonstrate that middle-aged athletes with robust mitochondrial machinery and without overt pathology may have developed reduced mitochondrial function leading to pre-diabetic glycemic values observed
+via
+continuous glucose monitoring (
+Prins et al., 2023a
+). This is supported by other analyses also demonstrating pre-diabetic glycemic values in a similar percentage of athletes, of which 2/3 were middle-aged (
+Thomas et al., 2016
+). Importantly, Prins et al., demonstrated that a LCHF/ketogenic diet reversed this pre-diabetic glycemic phenotype and improved glycemic control in virtually all subjects, independent of changes in calories, activity, or body composition (
+Prins et al., 2023a
+), suggesting diet plays a central role in regulating this phenotype. Metabolic dysfunction in concert with insufficient insulin action might explain worsened glycemic control on the HCLF diet whereas reduced blood insulin concentrations as a byproduct of lower blood glucose concentrations on the LCHF diet will facilitate higher rates of fat oxidation and improved glycemic control. In line with our observations, individuals with untreated pre-diabetes (HbA1c: 6.2%) were able to reduce HbA1  c by 0.23%–0.26% and lower fasting blood glucose concentrations by 7.0–10.3 mg/dL, simply by reducing carbohydrate intake to less than 100g/day without fully achieving a “ketogenic” phenotype (<50 g carbohydrates/day with elevation in resting blood beta-hydroxybutyrate concentrations). This confirms that the LCHF diet is a viable treatment option for improving pre-diabetic glucose control (
+Dorans et al., 2022
+). Interestingly, the greater reductions in mean blood glucose concentrations (14.9 mg/dL) in our study (
+Prins et al., 2023a
+) compared to those achieved in a recently reported randomized controlled trial (7.0 mg/dL) (
+Dorans et al., 2022
+), may reflect the greater restriction in carbohydrate consumption in our study (40.9 g carbohydrates/day) compared to those in the study of Dorans et al. (96 g carbohydrates/day). When considering the known link between mitochondria and insulin function (
+Kim et al., 2008
+;
+Pagel-Langenickel et al., 2010
+), and the demonstration that LCHF/ketogenic diets improve insulin sensitivity, and mitochondrial molecular signaling and function (
+Newman et al., 2017
+;
+Parry et al., 2018
+;
+Miller et al., 2020
+;
+Huang et al., 2021
+;
+Zhou et al., 2021
+;
+Roberts et al., 2022
+), the established reductions in the blood insulin concentration when switching from a HCLF to a LCHF diet, may explain how these relatively rapid changes between diet, insulin, glucose homeostasis, and fat oxidation might be linked.
+Conclusion
+In summary, the evidence presented here shows that when adapted to the LCHF diet athletes burn more fat at much higher exercise intensities than is predicted by the crossover concept, and athletes burn more carbohydrates during low-intensity exercise than is allowed by the crossover concept which theorizes that carbohydrate contribution to energy production at low exercise intensities is very low since carbohydrate is the obligatory fuel for high-intensity exercise. Of note, recent findings also suggest that LCHF is not an inherently inferior nutritional approach for physical performance and LCHF diets may have important health implications, particularly improved glycemic control, even for athletes engaging in regular exercise. The diet-induced shift in the crossover point produced by the LCHF diet may be explained by the dietary-induced changes on mitochondrial function, lower blood insulin concentrations and the resulting biochemical changes which allow augmented adipose tissue lipolysis and whole-body rates of fat oxidation across a wide range of exercise intensities without marked decrement in performance. The crossover curve cannot explain the high carbohydrate oxidation at low exercise intensities since that curve predicts very low or minimal carbohydrate contribution to fuel oxidation during low-intensity exercise. But we and others have observed substantial amounts of carbohydrate oxidation at rest (
+Figure 5
+) and during low-intensity exercise (
+Figure 3
+; left panel). This requires a different explanation and should encourage a reconsideration of the true biological basis for the crossover curve.
+In his 1971 Banting Memorial Lecture entitled Physiology of Insulin in Man, George Cahill wrote: “The
+Rules of the game.
+Mammals and particularly man, appear to abide by several general metabolic guidelines relating to fuel homeostasis. These rules, for those so interested, provide fertile ground for teleologic speculation since they have or must have had major survival value. One of these is to maintain glucose levels within very narrow limits, returning the level rapidly to the norm if perturbed in either direction” [(
+Cahill, 1971
+), page 785]. In 2009, Wasserman further emphasized the biological priority of glucose homeostasis stating (
+Wasserman, 2009
+), “Four grams of glucose circulates in the blood of a person weighing 70 kg … a sophisticated control system is in place to maintain blood glucose constant … The essential role of glucagon and insulin and the importance of distributed control of glucose … ” Cahill recognized three mechanisms by which an elevated blood glucose concentration can be returned “rapidly to the norm if perturbed”. The first is increased blood glucose oxidation. This is achieved by insulin-induced inhibition of lipolysis thereby increasing carbohydrate in place of fat oxidation. The second is to store glucose as glycogen either in the liver or in the skeletal muscles. And the third is to convert any remaining excess glucose to fat (
+Cahill, 1971
+). Wasserman also emphasized these points but went on to describe the influence of blood flow, capillary recruitment, spatial barriers at the extracellular levels, transport number and activity at the cellular membrane, and enzymatic capacity, activity, and spatial barriers at the intracellular level all as additional regulatory mechanisms (
+Wasserman, 2009
+). This raises the possibility that perhaps an important role for carbohydrate oxidation in modern humans, particularly those who are largely physically inactive, might be to aid in the regulation of blood glucose concentration especially when they eat their usual HCLF diets. In support of this was the linear association between the change in glycemic control and rates of fat oxidation with the two different diets [Figure 8 in (
+Prins et al., 2023a
+)]. Since the evidence is inconclusive (
+Prins et al., 2019
+;
+Noakes, 2022
+;
+Prins et al., 2023a
+;
+Prins et al., 2023b
+) that muscle glycogen is the key “obligatory” energy fuel for all forms of high-intensity exercise, as is generally believed (
+Leckey et al., 1985
+;
+Burke, 2015
+;
+Hawley and Leckey, 2015
+;
+Torrens et al., 2016
+;
+Hargreaves and Spriet, 2020
+;
+Noakes, 2022
+), we offer alternative speculation: A key reason for the rapid muscle glycogen storage in athletes exposed to the HCLF diet (
+Ivy et al., 1985
+) may be to assist in the more efficient homeostatic regulation of their blood glucose concentrations. Our finding that 30% of otherwise healthy lean middle-aged athletic individuals, show evidence for impaired 24-hour glucose tolerance (pre-diabetes) when eating the HCLF diet (
+McNeill et al., 1988
+), a finding supported by others (
+Maffetone and Laursen, 2015
+;
+Thomas et al., 2016
+;
+Flockhart et al., 2021
+), with complete resolution on the LCHF diet (
+McNeill et al., 1988
+), suggests that the repeated, persistent challenge posed by the HCLF diet to Cahill’s
+First Rule of the Game,
+may ultimately lead to a failure of glucose homeostasis regulatory systems in some, potentially explained through mitochondrial dysfunction and subsequent initiation of insulin resistance, placing individuals at risk for future metabolic disease and related complications (
+Reaven, 1988
+).
+Statements
+Author contributions
+TN developed the first draft. TN and AK wrote sections of the manuscript. All authors contributed to the manuscript revision, read, and approved the submitted version.
+Acknowledgments
+The authors thank Levels, Inc. for providing continuous glucose monitors and software for data capture and subject support for both PP and AK unpublished work and prior work (
+Prins et al., 2023a
+). The authors thank Mikael Flockhart and Filip Larsen for providing data from their prior CGM analysis (
+Flockhart et al., 2021
+). The authors thank the participants and researchers whose work contributed to this manuscript.
+Conflict of interest
+TN and JV are authors of low-carbohydrate nutrition books. TN book royalties go to The TN Foundation which contributes to the Eat Better South Africa Campaign. JV receives royalties from book sales; is a founder, and has equity in, Virta Health; and is a science advisor for Simply Good Foods and CookKeto. DD is an inventor of patents on the use of exogenous ketones, advisor for Levels Health, Readout Health, and co-owner of Ketone Technologies LLC, which does consulting and public speaking events. AK is a patent inventor and has consulted for Simply Good Foods.
+The remaining author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+References
+1
+Achten
+J.
+Gleeson
+M.
+Jeukendrup
+A. E.
+(
+2002
+).
+Determination of the exercise intensity that elicits maximal fat oxidation
+.
+Med. Sci. Sports Exerc
+34
+(
+1
+),
+92
+–
+97
+.
+10.1097/00005768-200201000-00015
+CrossRef
+Google Scholar
+2
+Achten
+J.
+Jeukendrup
+A. E.
+(
+2003
+).
+Maximal fat oxidation during exercise in trained men
+.
+Int. J. Sports Med.
+24
+(
+8
+),
+603
+–
+608
+.
+10.1055/s-2003-43265
+CrossRef
+Google Scholar
+3
+Bailey
+K. J.
+Little
+J. P.
+Jung
+M. E.
+(
+2016
+).
+Self-monitoring using continuous glucose monitors with real-time feedback improves exercise adherence in individuals with impaired blood glucose: A pilot study
+.
+Diabetes Technol. Ther.
+18
+(
+3
+),
+185
+–
+193
+.
+Epub 20160217
+.
+10.1089/dia.2015.0285
+CrossRef
+Google Scholar
+4
+Balasse
+E. O.
+(
+1979
+).
+Kinetics of ketone body metabolism in fasting humans
+.
+Metabolism
+28
+(
+1
+),
+41
+–
+50
+.
+10.1016/0026-0495(79)90166-5
+CrossRef
+Google Scholar
+5
+Bangsbo
+J.
+Graham
+T. E.
+Kiens
+B.
+Saltin
+B.
+(
+1992
+).
+Elevated muscle glycogen and anaerobic energy production during exhaustive exercise in man
+.
+J. Physiol.
+451
+,
+205
+–
+227
+.
+10.1113/jphysiol.1992.sp019161
+CrossRef
+Google Scholar
+6
+Beck
+R. W.
+Bergenstal
+R. M.
+Cheng
+P.
+Kollman
+C.
+Carlson
+A. L.
+Johnson
+M. L.
+et al
+(
+2019
+).
+The relationships between time in range, hyperglycemia metrics, and Hba1c
+.
+J. Diabetes Sci. Technol.
+13
+(
+4
+),
+614
+–
+626
+.
+Epub 20190113
+.
+10.1177/1932296818822496
+CrossRef
+Google Scholar
+7
+Befroy
+D. E.
+Petersen
+K. F.
+Dufour
+S.
+Mason
+G. F.
+de Graaf
+R. A.
+Rothman
+D. L.
+et al
+(
+2007
+).
+Impaired mitochondrial substrate oxidation in muscle of insulin-resistant offspring of type 2 diabetic patients
+.
+Diabetes
+56
+(
+5
+),
+1376
+–
+1381
+.
+Epub 20070207
+.
+10.2337/db06-0783
+CrossRef
+Google Scholar
+8
+Bergenstal
+R. M.
+Beck
+R. W.
+Close
+K. L.
+Grunberger
+G.
+Sacks
+D. B.
+Kowalski
+A.
+et al
+(
+2018
+).
+Glucose management indicator (gmi): A New term for estimating A1c from continuous glucose monitoring
+.
+Diabetes Care
+41
+(
+11
+),
+2275
+–
+2280
+.
+Epub 20180917
+.
+10.2337/dc18-1581
+CrossRef
+Google Scholar
+9
+Bird
+S. R.
+Hawley
+J. A.
+(
+2016
+).
+Update on the effects of physical activity on insulin sensitivity in humans
+.
+BMJ Open Sport Exerc Med.
+2
+(
+1
+),
+e000143
+.
+Epub 20170301
+.
+10.1136/bmjsem-2016-000143
+CrossRef
+Google Scholar
+10
+Bishop
+D. J.
+Botella
+J.
+Granata
+C.
+(
+2019
+).
+Crosstalk opposing view: Exercise training volume is more important than training intensity to promote increases in mitochondrial content
+.
+J. Physiol.
+597
+(
+16
+),
+4115
+–
+4118
+.
+Epub 20190715
+.
+10.1113/jp277634
+CrossRef
+Google Scholar
+11
+Boffoli
+D.
+Scacco
+S. C.
+Vergari
+R.
+Solarino
+G.
+Santacroce
+G.
+Papa
+S.
+(
+1994
+).
+Decline with age of the respiratory chain activity in human skeletal muscle
+.
+Biochim. Biophys. Acta
+1226
+(
+1
+),
+73
+–
+82
+.
+10.1016/0925-4439(94)90061-2
+CrossRef
+Google Scholar
+12
+Bonadonna
+R. C.
+Groop
+L. C.
+Zych
+K.
+Shank
+M.
+DeFronzo
+R. A.
+(
+1990
+).
+Dose-dependent effect of insulin on plasma free fatty acid turnover and oxidation in humans
+.
+Am. J. Physiol.
+259
+(
+1
+),
+E736
+–
+E750
+.
+10.1152/ajpendo.1990.259.5.E736
+CrossRef
+Google Scholar
+13
+Bordenave
+S.
+Flavier
+S.
+Fédou
+C.
+Brun
+J. F.
+Mercier
+J.
+(
+2007
+).
+Exercise calorimetry in sedentary patients: Procedures based on short 3 min steps underestimate carbohydrate oxidation and overestimate lipid oxidation
+.
+Diabetes Metab.
+33
+(
+5
+),
+379
+–
+384
+.
+Epub 20071023
+.
+10.1016/j.diabet.2007.04.003
+CrossRef
+Google Scholar
+14
+Borghouts
+L. B.
+Keizer
+H. A.
+(
+2000
+).
+Exercise and insulin sensitivity: A review
+.
+Int. J. Sports Med.
+21
+(
+1
+),
+1
+–
+12
+.
+10.1055/s-2000-8847
+CrossRef
+Google Scholar
+15
+Brooks
+G. A.
+(
+1997
+).
+Importance of the 'crossover' concept in exercise metabolism
+.
+Clin. Exp. Pharmacol. Physiol.
+24
+(
+11
+),
+889
+–
+895
+.
+10.1111/j.1440-1681.1997.tb02712.x
+CrossRef
+Google Scholar
+16
+Brooks
+G. A.
+(
+1998
+).
+Mammalian fuel utilization during sustained exercise
+.
+Comp. Biochem. Physiol. B Biochem. Mol. Biol.
+120
+(
+1
+),
+89
+–
+107
+.
+10.1016/s0305-0491(98)00025-x
+CrossRef
+Google Scholar
+17
+Brooks
+G. A.
+Mercier
+J.
+,
+Balance of carbohydrate and lipid utilization during exercise: The "crossover" concept
+.
+J. Appl. Physiol.
+(
+1985
+)
+76
+(
+6
+):
+2253
+–
+2261
+.
+10.1152/jappl.1994.76.6.2253
+CrossRef
+Google Scholar
+18
+Brooks
+G. A.
+Trimmer
+J. K.
+,
+Glucose kinetics during high-intensity exercise and the crossover concept
+.
+J. Appl. Physiol.
+(
+1985
+)
+80
+(
+3
+):
+1073
+–
+1075
+.
+10.1152/jappl.1996.80.3.1073
+CrossRef
+Google Scholar
+19
+Buga
+A.
+Crabtree
+C. D.
+Stoner
+J. T.
+Decker
+D. D.
+Robinson
+B. T.
+Kackley
+M. L.
+et al
+(
+2023
+).
+Metabolic and ruck performance effects of a novel, light-weight, energy-dense ketogenic bar
+.
+Exp. Physiol.
+Epub 20230313
+.
+10.1113/EP091029
+CrossRef
+Google Scholar
+20
+Buga
+A.
+Kackley
+M. L.
+Crabtree
+C. D.
+Sapper
+T. N.
+McCabe
+L.
+Fell
+B.
+et al
+(
+2021
+).
+The effects of a 6-week controlled, hypocaloric ketogenic diet, with and without exogenous ketone salts, on body composition responses
+.
+Front. Nutr.
+8
+,
+618520
+.
+Epub 20210324
+.
+10.3389/fnut.2021.618520
+CrossRef
+Google Scholar
+21
+Burke
+L. M.
+(
+2021
+).
+Ketogenic low-cho, high-fat diet: The future of elite endurance Sport?
+J. Physiol.
+599
+(
+3
+),
+819
+–
+843
+.
+Epub 20200610
+.
+10.1113/JP278928
+CrossRef
+Google Scholar
+22
+Burke
+L. M.
+(
+2015
+).
+Re-examining high-fat diets for sports performance: Did we call the 'nail in the coffin' too soon?
+Sports Med.
+45
+,
+S33
+–
+S49
+.
+10.1007/s40279-015-0393-9
+CrossRef
+Google Scholar
+23
+Burke
+L. M.
+Ross
+M. L.
+Garvican-Lewis
+L. A.
+Welvaert
+M.
+Heikura
+I. A.
+Forbes
+S. G.
+et al
+(
+2017
+).
+Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers
+.
+J. Physiol.
+595
+(
+9
+),
+2785
+–
+2807
+.
+Epub 20170214
+.
+10.1113/JP273230
+CrossRef
+Google Scholar
+24
+Burke
+L. M.
+Sharma
+A. P.
+Heikura
+I. A.
+Forbes
+S. F.
+Holloway
+M.
+McKay
+A. K. A.
+et al
+(
+2020
+).
+Crisis of confidence averted: Impairment of exercise economy and performance in elite race walkers by ketogenic low carbohydrate, high fat (lchf) diet is reproducible
+.
+PLoS One
+15
+(
+6
+),
+e0234027
+.
+Epub 20200604
+.
+10.1371/journal.pone.0234027
+CrossRef
+Google Scholar
+25
+Burke
+L. M.
+Whitfield
+J.
+Heikura
+I. A.
+Ross
+M. L. R.
+Tee
+N.
+Forbes
+S. F.
+et al
+(
+2021
+).
+Adaptation to a low carbohydrate high fat diet is rapid but impairs endurance exercise metabolism and performance despite enhanced glycogen availability
+.
+J. Physiol.
+599
+(
+3
+),
+771
+–
+790
+.
+Epub 20200819
+.
+10.1113/JP280221
+CrossRef
+Google Scholar
+26
+Cahill
+G. F.
+Jr.
+(
+1971
+).
+The banting memorial lecture 1971. Physiology of insulin in man
+.
+Diabetes
+20
+(
+12
+),
+785
+–
+799
+.
+10.2337/diab.20.12.785
+CrossRef
+Google Scholar
+27
+Campbell
+P. J.
+Carlson
+M. G.
+Hill
+J. O.
+Nurjhan
+N.
+(
+1992
+).
+Regulation of free fatty acid metabolism by insulin in humans: Role of lipolysis and reesterification
+.
+Am. J. Physiol.
+263
+(
+6
+),
+E1063
+–
+E1069
+.
+10.1152/ajpendo.2006.263.6.E1063
+CrossRef
+Google Scholar
+28
+Chehregosha
+H.
+Khamseh
+M. E.
+Malek
+M.
+Hosseinpanah
+F.
+Ismail-Beigi
+F.
+(
+2019
+).
+A view beyond Hba1c: Role of continuous glucose monitoring
+.
+Diabetes Ther.
+10
+(
+3
+),
+853
+–
+863
+.
+Epub 20190429
+.
+10.1007/s13300-019-0619-1
+CrossRef
+Google Scholar
+29
+Chekima
+K.
+Wong
+B. T. Z.
+Noor
+M. I.
+Ooi
+Y. B. H.
+Yan
+S. W.
+Chekima
+B.
+(
+2022
+).
+Use of a continuous glucose monitor to determine the glycaemic index of rice-based mixed meals, their effect on a 24 H glucose profile and its influence on overweight and obese young adults' meal preferences
+.
+Foods
+11
+(
+7
+),
+983
+.
+Epub 20220328
+.
+10.3390/foods11070983
+CrossRef
+Google Scholar
+30
+Chrzanowski-Smith
+O. J.
+Edinburgh
+R. M.
+Thomas
+M. P.
+Haralabidis
+N.
+Williams
+S.
+Betts
+J. A.
+et al
+(
+2020
+).
+The day-to-day reliability of peak fat oxidation and fat(max)
+.
+Eur. J. Appl. Physiol.
+120
+(
+8
+),
+1745
+–
+1759
+.
+Epub 20200601
+.
+10.1007/s00421-020-04397-3
+CrossRef
+Google Scholar
+31
+Chrzanowski-Smith
+O. J.
+Edinburgh
+R. M.
+Thomas
+M. P.
+Hengist
+A.
+Williams
+S.
+Betts
+J. A.
+et al
+(
+2021
+).
+Determinants of peak fat oxidation rates during cycling in healthy men and women
+.
+Int. J. Sport Nutr. Exerc Metab.
+31
+(
+3
+),
+227
+–
+235
+.
+Epub 20210214
+.
+10.1123/ijsnem.2020-0262
+CrossRef
+Google Scholar
+32
+Cipryan
+L.
+Plews
+D. J.
+Ferretti
+A.
+Maffetone
+P. B.
+Laursen
+P. B.
+(
+2018
+).
+Effects of a 4-week very low-carbohydrate diet on high-intensity interval training responses
+.
+J. Sports Sci. Med.
+17
+(
+2
+),
+259
+–
+268
+.
+Epub 20180514
+.
+Google Scholar
+33
+Collier
+G.
+O'Dea
+K.
+(
+1983
+).
+The effect of coingestion of fat on the glucose, insulin, and gastric inhibitory polypeptide responses to carbohydrate and protein
+.
+Am. J. Clin. Nutr.
+37
+(
+6
+),
+941
+–
+944
+.
+10.1093/ajcn/37.6.941
+CrossRef
+Google Scholar
+34
+Constable
+S. H.
+Favier
+R. J.
+McLane
+J. A.
+Fell
+R. D.
+Chen
+M.
+Holloszy
+J. O.
+(
+1987
+).
+Energy metabolism in contracting rat skeletal muscle: Adaptation to exercise training
+.
+Am. J. Physiol.
+253
+(
+1
+),
+C316
+–
+C322
+.
+10.1152/ajpcell.1987.253.2.C316
+CrossRef
+Google Scholar
+35
+Cooper
+J. M.
+Mann
+V. M.
+Schapira
+A. H.
+(
+1992
+).
+Analyses of mitochondrial respiratory chain function and mitochondrial DNA deletion in human skeletal muscle: Effect of ageing
+.
+J. Neurol. Sci.
+113
+(
+1
+),
+91
+–
+98
+.
+10.1016/0022-510x(92)90270-u
+CrossRef
+Google Scholar
+36
+Coppack
+S. W.
+Jensen
+M. D.
+Miles
+J. M.
+(
+1994
+).
+In vivo
+regulation of lipolysis in humans
+.
+J. Lipid Res.
+35
+(
+2
+),
+177
+–
+193
+.
+10.1016/s0022-2275(20)41207-6
+CrossRef
+Google Scholar
+37
+Coyle
+E. F.
+Coggan
+A. R.
+Hemmert
+M. K.
+Ivy
+J. L.
+,
+Muscle glycogen utilization during prolonged strenuous exercise when fed carbohydrate
+.
+J. Appl. Physiol.
+(
+1985
+)
+61
+(
+1
+):
+165
+–
+172
+.
+10.1152/jappl.1986.61.1.165
+CrossRef
+Google Scholar
+38
+Dehghani Zahedani
+A.
+Shariat Torbaghan
+S.
+Rahili
+S.
+Karlin
+K.
+Scilley
+D.
+Thakkar
+R.
+et al
+(
+2021
+).
+Improvement in glucose regulation using a digital tracker and continuous glucose monitoring in healthy adults and those with type 2 diabetes
+.
+Diabetes Ther.
+12
+(
+7
+),
+1871
+–
+1886
+.
+Epub 20210528
+.
+10.1007/s13300-021-01081-3
+CrossRef
+Google Scholar
+39
+Deru
+L. S.
+Bikman
+B. T.
+Davidson
+L. E.
+Tucker
+L. A.
+Fellingham
+G.
+Bartholomew
+C. L.
+et al
+(
+2021
+).
+The effects of exercise on beta-hydroxybutyrate concentrations over a 36-H fast: A randomized crossover study
+.
+Med. Sci. Sports Exerc
+53
+(
+9
+),
+1987
+–
+1998
+.
+10.1249/MSS.0000000000002655
+CrossRef
+Google Scholar
+40
+Diabetes
+C.
+Complications Trial Research
+G.
+Nathan
+D. M.
+Genuth
+S.
+Lachin
+J.
+Cleary
+P.
+et al
+(
+1993
+).
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus
+.
+N. Engl. J. Med.
+329
+(
+14
+),
+977
+–
+986
+.
+Epub 1993/09/30
+.
+10.1056/NEJM199309303291401
+CrossRef
+Google Scholar
+41
+Diabetes
+C.
+(
+2016
+).
+Intensive diabetes treatment and cardiovascular outcomes in type 1 diabetes: The DCCT/EDIC study 30-year follow-up
+.
+Diabetes Care
+39
+(
+5
+),
+686
+–
+693
+.
+Epub 2016/02/11
+.
+10.2337/dc15-1990
+CrossRef
+Google Scholar
+42
+Diabetes
+C.
+(
+2016
+).
+Mortality in type 1 diabetes in the DCCT/EDIC versus the general population
+.
+Diabetes Care
+39
+(
+8
+),
+1378
+–
+1383
+.
+Epub 2016/07/15
+.
+10.2337/dc15-2399
+CrossRef
+Google Scholar
+43
+Diabetes
+C.
+(
+2016
+).
+Risk factors for cardiovascular disease in type 1 diabetes
+.
+Diabetes
+65
+(
+5
+),
+1370
+–
+1379
+.
+Epub 2016/02/21
+.
+10.2337/db15-1517
+CrossRef
+Google Scholar
+44
+Dicembrini
+I.
+Cosentino
+C.
+Monami
+M.
+Mannucci
+E.
+Pala
+L.
+(
+2021
+).
+Effects of real-time continuous glucose monitoring in type 1 diabetes: A meta-analysis of randomized controlled trials
+.
+Acta Diabetol.
+58
+(
+4
+),
+401
+–
+410
+.
+Epub 20200813
+.
+10.1007/s00592-020-01589-3
+CrossRef
+Google Scholar
+45
+Dorans
+K. S.
+Bazzano
+L. A.
+Qi
+L.
+He
+H.
+Chen
+J.
+Appel
+L. J.
+et al
+(
+2022
+).
+Effects of a low-carbohydrate dietary intervention on hemoglobin A1c: A randomized clinical trial
+.
+JAMA Netw. Open
+5
+(
+10
+),
+e2238645
+.
+Epub 20221003
+.
+10.1001/jamanetworkopen.2022.38645
+CrossRef
+Google Scholar
+46
+Egan
+B.
+Ashley
+D. T.
+Kennedy
+E.
+O'Connor
+P. L.
+O'Gorman
+D. J.
+(
+2016
+).
+Higher rate of fat oxidation during rowing compared with cycling ergometer exercise across a range of exercise intensities
+.
+Scand. J. Med. Sci. Sports
+26
+(
+6
+),
+630
+–
+637
+.
+Epub 20150609
+.
+10.1111/sms.12498
+CrossRef
+Google Scholar
+47
+El Malahi
+A.
+Van Elsen
+M.
+Charleer
+S.
+Dirinck
+E.
+Ledeganck
+K.
+Keymeulen
+B.
+et al
+(
+2022
+).
+Relationship between time in range, glycemic variability, Hba1c, and complications in adults with type 1 diabetes mellitus
+.
+J. Clin. Endocrinol. Metab.
+107
+(
+2
+),
+e570
+–
+e581
+.
+10.1210/clinem/dgab688
+CrossRef
+Google Scholar
+48
+Fiskerstrand
+A.
+Seiler
+K. S.
+(
+2004
+).
+Training and performance characteristics among Norwegian international rowers 1970-2001
+.
+Scand. J. Med. Sci. Sports
+14
+(
+5
+),
+303
+–
+310
+.
+10.1046/j.1600-0838.2003.370.x
+CrossRef
+Google Scholar
+49
+Flockhart
+M.
+Nilsson
+L. C.
+Tais
+S.
+Ekblom
+B.
+Apró
+W.
+Larsen
+F. J.
+(
+2021
+).
+Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance in healthy volunteers
+.
+Cell Metab.
+33
+(
+5
+),
+957
+–
+970.e6
+.
+e6. Epub 20210318
+.
+10.1016/j.cmet.2021.02.017
+CrossRef
+Google Scholar
+50
+Forbes
+J. M.
+Cooper
+M. E.
+(
+2013
+).
+Mechanisms of diabetic complications
+.
+Physiol. Rev.
+93
+(
+1
+),
+137
+–
+188
+.
+Epub 2013/01/11
+.
+10.1152/physrev.00045.2011
+CrossRef
+Google Scholar
+51
+Fortmann
+A. L.
+Bastian
+A.
+Bagsic
+S. R. S.
+Loupasi
+I.
+Luu
+K.
+Hottinger
+A. R.
+et al
+(
+2020
+).
+2175-Pub: Feasibility and preliminary effectiveness of continuous glucose monitoring for diabetes prevention
+.
+Diabetes
+69
+.
+Supplement_1)
+.
+10.2337/db20-2175-PUB
+CrossRef
+Google Scholar
+52
+Frandsen
+J.
+Vest
+S. D.
+Larsen
+S.
+Dela
+F.
+Helge
+J. W.
+(
+2017
+).
+Maximal fat oxidation is related to performance in an ironman triathlon
+.
+Int. J. Sports Med.
+38
+(
+13
+),
+975
+–
+982
+.
+Epub 20171019
+.
+10.1055/s-0043-117178
+CrossRef
+Google Scholar
+53
+Ghanassia
+E.
+Brun
+J. F.
+Fedou
+C.
+Raynaud
+E.
+Mercier
+J.
+(
+2006
+).
+Substrate oxidation during exercise: Type 2 diabetes is associated with a decrease in lipid oxidation and an earlier shift towards carbohydrate utilization
+.
+Diabetes Metab.
+32
+(
+6
+),
+604
+–
+610
+.
+10.1016/S1262-3636(07)70315-4
+CrossRef
+Google Scholar
+54
+Goedecke
+J. H.
+Claassen
+A.
+Noakes
+T. D.
+Lambert
+E. V.
+(
+2001
+).
+Fasting respiratory exchange ratio is consistent at rest and during steady-state exercise of different intensities
+.
+Sports Med.
+Google Scholar
+55
+Goedecke
+J. H.
+Clair Gibson
+StA.
+Grobler
+L.
+Collins
+M.
+Noakes
+T. D.
+Lambert
+E. V.
+(
+2000
+).
+Determinants of the variability in respiratory exchange ratio at rest and during exercise in trained athletes
+.
+Am. J. Physiol. Endocrinol. Metab.
+279
+(
+6
+),
+E1325
+–
+E1334
+.
+10.1152/ajpendo.2000.279.6.E1325
+CrossRef
+Google Scholar
+56
+Gribok
+A.
+Leger
+J. L.
+Stevens
+M.
+Hoyt
+R.
+Buller
+M.
+Rumpler
+W.
+(
+2016
+).
+Measuring the short-term substrate utilization response to high-carbohydrate and high-fat meals in the whole-body indirect calorimeter
+.
+Physiol. Rep.
+4
+(
+12
+),
+e12835
+.
+10.14814/phy2.12835
+CrossRef
+Google Scholar
+57
+Hall
+K. D.
+Chen
+K. Y.
+Guo
+J.
+Lam
+Y. Y.
+Leibel
+R. L.
+Mayer
+L. E.
+et al
+(
+2016
+).
+Energy expenditure and body composition changes after an isocaloric ketogenic diet in overweight and obese men
+.
+Am. J. Clin. Nutr.
+104
+(
+2
+),
+324
+–
+333
+.
+Epub 20160706
+.
+10.3945/ajcn.116.133561
+CrossRef
+Google Scholar
+58
+Hall
+K. D.
+Guo
+J.
+Courville
+A. B.
+Boring
+J.
+Brychta
+R.
+Chen
+K. Y.
+et al
+(
+2021
+).
+Effect of a plant-based, low-fat diet versus an animal-based, ketogenic diet on ad libitum energy intake
+.
+Nat. Med.
+27
+(
+2
+),
+344
+–
+353
+.
+Epub 20210121
+.
+10.1038/s41591-020-01209-1
+CrossRef
+Google Scholar
+59
+Hargreaves
+M.
+Spriet
+L. L.
+(
+2020
+).
+Skeletal muscle energy metabolism during exercise
+.
+Nat. Metab.
+2
+(
+9
+),
+817
+–
+828
+.
+Epub 20200803
+.
+10.1038/s42255-020-0251-4
+CrossRef
+Google Scholar
+60
+Hawley
+J. A.
+Leckey
+J. J.
+(
+2015
+).
+Carbohydrate dependence during prolonged, intense endurance exercise
+.
+Sports Med.
+45
+,
+S5
+–
+S12
+.
+10.1007/s40279-015-0400-1
+CrossRef
+Google Scholar
+61
+Hengist
+A.
+Davies
+R. G.
+Rogers
+P. J.
+Brunstrom
+J. M.
+van Loon
+L. J. C.
+Walhin
+J. P.
+et al
+(
+2022
+).
+Restricting sugar or carbohydrate intake does not impact physical activity level or energy intake over 24 H despite changes in substrate use: A randomised crossover study in healthy men and women
+.
+Eur. J. Nutr.
+62
+,
+921
+–
+940
+.
+Epub 20221103
+.
+10.1007/s00394-022-03048-x
+CrossRef
+Google Scholar
+62
+Hetlelid
+K. J.
+Plews
+D. J.
+Herold
+E.
+Laursen
+P. B.
+Seiler
+S.
+(
+2015
+).
+Rethinking the role of fat oxidation: Substrate utilisation during high-intensity interval training in well-trained and recreationally trained runners
+.
+BMJ Open Sport Exerc Med.
+1
+(
+1
+),
+e000047
+.
+Epub 20150821
+.
+10.1136/bmjsem-2015-000047
+CrossRef
+Google Scholar
+63
+Hirsch
+I. B.
+Welsh
+J. B.
+Calhoun
+P.
+Puhr
+S.
+Walker
+T. C.
+Price
+D. A.
+(
+2019
+).
+Associations between hba(1c) and continuous glucose monitoring-derived glycaemic variables
+.
+Diabet. Med.
+36
+(
+12
+),
+1637
+–
+1642
+.
+Epub 20190717
+.
+10.1111/dme.14065
+CrossRef
+Google Scholar
+64
+Holloszy
+J. O.
+(
+1967
+).
+Biochemical adaptations in muscle
+.
+J. Biol. Chem.
+242
+(
+9
+),
+2278
+–
+2282
+.
+10.1016/s0021-9258(18)96046-1
+CrossRef
+Google Scholar
+65
+Holloszy
+J. O.
+Coyle
+E. F.
+(
+1984
+).
+Adaptations of skeletal muscle to endurance exercise and their metabolic consequences
+.
+J. Appl. Physiol. Respir. Environ. Exerc Physiol.
+56
+(
+4
+),
+831
+–
+838
+.
+10.1152/jappl.1984.56.4.831
+CrossRef
+Google Scholar
+66
+Holman
+R. R.
+Paul
+S. K.
+Bethel
+M. A.
+Matthews
+D. R.
+Neil
+H. A.
+(
+2008
+).
+10-Year follow-up of intensive glucose control in type 2 diabetes
+.
+N. Engl. J. Med.
+359
+(
+15
+),
+1577
+–
+1589
+.
+Epub 2008/09/12
+.
+10.1056/NEJMoa0806470
+CrossRef
+Google Scholar
+67
+Horowitz
+J. F.
+Mora-Rodriguez
+R.
+Byerley
+L. O.
+Coyle
+E. F.
+(
+1997
+).
+Lipolytic suppression following carbohydrate ingestion limits fat oxidation during exercise
+.
+Am. J. Physiol.
+273
+(
+4
+),
+E768
+–
+E775
+.
+10.1152/ajpendo.1997.273.4.E768
+CrossRef
+Google Scholar
+68
+Huang
+T. Y.
+Linden
+M. A.
+Fuller
+S. E.
+Goldsmith
+F. R.
+Simon
+J.
+Batdorf
+H. M.
+et al
+(
+2021
+).
+Combined effects of a ketogenic diet and exercise training alter mitochondrial and peroxisomal substrate oxidative capacity in skeletal muscle
+.
+Am. J. Physiol. Endocrinol. Metab.
+320
+(
+6
+),
+E1053
+–
+E1067
+.
+Epub 20210412
+.
+10.1152/ajpendo.00410.2020
+CrossRef
+Google Scholar
+69
+Huggett
+R. J.
+Scott
+E. M.
+Gilbey
+S. G.
+Stoker
+J. B.
+Mackintosh
+A. F.
+Mary
+D. A.
+(
+2003
+).
+Impact of type 2 diabetes mellitus on sympathetic neural mechanisms in hypertension
+.
+Circulation
+108
+(
+25
+),
+3097
+–
+3101
+.
+10.1161/01.CIR.0000103123.66264
+CrossRef
+Google Scholar
+70
+Impey
+S. G.
+Jevons
+E.
+Mees
+G.
+Cocks
+M.
+Strauss
+J.
+Chester
+N.
+et al
+(
+2020
+).
+Glycogen utilization during running: Intensity, sex, and muscle-specific responses
+.
+Med. Sci. Sports Exerc
+52
+(
+9
+),
+1966
+–
+1975
+.
+10.1249/MSS.0000000000002332
+CrossRef
+Google Scholar
+71
+Ishihara
+K.
+Uchiyama
+N.
+Kizaki
+S.
+Mori
+E.
+Nonaka
+T.
+Oneda
+H.
+(
+2020
+).
+Application of continuous glucose monitoring for assessment of individual carbohydrate requirement during ultramarathon race
+.
+Nutrients
+12
+(
+4
+),
+1121
+.
+Epub 20200417
+.
+10.3390/nu12041121
+CrossRef
+Google Scholar
+72
+Ivy
+J. L.
+Lee
+M. C.
+Brozinick
+J. T.
+Jr.
+Reed
+M. J.
+,
+Muscle glycogen storage after different amounts of carbohydrate ingestion
+.
+J. Appl. Physiol.
+(
+1985
+)
+65
+(
+5
+):
+2018
+–
+2023
+.
+10.1152/jappl.1988.65.5.2018
+CrossRef
+Google Scholar
+73
+Jeukendrup
+A. E.
+Wallis
+G. A.
+(
+2005
+).
+Measurement of substrate oxidation during exercise by means of gas exchange measurements
+.
+Int. J. Sports Med.
+26
+(
+1
+),
+S28
+–
+S37
+.
+10.1055/s-2004-830512
+CrossRef
+Google Scholar
+74
+Karlsson
+H. K.
+Ahlsén
+M.
+Zierath
+J. R.
+Wallberg-Henriksson
+H.
+Koistinen
+H. A.
+(
+2006
+).
+Insulin signaling and glucose transport in skeletal muscle from first-degree relatives of type 2 diabetic patients
+.
+Diabetes
+55
+(
+5
+),
+1283
+–
+1288
+.
+10.2337/db05-0853
+CrossRef
+Google Scholar
+75
+Kenney
+W. L.
+Wilmore
+J. H.
+Costill
+D. L.
+(
+2021
+).
+Physiology of sports and exercise
+.
+8th ed.
+Champaign USA
+:
+IL
+.
+Google Scholar
+76
+Kim
+J. A.
+Wei
+Y.
+Sowers
+J. R.
+(
+2008
+).
+Role of mitochondrial dysfunction in insulin resistance
+.
+Circ. Res.
+102
+(
+4
+),
+401
+–
+414
+.
+10.1161/circresaha.107.165472
+CrossRef
+Google Scholar
+77
+King
+D. S.
+Staten
+M. A.
+Kohrt
+W. M.
+Dalsky
+G. P.
+Elahi
+D.
+Holloszy
+J. O.
+(
+1990
+).
+Insulin secretory capacity in endurance-trained and untrained young men
+.
+Am. J. Physiol.
+259
+(
+2
+),
+E155
+–
+E161
+.
+10.1152/ajpendo.1990.259.2.E155
+CrossRef
+Google Scholar
+78
+Kolodziej
+F.
+O'Halloran
+K. D.
+(
+2021
+).
+Re-evaluating the oxidative phenotype: Can endurance exercise save the western world?
+Antioxidants (Basel)
+10
+(
+4
+),
+609
+.
+Epub 20210415
+.
+10.3390/antiox10040609
+CrossRef
+Google Scholar
+79
+Kulawiec
+D. G.
+Zhou
+T.
+Knopp
+J. L.
+Chase
+J. G.
+(
+2021
+).
+Continuous glucose monitoring to measure metabolic impact and recovery in sub-elite endurance athletes
+.
+Biomed. Signal Process. Control
+70
+,
+103059
+.
+10.1016/j.bspc.2021.103059
+CrossRef
+Google Scholar
+80
+Leckey
+J. J.
+Burke
+L. M.
+Morton
+J. P.
+Hawley
+J. A.
+(
+1985
+).
+Altering fatty acid availability does not impair prolonged, continuous running to fatigue: Evidence for carbohydrate dependence
+.
+J. Appl. Physiol.
+120
+(
+2
+),
+107
+–
+113
+.
+Epub 20151119
+.
+10.1152/japplphysiol.00855.2015
+CrossRef
+Google Scholar
+81
+Liao
+Y.
+Basen-Engquist
+K. M.
+Urbauer
+D. L.
+Bevers
+T. B.
+Hawk
+E.
+Schembre
+S. M.
+(
+2020
+).
+Using continuous glucose monitoring to motivate physical activity in overweight and obese adults: A pilot study
+.
+Cancer Epidemiol. Biomarkers Prev.
+29
+(
+4
+),
+761
+–
+768
+.
+Epub 20200217
+.
+10.1158/1055-9965.Epi-19-0906
+CrossRef
+Google Scholar
+82
+Liao
+Y.
+Schembre
+S.
+(
+2018
+).
+Acceptability of continuous glucose monitoring in free-living healthy individuals: Implications for the use of wearable biosensors in diet and physical activity research
+.
+JMIR Mhealth Uhealth
+6
+(
+10
+),
+e11181
+.
+Epub 20181024
+.
+10.2196/11181
+CrossRef
+Google Scholar
+83
+Lin
+Y.
+Fan
+R.
+Hao
+Z.
+Li
+J.
+Yang
+X.
+Zhang
+Y.
+et al
+(
+2022
+).
+The association between physical activity and insulin level under different levels of lipid indices and serum uric acid
+.
+Front. Physiol.
+13
+,
+809669
+.
+Epub 20220202
+.
+10.3389/fphys.2022.809669
+CrossRef
+Google Scholar
+84
+Lind
+M.
+Pivodic
+A.
+Svensson
+A. M.
+Olafsdottir
+A. F.
+Wedel
+H.
+Ludvigsson
+J.
+(
+2019
+).
+Hba1c level as a risk factor for retinopathy and nephropathy in children and adults with type 1 diabetes: Swedish population based cohort study
+.
+BMJ
+366
+,
+l4894
+.
+Epub 2019/08/30
+.
+10.1136/bmj.l4894
+CrossRef
+Google Scholar
+85
+Lind
+M.
+Svensson
+A. M.
+Kosiborod
+M.
+Gudbjornsdottir
+S.
+Pivodic
+A.
+Wedel
+H.
+et al
+(
+2014
+).
+Glycemic control and excess mortality in type 1 diabetes
+.
+N. Engl. J. Med.
+371
+(
+21
+),
+1972
+–
+1982
+.
+Epub 2014/11/20
+.
+10.1056/NEJMoa1408214
+CrossRef
+Google Scholar
+86
+Lohmann
+D.
+Liebold
+F.
+Heilmann
+W.
+Senger
+H.
+Pohl
+A.
+(
+1978
+).
+Diminished insulin response in highly trained athletes
+.
+Metabolism
+27
+(
+5
+),
+521
+–
+524
+.
+10.1016/0026-0495(78)90017-3
+CrossRef
+Google Scholar
+87
+Maffetone
+P. B.
+Laursen
+P. B.
+(
+2015
+).
+Athletes: Fit but unhealthy?
+Sports Med. Open
+2
+,
+24
+.
+Epub 20160526
+.
+10.1186/s40798-016-0048-x
+CrossRef
+Google Scholar
+88
+Maunder
+E.
+Plews
+D. J.
+Kilding
+A. E.
+(
+2018
+).
+Contextualising maximal fat oxidation during exercise: Determinants and normative values
+.
+Front. Physiol.
+9
+,
+599
+.
+Epub 20180523
+.
+10.3389/fphys.2018.00599
+CrossRef
+Google Scholar
+89
+McNeill
+G.
+Bruce
+A. C.
+Ralph
+A.
+James
+W. P.
+(
+1988
+).
+Inter-individual differences in fasting nutrient oxidation and the influence of diet composition
+.
+Int. J. Obes.
+12
+(
+5
+),
+455
+–
+463
+.
+Google Scholar
+90
+McSwiney
+F. T.
+Doyle
+L.
+Plews
+D. J.
+Zinn
+C.
+(
+2019
+).
+Impact of ketogenic diet on athletes: Current insights
+.
+Open Access J. Sports Med.
+10
+,
+171
+–
+183
+.
+Epub 20191115
+.
+10.2147/OAJSM.S180409
+CrossRef
+Google Scholar
+91
+Menshikova
+E. V.
+Ritov
+V. B.
+Fairfull
+L.
+Ferrell
+R. E.
+Kelley
+D. E.
+Goodpaster
+B. H.
+(
+2006
+).
+Effects of exercise on mitochondrial content and function in aging human skeletal muscle
+.
+J. Gerontol. A Biol. Sci. Med. Sci.
+61
+(
+6
+),
+534
+–
+540
+.
+10.1093/gerona/61.6.534
+CrossRef
+Google Scholar
+92
+Meyer
+C.
+Dostou
+J. M.
+Welle
+S. L.
+Gerich
+J. E.
+(
+2002
+).
+Role of human liver, kidney, and skeletal muscle in postprandial glucose homeostasis
+.
+Am. J. Physiol. Endocrinol. Metab.
+282
+(
+2
+),
+E419
+–
+E427
+.
+10.1152/ajpendo.00032.2001
+CrossRef
+Google Scholar
+93
+Miller
+V. J.
+LaFountain
+R. A.
+Barnhart
+E.
+Sapper
+T. S.
+Short
+J.
+Arnold
+W. D.
+et al
+(
+2020
+).
+A ketogenic diet combined with exercise alters mitochondrial function in human skeletal muscle while improving metabolic health
+.
+Am. J. Physiol. Endocrinol. Metab.
+319
+(
+6
+),
+E995
+–
+e1007
+.
+Epub 20200928
+.
+10.1152/ajpendo.00305.2020
+CrossRef
+Google Scholar
+94
+Moller
+N.
+(
+2020
+).
+Ketone body, 3-hydroxybutyrate: Minor metabolite - major medical manifestations
+.
+J. Clin. Endocrinol. Metab.
+105
+(
+9
+),
+dgaa370
+.
+10.1210/clinem/dgaa370
+CrossRef
+Google Scholar
+95
+Murphy
+N. E.
+Carrigan
+C. T.
+Margolis
+L. M.
+(
+2021
+).
+High-fat ketogenic diets and physical performance: A systematic review
+.
+Adv. Nutr.
+12
+(
+1
+),
+223
+–
+233
+.
+10.1093/advances/nmaa101
+CrossRef
+Google Scholar
+96
+Naguib
+M. N.
+Hegedus
+E.
+Raymond
+J. K.
+Goran
+M. I.
+Salvy
+S. J.
+Wee
+C. P.
+et al
+(
+2022
+).
+Continuous glucose monitoring in adolescents with obesity: Monitoring of glucose profiles, glycemic excursions, and adherence to time restricted eating programs
+.
+Front. Endocrinol. (Lausanne)
+13
+,
+841838
+.
+Epub 20220225
+.
+10.3389/fendo.2022.841838
+CrossRef
+Google Scholar
+97
+Nathan
+D. M.
+Bayless
+M.
+Cleary
+P.
+Genuth
+S.
+Gubitosi-Klug
+R.
+Lachin
+J. M.
+et al
+(
+2013
+).
+Diabetes control and complications trial/epidemiology of diabetes interventions and complications study at 30 Years: Advances and contributions
+.
+Diabetes
+62
+(
+12
+),
+3976
+–
+3986
+.
+Epub 2013/11/23
+.
+10.2337/db13-1093
+CrossRef
+Google Scholar
+98
+Nathan
+D. M.
+Group
+D. E. R.
+(
+2014
+).
+The diabetes control and complications trial/epidemiology of diabetes interventions and complications study at 30 Years: Overview
+.
+Diabetes Care
+37
+(
+1
+),
+9
+–
+16
+.
+Epub 2013/12/21
+.
+10.2337/dc13-2112
+CrossRef
+Google Scholar
+99
+Newman
+J. C.
+Covarrubias
+A. J.
+Zhao
+M.
+Yu
+X.
+Gut
+P.
+Ng
+C. P.
+et al
+(
+2017
+).
+Ketogenic diet reduces midlife mortality and improves memory in aging mice
+.
+Cell Metab.
+26
+(
+3
+),
+547
+–
+557.e8
+.
+10.1016/j.cmet.2017.08.004
+CrossRef
+Google Scholar
+100
+Noakes
+T. D.
+(
+2022
+).
+What is the evidence that dietary macronutrient composition influences exercise performance? A narrative review
+.
+Nutrients
+14
+(
+4
+),
+862
+.
+Epub 20220218
+.
+10.3390/nu14040862
+CrossRef
+Google Scholar
+101
+Nordwall
+M.
+Abrahamsson
+M.
+Dhir
+M.
+Fredrikson
+M.
+Ludvigsson
+J.
+Arnqvist
+H. J.
+(
+2015
+).
+Impact of Hba1c, followed from onset of type 1 diabetes, on the development of severe retinopathy and nephropathy: The viss study (vascular diabetic complications in southeast Sweden)
+.
+Diabetes Care
+38
+(
+2
+),
+308
+–
+315
+.
+Epub 2014/12/17
+.
+10.2337/dc14-1203
+CrossRef
+Google Scholar
+102
+Owen
+O. E.
+Felig
+P.
+Morgan
+A. P.
+Wahren
+J.
+Cahill
+G. F.
+Jr.
+(
+1969
+).
+Liver and kidney metabolism during prolonged starvation
+.
+J. Clin. Invest.
+48
+(
+3
+),
+574
+–
+583
+.
+10.1172/JCI106016
+CrossRef
+Google Scholar
+103
+Pagel-Langenickel
+I.
+Bao
+J.
+Pang
+L.
+Sack
+M. N.
+(
+2010
+).
+The role of mitochondria in the pathophysiology of skeletal muscle insulin resistance
+.
+Endocr. Rev.
+31
+(
+1
+),
+25
+–
+51
+.
+Epub 20091027
+.
+10.1210/er.2009-0003
+CrossRef
+Google Scholar
+104
+Pannacciulli
+N.
+Salbe
+A. D.
+Ortega
+E.
+Venti
+C. A.
+Bogardus
+C.
+Krakoff
+J.
+(
+2007
+).
+The 24-H carbohydrate oxidation rate in a human respiratory chamber predicts ad libitum food intake
+.
+Am. J. Clin. Nutr.
+86
+(
+3
+),
+625
+–
+632
+.
+10.1093/ajcn/86.3.625
+CrossRef
+Google Scholar
+105
+Parry
+H. A.
+Kephart
+W. C.
+Mumford
+P. W.
+Romero
+M. A.
+Mobley
+C. B.
+Zhang
+Y.
+et al
+(
+2018
+).
+Ketogenic diet increases mitochondria volume in the liver and skeletal muscle without altering oxidative stress markers in rats
+.
+Heliyon
+4
+(
+11
+),
+e00975
+.
+Epub 20181124
+.
+10.1016/j.heliyon.2018.e00975
+CrossRef
+Google Scholar
+106
+Patti
+M. E.
+Butte
+A. J.
+Crunkhorn
+S.
+Cusi
+K.
+Berria
+R.
+Kashyap
+S.
+et al
+(
+2003
+).
+Coordinated reduction of genes of oxidative metabolism in humans with insulin resistance and diabetes: Potential role of Pgc1 and Nrf1
+.
+Proc. Natl. Acad. Sci. U. S. A.
+100
+(
+14
+),
+8466
+–
+8471
+.
+Epub 20030627
+.
+10.1073/pnas.1032913100
+CrossRef
+Google Scholar
+107
+Petersen
+K. F.
+Dufour
+S.
+Befroy
+D.
+Garcia
+R.
+Shulman
+G. I.
+(
+2004
+).
+Impaired mitochondrial activity in the insulin-resistant offspring of patients with type 2 diabetes
+.
+N. Engl. J. Med.
+350
+(
+7
+),
+664
+–
+671
+.
+10.1056/NEJMoa031314
+CrossRef
+Google Scholar
+108
+Phinney
+S. D.
+Bistrian
+B. R.
+Evans
+W. J.
+Gervino
+E.
+Blackburn
+G. L.
+(
+1983
+).
+The human metabolic response to chronic ketosis without caloric restriction: Preservation of submaximal exercise capability with reduced carbohydrate oxidation
+.
+Metabolism
+32
+(
+8
+),
+769
+–
+776
+.
+10.1016/0026-0495(83)90106-3
+CrossRef
+Google Scholar
+109
+Poff
+A. M.
+Koutnik
+A. P.
+Egan
+B.
+(
+2020
+).
+Nutritional ketosis with ketogenic diets or exogenous ketones: Features, convergence, and divergence
+.
+Curr. Sports Med. Rep.
+19
+(
+7
+),
+251
+–
+259
+.
+10.1249/jsr.0000000000000732
+CrossRef
+Google Scholar
+110
+Poolsup
+N.
+Suksomboon
+N.
+Kyaw
+A. M.
+(
+2013
+).
+Systematic review and meta-analysis of the effectiveness of continuous glucose monitoring (cgm) on glucose control in diabetes
+.
+Diabetol. Metab. Syndr.
+5
+,
+39
+.
+Epub 20130723
+.
+10.1186/1758-5996-5-39
+CrossRef
+Google Scholar
+111
+Prins
+P. J.
+Noakes
+T. D.
+Buga
+A.
+D’Agostino
+D. P.
+Volek
+J. S.
+Buxton
+J. D.
+et al
+(
+2023
+).
+Low and high carbohydrate isocaloric diets on performance, fat oxidation, glucose and cardiometabolic health in middle age males
+.
+Front. Nutr.
+10
+,
+1084021
+.
+10.3389/fnut.2023.1084021
+CrossRef
+Google Scholar
+112
+Prins
+P. J.
+Noakes
+T. D.
+Buxton
+J. D.
+Welton
+G. L.
+Raabe
+A. S.
+Scott
+K. E.
+et al
+(
+2023
+).
+High fat diet improves metabolic flexibility during progressive exercise to exhaustion (Vo2max testing) and during 5 Km running time trials
+.
+Biol. Sport
+40
+,
+465
+–
+475
+.
+Google Scholar
+113
+Prins
+P. J.
+Noakes
+T. D.
+Welton
+G. L.
+Haley
+S. J.
+Esbenshade
+N. J.
+Atwell
+A. D.
+et al
+(
+2019
+).
+High rates of fat oxidation induced by a low-carbohydrate, high-fat diet, do not impair 5-km running performance in competitive recreational athletes
+.
+J. Sports Sci. Med.
+18
+(
+4
+),
+738
+–
+750
+.
+Epub 20191119
+.
+Google Scholar
+114
+Puchalska
+P.
+Crawford
+P. A.
+(
+2021
+).
+Metabolic and signaling roles of ketone bodies in health and disease
+.
+Annu. Rev. Nutr.
+41
+,
+49
+–
+77
+.
+10.1146/annurev-nutr-111120-111518
+CrossRef
+Google Scholar
+115
+Puchalska
+P.
+Crawford
+P. A.
+(
+2017
+).
+Multi-dimensional roles of ketone bodies in fuel metabolism, signaling, and therapeutics
+.
+Cell Metab.
+25
+(
+2
+),
+262
+–
+284
+.
+10.1016/j.cmet.2016.12.022
+CrossRef
+Google Scholar
+116
+Randell
+R. K.
+Rollo
+I.
+Roberts
+T. J.
+Dalrymple
+K. J.
+Jeukendrup
+A. E.
+Carter
+J. M.
+(
+2017
+).
+Maximal fat oxidation rates in an athletic population
+.
+Med. Sci. Sports Exerc
+49
+(
+1
+),
+133
+–
+140
+.
+10.1249/MSS.0000000000001084
+CrossRef
+Google Scholar
+117
+Rapp
+D.
+Scharhag
+J.
+Wagenpfeil
+S.
+Scholl
+J.
+(
+2018
+).
+Reference values for peak oxygen uptake: Cross-sectional analysis of cycle ergometry-based cardiopulmonary exercise tests of 10 090 adult German volunteers from the prevention first registry
+.
+BMJ Open
+8
+(
+3
+),
+e018697
+.
+Epub 20180305
+.
+10.1136/bmjopen-2017-018697
+CrossRef
+Google Scholar
+118
+Rauch
+C. E.
+McCubbin
+A. J.
+Gaskell
+S. K.
+Costa
+R. J. S.
+(
+2022
+).
+Feeding tolerance, glucose availability, and whole-body total carbohydrate and fat oxidation in male endurance and ultra-endurance runners in response to prolonged exercise, consuming a habitual mixed macronutrient diet and carbohydrate feeding during exercise
+.
+Front. Physiol.
+12
+,
+773054
+.
+10.3389/fphys.2021.773054
+CrossRef
+Google Scholar
+119
+Reaven
+G. M.
+(
+1988
+).
+Banting lecture 1988. Role of insulin resistance in human disease
+.
+Diabetes
+37
+(
+12
+),
+1595
+–
+1607
+.
+10.2337/diab.37.12.1595
+CrossRef
+Google Scholar
+120
+Roberts
+B. M.
+Deemer
+S. E.
+Smith
+D. L.
+Jr.
+Mobley
+J. A.
+Musi
+N.
+Plaisance
+E. P.
+(
+2022
+).
+Effects of an exogenous ketone ester using multi-omics in skeletal muscle of aging C57bl/6j male mice
+.
+Front. Nutr.
+9
+,
+1041026
+.
+Epub 20221115
+.
+10.3389/fnut.2022.1041026
+CrossRef
+Google Scholar
+121
+Roberts
+C. K.
+Hevener
+A. L.
+Barnard
+R. J.
+(
+2013
+).
+Metabolic syndrome and insulin resistance: Underlying causes and modification by exercise training
+.
+Compr. Physiol.
+3
+(
+1
+),
+1
+–
+58
+.
+10.1002/cphy.c110062
+CrossRef
+Google Scholar
+122
+Rothschild
+J. A.
+Kilding
+A. E.
+Stewart
+T.
+Plews
+D. J.
+(
+2022
+).
+Factors influencing substrate oxidation during submaximal cycling: A modelling analysis
+.
+Sports Med.
+52
+(
+11
+),
+2775
+–
+2795
+.
+Epub 20220712
+.
+10.1007/s40279-022-01727-7
+CrossRef
+Google Scholar
+123
+Rowlands
+D. S.
+Hopkins
+W. G.
+(
+2002
+).
+Effects of high-fat and high-carbohydrate diets on metabolism and performance in cycling
+.
+Metabolism
+51
+(
+6
+),
+678
+–
+690
+.
+10.1053/meta.2002.32723
+CrossRef
+Google Scholar
+124
+Short
+K. R.
+Bigelow
+M. L.
+Kahl
+J.
+Singh
+R.
+Coenen-Schimke
+J.
+Raghavakaimal
+S.
+et al
+(
+2005
+).
+Decline in skeletal muscle mitochondrial function with aging in humans
+.
+Proc. Natl. Acad. Sci. U. S. A.
+102
+(
+15
+),
+5618
+–
+5623
+.
+Epub 20050330
+.
+10.1073/pnas.0501559102
+CrossRef
+Google Scholar
+125
+Shulman
+G. I.
+Rothman
+D. L.
+Jue
+T.
+Stein
+P.
+DeFronzo
+R. A.
+Shulman
+R. G.
+(
+1990
+).
+Quantitation of muscle glycogen synthesis in normal subjects and subjects with non-insulin-dependent diabetes by 13c nuclear magnetic resonance spectroscopy
+.
+N. Engl. J. Med.
+322
+(
+4
+),
+223
+–
+228
+.
+10.1056/nejm199001253220403
+CrossRef
+Google Scholar
+126
+Solomon
+T. P.
+Malin
+S. K.
+Karstoft
+K.
+Knudsen
+S. H.
+Haus
+J. M.
+Laye
+M. J.
+et al
+(
+2015
+).
+Association between cardiorespiratory fitness and the determinants of glycemic control across the entire glucose tolerance continuum
+.
+Diabetes Care
+38
+(
+5
+),
+921
+–
+929
+.
+Epub 20150317
+.
+10.2337/dc14-2813
+CrossRef
+Google Scholar
+127
+Stahl
+C. H.
+Lind
+M.
+Svensson
+A. M.
+Gudbjornsdottir
+S.
+Martensson
+A.
+Rosengren
+A.
+(
+2017
+).
+Glycaemic control and excess risk of ischaemic and haemorrhagic stroke in patients with type 1 diabetes: A cohort study of 33 453 patients
+.
+J. Intern Med.
+281
+(
+3
+),
+261
+–
+272
+.
+Epub 2016/12/08
+.
+10.1111/joim.12572
+CrossRef
+Google Scholar
+128
+Thabit
+H.
+Leelarathna
+L.
+(
+2016
+).
+Basal insulin delivery reduction for exercise in type 1 diabetes: Finding the sweet spot
+.
+Diabetologia
+59
+(
+8
+),
+1628
+–
+1631
+.
+Epub 20160610
+.
+10.1007/s00125-016-4010-8
+CrossRef
+Google Scholar
+129
+Thackeray
+J. T.
+Beanlands
+R. S.
+Dasilva
+J. N.
+(
+2012
+).
+Altered sympathetic nervous system signaling in the diabetic heart: Emerging targets for molecular imaging
+.
+Am. J. Nucl. Med. Mol. Imaging
+2
+(
+3
+),
+314
+–
+334
+.
+Epub 20120720
+.
+Google Scholar
+130
+Thiebaud
+D.
+Jacot
+E.
+DeFronzo
+R. A.
+Maeder
+E.
+Jequier
+E.
+Felber
+J. P.
+(
+1982
+).
+The effect of graded doses of insulin on total glucose uptake, glucose oxidation, and glucose storage in man
+.
+Diabetes
+31
+(
+11
+),
+957
+–
+963
+.
+10.2337/diacare.31.11.957
+CrossRef
+Google Scholar
+131
+Thomas
+F.
+Pretty
+C. G.
+Desaive
+T.
+Chase
+J. G.
+(
+2016
+).
+Blood glucose levels of subelite athletes during 6 Days of free living
+.
+J. Diabetes Sci. Technol.
+10
+(
+6
+),
+1335
+–
+1343
+.
+Epub 20161101
+.
+10.1177/1932296816648344
+CrossRef
+Google Scholar
+132
+Torrens
+S. L.
+Areta
+J. L.
+Parr
+E. B.
+Hawley
+J. A.
+(
+2016
+).
+Carbohydrate dependence during prolonged simulated cycling time trials
+.
+Eur. J. Appl. Physiol.
+116
+(
+4
+),
+781
+–
+790
+.
+Epub 20160205
+.
+10.1007/s00421-016-3333-y
+CrossRef
+Google Scholar
+133
+Trounce
+I.
+Byrne
+E.
+Marzuki
+S.
+(
+1989
+).
+Decline in skeletal muscle mitochondrial respiratory chain function: Possible factor in ageing
+.
+Lancet
+1
+(
+8639
+),
+637
+–
+639
+.
+10.1016/s0140-6736(89)92143-0
+CrossRef
+Google Scholar
+134
+Valenzano
+M.
+Cibrario Bertolotti
+I.
+Valenzano
+A.
+Grassi
+G.
+(
+2021
+).
+Time in range-a1c hemoglobin relationship in continuous glucose monitoring of type 1 diabetes: A real-world study
+.
+BMJ Open Diabetes Res. Care
+9
+(
+1
+),
+e001045
+.
+10.1136/bmjdrc-2019-001045
+CrossRef
+Google Scholar
+135
+Venables
+M. C.
+Achten
+J.
+Jeukendrup
+A. E.
+,
+Determinants of fat oxidation during exercise in healthy men and women: A cross-sectional study
+.
+J. Appl. Physiol.
+(
+1985
+)
+98
+(
+1
+):
+160
+–
+167
+.
+Epub 20040827
+.
+10.1152/japplphysiol.00662.2003
+CrossRef
+Google Scholar
+136
+Vest
+S. D.
+Frandsen
+J.
+Larsen
+S.
+Dela
+F.
+Helge
+J. W.
+(
+2018
+).
+Peak fat oxidation is not independently related to ironman performance in women
+.
+Int. J. Sports Med.
+39
+(
+12
+),
+916
+–
+923
+.
+Epub 20180918
+.
+10.1055/a-0660-0031
+CrossRef
+Google Scholar
+137
+Vigh-Larsen
+J. F.
+Ørtenblad
+N.
+Spriet
+L. L.
+Overgaard
+K.
+Mohr
+M.
+(
+2021
+).
+Muscle glycogen metabolism and high-intensity exercise performance: A narrative review
+.
+Sports Med.
+51
+(
+9
+),
+1855
+–
+1874
+.
+Epub 20210426
+.
+10.1007/s40279-021-01475-0
+CrossRef
+Google Scholar
+138
+Volek
+J. S.
+Freidenreich
+D. J.
+Saenz
+C.
+Kunces
+L. J.
+Creighton
+B. C.
+Bartley
+J. M.
+et al
+(
+2016
+).
+Metabolic characteristics of keto-adapted ultra-endurance runners
+.
+Metabolism
+65
+(
+3
+),
+100
+–
+110
+.
+Epub 20151102
+.
+10.1016/j.metabol.2015.10.028
+CrossRef
+Google Scholar
+139
+Wasserman
+D. H.
+(
+2009
+).
+Four grams of glucose
+.
+Am. J. Physiology-Endocrinology Metabolism
+296
+(
+1
+),
+E11
+–
+E21
+.
+10.1152/ajpendo.90563.2008
+CrossRef
+Google Scholar
+140
+Webster
+C. C.
+Noakes
+T. D.
+Chacko
+S. K.
+Swart
+J.
+Kohn
+T. A.
+Smith
+J. A.
+(
+2016
+).
+Gluconeogenesis during endurance exercise in cyclists habituated to a long-term low carbohydrate high-fat diet
+.
+J. Physiol.
+594
+(
+15
+),
+4389
+–
+4405
+.
+Epub 20160608
+.
+10.1113/JP271934
+CrossRef
+Google Scholar
+141
+Webster
+C. C.
+Swart
+J.
+Noakes
+T. D.
+Smith
+J. A.
+(
+2018
+).
+A carbohydrate ingestion intervention in an elite athlete who follows a low-carbohydrate high-fat diet
+.
+Int. J. Sports Physiol. Perform.
+13
+(
+7
+),
+957
+–
+960
+.
+Epub 20180730
+.
+10.1123/ijspp.2017-0392
+CrossRef
+Google Scholar
+142
+Weltan
+S. M.
+Bosch
+A. N.
+Dennis
+S. C.
+Noakes
+T. D.
+(
+1998
+).
+Influence of muscle glycogen content on metabolic regulation
+.
+Am. J. Physiol.
+274
+(
+1
+),
+E72
+–
+E82
+.
+10.1152/ajpendo.1998.274.1.E72
+CrossRef
+Google Scholar
+143
+Whelan
+M. E.
+Denton
+F.
+Bourne
+C. L. A.
+Kingsnorth
+A. P.
+Sherar
+L. B.
+Orme
+M. W.
+et al
+(
+2021
+).
+A digital lifestyle behaviour change intervention for the prevention of type 2 diabetes: A qualitative study exploring intuitive engagement with real-time glucose and physical activity feedback
+.
+BMC Public Health
+21
+(
+1
+),
+130
+.
+Epub 20210112
+.
+10.1186/s12889-020-09740-z
+CrossRef
+Google Scholar
+144
+Wirth
+A.
+Diehm
+C.
+Mayer
+H.
+Morl
+H.
+Vogel
+I.
+Bjorntorp
+P.
+et al
+(
+1981
+).
+Plasma C-peptide and insulin in trained and untrained subjects
+.
+J. Appl. Physiol. Respir. Environ. Exerc Physiol.
+50
+(
+1
+),
+71
+–
+77
+.
+10.1152/jappl.1981.50.1.71
+CrossRef
+Google Scholar
+145
+Yost
+O.
+DeJonckheere
+M.
+Stonebraker
+S.
+Ling
+G.
+Buis
+L.
+Pop-Busui
+R.
+et al
+(
+2020
+).
+Continuous glucose monitoring with low-carbohydrate diet coaching in adults with prediabetes: Mixed methods pilot study
+.
+JMIR Diabetes
+5
+(
+4
+),
+e21551
+.
+Epub 20201216
+.
+10.2196/21551
+CrossRef
+Google Scholar
+146
+Zhou
+Z.
+Hagopian
+K.
+López-Domínguez
+J. A.
+Kim
+K.
+Jasoliya
+M.
+Roberts
+M. N.
+et al
+(
+2021
+).
+A ketogenic diet impacts markers of mitochondrial mass in a tissue specific manner in aged mice
+.
+Aging (Albany NY)
+13
+(
+6
+),
+7914
+–
+7930
+.
+Epub 20210318
+.
+10.18632/aging.202834
+CrossRef
+Google Scholar
+Summary
+Keywords
+low carbohydrate
+,
+ketogenic diet (KD)
+,
+crossover concept
+,
+exercise
+,
+fat
+,
+oxidation
+,
+prediabetes
+,
+continuous glucose monitor (CGM)
+Citation
+Noakes TD, Prins PJ, Volek JS, D’Agostino DP and Koutnik AP (2023)
+Low carbohydrate high fat ketogenic diets on the exercise crossover point and glucose homeostasis
+.
+Front. Physiol.
+14:1150265. doi:
+10.3389/fphys.2023.1150265
+Received
+23 January 2023
+Accepted
+17 March 2023
+Published
+28 March 2023
+Volume
+14 - 2023
+Edited by
+Jørgen Jensen
+, Norwegian School of Sport Sciences, Norway
+Reviewed by
+Daniel James Plews
+, AUT University, New Zealand
+Todd Anthony Astorino
+, California State University San Marcos, United States
+Updates
+Check for updates
+Copyright
+© 2023 Noakes, Prins, Volek, D’Agostino and Koutnik.
+This is an open-access article distributed under the terms of the
+Creative Commons Attribution License (CC BY)
+. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+*Correspondence: A. P. Koutnik,
+akoutnik@ihmc.org
+This article was submitted to Metabolic Physiology, a section of the journal Frontiers in Physiology
+Disclaimer
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.

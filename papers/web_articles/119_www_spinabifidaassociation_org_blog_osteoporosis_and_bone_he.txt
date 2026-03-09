@@ -1,0 +1,463 @@
+BAŞLIK: Osteoporosis and Bone Health Guideline - Spina Bifida Association
+KAYNAK: https://www.spinabifidaassociation.org/blog/osteoporosis-and-bone-health-guideline/
+TARİH: 2026-03-08 21:21:41
+KELİME: 6720
+============================================================
+
+May 2023
+Download Guideline
+"
+*
+" indicates required fields
+Instagram
+This field is for validation purposes and should be left unchanged.
+First Name
+*
+Last Name
+*
+Email Address
+*
+Zip Code
+*
+What is your relationship to Spina Bifida?
+*
+Please Select One
+I am or will be a parent
+I am a friend
+I am a family member
+I am a healthcare professional
+Other
+If you selected “OTHER” in describing your relationship to Spina Bifida, please explain.
+Practice/Clinic Name
+*
+Title
+This field is hidden when viewing the form
+Download Name
+This field is hidden when viewing the form
+Download URL
+Get Access
+Close
+Δ
+Workgroup Members
+:
+Alex Van Speybroeck, MD; Joe O’Neal, MD; Brad Dicianno, MD; Leslie Morse, DO; Devonne Elkins, MD, FACP, FAAP
+Introduction
+Those who care for individuals with Spina Bifida (SB) are often aware that there is a high rate of fracture in their patients. There is an understanding that this risk of fracture is likely associated with a decrease in mobility and a presumption of bone fragility or frailty in individuals with SB. Research confirms that individuals with SB experience high rates of fractures.
+1–3
+Data vary on the specifics of the age distribution for fracture occurrence in individuals with SB. There is evidence of a bimodal presentation for the pediatric ages < 6 years of age and between 10-12 years of age having increased fracture rates;
+1
+other data indicate the highest fracture rates for individuals that are 2-10 years of age,
+3
+and other research concludes the highest fracture rates between individuals 8-14 years of age.
+2
+Most research consistently notes that fracture rates decrease in older children with SB into early adulthood. Higher level lesions in SB as well as non-ambulatory status resulted in the highest rates of fracture, concluding that this sub-population are at particular risk.
+1–4
+Fractures in individuals with SB may present very differently, leading to potential delays or missed diagnosis. Less than half of the individuals with fractures had impairments in mobility; there was a lack of edema in 88% of the individuals found to have fracture and only about 20% had pain in the fracture site. Further, the radiological changes varied from the findings seen in the general population, likely related to the presence of osteoporosis.
+5
+Individuals with SB who sustain a fracture are at increased risk for secondary fractures, prompting consideration to shortening the duration of immobilization and developing a specialized treatment plan to prevent other complications.
+2,4
+Though there is no consensus on screening for osteoporosis in individuals with SB, literature supports the presence of lower bone mineral density, osteopenia, and osteoporosis compared to same-aged peers.
+6–12
+As can be anticipated, individuals with SB who have higher level of spinal cord involvement and non-ambulatory status tend to have lower bone mineral densities compared to individuals with SB who have lower spinal lesions and who are ambulatory, and compared to peers without SB. In younger adults with SB, 33% have been found to have osteoporosis.
+13
+The choice of location of bone mineral density screening in individuals with SB is also a challenge due to variation in standardization, age, and weight bearing status.
+A close comparison to SB is cerebral palsy, where decreased mobility from birth leads to decreased bone density accrual rather than normal accrual. There is ongoing work in the population with cerebral palsy to better understand osteoporosis risks, diagnosis and treatment.
+14
+Another comparison is with individuals with traumatic spinal cord injury (SCI), where there is a sudden and rapid decline in bone mineral density after the initial neurological injury occurs.  Individuals with traumatic SCI are found to have lower bone mineral density in the hip, distal femur and proximal tibia compared to peers. Further, there is a rapid decline in bone mineral density that occurs following SCI. Study rates vary but are as high as 20% in some studies.  This is compared to a loss of 1%-2% annually in the general population, and a more rapid loss of 2%-4% annually for the first 5-10 years after menopause and with aging.  Early initial screening, ongoing monitoring, treatment interventions including pharmacological, nutraceutical, and exercise related therapeutics, and assessment of treatment effectiveness are recommended for individuals with traumatic SCI.
+15
+Consideration should be given to the impact of body composition, nutraceutical and biochemical factors in the bone health of individuals with SB. Children with SB were found to have higher body fat percentages, altered lipid panels, higher rates of vitamin D deficiency, lower calcium levels, and lower alkaline phosphatase levels, but also had lower parathyroid levels, indicating an alteration in the normal physiological response.
+15
+As vitamin D and phosphate levels are found to be lower in children with SB at baseline, attention to the dosage and duration of vitamin D supplementation may be necessary to help improve their bone health.
+17
+Special attention to adequate dietary intake of calcium is also an important part of the care of individuals with SB.
+18
+Optimizing physical therapy, exercise, and weight bearing interventions may prove to be an important key to improving the bone health of individuals living with SB.
+15,19,20
+Though bisphosphonate and other pharmaceutic interventions are not approved for treatment of osteoporosis in children, they may prove to play an important role in adults with SB.
+15,21,22
+However, it is important to note that in the case of adults with SB, there are some recent controversies regarding the role of calcium and vitamin D supplements in reducing the risk of fracture and of the value of measuring calcium and vitamin D levels. There are also disagreements about the benefits of DEXA scans to measure bone density, and uncertainty surrounding the potential benefits of bisphosphonate therapy. The reason for this disunity is that none of these therapies and measurements have been adequately studied in the population of adults with SB. We anticipate that there will be further clarification of this matter in future updates of this Guideline.
+Further consideration should be given to those individuals with or at risk for the development of chronic kidney disease (CKD) due to the impact that CKD has on mineral and bone metabolism.  Individuals with CKD are at risk of developing CKD-mineral and bone disorder (CKD-MBD) which results in decreased calcitriol, increasing serum phosphorus levels with resultant pulling of calcium from bones. Further, this is associated with increasing PTH from the kidneys resulting in further leaching of calcium from the bones. It is important to monitor calcium, phosphorus, PTH and vitamin D in these individuals especially for individuals with SB who are already at risk of decreased bone mineralization, osteoporosis, and fractures. Dietary and pharmacological treatments may be necessitated to address CKD-MBD. These may include decreasing dietary phosphorus, calcitriol, calcium supplementation, phosphate binders, dialysis, or renal transplantation.
+The following guidelines seek to improve bone health and lead to fracture prevention for individuals with SB through screening, prevention, therapeutic interventions, and treatment.
+Outcomes
+Primary
+To improve bone health and prevent osteoporosis for individuals living with SB across the lifespan.
+To promote appropriate screening measures including laboratory evaluation, radiographic imaging or otherwise to correctly classify bone health and diagnose osteoporosis in individuals with SB.
+To promote appropriate interventions and treatment regimens to improve bone health and treat osteoporosis for people living with SB.
+Secondary
+To prevent the secondary complications of poor bone health and osteoporosis for individuals living with SB across the lifespan, such as fractures, decreased safe mobility, chronic pain, and spinal deformity.
+Tertiary
+To educate health care professionals caring for those living with SB on proper monitoring for the development of poor bone health and osteoporosis and initiation of appropriate treatment for this condition when necessary.
+To educate individuals living with SB on optimal strategies to prevent osteoporosis and develop a lifetime care model program to maintain optimal bone health across the lifespan.
+To mitigate effects of poor bone health and osteoporosis on quality of life in individuals living with SB.
+0-11 months
+Clinical Questions
+Should all individuals with SB be started on Vitamin D supplementation during infancy?  And at what dosage?
+Should the amount of Vitamin D supplementation for breastfed infants with SB be higher than the recommended amount for infants without SB?
+Do infants with SB have equal bone density to same-age infants during the first year of life?
+Guidelines:
+All breastfed infants, partially breastfed infants, and infants receiving less than 400 IU of vitamin D via formula should receive daily vitamin D supplementation of at least 400 IU/day.
+23, 24
+From birth to 6 months of age, infants should receive at least 200 mg/day of calcium. This increases to a recommended calcium intake of 260mg/day from 6 to 11 months of age.
+25
+Consideration should be given to supplementation of vitamin D at the recommended daily allowance for a longer duration for individuals with SB with the goal of improving vitamin D levels, bone metabolism, and a possible reduction in fracture risk.
+17
+Infants with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels. Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19,26,27
+In addition, higher latitudes, use of sunscreen, and darker skin tones may result in increased risk of vitamin D deficiency.
+Serum 25-OH-D concentrations in infants and children should be ≥50 nmol/L (20 ng/mL).
+23,24
+Individuals with vitamin D deficiency should be repleted until normalized. 25-Oh-D levels should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+23,24
+If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended. (clinical consensus).
+The health care team should ensure that families of children with SB receive regular education about the importance of vitamin D and strive to ensure supplementation is available in their communities.
+23,24
+(clinical consensus).
+For individuals with SB who are undergoing blood work in this period for other considerations, the addition of a vitamin D screen should be considered. (clinical consensus).
+1-2 years 11 months
+Clinical Questions
+Does supplementation with calcium and vitamin D help improve bone density? If so, what is the appropriate dose range for these supplements?
+How should children with SB and CKD related to reflux nephropathy be monitored for osteoporosis and what supplements, if any, are appropriate for this sub-population?
+Does exercise-based therapy and gait training prevent or decrease the onset of osteoporosis?
+Is there a benefit to the bone health of non-ambulatory children to engage in gait trainer and exercise programs?
+How does the development of bone density/bone health differ by spinal cord lesion level and ambulatory versus non-ambulatory toddlers 1-2 years 11 months with SB? Is there a role for bone density (DEXA) monitoring in this age group?
+Is there a correlation between bone density and fractures in toddlers 1-2 years 11 months with SB?
+Guidelines:
+All breastfed infants, partially breastfed infants, and infants receiving less than 600 IU dietary intake of vitamin D should receive daily vitamin D supplementation of at least 400 IU/day.
+23,24
+Children from 1-2 years 11 months should maintain a daily calcium intake of 700 mg/day.
+25
+Individuals ages 1-2 years 11 months should consume a maximum of 16-24 ounces of cow’s milk per day to avoid iron deficiency (HealthyChildren.org).  Other dietary sources can be utilized to help achieve the recommended daily amount of vitamin D intake. Individuals who consume alternatives to vitamin D cow’s milk may not be receiving adequate amounts of dietary vitamin D and calcium. These milk alternatives include soy milk, goat’s milk, and milk from almonds and other nuts. For these individuals and families, a detailed dietary history may be helpful. In addition, a referral to a dietitian should be considered to ensure adequate vitamin D and calcium intake through diet or supplementation. (clinical consensus).
+For individuals with SB, consideration should be given to supplementation of vitamin D at the recommended daily allowance for a longer duration with the goal of improving vitamin D levels, bone metabolism, and a possible reduction in fracture risk.
+17
+Strong consideration should be given to screening for vitamin D deficiency in individuals with SB due to the high rates of occurrence and benefits of intervention.
+16,17,26,28
+An ideal time to obtain such screening may be during routine screening laboratory studies for age.
+Individuals with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels. Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, chronic use of proton-pump inhibitors, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19,26,27
+In addition, higher latitudes, use of sunscreen, and darker skin tones may result in increased risk of vitamin D deficiency.
+Serum 25-OH-D concentrations should be ≥50 nmol/L (20 ng/mL).
+24,25
+Individuals with vitamin D deficiency should be repleted until normalized. Levels of 25-Oh-D should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+24,25
+If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended.
+(clinical consensus).
+The health care team should ensure that families receive regular education about the importance of vitamin D and strive to ensure supplementation is available to infants and children in their communities. Providers should consider referral to clinical dietitians as appropriate.
+23
+(clinical consensus).
+Education on the increased risk of fracture, especially for those with higher spinal cord level of involvement, as well as atypical presentation of fracture should be part of routine provider visits.
+1–5
+For non-ambulatory individuals with SB, weight bearing exercises may help improve bone health, reduce contractures, pain, and other complications.
+18-20,29
+Ambulatory individuals with SB should be encouraged to maintain ambulatory status, involvement in sports and exercise and be supported with the necessary durable medical equipment (DME) to maintain functional status.
+7
+(clinical consensus).
+Those at risk for the development of CKD due to neurogenic bladder or other underlying conditions should be followed by urology and/or nephrology as part of their health care team. Screening may include serum cystatin and/or glomerular filtration rate.
+30
+(clinical consensus).
+3-5 years 11 months
+Clinical Questions
+Does supplementation with calcium and vitamin D help improve bone density?  If so, what is the appropriate dose range for these supplements?
+Does exercise-based therapy and gait training prevent or decrease the onset of osteoporosis?
+Is there a benefit to the bone health of non-ambulatory for individuals in this age group to engage in gait trainer and exercise programs?
+How does the development of bone density/bone health differ by spinal cord lesion level and ambulatory versus non-ambulatory children 3-5 years 11 months with SB?
+Is there a role for bone density (DEXA) monitoring? If so, where should measurements of bone mineral density be taken?
+Is there a correlation between bone density and fractures in children 3-5 years 11 months with SB?
+How does precocious or early puberty and its treatments (Gn RH agonists) impact bone health among children in this age group?
+How should individuals with SB and CKD related to reflux nephropathy be monitored for osteoporosis, and what supplements if any are appropriate for this sub population?
+Guidelines
+Children who are not consistently receiving greater than 600 IU of vitamin D through dietary sources of vitamin D should be maintained on daily vitamin D supplementation of at least 400-600 IU/day.
+22,23
+Three-year-old children should have calcium intakes of 700 mg/day, and the dose should be increased to a daily recommended calcium intake of 1,000mg/day for 4-5 years 11 months old.
+24
+Consideration should be given to supplementation of vitamin D at the recommended daily allowance for a longer duration for individuals with SB with the goal of improving vitamin D levels, bone metabolism, and a possible reduction in fracture risk.
+16
+Strong consideration should be given to screening for vitamin D deficiency in individuals with SB due to the high rates of occurrence and benefits of intervention.
+15,16,25,27
+Laboratory screening should be coordinated with blood draws for routine screening and other surveillance whenever possible.
+For individuals who have sustained fractures either traumatic or non-traumatic, screening for vitamin D deficiency and osteoporosis should be strongly considered. (clinical consensus).
+Individuals with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels.  Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, chronic use of proton-pump inhibitors, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19,26,27
+In addition, higher latitudes, use of sunscreen, and darker skin tones may result in increased risk of vitamin D deficiency.
+Serum 25-OH-D concentrations should be ≥50 nmol/L (20 ng/mL).
+23,24
+Individuals with vitamin D deficiency should be repleted until normalized. Levels of 25-Oh-D should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+22,23
+If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended.
+(clinical consensus).
+The health care team should ensure that families receive regular education about the importance of vitamin D and calcium and strive to ensure supplementation is available to children in their communities. Individuals who consume alternatives to vitamin D cow’s milk may not be receiving adequate amounts of dietary vitamin D and calcium. These milk alternatives include soy milk, goat’s milk, almond and other nut milk. For these individuals and families, a detailed dietary history may be helpful. In addition, a referral to a dietitian should be considered to ensure adequate vitamin D and calcium intake through diet or supplementation.
+23
+(clinical consensus).
+Education on the increased risk of fracture, especially for those with higher spinal cord level of involvement, as well as atypical presentation of fracture should be part of routine provider visits.
+1–5
+For non-ambulatory individuals with SB, weight bearing exercises may help improve bone health, reduce contractures, pain, and other complications.
+18-20, 29
+Ambulatory individuals with SB should be encouraged to maintain ambulatory status, involvement in sports and exercise and be supported with the necessary durable medical equipment (DME) to maintain functional status.
+7
+(clinical consensus).
+Those at risk for the development of CKD due to neurogenic bladder or other underlying conditions should be followed by urology and/or nephrology as part of their health care team.  Screening may include serum cystatin and/or glomerular filtration rate.
+30
+(clinical consensus).
+6-12 years 11 months
+Clinical Questions
+Does supplementation with calcium and vitamin D help improve the bone density in children with SB? And if so, what is the appropriate dose range for these supplements?
+How does precocious or early puberty and its treatments (Gn RH agonists) impact bone health?
+Does exercise-based therapy and gait training prevent or decrease the onset of osteoporosis?
+Is there a benefit to the bone health of non-ambulatory children 6-12 years 11 months with SB to engage in gait trainer and exercise programs?
+How does the development of bone density/bone health differ by spinal cord lesion level and ambulatory versus non-ambulatory children 6-12 years 11 months with SB?
+Is there a role for bone density (DEXA) monitoring? If so, where should measurements of bone mineral density be taken?
+Is there a correlation between bone density and fractures?
+How should individuals with SB and CKD related to reflux nephropathy be monitored for osteoporosis and what supplements if any are appropriate for this sub population?
+Guidelines
+Children who are not consistently receiving greater than 600 IU of vitamin D through dietary sources of vitamin D should be maintained on daily vitamin D supplementation of at least 400-600 IU/day.
+22, 23
+Individuals ages 6-8 should receive daily calcium intakes of 1000 mg/day, and individuals ages 9-12 years 11 months of age are recommended a daily calcium intake of 1,300mg/day.
+25
+Consideration should be given to supplementation of vitamin D at the recommended daily allowance for a longer duration for individuals with SB with the goal of improving vitamin D levels, bone metabolism, and a possible reduction in fracture risk.
+17
+Consideration should be given to screening for vitamin D deficiency in individuals with SB due to the high rates of occurrence and benefits of intervention.
+16,17,26,28
+Individuals with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels. Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, chronic use of proton-pump inhibitors, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19,26,27
+In addition, higher latitudes, use of sunscreen, and darker skin tones may result in increased risk of vitamin D deficiency.
+Serum 25-OH-D concentrations should be ≥50 nmol/L (20 ng/mL).
+23,24
+Individuals with vitamin D deficiency should be repleted until normalized. Levels of 25-Oh-D should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+23,24
+If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended. (clinical consensus).
+The health care team should ensure that families and individuals with SB receive regular education about the importance of vitamin D and strive to ensure supplementation is available to children ages 6-12 years 11 months in their communities. Individuals who consume alternatives to vitamin D cow’s milk may not be receiving adequate amounts of dietary vitamin D and calcium. These milk alternatives include soy milk, goat’s milk, almond and other nut milk. For these individuals and families, a detailed dietary history may be helpful. In addition, a referral to a dietitian should be considered to ensure adequate vitamin D and calcium intake through diet or supplementation.
+23
+(clinical consensus).
+Education on the increased risk of fracture, especially for those with higher spinal cord level of involvement, as well as atypical presentation of fracture should be part of routine provider visits.
+1–5
+Individuals with SB should participate in the education on the increased risk of fracture, the importance of safe transfer, and fall prevention. (clinical consensus).
+For non-ambulatory individuals with SB, weight bearing exercises may help improve bone health, reduce contractures, pain, and other complications.
+18-20, 29
+Ambulatory individuals with SB should be encouraged to maintain ambulatory status, involvement in sports and exercise and be supported with the necessary durable medical equipment (DME) to maintain functional status.
+7
+(clinical consensus).
+Those at risk for the development of CKD due to neurogenic bladder or other underlying conditions should be followed by urology and/or nephrology as part of their health care team. Screening may include serum cystatin and/or glomerular filtration rate
+.
+(clinical consensus).
+13-17 years 11 months
+Clinical Questions
+How does puberty impact bone health?
+Does supplementation with calcium and vitamin D help improve bone density? And if so, what is the appropriate dose range for these supplements?
+Does exercise-based therapy and gait training prevent or decrease the onset of osteoporosis?
+Is there a benefit to the bone health of non-ambulatory individuals 13-17 years 11 months with SB to engage in gait trainer and exercise programs?
+How does the development of bone density/bone health differ for ambulatory versus non-ambulatory individuals?
+Is there a role for bone density (DEXA) monitoring? And if so, where should measurements of bone mineral density be taken?
+For individuals 13-17 years 11 months with a history of osteoporosis or multiple fractures, is there a role for pharmacological interventions to prevent osteoporosis such as bisphosphonate therapy?
+Is there a correlation between bone density and fractures in individuals 13-17 years 11 months with SB?
+How should children with SB and CKD related to reflux nephropathy be monitored for osteoporosis and what supplements, if any, are appropriate for this sub-population?
+Guidelines
+Individuals 13-17 years old who are not consistently receiving greater than 600 IU of vitamin D through enriched whole milk in combination with other dietary sources of vitamin D should be maintained on daily vitamin D supplementation of at least 400-600 IU/day.
+23,24
+Individuals from 13-17 years 11 months of age are recommended to receive a daily calcium intake of 1,300mg/day.
+25
+Consideration should be given to supplementation of vitamin D at the recommended daily allowance for a longer duration for individuals with SB with the goal of improving vitamin D levels, bone metabolism, and a possible reduction in fracture risk.
+17
+Consideration should be given to screening for vitamin D deficiency in individuals with SB due to the high rates of occurrence and benefits of intervention.
+16, 17, 26, 28
+Individuals with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels. Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, chronic use of proton-pump inhibitors, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19, 26, 27
+In addition, higher latitudes, use of sunscreen, and darker skin tones may result in increased risk of vitamin D deficiency.
+Individuals with vitamin D deficiency should be repleted until normalized. Levels of 25-Oh-D should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+23,24
+If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended.
+(clinical consensus).
+The health care team should ensure that families and individuals with SB receive regular education about the importance of vitamin D and strive to ensure supplementation is available in their communities. Individuals who consume alternatives to vitamin D cow’s milk may not be receiving adequate amounts of dietary vitamin D and calcium. These milk alternatives include soy milk, goat’s milk, almond and other nut milk. For these individuals and families, a detailed dietary history may be helpful. In addition, a referral to a dietitian should be considered to ensure adequate vitamin D and calcium intake through diet or supplementation.
+23
+(clinical consensus).
+Education on the increased risk of fracture, especially for those with higher spinal cord level of involvement, as well as atypical presentation of fracture should be part of routine provider visits.
+1–5
+Individuals with SB should participate in the education on the increased risk of fracture, the importance of safe transfer, and fall prevention.
+(clinical consensus).
+For non-ambulatory individuals with Spina Bifida, weight bearing exercises may help improve bone health, reduce contractures, pain, and other complications.
+17-19,28
+Ambulatory individuals with SB should be encouraged to maintain ambulatory status, involvement in sports and exercise and be supported with the necessary durable medical equipment (DME) to maintain functional status.
+8
+(clinical consensus).
+Those at risk for the development of CKD due to neurogenic bladder or other underlying conditions should be followed by urology and/or nephrology as part of their health care team. Screening may include serum cystatin and/or glomerular filtration rate.
+(clinical consensus).
+Providers should consider screening DEXA scan due to the increased risk of reduced bone mineral density and osteoporosis. Pharmacological interventions should be considered for individuals found to have osteopenia or osteoporosis.
+7,13,20-22
+(clinical consensus).
+The International Society for Clinical Densitometry (ISCD) can be utilized as a reference point regarding the definition of low bone mineral density and osteoporosis for the pediatric population. Similarly, the ISCD may be utilized as a reference point of minimal interval of bone density re-assessment of 6-12 months, guidelines of interpretation and reporting for the pediatric population.
+31
+18+ years
+Clinical Questions
+When should screening for osteoporosis in adults with SB begin?
+How does osteoporosis and associated problems (fractures, chronic pain decreased mobility spinal deformity) affect quality of life in adults with SB?
+What interventions for osteoporosis are beneficial in adults with SB?
+Do pharmacological interventions help prevent osteoporosis in adults with SB?
+Are pharmacological interventions helpful in adults with SB and osteopenia or osteoporosis?
+Do exercise programs help prevent osteoporosis in adults with SB?
+Are exercise programs helpful in adults with SB and osteopenia or osteoporosis?
+Is the level of spinal cord involvement correlated with the severity of osteoporosis in adults with SB?
+How does functional status and mobility relate to the severity of osteoporosis in adults with SB?
+Do bone density in adults with SB correlate with increased risk of fracture?  If so, what type of fracture?
+Where should bone density in adults with SB be measured?
+How should adults with SB and CKD related to reflux nephropathy or other conditions be monitored for osteoporosis and what supplements, if any, are appropriate for this sub-population?
+Guidelines
+Adults who are not consistently consuming adequate vitamin D of 600 IU/day should receive supplemental vitamin D 600 IU/day (ages 18-69 years) and vitamin D 800 IU/day (age 70 years +).
+24
+(clinical consensus).
+Adult men from the age of 19-70 years should receive a recommended daily calcium intake of 1,000mg/day. Whereas adult women from ages 19-51 years should receive 1,000mg/day of calcium intake and women 51-70 years have an increased daily calcium recommendation of 1,200mg/day. All adults over the age of 70 should receive 1,200mg/day of calcium.
+25
+Consideration should be given to universal supplementation of all adults living with Spina Bifida with vitamin D 600 IU/day (ages 18-69 years) and vitamin D 800 IU/day (age 70+). This consideration is especially important for individuals in the winter/spring seasons, who live at higher latitudes, or are of African American or Hispanic descent or with darker pigmented skin tone. Supplementation of calcium for anyone who is not consistently receiving the recommended daily intake of calcium should be considered. (clinical consensus).
+Adults should routinely be screened for vitamin D deficiency. Vitamin D deficiency is common in the general population and found to be even higher in individuals with SB.
+16,17,26,28
+Individuals with certain medical conditions and/or pharmaceutical interventions may be at increased risk for vitamin D deficiency. These individuals may benefit from screening for vitamin D deficiency with therapeutic interventions to achieve adequate vitamin D levels. Some of these conditions may include seizure disorders on certain anti-epileptic drugs, HIV disease on antiretroviral therapy, chronic use of proton-pump inhibitors, CKD, sickle cell anemia, cystic fibrosis, spinal cord dyscrasias and SB.
+19, 26, 27
+Individuals with vitamin D deficiency should be repleted until normalized. Levels of 25-Oh-D should be followed every 3 months and PTH and bone-mineral status every 6 months until normalized.
+24
+(clinical consensus). If repletion and/or ongoing support does not result in normalization of vitamin D levels or obtaining goal vitamin D level, consultation with an endocrinologist is recommended.
+(clinical consensus).
+The health care team should ensure that individuals with SB receive regular education about the importance of vitamin D and strive to ensure supplementation is available in their communities. Individuals who consume alternatives to vitamin D cow’s milk may not be receiving adequate amounts of dietary vitamin D and calcium. These milk alternatives include soy milk, goat’s milk, almond and other nut milk. For these individuals and families, a detailed dietary history may be helpful. In addition, a referral to a dietitian should be considered to ensure adequate vitamin D and calcium intake through diet or supplementation.
+23
+(clinical consensus).
+Providers should perform DEXA scan screening in individuals with SB if previous screening has not been completed in adolescence. Pharmacological interventions should be considered for individuals found to have low bone density or osteoporosis.
+7,13,20-22,32
+The ISCD adult position statement may be utilized as a resource for information regarding assessment and standardization.
+31
+Individuals with SB should be screened prior to the routine United States Preventive Services Task Force (USPSTF) recommendations due to increased risk.
+(clinical consensus).
+Individuals with SB and caregivers should be educated on the increased risk of fracture, the importance of safe transfer, and fall prevention, as well as the potential of atypical presentation of fractures.
+1–5
+(clinical consensus).
+For non-ambulatory individuals with SB, weight bearing exercises may help improve bone health, reduce contractures, pain, and other complications.
+17-19, 28
+Ambulatory individuals with Spina Bifida should be encouraged to maintain ambulatory status, involvement in sports and exercise and be supported with the necessary durable medical equipment (DME) to maintain functional status.
+7
+(clinical consensus).
+Those at risk for the development of CKD due to neurogenic bladder or other underlying conditions should be followed by urology and/or nephrology as part of their health care team.  Screening may include serum cystatin and/or glomerular filtration rate.
+(clinical consensus).
+Research Gaps
+Do individuals with SB from birth-11 months of age have equal bone density during their first year of life to individuals of the same age who do not have SB?
+Is there a role for bone density (DEXA) monitoring in individuals from 12 months-2 years 11 months of age with SB?
+Is there a correlation between bone density and fractures in individuals with SB?
+Is there a benefit to the bone health of non-ambulatory 1-2 year 11-month-olds with SB to engage in gait trainer and exercise programs?
+Is there a role for bone density (DEXA) monitoring of individuals 0-12 years 11 months? If so, where should measurements of bone mineral density be taken?
+How should children with SB and CKD related to reflux nephropathy be monitored for osteoporosis and what supplements, if any. are appropriate for this sub-population?
+Precocious puberty typically has a positive impact on bone mineralization. However, bone density declines more rapidly after menopause. How does treatment impact this trend of bone density?
+For individuals ages 13-17 years 11 months with a history of osteoporosis or multiple fractures, is there a role for pharmacological interventions such as bisphosphonate therapy to prevent osteoporosis?
+When should screening for osteoporosis begin for individuals ages 18+?
+How does osteoporosis and associated problems (fractures, chronic pain decreased mobility spinal deformity) affect quality of life in adults with SB?
+What interventions for osteoporosis are beneficial in adults with SB?
+Do pharmacological interventions help prevent osteoporosis in adults with SB?
+Are pharmacological interventions helpful in adults with SB and osteopenia or osteoporosis?
+Do exercise programs help prevent osteoporosis in adults with SB?
+Are exercise programs helpful in adults with SB and osteopenia or osteoporosis?
+Is the level of spinal cord involvement correlated with the severity of osteoporosis in adults with SB?
+How does functional status and mobility relate to the severity of osteoporosis in adults with SB?
+Do bone density in adults with SB correlate with increased risk of fracture? If so, what type of fracture?
+Where should bone density in adults with SB be measured?
+How should individuals ages 18+ with SB and CKD related to reflux nephropathy or other conditions be monitored for osteoporosis and what supplements, if any, are appropriate for this sub-population?
+What is the relationship, if any, between supplements and the development of kidney and bladder stones in persons with SB?
+Given the risk of kidney and bladder stone formation in persons with SB, what supplements, if any, are appropriate for this sub population?
+References
+Aliatakis N, Schneider J, Spors B, et al. Age-specific occurrence of pathological fractures in patients with Spina Bifida.
+Eur J Pediatr
+. 2020;179(5):773-779. doi:10.1007/s00431-019-03537-y
+Akbar M, Bresch B, Raiss P, et al. Fractures in myelomeningocele.
+J Orthop Traumatol
+. 2010;11(3):175. doi:10.1007/S10195-010-0102-2
+Trinh A, Wong P, Brown J, et al. Fractures in Spina Bifida from childhood to young adulthood.
+Osteoporos Int 2016 281
+. 2016;28(1):399-406. doi:10.1007/S00198-016-3742-0
+Marreiros H, Monteiro L, Loff C, Calado E. Fractures in children and adolescents with Spina Bifida: the experience of a Portuguese tertiary-care hospital.
+Dev Med Child Neurol
+. 2010;52(8):754-759. doi:10.1111/J.1469-8749.2010.03658.X
+Ivanov S V, Kenis VM, Prokopenko TN, Fedoseeva AS, Ugurchieva MA. Fractures of lower limbs in children with Spina Bifida.
+Ortop Travmatol i Vosstanov khirurgii͡a︡ Det vozrasta
+. 2018;6(3):25-31. doi:10.17816/PTORS6325-31
+Lee DK, Muraszko K, Ulrich BD. Bone mineral content in infants with myelomeningocele, with and without treadmill stepping practice.
+Pediatr Phys Ther
+. 2016;28(1):24-32. doi:10.1097/PEP.0000000000000217
+E. Ausili, B. Focarelli, F. Tabacco, G. Fortunelli, P. Caradonna, L. Massimi, M. Sigismondi, E. Salvaggio CR. Bone mineral density and body composition in a myelomeningocele children population: effects of walking ability and sport activity.
+Eur Rev Med Pharmacol Sci
+. 2008;12(6):349-354. https://www.europeanreview.org/wp/wp-content/uploads/567.pdf
+Quan A, Adams ; Richard, Ekmark E, Baum M. Bone mineral density in children with myelomeningocele. Published online 1998. Accessed September 23, 2021. http://www.pediatrics.org/cgi/content/full/34/102/e34
+Apkon SD, Fenton L, Coll JR. Bone mineral density in children with myelomeningocele.
+Dev Med Child Neurol
+. 2009;51(1):63-67. doi:10.1111/J.1469-8749.2008.03102.X
+Kafadar I, Kilic BA, Yilmaz FK, Kilic M. Bone mineral density in pediatric patients with meningomyelocele.
+Childs Nerv Syst
+. 2016;32(1):111-119. doi:10.1007/s00381-015-2930-0
+Szalay EA, Cheema A. Children with Spina Bifida are at risk for low bone density.
+Clin Orthop Relat Res
+. 2011;469(5):1253. doi:10.1007/S11999-010-1634-8
+Haas RE, Kecskemethy HH, Lopiccolo MA, Hossain J, Dy RT, Bachrach SJ. Lower extremity bone mineral density in children with congenital spinal dysfunction.
+Dev Med Child Neurol
+. 2012;54(12):1133-1137. doi:10.1111/j.1469-8749.2012.04420.x
+Valtonen KM, Goksör L-Å, Jonsson O, Mellström D, Alaranta HT, Viikari-Juntura ER. Osteoporosis in adults with meningomyelocele: an unrecognized problem at rehabilitation clinics.
+Arch Phys Med Rehabil
+. 2006;87(3):376-382. doi:10.1016/j.apmr.2005.11.004
+French ZP, Caird MS, Whitney DG. Osteoporosis epidemiology among adults with cerebral palsy: findings from private and public administrative claims data.
+JBMR Plus
+. 2019 Oct 7;3(11):e10231. doi: 10.1002/jbm4.10231
+Morse LR, Biering-Soerensen F, Carbone LD, Cervinka T, Cirnigliaro CM, Johnston TE, Liu N, Troy KL, Weaver FM, Shuhart C, Craven BC. Bone mineral density testing in spinal cord injury: 2019 ISCD official position.
+J Clin Densitom
+. 2019 Oct-Dec;22(4):554-566
+Van Speybroeck A, Mueske NM, Mittelman SD, Kremer RK, Ryan DD, Wren TAL. Fasting serum blood measures of bone and lipid metabolism in children with myelomeningocele for early detection of cardiovascular and bone fragility risk factors.
+J Spinal Cord Med
+. 2017;40(2):193-200. doi:10.1080/10790268.2015.1101983
+Martinelli V, Dell’Atti C, Ausili E, et al. Risk of fracture prevention in Spina Bifida patients: correlation between bone mineral density, vitamin D, and electrolyte values.
+Child’s Nerv Syst
+. 2015;31(8):1361-1365. doi:10.1007/s00381-015-2726-2
+Marreiros H, Loff C, Calado E. Osteoporosis in paediatric patients with Spina Bifida.
+J Spinal Cord Med
+. 2012;35(2):129-130. doi:10.1179/204577212X13309610723366
+Taskinen S, Fagerholm R, Mäkitie O. Skeletal health after intestinal bladder augmentation: findings in 54 patients.
+BJU Int
+. 2007;100(4):906-910. doi:10.1111/j.1464-410X.2007.07085.x
+Yasmeh P, Mueske NM, Yasmeh S, Ryan DD, Wren TAL. Walking activity during daily living in children with myelomeningocele.
+Disabil Rehabil
+. 2017;39(14):1422-1427. doi:10.1080/09638288.2016.1198429
+Bachrach LK, Ward LM. Clinical review: bisphosphonate use in childhood osteoporosis.
+J Clin Endocrinol Metab
+. 2009;94(2):400-409. doi:10.1210/jc.2008-1531
+Sholas MG, Tann B, Gaebler-Spira D. Oral bisphosphonates to treat disuse osteopenia in children with disabilities: a case series.
+J Pediatr Orthop
+. 2005;25(3):326-331. doi:10.1097/01.bpo.0000150810.35794.e8
+Wagner CL, Greer FR. Prevention of rickets and vitamin D deficiency in infants, children, and adolescents.
+Pediatr
+. 2008;122(5):1142-1152. doi:10.1542/peds.2008-1862
+Holick MF, Binkley NC, Bischoff-Ferrari HA, et al. Evaluation, treatment, and prevention of vitamin D deficiency: an endocrine society clinical practice guideline.
+J Clin Endocrinol Metab
+. 2011;96(7):1911-1930. doi:10.1210/jc.2011-0385
+Calcium and Vitamin D: Important at Every Age | NIH Osteoporosis and Related Bone Diseases National Resource Center. https://www.bones.nih.gov/health-info/bone/bone-health/nutrition/calcium-and-vitamin-d-important-every-age
+Mazur LJ, Wilsford LD, Rosas L, Sullivan E. Low 25-hydroxyvitamin D levels in children with Spina Bifida.
+South Med J (Birmingham, Ala)
+. 2016;109(1):31-35. doi:10.14423/SMJ.0000000000000397
+Lee JY, So T-Y, Thackray J. A review on vitamin D deficiency treatment in pediatric patients.
+J Pediatr Pharmacol Ther
+. 2013;18(4):277-291. doi:10.5863/1551-6776-18.4.277
+Daglar K, Tokmak A, Kirbas A, et al. Maternal serum vitamin D levels in pregnancies complicated by neural tube defects.
+J Matern neonatal Med
+. 2016;29(2):298-302. doi:10.3109/14767058.2014.999037
+Tuckerman K, Hofmaster P, Rosen CJ, Turi M. Bone density in ambulatory and immobile children.
+J Clin Densitom
+. 2002;5(4):327-334. doi:10.1385/JCD:5:4:327
+Urology Guideline – Spina Bifida Association.  https://www.spinabifidaassociation.org/resource/urology/
+Pediatric Positions – ISCD. https://iscd.org/learn/official-positions/pediatric-positions/
+Adult Positions – ISCD. https://iscd.org/learn/official-positions/adult-positions/
+Related Content
+All Resources
+Resources
+Hip Function and Ambulation
+Resources
+Spinal Cord Tethering
+Resources
+Pain
+Resources
+Lipomyelomeningocele
+Resources
+Osteoporosis
+Resources
+Spinal Cord Tethering
+Previous
+Next
+Stay Informed
+Receive the latest updates, research and resources delivered straight to your inbox.
+Subscribe

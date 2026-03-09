@@ -1,0 +1,59 @@
+BAŞLIK: 6d Sports Nutrition |Skinning the glucose:fructose ratio in carbohydrate sports beverages | 6d Sports Nutrition
+KAYNAK: https://6dsportsnutrition.com/en/science/glucose-fructose-ratio-in-sportdranken-loep-684bf5a6d0e82
+TARİH: 2026-03-08 21:23:14
+KELİME: 1452
+============================================================
+
+Skinning the glucose:fructose ratio in carbohydrate sports beverages
+Why are carbohydrate sports beverages pivotal to endurance performance?
+Fat and carbohydrates are the primary energy substrates in endurance exercise. Fat oxidation can adequately cover most of the energy needs during prolonged low to moderate intensity exercise. However, compared with CHO, the maximal rate of energy production via fat oxidation is rather low. Hence during prolonged high-intensity endurance exercise CHO become the primary fuel. Compared with fat oxidation, the energy yield (ATP/sec) of carbohydrate breakdown allows for much higher power outputs to be produced, indeed. As a result, success in endurance exercise competitions often depends on the availability of CHO for muscular energy production. Figuratively speaking, fat oxidation in muscles serves as a good old diesel motor, whilst carbohydrate oxidation delivers a powerful petrol turbo engine.
+Key to success: stimulating carbohydrate oxidation while avoiding gastrointestinal distress
+Suppose you want to run a marathon as fast as possible, knowing that your muscles can use both the  ‘diesel motor’, and the ‘turbo motor’, alone or in combination. Which motor would you be willing to use and when to optimize your performance?
+First, even in very lean individuals fat stores are ample to fuel wide over 42K. In contrast,  carbohydrate stores (muscle and liver glycogen) are small, which limits the lifespan of the ‘turbo motor’. But during the race additional CHO can be ingested to keep the turbo motor alive by maintaining high blood glucose availability.
+Second, substrate oxidation requires the input of oxygen. However, muscle oxygen utilization during exercise is limited by the fraction (%) of maximal oxygen uptake rate (VO2max) that can be used without consistent lactate accumulation, i.e. the so-called ‘anaerobic threshold’. Interestingly, this limited amount of available oxygen yields higher energy output (ATP/sec when used to oxidize CHOs than if fats were used, which benefits performance, of course.
+Third, the rate of carbohydrate ingestion (grams per hour) must never exceed the capacity for gastrointestinal glucose absorption. Excess CHOs upset the gastrointestinal (GI) system (cramping, diarrhea, vomiting,…) and impair performance. Therefore, dozens of studies over the last 50 years have searched for optimal compositions and dosages of CHO supplements (drinks, gels, bars) to maximize carbohydrate oxidation in prolonged exercise (>1h). This extensive research has resulted in practical and evidence-based recommendations which are summarized in Table 1 (Burke at al., 2010; Jeukendrup, 2014).
+Figure: Guidelines for carbohydrate intake during exercise
+Carbohydrate intake guidelines depend on the duration and intensity of exercise. The longer the duration, the higher the dose needed. However, at exercise durations less than 1h carbohydrate ingestion does not benefit performance. Carbohydrate doses indicated (30-60-90 g) refer to the dose needed for optimal performance in competition. However, same exercise duration at submaximal workloads requires lower uptake rates, depending on the training goals. Up to 60g per hour, from a theoretical point of view a sports drink with only glucose and glucose polymers (maltose & maltodextrin) could do the job. However, above 60g per hour the addition of fructose as an additional carbohydrate source is essential. Till 90g per hour a 2:1 glucose:fructose mixture is adequate. Above 90g per hour a greater fructose fraction is recommended. (Adapted from Jeukendrup et al., 2017 ).
+Are we still in search for the optimal glucose:fructose ratio?>/h4>
+It has been known for a long time that the intestinal capacity for glucose absorption is limited to ~60 grams per hour. Hence the use of sports drinks containing only glucose or glucose polymers (maltose and maltodextrin) is limited to exercise events lasting less than 2.5-3 hours requiring no more than 60 grams. However, longer events clearly can benefit from higher doses up to 90 grams per hour (see figure). Therefore, to allow for higher uptake rates, up-to-date carbohydrate beverages contain a mixture of two carbohydrate types: glucose and fructose. The addition of fructose recruits an alternative route for at least 30 grams per hour surplus carbohydrate absorption (Fuchs et al., 2019). Thus, sports beverages with a 2:1 glucose:fructose ratio allow for carbohydrate intakes up to at least 90 grams per hour. Still, to make such high intake rates really work, adequate nutritional training during preparation is essential. Such “gut training” can improve gastric emptying and intestinal CHO absorption, thereby reducing the incidence of GI problems, and eventually improve race experience and performance (Jeukendrup, 2017).
+Should we further increase the fructose fraction in CHO sport beverages?
+Despite the fact that a 2:1 glucose:fructose ratio has become the standard in CHO sports drinks, pressure is growing to increase the fructose fraction. Such idea originates from a publication by O’Brian and Rowlands in 2011. They showed that during a +2.5h cycling trial at a CHO ingestion rate of ~110 grams per hour, compared with a 2:1 maltodextrin:fructose beverage a 1:0.8 maltodextrin: fructose ratio slightly increased CHO oxidation rate and improved performance. The latter was probably largely, if not entirely due to lower incidence of GI symptoms. In the meantime a small number of other studies have reported similar findings (Rowlands et al., 2015) indicating that a lower glucose:fructose ratio may benefit performance in ~2.5h exercise events in conjunction with extremely high CHO intake rate (+90 grams per hour). In this regard it is important to mention that expert consensus statements to date recommend an upper limit of 90 grams per hour in endurance competitions lasting more than 2.5 hours. Nonetheless, it is clear that higher intakes at least in some athletes may further improve performance (Urdampilleta et al., 2020; Viribay et al., 2020). Accordingly, in Ironman triathlon competitions positive correlations have been found between finish time and hourly CHO intakes between ~60 and ~120 grams per hour (Pfeiffer et al., 2012).
+Should high fructose content become the ‘golden standard’ in sport beverages? Probably not.
+First, since 2004 (Jentjens et al., 2004) dozens of trials have proven the efficacy of 2:1 sports beverages to enhance performance in a broad spectrum of experimental conditions. Millions of recreational and elite athletes have experienced for years the benefits of 2:1 CHO beverages. In contrast, scientific data with regard to the relevance of supplements approaching a 1:1 glucose:fructose ratio is scarce. More research is definitely needed to explore the effects of low glucose:fructose ratio in real life competitions, in longer duration exercise including ultra-events, and during exercise in the heat which is known to increase the incidence of GI symptoms.
+Second, compared with lower glucose:fructose ratio, 2:1 ratio allows to produce sports drinks and gels with higher maltodextrine fraction, which makes lower sweetness and osmolality. This results in higher palatability, which is critical to compliance to the nutritional plan, especially during very prolonged exercise events.
+Third, according to available scientific evidence, the potential relevance of low glucose:fructose ratio is probably limited to ≥2.5h events combined with consistent and extremely high CHO intake rate (≥ 90 grams per hour). But in ‘real life’ most endurance athletes consume far less than 90 grams CHO per hour (Cox et al., 2010, Pfeiffer et al., 2012). For sure, in events of less than 2.5h duration, CHO beverages with a 2:1 ratio can perfectly do the job.
+Fourth, lower incidence of GI problems may be the primary mechanism by which CHO beverages with a glucose:fructose ratio lower than 2:1 enhance performance. However, adequate nutritional training prior to competition is probably the primary strategy to avoid GI symptoms. Field experience learns that at least some endurance athletes with an adequate background of such “gut training” can well tolerate 2:1 drinks even at intake rates > 90 grams per hour.
+Take home message
+1. CHO supplements (drinks, gels, bars) aim to enhance endurance exercise performance by stimulating CHO oxidation while avoiding GI symptoms. Adequate nutritional training is essential to reduce the incidence of GI problems with any CHO beverage.
+2. CHO supplements with a 2:1 glucose:fructose ratio are adequate in most sports and in the vast majority of both recreational and elite athletes, even in prolonged endurance competitions.
+3. CHO beverages with a 2:1 ratio allow to use a high fraction of maltodextrin, which results in lower sweetness and higher palatability than CHO beverages with a lower glucose:fructose ratio.
+4. CHO supplements with a glucose:fructose ratio approaching 1:1 may be useful in a subgroup of endurance athletes participating in events with +2.5h duration in conjunction with extremely high rates of carbohydrate intake (90-120 grams per hour).
+References
+Burke et al., 2010
+https://www.tandfonline.com/doi/full/10.1080/02640414.2011.585473?src=recsys
+Cox et al., 2010
+https://journals.humankinetics.com/view/journals/ijsnem/20/4/article-p299.xml
+Fuchs et al., 2019
+https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP277116
+Jeukendrup, 2014
+https://link.springer.com/article/10.1007/s40279-014-0148-z
+Jeukendrup, 2017
+https://link.springer.com/article/10.1007/s40279-017-0690-6
+O’Brien & Rowlands, 2011
+https://journals.physiology.org/doi/full/10.1152/ajpgi.00419.2010
+Pfeiffer et al., 2012
+Pfeiffer et al., 2012
+Prado de Oliveira et al., 2014
+https://link.springer.com/article/10.1007%2Fs40279-014-0153-2
+Rowlands et al., 2015
+https://link.springer.com/article/10.1007/s40279-015-0381-0
+Urdampilleta et al., 2020
+https://link.springer.com/article/10.1007/s40279-015-0381-0
+Viribay et al., 2020
+https://www.mdpi.com/2072-6643/12/5/1367
+Get a Quote for
+Customer Name
+Customer Email
+Phone Number
+Comment
+Submit

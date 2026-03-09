@@ -1,0 +1,17 @@
+BAŞLIK: 4.2: Part B. Calculating RMR based off of Lean Body Mass (LBM) - Medicine LibreTexts
+KAYNAK: https://med.libretexts.org/Courses/Irvine_Valley_College/Physiology_Labs_at_Home/04%3A_Metabolism_and_Calorie_Burn/4.02%3A_Part_B._Calculating_RMR_based_off_of_Lean_Body_Mass_(LBM)
+TARİH: 2026-03-08 21:22:09
+KELİME: 211
+============================================================
+
+Part B. Calculating RMR based off of Lean Body Mass (LBM)
+Since lean body tissue is more active than fat tissue, simply using body weight is not an accurate means of estimating metabolic rate for a more muscular person. This is similar to body mass index not being a good gauge of body composition in a heavily muscular person. Use the U.S. Navy formula to estimate LBM.
+To use the Katch McArdle or Cunningham formulas you must know someone’s lean body mass. To calculate lean body mass (LBM) you must know your body fat %. In another section we used the U.S. Navy formula to estimate % body fat. If you know your body fat % then à total weight – (total wt X body fat %)= LBM. In example, if you are 80 kilograms and 20% body fat it would be 80 – (80 X .2)= 64 kg of lean body mass. An easy way is also to use (1- (%BF) or .2)* body weight.
+1.
+Katch-McArdle lean body mass RMR calculation
+,
+BMR= 370 + (21.6 x LBM kg) or 370 + (9.82 x LBM in lbs)
+2.
+Cunningham formula
+also LBM- generally a higher estimation but more accurate for muscular athletes
+500 + (22 x kg of LBM)

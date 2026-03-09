@@ -1,0 +1,100 @@
+BAŞLIK: Nutrition Considerations for Plant-Based Athletes - VN
+KAYNAK: https://www.vndpg.org/research1/athletic-performance/research-nutrition-considerations-for-plant-based-athletes
+TARİH: 2026-03-08 21:23:41
+KELİME: 1897
+============================================================
+
+CSS In the code
+Skip to main content (Press Enter).
+Sign in
+Skip auxiliary navigation (Press Enter).
+Contact Us
+Skip main navigation (Press Enter).
+Nutrition Considerations for Plant-Based Athletes
+Key Points
+Background:
+According to the American Dietetic Association (ADA), vegetarian diets are nutritionally adequate for all stages of life and for athletes.
+1
+There are few scientific studies investigating vegetarian diets for athletes, and even fewer have been done on vegan athletes. However, there is a great deal of anecdotal evidence on the successes of vegetarian and vegan diets on athletic performance. A main advantage of an athlete adopting a vegan diet is the improved immune function which allows them to miss fewer days of training due to illness.
+2
+Objective:
+The objective is to review the literature on vegetarian diets and athletic performance, potential nutrient deficiencies that may occur in the vegan athlete, and strategies on meeting the enhanced nutritional needs of an athlete with a plant-based diet.
+3,4
+Results
+Energy needs:
+Vegan diets are higher in fruits and vegetables and less calorie-dense. This can be useful in the athlete looking to lose weight/calorie intake but could harm those who require higher energy intake.
+5
+Creatine:
+Creatine supplementation might be beneficial for vegan athletes. Creatine is only available in animal products, primarily meat. Creatine supplementation has been shown to have positive effects on athletic performance and adaptation.6 Athletes competing in sprint events or sports containing frequent sprinting (e.g. football, soccer, tennis) or sports that require high muscle mass will benefit most from creatine supplementation.
+7
+Calcium:
+There is great availability of calcium in vegetables, nuts, and seeds which are typically abundant in plant-based diets. Calcium homeostasis does not seem to be influenced by exercise, so there is no increased requirement for athletes. Data from one large study showed that calcium intakes in omnivore diets were 1042 mg/d and 988 mg/d
+in UK males and females, respectively. Calcium intakes for male (610 mg/d) and female (582 mg/d) vegans were much lower, suggesting a deficiency in vegans could be present. Supplements can be done with calcium bicarbonate (40% elemental calcium) and calcium citrate (20% elemental calcium), both of which have similar intestinal absorbability.
+8
+Iron:
+The bioavailability of iron in plant sources is typically less than in animal sources, and plant foods contain absorption inhibitors such as phytate. However, they also contain absorption-enhancing nutrients such as vitamin C and carotenes. No studies have shown an increased rate of iron deficiency anemia or low hemoglobin levels when on a vegetarian diet. Female athletes may be at risk for iron deficiency due to exercise-induced iron loss combined with menstruation.9 Due to the higher recommended intake for females, achieving adequate iron intake through a plant-based diet might be more challenging. Additional oral iron supplementation may be considered. Oral supplements containing ferrous salts are recommended but may cause GI distress. Some athletes may be deemed to intravenous or intramuscular iron, which must be done only under medical supervision.
+10, 11
+Zinc:
+Vegetarian diets are high in zinc from beans, whole grains, nuts, and seeds, but zinc is not absorbed readily due to phytates. The estimate of zinc requirements for vegans is approximately 50% higher than the U.S. RDI, that is, 12 mg·d−1 for female vegans and 16.5 mg·d−1 for male vegans. Zinc supplementation is a wise choice for vegan athletes.
+12
+Iodine:
+Vegan athletes need to supplement with iodine in a multivitamin/multimineral or regularly consume a small amount of kelp or other seaweeds.
+13
+B12:
+Current data suggest that vegan athletes are at increased risk of vitamin B12 deficiency. The American College of Sports Medicine and the International Society of Sports Nutrition recommends vegan/vegetarian athletes supplement with vitamin B12 or consume vitamin B12 fortified foods (e.g., fortified cereal or soy milk).
+14,15
+Omega-3:
+Research has shown a prevalence of long-chain omega-3 deficiencies in vegans. An algae-based docosahexaenoic acid (DHA) supplement plus Alpha-linoleic acid (ALA) sources from the diet (such as some flax or hemp) supplies adequate omega-3s. Omega-3 supplementation may be especially beneficial to athletes although no evidence exists indicating low omega-3 intake on performance and recovery.16 A recent study suggested that omega-3 supplementation reduces exercise-induced inflammation and oxidative stress.
+17
+Vitamin D:
+Deficiency is very common across the US in both vegans and omnivores. Athletes have an increased need for vitamin D due to its role in skeletal muscle function. In addition to restoring deficient levels, recent data suggest that vitamin D supplementation aimed at achieving serum concentrations above the reference value may aid in increases in skeletal muscle mass and function, decrease recovery time, and increase both power and force. The increased risk for vitamin D deficiency in vegan athletes suggests preemptive supplementation. This may be of most relevance for athletes with limited sunlight exposure. Other prophylactic strategies can include vitamin D-fortified food
+products in the diet.
+18 -20
+Taurine:
+An amino acid found in skeletal muscles, taurine supplementation has been shown to increase athletic performance in human and animal studies. For serious vegan athletes, supplementation with 500 mg taurine twice daily is appropriate.
+21
+Protein:
+It is not difficult to reach protein requirements with proper dietary planning, even for an athlete on an entirely vegan diet. Consuming more than 2 grams per kilogram per day of protein can negatively affect calcium stores, kidney function, and cardiovascular health.
+22, 23
+It is best to get protein from whole foods such as tofu, nuts, seeds, and hemp
+seed meal. Isolated protein powders from plant sources have been found to elevate IGF-1 levels which may promote cancers.
+23
+Future research is needed to determine if plant-based proteins require greater intake, and/or can food combining and/or fortification can mitigate any sub-optimal amino acid levels within a vegan diet.
+3,24
+Conclusion
+Vegan and vegetarian diets are appropriate healthy options for serious athletes. Protein supplementation is not needed for most athletes who are consuming higher plant protein foods. Supplementing vitamin B12, vitamin D, zinc, DHA, and taurine may be helpful in the vegan athlete. The typical vegan diet can be low in ergogenic compounds such as creatine, carnitine, and carnosine. There is minimal data to suggest that these lower concentrations will impair athletic adaptation or performance, but supplementation with these popular ergogenic aids is worth considering for any (particularly vegan) athlete. Vegan athletes may be at risk of specific micronutrient deficiencies and therefore micronutrient status should be monitored, and any deficiencies corrected through diet (fortification) or supplementation.
+Editor's Note:
+The number of elite athletes following a vegan diet while training and competing at the top level is testimony to the fact that a vegan diet can support elite athletes. RDNs working with vegan athletes should determine if there is a risk of suboptimal nutrition and if so, determine if it can be made optimal through strategic nutritional planning. Additionally, RDNs should be aware that most nutrient requirements can be met with a balanced diet and supplementation should only be recommended when adequate intake cannot be met through whole foods.
+References
+Craig WJ, Mangels AR. American Dietetic Association. Position of the American Dietetic Association: vegetarian diets. J. Am. Diet. Assoc. 2009; 109(7):1266-82.
+Gleeson M. Can nutrition limit exercise-induced immunodepression? Nutr. Rev. 2006; 64(3):119-31.
+Sam West, Alistair J. Monteyne, Ino van der Heijden, Francis B. Stephens, Benjamin T. Wall, Nutritional Considerations for the Vegan Athlete, Advances in Nutrition, Volume 14, Issue 4, 2023, Pages 774-795, ISSN 2161-8313, https://doi.org/10.1016/j.advnut.2023.04.012.
+Fuhrman, Joel; Ferreri, Deana M.. Fueling the Vegetarian (Vegan) Athlete. Current Sports Medicine Reports 9(4):p 233-241, July 2010. | DOI: 10.1249/JSR.0b013e3181e93a6f.
+R.B. Kreider, C.D. Wilborn, L. Taylor, B. Campbell, A.L. Almada, R. Collins, et al. ISSN exercise & sport nutrition review: research & recommendations J. Int. Soc. Sports Nutr., 7 (1) (2010), p. 7, 10.1186/1550-2783-7-7
+P.L. Greenhaff, A. Casey, A.H. Short, R. Harris, K. Soderlund, E. Hultman. Influence of oral creatine supplementation of muscle torque during repeated bouts of maximal voluntary exercise in man. Clin. Sci. (Lond.)., 84 (5) (1993), pp. 565-571, 10.1042/cs0840565.
+M.H. Stone, K. Sanborn, L.L. Smith, H.S. O’Bryant, T. Hoke, A.C. Utter, et al. Effects of in-season (5 weeks) creatine and pyruvate supplementation on anaerobic performance and body composition in American football players. Int. J. Sport Nutr., 9 (2) (1999), pp. 146-165, 10.1123/ijsn.9.2.146.
+Del Valle, H. B., Yaktine, A. L., Taylor, C. L., & Ross, A. C. (Eds.). (2011). Dietary reference intakes for calcium and vitamin D.
+McClung JP, Karl JP, Cable SJ, et al. Randomized, double-blind, placebo-controlled trial of iron supplementation in female soldiers during military training: effects on iron status, physical performance, and mood. Am. J. Clin Nutr. 2009; 90:124-31.
+Rubeor, C. Goojha, J. Manning, J. White. Does iron supplementation improve performance in iron-deficient nonanemic athletes? Sports Health, 10 (5) (2018), pp. 400-405, 10.1177/1941738118777488.
+Casgrain, R. Collings, L.J. Harvey, L. Hooper, S.J. Fairweather-Tait. Effect of iron intake on iron status: a systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr., 96 (4) (2012), pp. 768-780, 10.3945/ajcn.112.040626.
+Frassinetti S, Bronzetti G, Caltavuturo L, et al. The role of zinc in life: a review. J. Environ. Pathol. Toxicol. Oncol. 2006; 25(3):597-610.
+Krajcovicová-Kudlácková M, Bucková K, Klimes I, Seboková E. Iodine deficiency in vegetarians and vegans. Ann. Nutr. Metab. 2003; 47(5):183-5.
+R.J. Maughan, L.M. Burke, J. Dvorak, D.E. Larson-Meyer, P. Peeling, S.M. Phillips, et al.. IOC consensus statement: dietary supplements and the high-performance athlete. Int. J. Sport Nutr. Exerc. Metab., 28 (2) (2018), pp. 104-125, 10.1123/ijsnem.2018-0020
+C.M. Kerksick, C.D. Wilborn, M.D. Roberts, A. Smith-Ryan, S.M. Kleiner, R. Jäger, et al. ISSN exercise & sports nutrition review update: research & recommendations. J. Int. Soc. Sports Nutr., 15 (1) (2018), p. 38, 10.1186/s12970-018-0242-y.
+M.H. Stone, K. Sanborn, L.L. Smith, H.S. O’Bryant, T. Hoke, A.C. Utter, et al. Effects of in-season (5 weeks) creatine and pyruvate supplementation on anaerobic performance and body composition in American football players. Int. J. Sport Nutr., 9 (2) (1999), pp. 146-165, 10.1123/ijsn.9.2.146.
+Herrman W, Obeid R. Causes and early diagnosis of vitamin B12 deficiency. Dtsch. Arztebl. Int. 2008; 105(40):680-5.
+D.A. Straub. Calcium supplementation in clinical practice: a review of forms, doses, and indications. Nutr. Clin. Pract., 22 (3) (2007), pp. 286-296, 10.1177/0115426507022003286.
+S. Pilz, A. Zittermann, C. Trummer, V. Theiler-Schwetz, E. Lerchbaum, M.H. Keppel, et al. Vitamin D testing and treatment: a narrative review of current evidence. Endocr. Connect., 8 (2) (2019), pp. R27-R43, 10.1530/EC-18-0432.
+M. Chung. Vitamin D and calcium: a systematic review of health outcomes. Evid rep Technol assess (full rep)., 183 (183) (2009), pp. 1-420.
+Galloway SDR, Talanian JL, Shoveller AK, et al. Seven days of oral taurine supplementation does not increase muscle taurine content or alter substrate metabolism during prolonged exercise in humans. J. Appl. Physiol. 2008; 105:643-51.
+Halbesma N, Bakker SJ, Jansen DF, et al. High protein intake associates with cardiovascular events but not with loss of renal function. J. Am. Soc. Nephrol. 2009; 20(8):1797-804.
+Frank H, Graf J, Amann-Gassner U, et al. Effect of short-term high-protein compared with normal-protein diets on renal hemodynamics and associated variables in healthy young men. Am. J. Clin. Nutr. 2009; 90(6):1509-16.
+S. van Vliet, N.A. Burd, L.J. van Loon. The skeletal muscle anabolic response to plant-versus animal-based protein consumption. J. Nutr., 145 (9) (2015), pp. 1981-1991, 10.3945/jn.114.204305.
+Connect with Vegetarian Nutrition Dietetic Practice Group
+Copyright 2024 eatright.org. Academy of Nutrition and Dietetics. All rights reserved.
+Copyright 2026 eatright.org. Academy of Nutrition and Dietetics. All rights reserved.
+VN DPG Site Map
+About The Academy
+Editorial Policy
+Privacy Policy
+Powered by Higher Logic

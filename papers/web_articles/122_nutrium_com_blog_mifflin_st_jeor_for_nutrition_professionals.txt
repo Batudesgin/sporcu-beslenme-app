@@ -1,0 +1,84 @@
+BAŞLIK: Mifflin-St. Jeor for nutrition professionals - Nutrium Blog
+KAYNAK: https://nutrium.com/blog/mifflin-st-jeor-for-nutrition-professionals/
+TARİH: 2026-03-08 21:21:49
+KELİME: 751
+============================================================
+
+Nutrition
+Mifflin-St. Jeor for nutrition professionals
+By
+Manuela Abreu
+May 3, 2023
+206.72k
+The assessment of energy requirements is an essential component in the creation of a meal plan. BMR can be measured or estimated by equations, but estimation is by far the most common method. Are you familiar with the Mifflin-St. Jeor equation?
+In this article you will learn more about this equation and how to apply it in your nutrition appointment.
+What is the Mifflin-St. Jeor Equation?
+This is a predictive equation for
+resting energy expenditure in healthy individuals
+.
+The paper that validated this equation
+,
+in 1990, estimated it using a group of women and men between the ages of 19 and 78, and whose
+BMI ranged from normal to obese
+.
+The racial composition of the sample was not specified, and the representativeness of the elderly was limited
+.
+BMR was measured by
+indirect calorimetry
+. Then, a multiple regression analysis was performed to find the link between BMR and weight, height, and age for both men and women. The simplified equations are as follows:
+BMR (men) = 10 X weight (in kg) + 6.25 X height (in cm) - 5 x age (in years) + 5;
+BMR (women) = 10 X weight (in kg) + 6.25 X height (in cm) - 5 X age (in years) - 161.
+When should you use the Mifflin-St. Jeor equation?
+This equation is currently the most accurate for
+calculating BMR in individuals with normal BMI (i.e., with the index between 19 and 25), when it is not necessary to know the percentage of body fat
+.
+The Mifflin-St. Jeor equation in comparison to others
+The Mifflin-St Jeor equation, together with the Harris-Benedict, Owen, and WHO/FAO/UNU - the four most widely used equations - were studied in order
+to understand the validity of these equations for predicting BMR in non-obese and obese people of various ethnic and age groups
+.
+Non-obese Adults
+The
+Mifflin-St, Jeor equation performed best among the four BMR predictive equations
+. In 82% of the cases, the equation predicted
+10% of the BMR measured by indirect calorimetry, with errors evenly distributed between underestimation and overestimation
+. The maximum error of underestimation was 18% and the maximum error of overestimation was 15% of measured BMR.
+Obese Adults
+The
+accuracy rate of all predictive equations decreased compared to non-obese adults and individual errors increased
+. This trend was less prominent in the Mifflin-St Jeor equation than it was in any other equation studied. The Mifflin-St Jeor equation accurately predicted the
+BMR of 70% of obese individuals, compared with 82% in non-obese individuals
+. Underestimations occurred more frequently than overestimations. The maximum underestimation was 20% and the maximum overestimation was 15% of measured BMR.
+How to determine a client's energy requirements in a nutrition consultation?
+Step 1:  Determine the BMR
+Females: (10 x weight in kg) + (6,25 x height in cm) – (5,0 x age in years) – 161
+Males: (10 x weight in kg) + (6,25 x height in cm) – (5,0 x age in years) + 5
+Step 2: Multiply the BMR by the appropriate activity factor
+Sedentary
+- BMR X 1,2 (little to no exercise, desk job)
+Light Activity
+- BMR X 1.375 (exercise 1 to 3 days per week)
+Moderate Activity
+- BMR X 1,55 (exercise 3 to 5 days per week)
+Very Active
+- BMR X 1.725 (exercise 6 to 7 days per week)
+Extra Active
+- BMR X 1,9 (exercise 2x per day)
+It is important to keep in mind that these equations are only an estimate and therefore
+individual nutritional needs and goals should be taken into account
+.
+You should evaluate, and re-evaluate if necessary, how the client is progressing and how they are feeling, and from there make adjustments to the meal plan.
+Other equations to calculate the basal metabolic rate:
+Harris-Benedict Equation
+Katch McArdle Equation
+ten Haaf Equation
+Cunningham Equation
+Summary
+Of the four predictive equations for basal metabolic rate most commonly used in clinical practice (Harris-Benedict, Mifflin-St Jeor, Owen, and WHO/FAO/UNU), the Mifflin-St Jeor equation appears to be the most reliable. It predicts resting metabolic rate at 10% of that measured by indirect calorimetry in more non-obese and obese subjects, higher than any other equation, and also had the lowest error rate.
+References
+Comparison of Predictive Equations for Resting Metabolic Rate in Healthy Nonobese and Obese Adults: A Systematic Review
+A new predictive equation for resting energy expenditure in healthy individuals
+Tags:
+BMR
+,
+Mifflin-St. Jeor
+Share:

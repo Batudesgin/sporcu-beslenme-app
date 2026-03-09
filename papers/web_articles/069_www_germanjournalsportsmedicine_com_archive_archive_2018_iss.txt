@@ -1,0 +1,496 @@
+BAŞLIK: Exercise-Associated Hyponatremia: Practical Guide to its Recognition, Treatment and Avoidance during Prolonged Exercise
+KAYNAK: https://www.germanjournalsportsmedicine.com/archive/archive-2018/issue-10/exercise-associated-hyponatremia-practical-guide-to-its-recognition-treatment-and-avoidance-during-prolonged-exercise/
+TARİH: 2026-03-08 21:20:20
+KELİME: 4861
+============================================================
+
+Health & Physical Activity
+VOlume 69, Issue 10 (2018)
+DOI:
+10.5960/dzsm.2018.349
+accepted:
+September 2018
+published online:
+October 2018
+Scheer V, Hoffman MD. Exercise-associated hyponatremia: practical guide to its recognition, treatment and avoidance during prolonged exercise. Dtsch Z Sportmed. 2018; 69: 311-318. doi:10.5960/dzsm.2018.349
+REVIEW
+Exercise-Associated Hyponatremia: Recognition, Treatment and Avoidance
+Scheer V
+1,2
+, Hoffman MD
+1,3
+Exercise-Associated Hyponatremia: Practical Guide to its Recognition, Treatment and Avoidance during Prolonged Exercise
+Sportassoziierte Hyponatriämie: praktische Anleitung zur Diagnose, Behandlung und Prävention bei Ausdauersportlern
+1
+ULTRA SPORTS SCIENCE FOUNDATION
+2
+BRITISH FORCES GERMANY, RRU Sennelager, Normandy Barracks, BFPO 16
+3
+DEPARTMENT OF VETERANS AFFAIRS, NORTHERN CALIFORNIA HEALTH CARE SYSTEM, Physical Medicine and Rehabilitation Service, Sacramento, CA, USA and University of California Davis Medical Center, Department of Physical Medicine and Rehabilitation, Sacramento, CA, USA
+Summary
+Definition: Exercise-associated hyponatremia (EAH) is defined by a below-normal serum sodium concentration (< 135 mmol/L) during or up to 24 hours after physical activity.
+Epidemiology: Incidence varies according to type of sport ranging from 11% after an Ironman triathlon to 51% after a 161-km ultramarathon and up to 70% among rowers during training camp. EAH-related deaths have been reported.
+Underlying mechanism: The two main etiological factors are overhydration due to excessive intake of water and/or hypotonic beverages and an inappropriate secretion of arginine vasopressin (AVP) with water retention, resulting in dilutional hyponatremia, with a relative excess of total body water in relation to the total content of exchangeable body sodium.
+Symptoms: EAH can be asymptomatic or symptomatic. Early clinical signs are nonspecific and may include nausea, vomiting, dizziness, headache and body mass gain. Without proper intervention, cerebral edema with life-threatening symptoms such as confusion, agitation, seizures and coma (exercise-associated hyponatremia encephalopathy (EAHE)) may develop.
+Treatment: Asymptomatic EAH can be treated by fluid restriction until onset of urination, mild symptomatic cases of EAH by oralhypertonic saline solutions, while intravenous infusion of hypertonic saline can be life-saving in moderate to severe EAH and EAHE.
+Prevention: Proper hydration strategies like drinkinglimitedto thirst can generally prevent EAH. Education of athletes and coaches about EAH is key in preventing this condition. Education of medical staff should focus on early recognition and appropriate treatment of EAH.
+KEY WORDS:
+Prevention, Exercise, Hyponatremia, Hypertonic Saline Solution
+Zusammenfassung
+Definition: Sportassoziierte Hyponatriämie (exercise-associated hyponatremia (EAH)) ist definiert durch eine niedrige Serum-Natrium-Konzentration (< 135 mmol/L) während oder bis 24 Stunden nach sportlicher Betätigung.
+Epidemiologie: Die Inzidenz variiert je nach Sportart zwischen zwischen 11% beim Ironman Triathlon, 51% nach einem 161 km Ultramarathon und bis zu 70% bei Ruderern während eines Trainingslagers, wobei Todesfälle aufgrund von EAH dokumentiert sind.
+Pathogenese: Die zwei Hauptursachen sind Überhydratation durch exzessive Aufnahme von Wasser und/oder hypotonischen Getränken sowie eine nicht adäquate Sekretion von Arginin-Vasopressin (AVP) mit Wasserretention. Daraus resultiert eine Verdünnungs-Hyponatriämie mit relativem Überschuss am Gesamtkörperwasser in Relation zur Gesamtkonzentration des austauschbaren Natriums im Körper.
+Symptomatik: EAH kann asymptomatisch oder symptomatisch verlaufen. Erste klinische Zeichen sind unspezifisch und können Übelkeit, Erbrechen, Schwindel, Kopfschmerzen und Gewichtszunahme umfassen. Unbehandelt kann EAH zu einem Gehirnödem mit lebensbedrohlichen Symptomen wie Verwirrtheit, Krampfanfällen und Koma führen (sportassoziierte hyponaträmische Enzephalopathie (EAHE)).
+Behandlung: Asymptomatische EAH kann durch Flüssigkeitsrestriktion bis zum Einsetzen der Miktion behandelt werden, milde symptomatische Formen durch hypertone Getränke, während hypertone intravenöse Kochsalzinfusionen bei moderaten und schweren Formen von EAH und EAHE lebensrettend sein können.
+Prävention: Angemessene Hydrationsstrategien wie das Trinken nach Durstempfinden können EAH nomalerweise vermeiden. Aufklärung von Athleten und Trainern ist der Schlüssel zur Prävention. Die Ausbildung des medizinischen Personals sollte sich auf die Früherkennung und angemessene Behandlung konzentrieren.
+SCHLÜSSELWÖRTER:
+Prävention, Sport, Hyponatriämie, Hypertone Kochsalzlösung
+Introduction
+Proper hydration is important in endurance sports and standards in monitoring hydration status have previously been published in the German Journal of Sports Medicine (
+47
+) that briefly discussed exercise associated hyponatraemia (EAH) (
+42
+,
+48
+). EAH is an important medical condition defined by a serum sodium concentration ([Na+]) below normal laboratory concentrations (usually below 135 mmol/L) either during or up to 24 hours after physical activity (15). While dehydration may result in impaired exercise performance (
+1
+), deaths have occurred from inappropriate overzealous fluid consumption resulting in EAH (
+15
+). The incidence of EAH varies depending on type of sport and can be as high as 70% (
+34
+). Thus, strategies to prevent the development of EAH should be implemented, and medical staff should be capable of early recognition and proper treatment of EAH, especially as life-threatening symptoms from cerebral edema (exercise-associated hyponatremic encephalopathy (EAHE)) can occur (
+15
+) Overhydration and inappropriate secretion of arginine vasopressin (AVP) are the main mechanisms of EAH (
+13
+,
+14
+,
+22
+), leading to a positive fluid balance and dilutional hyponatremia (
+13
+,
+14
+,
+22
+,
+30
+,
+37
+). Prevention of EAH can generally be achieved with proper hydration and drinking to thirst.
+In this educational review, the pertinent literature related to EAH has been summarized, providing an overview of the etiology, pathogenesis, and diagnosis of EAH. Also provided is practical advice on treatment and preventive strategies, with hopes that further deaths and serious harm from this condition can be avoided. Other forms of hyponatraemia that are generally encountered in different clinical settings are outside the scope of this article but can be reviewed elsewhere (
+33
+).
+History
+EAH is not a new clinical condition. The first known report of EAH was by Noakes in a lay running magazine about an athlete participating in the 1981 Comrades Marathon in South Africa and the first scientific publication on EAH was in 1985 about four ultra-endurance runners (
+37
+). Around the same time, there were reports of EAH in an American running magazine of a case during the 100-mile Western States Endurance Run (
+31
+) and in the Journal of the American Medical Association of cases during 50-mile and 100-km ultramarathons (
+8
+).
+Participation in ultra-endurance events has been increasing exponentially over the last 20 years (
+20
+,
+41
+,
+43
+), and ultramarathon running is one sport that has attracted particular research interest on a wide range of medical problems and specifically on EAH (
+2
+,
+17
+,
+22
+,
+23
+,
+25
+,
+40
+). Medical consensus guidelines exist on how to deal with EAH in remote environments especially during ultra-endurance foot races (
+25
+). In 2015, the 3rd International Exercise-Associated Hyponatremia Consensus Panel met and published an updated consensus statement to address the morbidity and mortality associated with this preventable fluid imbalance (
+15
+).
+Definition
+EAH is defined by a [Na+] below the lower limit of normal (usually 135 mmol/L) either during or up to 24 hours after physical activity (
+15
+). It may be clinically asymptomatic, often only discovered during scientific studies (
+4
+,
+22
+,
+29
+), or clinically symptomatic with either mild or serious clinical features described in detail below. EAH is often classified as mild ([Na+] of 130-134 mmol/L), moderate ([Na+] of 125-129 mmol/L), or severe ([Na+] <125 mmol/L) but clinical symptoms not only depend on the degree of hyponatremia, but also on the rate of decline in sodium concentration (
+12
+,
+15
+). Severe symptomatic EAH with neurological signs due to cerebral edema (EAHE) is a life-threatening condition that requires urgent medical evaluation and treatment (
+15
+).
+Epidemiology
+Less than 1% of athletes begin exercise in a hyponatremic state, providing evidence that this condition generally develops during or after exercise (
+15
+). Incidence varies according to type of sport and exercise, and has been well investigated in ultra-endurance events with hyponatremia being as common as 51% after a 161-km ultramarathon (
+22
+), 42% during multi-day ultramarathons (
+4
+), and 11% after an Ironman triathlon (
+6
+). Studies have also found asymptomatic EAH incidence to be 33% after a rugby match (
+13
+) and 70% among elite German junior rowers during a four week training camp (
+34
+). Confirmed deaths due to EAH have occurred in endurance runners, a triathlete, and an endurance canoeist as well as in hikers, high school American football players, military personnel and police (
+13
+,
+36
+,
+52
+).
+Underlying Mechanisms
+The pathophysiology of EAH is complex and several factors likely contribute to its pathogenesis as depicted in Figure 1. The two main etiological factors are overhydration and inappropriate secretion of arginine vasopressin (AVP) (
+13
+,
+14
+,
+22
+).
+Overhydration due to excessive intake of water and/or hypotonic beverages (sports drinks) exceeding the body’s fluid losses (e.g. sweat, urine, insensible fluid losses) results in a dilutional hyponatremia with a relative excess of total body water in relation to the total content of exchangeable body sodium (
+15
+). While EAH can occur in association with dehydration, symptomatic cases of EAH seem to be associated with overhydration where there has been weight gain or inadequate weight loss during the exercise (Fig. 2) (
+30
+,
+38
+). The other main etiological factor in the development of EAH is the inappropriate secretion of AVP (
+13
+). AVP or anti-diuretic hormone (ADH) is a hormone that is generated in the hypothalamus and released by the posterior pituitary gland.
+The human body regulates water and sodium balance and its plasma osmolality within a narrow physiological range. AVP is the main hormone responsible for fluid homeostasis and its secretion is mostly regulated through changes in plasma osmolality. But, there are also a number of non-osmotic stimuli for AVP secretion, including stress, pain, nausea, vomiting, hypoglycaemia, heat, drugs such as non-steroidal anti-inflammatory drugs (NSAIDs), and IL-6 release. These non-osmotic stimuli can lead to AVP secretion that is inappropriate for a given serum osmolality, thereby promoting further overhydration and dilutional EAH (
+11
+,
+13
+,
+50
+).
+Other contributing factors to the development of symptomatic EAH may include the rapid absorption of water from the gastro-intestinal tract after exercise cessation due to increased splanchnic perfusion (
+13
+,
+34
+), the activation of the sympathetic nervous system and the renin angiotensin aldosterone system resulting in decreased renal filtrate rate with reduction in free water excretion (
+13
+), and the inability to mobilize the non-osmotic form of sodium which is bound to bone, skin and cartilage (
+13
+,
+16
+,
+38
+).
+The role of sodium loss through sweating as well as the potential impact of urinary sodium losses from elevated levels of atrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP) in the pathogenesis of EAH are unclear (
+10
+,
+30
+,
+55
+).
+As a result of a low [Na+], extracellular water will follow the osmotic gradient into the intracellular compartment. The resulting cerberal edema causes EAHE, whereas the effect on the lungs causes pulmonary edema (
+15
+).
+Risk Factors
+The main risk factor for the development of symptomatic EAH is fluid overconsumption (e.g. water, sports drinks or other hypotonic beverages) beyond fluid losses through sweat, insensible losses and urine leading to a positive fluid balance and dilutional hyponatremia (
+13
+,
+14
+,
+22
+,
+30
+,
+37
+). Other risk factors associated with the development of EAH include an exercise duration over 4 hours, event inexperience or inadequate training, slow running pace, high or low body mass index, and readily available fluids at events (
+15
+). The incidence of EAH in women is higher compared to men, but when adjusted for body mass index and racing time, the apparent sex difference is not statistically significant (
+14
+).
+Symptoms and Diagnosis
+Clinical signs and symptoms for EAH and EAHE are shown in Figure 3 (adapted from (
+15
+)). Early clinical signs of EAH are non-specific and can easily be mistaken for other medical conditions such as exertional heat stress, heat stroke, hypoglycaemia, acute mountain illness, gastrointestinal problems, other medical emergencies or merely signs of exercising for prolonged periods (
+14
+,
+25
+,
+41
+). It is important to recognize that oliguria is typical in EAH due to inappropriate AVP secretion and may be mistaken for dehydration (
+13
+). A high index of suspicion for EAH is warranted especially in the presence of weight gain and history of overzealous fluid consumption. If available on site, [Na+] measurement can aid in reaching the correct diagnosis, however this is not always possible or available. Advice on proper hydration strategies (drink to thirst) and exclusion and treatment of other associated or alternative pathologies (e.g., heat stroke with altered mental status) is warranted before continued participation or exercise. In the presence of any late signs of EAH (Fig. 3), especially signs of neurological compromise and signs of cerebral edema (EAHE), prompt diagnosing and treatment of the medical emergency is paramount. If EAH is confirmed through on site [Na+] measurement or suspected on clinical grounds, appropriate treatment needs to be instituted immediately.
+Treatment
+Treatment strategies are outlined in Figure 4 (adapted from (
+15
+)). Asymptomatic cases of EAH are often only discovered during scientific studies or when [Na+] has been tested for other reasons (
+4
+,
+22
+,
+29
+). Although there is no obligatory reason to actively treat asymptomatic EAH, it is clinically appropriate to restrict fluid intake until the onset of urination or administer oral hypertonic saline solutions to reduce the risk of progression to symptomatic hyponatraemia. Athletes should also be advised when leaving the event to seek urgent medical attention if any neurological symptoms of EAH develop within the 24 hours following the event (
+15
+).
+In mildly symptomatic cases of EAH, where the patient is orientated, alert, stable and able to follow medical advice, fluid restriction and consumption of hypertonic saline beverages until free urination sets in may be all that is needed, but these athletes may also be treated with intravenous boluses of hypertonic saline if deemed appropriate (
+15
+). For severe EAH or EAHE (Fig. 3) with altered mental status or seizures, prompt treatment with intravenous hypertonic saline, even in the absence of prior [Na+] measurement (Fig. 4) is warranted (
+15
+). This treatment, either empirically or after prior [Na+] measurement, can be life-saving, is unlikely to cause harm should the presumed diagnosis be wrong, and should be administered in the field prior to transfer to hospital (
+15
+). Athletes not responding to treatment or showing delayed signs of recovery should be transferred to the nearest hospital facility for further monitoring and treatment.
+Prevention
+There is now overwhelming evidence that drinking to thirst is adequate to maintain proper hydration during endurance exercise (
+3
+,
+13
+,
+15
+,
+19
+,
+27
+,
+46
+) and EAH can be prevented through such hydration strategies. Thirst is an evolutionary mechanism that protects plasma osmolality as well as circulating blood volume and defends against serious dehydration. Despite widespread advice regarding the acute dangers of dehydration, even in extreme environments, this is of limited relevance to individuals with access to food and water (
+5
+). On the contrary, an overzealous approach in fluid ingestion in an effort to prevent dehydration, even in warm humid conditions, has lead to reported cases of EAH (
+32
+).
+Sports drinks are hypotonic compared to plasma (
+15
+) and therefore overhydration from these beverages does not offer protection from EAH (
+15
+,
+35
+,
+53
+). Supplemental sodium ingestion is often used as a strategy by athletes to prevent EAH, but this too will not offer protection from EAH especially when overhydration occurs concomitantly (30, 49). Sodium supplementation can even increase the risk of developing EAH, as it will drive thirst, potentially resulting in further overconsumption of fluids (
+24
+,
+30
+). A typical race diet generally provides sufficient sodium, even during prolonged exercise of 15-30 hours, in hot climates (
+26
+,
+27
+). Analgesia use, especially NSAIDs, is high among ultra-endurance athletes (
+7
+,
+39
+) and they have been implicated as a risk factor in the development of EAH (
+14
+,
+54
+) presumably by potentiating the water retention effects of AVP at the level of the kidney (
+15
+,
+51
+) and should therefore be avoided. Further rationale for avoiding these drugs is their potential for increasing the risk of kidney injury, rhabdomyolysis and gastrointestinal symptoms (
+28
+,
+30
+,
+45
+).
+Body mass loss should be expected during prolonged exercise due to oxidation of endogenous fuel (i.e. glycogen and stored fat) and metabolic water production (
+21
+). In fact, body mass loss during a 161-km ultramarathon of around 2% or more is expected without detriments in performance (
+21
+). Additionally, it has been shown that during cycling time trials up to 2 hours, development of a mean body mass loss of 2.2% is associated with increased power output and a body mass loss of up to 4% does not alter exercise performance compared with body mass maintenance (
+9
+). Therefore, body mass gain during exercise is unnecessary. Its observation is a clear indication of overhydration and when observed, further fluid intake should be reduced to help avoid the development of EAH.
+There is some evidence that liberal fluid availability during competition may promote overdrinking, and reducing fluid availability may decrease the risk of EAH, but firm evidence across a variety of sports is still missing (
+14
+,
+44
+). Furthermore, in circumstances when fluid carriage is easy, reducing fluid availability is not likely to be an important contributing factor to the prevention of EAH.
+Education
+Education about proper hydration is important in preventing EAH. Overdrinking has been promoted heavily in the past by the global sports drink industry (
+3
+) and there continues to be considerable misinformation on the Internet regarding proper hydration strategies, even on medical or scientific websites. For instance, an Internet search on proper hydration during exercise found that only 7.3% of sites promoted drinking to thirst (18). Educational programmes aimed at promoting drinking to thirst strategies during the 161-km Western State Endurance Run have been associated with a noteworthy decrease in EAH incidence (
+26
+). It is therefore paramount that athletes, coaches and health professionals are aware of proper hydration strategies in endurance events and help promote safe hydration guidance. Key points are summarized in Figure 5.
+Recommendations
+For Athletes and Coaches
+Athletes, coaches and families involved in endurance sports should be aware of the current recommendations on proper hydration to avoid serious medical problems such as EAH. Proper advice for athletes and coaches is to simply respond to thirst with fluid intake. Educating and speaking to endurance athletes about the dangers of overhydration may also help reduce the incidence of EAH.
+For Medical Personnel
+All medical personnel involved in ultra-endurance sports should be aware of and competent in the recognition and treatment of EAH. As part of the event medical supplies, hypertonic saline should be available for oral intake and for infusion into a peripheral vein (
+25
+). Depending on the size of the event, on-site point-of-care biochemical testing may be advisable, which can be useful in quickly verifying symptomatic EAH (
+25
+). However it is also recognised that smaller or more remote events will not have this capacity, and testing devices may not be operational in extreme environments or feasible to transport into wilderness settings. Empirical treatment for EAH can be life-saving and should not be withheld in these circumstances (
+25
+). Transfer to a hospital facility should be effected, or evacuation from a remote environment considered, especially if there is no improvement with on-site treatment or diagnosis is in doubt. Previous medical planning and risk assessment is therefore recommended (
+25
+).
+Conclusion
+EAH is a serious medical condition with confirmed deaths especially in association with prolonged exercise. The main etiological factor is overconsumption of hypotonic fluids leading to a dilutional hyponatremia. Non-osmotic stimuli such as stress, pain, nausea, vomiting, hypoglycaemia, heat, drugs such as NSAIDs, and IL-6 release can lead to an inappropriate secretion of AVP causing retention of water and compounding the dilution of serum sodium. Early clinical features of EAH are non-specific but may include nausea, vomiting, dizziness, headache, oliguria and weight gain. Without proper intervention, life-threatening symptoms such as confusion, agitation, dyspnoea, seizures and coma can occur. Prompt recognition and treatment of EAH with oral hypertonic saline beverages for mild EAH cases or intravenous infusion of hypertonic saline in moderate to severe cases of EAH and EAHE can be life-saving. EAH can generally be prevented by proper hydration, which is achieved through drinking to thirst, recognizing that some body mass loss should be expected during prolonged exercise without determents in exercise performance. Education of athletes and coaches about EAH is a key element in preventing this condition, and the education of medical staff should focus on early recognition and appropriate treatment of the condition.
+Conflict of Interest
+This material is the result of work supported with resources and the use of facilities at the VA Northern California Health Care System. The contents reported here do not represent the views of the Department of Veterans Affairs or the United States Government.
+References
+AMERICAN COLLEGE OF SPORTS MEDICINE, SAWKA MN, BURKE LM,EICHNER ER, MAUGHAN RJ, MONTAIN SJ, STACHENFELD NS.
+AmericanCollege of Sports Medicine position stand. Exercise and fluidreplacement. Med Sci Sports Exerc. 2007; 39: 377-390.
+BAILOWITZ Z, GRAMS R, TEEPLE D, HEW-BUTLER T.
+Exercise-associatedhyponatremia in a Lactating Female. Clin J Sport Med. 2017; 27:e55-e57.
+doi:10.1097/JSM.0000000000000344
+BELTRAMI FG, HEW-BUTLER T, NOAKES TD.
+Drinking policies andexercise-associated hyponatraemia: is anyone still promotingoverdrinking? Br J Sports Med. 2008; 42: 796-801.
+doi:10.1136/bjsm.2008.047944
+COSTA RJS, TEIXEIRA A, RAMA L, SWANCOTT AJM, HARDY LD, LEE B,CAMÕES-COSTA V, GILL S, WATERMAN JP, FREETH EC, BARRETT E,HANKEY J, MARCZAK S, VALERO-BURGOS E, SCHEER V, MURRAY A,THAKE CD.
+Water and sodium intake habits and status of ultraendurancerunners during a multi-stage ultra-marathonconducted in a hot ambient environment: an observational fieldbased study. Nutr J. 2013; 12: 13.
+doi:10.1186/1475-2891-12-13
+COTTER JD, THORNTON SN, LEE JK, LAURSEN PB.
+Are we being drownedin hydra-tion advice? Thirsty for more? Extrem Physiol Med.2014; 3: 18.
+doi:10.1186/2046-7648-3-18
+DANZ M, PÖTTGEN K, TÖNJES PM, HINKELBEIN J, BRAUNECKER S.
+Hyponatremia among triathletes in the Ironman EuropeanChampionship. N Engl J Med. 2016; 374: 997-998.
+doi:10.1056/NEJMc1510409
+DIDIER S, VAUTHIER J-C, GAMBIER N, RENAUD P, CHENUEL B, POUSSEL M.
+Substance use and misuse in a mountain ultramarathon: newinsight into ultrarunners popula-tion? Res Sports Med. 2017; 25:244-251.
+doi:10.1080/15438627.2017.1282356
+FRIZZELL RT, LANG GH, LOWANCE DC, LATHAN SR.
+Hyponatremia andultramara-thon running. JAMA. 1986; 255: 772-774.
+doi:10.1001/jama.1986.03370060086025
+GOULET EDB.
+Effect of exercise-induced dehydration on time-trialexercise per-formance: a meta-analysis. Br J Sports Med. 2011; 45:1149-1156.
+doi:10.1136/bjsm.2010.077966
+HARRIS G, REID S, SIKARIS K, MCCRORY P.
+Hyponatremia isassociated with higher NT-proBNP than normonatremiaafter prolonged exercise. Clin J Sport Med. 2012; 22: 488-494.
+doi:10.1097/JSM.0b013e3182580ce8
+HEW-BUTLER T.
+Arginine vasopressin, fluid balance andexercise: is exercise-associated hyponatraemia a disorder ofarginine vasopressin secretion? Sports Med. 2010; 40: 459-479.
+doi:10.2165/11532070-000000000-00000
+HEW-BUTLER T, ANLEY C, SCHWARTZ P, NOAKES T.
+The treatmentof symptomatic hyponatremia with hypertonic saline in anIronman triathlete. Clin J Sport Med. 2007; 17: 68-69.
+doi:10.1097/JSM.0b013e31802e9c18
+HEW-BUTLER T, LOI V, PANI A, ROSNER MH.
+Exercise-associatedhyponatremia: 2017 Update. Front Med (Lausanne). 2017; 4: 21.
+doi:10.3389/fmed.2017.00021
+HEW-BUTLER T, ROSNER MH, FOWKES-GODEK S, DUGAS JP, HOFFMAN MD,LEWIS DP, MAUGHAN RJ, MILLER KC, MONTAIN SJ, REHRER NJ, ROBERTS WO,ROGERS IR, SIEGEL AJ, STUEMPFLE KJ, WINGER JM, VERBALIS JG.
+Statement of the third inter-national exercise-associatedhyponatremia consensus development conference, Carlsbad,California, 2015. Clin J Sport Med. 2015; 25: 303-320.
+doi:10.1097/JSM.0000000000000221
+HEW-BUTLER T, ROSNER MH, FOWKES-GODEK S, DUGAS JP, HOFFMAN MD,LEWIS DP, MAUGHAN RJ, MILLER KC, MONTAIN SJ, REHRER NJ, ROBERTSWO, ROGERS IR, SIEGEL AJ, STUEMPFLE KJ, WINGER JM, VERBALIS JG.
+Sta. Statement of the 3rd in-ternational exercise-associatedhyponatremia consensus development conference, Carlsbad,California, 2015. Br J Sports Med. 2015; 49: 1432-1446.
+doi:10.1136/bjsports-2015-095004
+HEW-BUTLER T, STUEMPFLE KJ, HOFFMAN MD.
+Bone: an acute buffer ofplasma so-dium during exhaustive exercise? Horm Metab Res.2013; 45: 697-700.
+doi:10.1055/s-0033-1347263
+HOFFMAN MD.
+State of the Science-Ultraendurance Sports.Int J Sports Physiol Perform. 2016; 11: 831-832.
+doi:10.1123/IJSPP.2016-0472
+HOFFMAN MD, BROSS TL, HAMILTON RT.
+Are we being drowned byoverhydration advice on the Internet? Phys Sportsmed. 2016; 44:343-348.
+doi:10.1080/00913847.2016.1222853
+HOFFMAN MD, COTTER JD, GOULET ÉD, LAURSEN PB.
+VIEW: Is drinkingto thirst adequate to appropriately maintain hydration statusduring prolonged endurance exercise? Yes. Wilderness EnvironMed. 2016; 27: 192-195.
+doi:10.1016/j.wem.2016.03.003
+HOFFMAN MD, FOGARD K.
+Factors related to successful completionof a 161-km ul-tramarathon. Int J Sports Physiol Perform. 2011; 6:25-37.
+doi:10.1123/ijspp.6.1.25
+HOFFMAN MD, GOULET EDB, MAUGHAN RJ.
+Considerations in the use ofbody mass change to estimate change in hydration status duringa 161-kilometer ultramara-thon running competition. SportsMed. 2018; 48: 243-250.
+doi:10.1007/s40279-017-0782-3
+HOFFMAN MD, HEW-BUTLER T, STUEMPFLE KJ.
+Exercise-associatedhyponatremia and hydration status in 161-km ultramarathoners.Med Sci Sports Exerc. 2013; 45: 784-791.
+doi:10.1249/MSS.0b013e31827985a8
+HOFFMAN MD, KRISHNAN E.
+Exercise behavior of ultramarathonrunners: baseline findings from the ULTRA study. J StrengthCond Res. 2013; 27: 2939-2945.
+doi:10.1519/JSC.0b013e3182a1f261
+HOFFMAN MD, MYERS TM.
+Case Study: Symptomatic exerciseassociatedhypo-natremia in an endurance runner despitesodium supplementation. Int J Sport Nutr Exerc Metab. 2015; 25:603-606.
+doi:10.1123/ijsnem.2014-0241
+HOFFMAN MD, PASTERNAK A, ROGERS IR, KHODAEE M, HILL JC, TOWNES DA,SCHEER BV, KRABAK BJ, BASSET P, LIPMAN GS.
+Medical services atultra-endurance foot races in remote environments: medicalissues and consensus guidelines. Sports Med. 2014; 44: 1055-1069.
+doi:10.1007/s40279-014-0189-3
+HOFFMAN MD, STUEMPFLE KJ.
+Sodium supplementation andexercise-associated hyponatremia during prolonged exercise.Med Sci Sports Exerc. 2015; 47: 1781-1787.
+doi:10.1249/MSS.0000000000000599
+HOFFMAN MD, STUEMPFLE KJ.
+Is sodium supplementationnecessary to avoid de-hydration during prolonged exercise inthe heat? J Strength Cond Res. 2016; 30: 615-620.
+doi:10.1519/JSC.0000000000001138
+HOFFMAN MD, STUEMPFLE KJ, FOGARD K, HEW-BUTLER T, WINGER J,WEISS RH.
+Urine dipstick analysis for identification of runnerssusceptible to acute kidney in-jury following an ultramarathon. JSports Sci. 2013; 31: 20-31.
+doi:10.1080/02640414.2012.720705
+HOFFMAN MD, STUEMPFLE KJ, ROGERS IR, WESCHLER LB, HEW-BUTLER T.
+Hypo-natremia in the 2009 161-km Western States EnduranceRun. Int J Sports Physiol Perform. 2012; 7: 6-10.
+doi:10.1123/ijspp.7.1.6
+HOFFMAN MD, STUEMPFLE KJ, SULLIVAN K, WEISS RH.
+Exercise-associatedhypo-natremia with exertional rhabdomyolysis:importance of proper treatment. Clin Nephrol. 2015; 83: 235-242.
+LANG G.
+Medical findings in the Western States 100 Mile.Ultrarunning. 1984; 3: 14-18.
+LEE JKW, NIO AQX, ANG WH, JOHNSON C, AZIZ AR, LIM CL, HEW-BUTLER T.
+First reported cases of exercise-associated hyponatremia in Asia.Int J Sports Med. 2011; 32: 297-302.
+doi:10.1055/s-0030-1269929
+LIEN Y-HH, SHAPIRO JI.
+Hyponatremia: Clinical diagnosis andmanagement. Am J Med. 2007; 120: 653-658.
+doi:10.1016/j.amjmed.2006.09.031
+MAYER CU, TREFF G, FENSKE WK, BLOUIN K, STEINACKER JM, ALLOLIO B.
+High incidence of hyponatremia in rowers during a four-weektraining camp. Am J Med. 2015; 128: 1144-1151.
+doi:10.1016/j.amjmed.2015.04.014
+MONTAIN SJ, CHEUVRONT SN, SAWKA MN.
+Exercise associatedhyponatraemia: quan-titative analysis to understand theaetiology. Br J Sports Med. 2006; 40: 98-105, discussion 98-105.
+doi:10.1136/bjsm.2005.018481
+MYERS TM, HOFFMAN MD.
+Hiker Fatality From Severe Hyponatremiain Grand Canyon National Park. Wilderness Environ Med. 2015;26: 371-374.
+doi:10.1016/j.wem.2015.03.001
+NOAKES TD, GOODWIN N, RAYNER BL, BRANKEN T, TAYLOR RK.
+Waterintoxication: a possible complication during endurance exercise.Med Sci Sports Exerc. 1985; 17: 370-375.
+doi:10.1249/00005768-198506000-00012
+NOAKES TD, SHARWOOD K, SPEEDY D, HEW T, REID S, DUGAS J, ALMOND C,WHARAM P, WESCHLER L.
+Three independent biological mechanismscause exercise-associated hyponatremia: evidencefrom 2,135 weighed competitive athletic performances.Proc Natl Acad Sci USA. 2005; 102: 18550-18555.
+doi:10.1073/pnas.0509096102
+SCHEER BV, BURGOS EV.
+The hidden danger of endurance races:analgesic use among ultramarathon runners. Br J Sports Med.2013; 47: e3.
+doi:10.1136/bjsports-2013-092558.20
+SCHEER BV, MURRAY A.
+Al Andalus Ultra Trail: an observation ofmedical interven-tions during a 219-km, 5-day ultramarathonstage race. Clin J Sport Med. 2011; 21: 444-446.
+doi:10.1097/JSM.0b013e318225b0df
+SCHEER BV, MURRAY DA.
+Ultramarathon running Injuries. In: DoralMN, Karlsson J, eds. Sports Injuries. Springer Berlin Heidelberg;2015: 2889–2898.
+SCHEER V.
+Leserbrief „Monitoring des Flüssigkeitshaushaltsim Sport“. Dtsch Z Sportmed. 2015; 66: 161.
+doi:10.5960/dzsm.2015.187
+SCHEER V.
+Participation trends of ultra endurance events. SportsMed Arthrosc Rev. 2018; (accepted).
+SPEEDY DB, ROGERS IR, NOAKES TD, THOMPSON JM, GUIREY J, SAFIH S,BOSWELL DR.
+Diagnosis and prevention of hypo-natremia atan ultradistance triathlon. Clin J Sport Med. 2000; 10: 52-58.
+doi:10.1097/00042752-200001000-00010
+STUEMPFLE KJ, HOFFMAN MD.
+Gastrointestinal distress is commonduring a 161-km ultramarathon. J Sports Sci. 2015; 33: 1814-1821.
+doi:10.1080/02640414.2015.1012104
+TAM N, NOLTE HW, NOAKES TD.
+Changes in total body water contentduring run-ning races of 21.1 km and 56 km in athletes drinkingad libitum. Clin J Sport Med. 2011; 21: 218-225.
+doi:10.1097/JSM.0b013e31820eb8d7
+TREFF G, STEINACKER J.
+Monitoring des Flüssigkeitshaushaltsim Sport. Dtsch Z Sportmed. 2014; 65: 342-346.
+doi:10.5960/dzsm.2014.155
+TREFF G, STEINACKER J.
+Leserbrief „Trinken ist wichtig“. Dtsch ZSportmed. 2015; 66: 162.
+doi:10.5960/dzsm.2015.188
+TWERENBOLD R, KNECHTLE B, KAKEBEEKE TH, ESER P, MÜLLER G, VONARX P, KNECHT H.
+Effects of different sodium concentrations inreplacement fluids during prolonged exercise in women. BrJ Sports Med. 2003; 37: 300-303, discussion 303.
+doi:10.1136/bjsm.37.4.300
+WADE CE.
+Response, regulation, and actions of vasopressin duringexercise: a re-view. Med Sci Sports Exerc. 1984; 16: 506-511.
+doi:10.1249/00005768-198410000-00015
+WALKER RJ, FAWCETT JP, FLANNERY EM, GERRARD DF.
+Indomethacinpotentiates ex-ercise-induced reduction in renal hemodynamicsin athletes. Med Sci Sports Exerc. 1994; 26: 1302-1306.
+doi:10.1249/00005768-199411000-00002
+WELT.
+Drama in Frankfurt: Triathlet (30) stirbt, weil er zuviel Wasser trank. Welt. https: //www.welt.de/sport/fitness/article143731940/Triathlet-30-stirbt-weil-er-zu-viel-Wassertrank.html. Published July 8, 2015 [7th June 2018].
+WESCHLER LB.
+Exercise-associated hyponatraemia: amathematical review. Sports Med. 2005; 35: 899-922.
+doi:10.2165/00007256-200535100-00005
+WHARAM PC, SPEEDY DB, NOAKES TD, THOMPSON JMD, REID SA,HOLTZHAUSEN L-M.
+NSAID use increases the risk of developinghyponatremia during an Ironman triathlon. Med Sci SportsExerc. 2006; 38: 618-622.
+doi:10.1249/01.mss.0000210209.40694.09
+ZELINGHER J, PUTTERMAN C, ILAN Y, DANN EJ, ZVEIBIL F, SHVIL Y,GALUN E.
+Case series: hyponatremia associated with moderateexercise. Am J Med Sci. 1996; 311: 86-91.
+doi:10.1016/S0002-9629(15)41646-5
+Volker Scheer
+British Forces Germany
+RRU Sennelager, Normandy Barracks
+BFPO 16
+volkerscheer@yahoo.com

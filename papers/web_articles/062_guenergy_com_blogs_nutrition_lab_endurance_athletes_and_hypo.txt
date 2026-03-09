@@ -1,0 +1,72 @@
+BAŞLIK: Endurance Athletes And Hyponatremia
+ – GU Energy Labs
+KAYNAK: https://guenergy.com/blogs/nutrition-lab/endurance-athletes-and-hyponatremia
+TARİH: 2026-03-08 21:20:08
+KELİME: 1980
+============================================================
+
+Endurance Athletes And Hyponatremia
+Hydration is a key component for maximizing performance, as well as performing safely in hot environments. Most athletes struggle with adequate hydration, which has resulted in recommendations for high fluid intakes during exercise. However, too much of a good thing can also lead to problems – in this case, overzealous hydration can and has lead to serious health problems from hyponatremia.
+Hyponatremia is defined as low blood salt (sodium) concentration (<135mmol/L). Untreated, this can lead to seizure, coma, and death. The general consensus is that hyponatremia is caused by dilution – or ingesting water and/or sports drinks in excess, however it can also be caused from abnormal fluid retention by the kidneys. Exercise induced hyponatremia was first reported in the mid 1980’s (5, 7). However, the awareness of exercise hyponatremia increased dramatically in 2005 with a publication in the world’s top medical journal.
+In 2005, Almond et al. published a paper in the New England Journal of Medicine on the prevalence of hyponatremia during the 2002 Boston marathon (1). This study showed that of the 488 people providing a usable sample, 13% had hyponatremia – which makes this condition more common than previously thought. This publication put the fear of exercise-induced hyponatremia in the forefront of the minds of race directors, as well as physicians providing medial coverage for endurance events. As a reaction, the governing body for marathon physicians (International Marathon Medical Directors Association) has made a
+recommendation
+that individuals “drink to thirst” to avoid hyponatremia during these events.
+A global recommendation to drink to thirst may be appropriate for a 6 hour marathoner who exercises at low intensities, and therefore has lower rates of heat production and sweating, and more time on the course to drink.   However, this recommendation could put faster athletes in harms way from dehydration and heat stress since they exercise at higher intensities that result in higher rates of heat production and sweating.  At the very least, this recommendation to drink to thirst will hinder athletes achieving their potential, and could promote dehydration which has a dramatic effect on exercise performance (2, 4, 6). Exercise performance is decreased by dehydration resulting from as little as a 2% drop in body weight (8), so if athletes just rely on a sense of thirst to drive fluid intake they may become dehydrated.
+There have been many studies documenting the challenges of preventing dehydration during exercise (2-4, 9).  For most athletes, fluids cannot be consumed during exercise at a rate to match the rate at which fluids are lost.  When athletes drink when they feel like it, instead of on a schedule, they become more dehydrated (3). Studies showing better performance with more hydration during exercise is the basis for recommendations for athletes to drink before they are thirsty, and drink to a schedule (one bottle of fluids per hour, etc..).
+In fact, in individuals seeking medial attention after the Boston marathon from 2001-2008, under-hydration is almost 6x more common than over hydration (10).  So should a recommendation not to over-drink be globally administered when not drinking enough is a problem faced by 85% of participants with fluid balance issues seeking medical attention after a marathon?
+It is logical for race physicians to make recommendations to prevent deaths during athletic events – as that should be everyone’s goal.  However, these recommendations may prevent individuals from performing to their full potential.  We want to provide recommendations for athletes, in hopes of preventing both hyponatremia (overhydration), as well as dehydration, heat stress, and poor performance (underhydration).
+Risk Factors for Hyponatremia
+Let’s explore the two biggest risk factors for hyponatremia during the Boston marathon in 2002 (1) that have also been supported by the American College of Sports Medicine (9):
+Weight gain during exercise from over-hydration
+This is the single biggest predictor of who may develop hyponatremia during exercise.  People that gained weight did so because of consuming too much fluid. To prevent over-hydration, individuals should weigh themselves before and after exercise to make sure they are not gaining weight. Most people will lose weight – and the amount of weight loss will give valuable feedback that the athlete is not drinking enough during exercise. Some individuals will gain weight, and that weight gain is most likely from drinking too much. Based on feedback from the scale after exercise, individuals should adjust the volume of fluids consumed. Preventing weight gain during exercise should prevent almost all cases of exercise-induced hyponatremia
+Longer race times
+Individuals who take a longer amount of time than others to complete an endurance exercise event are at a higher risk of developing hyponatremia. Taking a longer time to complete a marathon or other endurance event means that the exercise intensity is lower than those who complete the event faster. This translates to less heat production, and possibly lower sweat rates – although this is quite variable. Slower speeds also make it easier to physically drink during running events, in addition to having more time to drink on the course.
+Two other factors predisposing individuals for hyponatremia are low sweat rates during exercise, as well as being smaller and less lean.
+Factors Unrelated to Hyponatremia
+Type of fluid consumed
+Sports drinks contain sodium and electrolytes, but they are still much less dense in both compared to our blood (they are hypotonic).  As a result, even sports drinks can promote hyponatremia by diluting blood sodium from over-drinking. So individuals that become hyponatremic are not just drinking water – they are drinking too much of all fluids.
+Gender
+In the Almond study, it did not matter if individuals were male or female – both genders are equally at risk. However, others suggest that women may be at greater risk than men (9).
+So the takeaway from this study is that slower men and women athletes have more time to over-consume water or sports drinks on race day and are at risk for developing hyponatremia. While relatively less probable to occur compared to dehydration, prevention is key to avoid hyponatremia related illness.
+Hyponatremia FAQs
+How do you prevent hyponatremia?
+Know thyself. Each athlete needs to test hydration strategies during training in order to properly execute race day hydration. Do you lose weight when working out? Gain weight? Do you sweat profusely or hardly at all?  Each athlete must know how they respond to exercise, and how much they need to drink in order to prevent weight gain, and minimize weight loss during exercise. Every workout before an event is an opportunity to evaluate if an athlete is drinking too much or too little. Minimizing weight changes during exercise will also minimize the chances of dehydration, as well as hyponatremia from over hydration.
+What else can be done to prevent hyponatremia?
+Consuming salt tablets during exercise will increase sodium intake and help combat hyponatremia. Additionally, consuming GU or Roctane gels during exercise can also help prevent hyponatremia. GU contains approximately 50mg of sodium, while Roctane contains approximately 125mg of sodium, (about half as much sodium as 500ml of the average sports drink) – and because that sodium is not in a large volume, it can help prevent dilution of blood sodium from drink consumption during exercise.
+What if you are one of the many athletes who lose weight from dehydration during exercise?
+Join the club! Maximal sweat rates exceed maximal rates of fluid absorption by the gut, and most athletes do not consume enough fluids to maximize gut fluid absorption (8). Many, if not most, athletes cannot consume enough fluid during exercise to match rates of loss, which has been documented by many studies (2, 4). Therefore, pre-hydration before exercise starts can help make sure athletes start the event in a hydrated state, and can improve performance (6). Athletes who lose weight during exercise should try and minimize those losses by increasing the volume of ingested fluids during exercise to what is tolerable by their gastro-intestinal track – as is recommended by the American College of Sports Medicine (8). For every pound that is lost, approximately 500ml of additional fluid needs to be ingested (8).
+For athletes who lose weight during exercise, thirst may not always be the best indicator of hydration status. Therefore, it is important to drink before you are thirsty to help minimize loss of body weight from dehydration during exercise.
+Summary
+Hyponatremia is a dangerous condition of low blood sodium concentration that can occur during exercise.  Most cases of hyponatremia are due to over-consuming water and sports drinks during exercise, and are more common in athletes taking more time to complete endurance events.  To the contrary, dehydration is also a problem during exercise, can result in heat stress and poor performance, and is more common in athletes taking less time to complete endurance events. As a result, one size fits all recommendations for hydration are prone to error and need to be tailored to each athlete.  Luckily, athletes train before endurance events, and each training session can be used to provide feedback on hydration.  Athletes should weigh themselves before and after training sessions to determine if they are consuming too little, or too much fluid during exercise, and hydration habits changed accordingly. Most athletes will lose weight during exercise, and should consume an extra 500ml of fluid for each pound of weight lost. Some athletes who are at risk for hyponatremia will gain weight during exercise, and should consume 500ml less fluid per pound of weight gained.  Athletes need to pay particular attention to how environmental temperature, and intensity of exercise impact fluid requirements. Through trial and error in training, athletes will be better able to judge fluid requirements on race day to maximize performance and prevent under and over-hydration.
+References
+1.
+Almond CS, Shin AY, Fortescue EB, Mannix RC, Wypij D, Binstadt BA, Duncan CN, Olson DP, Salerno AE, Newburger JW, and Greenes DS
+. Hyponatremia among runners in the Boston Marathon. The New England journal of medicine 352: 1550-1556, 2005.
+2.
+Casa DJ, Stearns RL, Lopez RM, Ganio MS, McDermott BP, Walker Yeargin S, Yamamoto LM, Mazerolle SM, Roti MW, Armstrong LE, and Maresh CM
+. Influence of hydration on physiological function and performance during trail running in the heat. J Athl Train 45: 147-156, 2010.
+3.
+Daries HN, Noakes TD, and Dennis SC
+. Effect of fluid intake volume on 2-h running performances in a 25 degrees C environment. Medicine and science in sports and exercise 32: 1783-1789, 2000.
+4.
+Ebert TR, Martin DT, Bullock N, Mujika I, Quod MJ, Farthing LA, Burke LM, and Withers RT
+. Influence of hydration status on thermoregulation and cycling hill climbing. Medicine and science in sports and exercise 39: 323-329, 2007.
+5.
+Frizzell RT, Lang GH, Lowance DC, and Lathan SR
+. Hyponatremia and ultramarathon running. JAMA : the journal of the American Medical Association 255: 772-774, 1986.
+6.
+Goulet ED, Rousseau SF, Lamboley CR, Plante GE, and Dionne IJ
+. Pre-exercise hyperhydration delays dehydration and improves endurance capacity during 2 h of cycling in a temperate climate. J Physiol Anthropol 27: 263-271, 2008.
+7.
+Noakes TD, Goodwin N, Rayner BL, Branken T, and Taylor RK
+. Water intoxication: a possible complication during endurance exercise. Medicine and science in sports and exercise 17: 370-375, 1985.
+8.
+Rodriguez NR, Di Marco NM, and Langley S
+. American College of Sports Medicine position stand. Nutrition and athletic performance. Medicine and science in sports and exercise 41: 709-731, 2009.
+9.
+Sawka MN, Burke LM, Eichner ER, Maughan RJ, Montain SJ, and Stachenfeld NS
+. American College of Sports Medicine position stand. Exercise and fluid replacement. Medicine and science in sports and exercise 39: 377-390, 2007.
+10.
+Siegel AJ, d’Hemecourt P, Adner MM, Shirey T, Brown JL, and Lewandrowski KB
+. Exertional dysnatremia in collapsed marathon runners: a critical role for point-of-care testing to guide appropriate therapy. Am J Clin Pathol 132: 336-340, 2009.
+Back to blog

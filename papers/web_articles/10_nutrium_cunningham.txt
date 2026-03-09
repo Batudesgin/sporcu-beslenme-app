@@ -1,0 +1,74 @@
+KAYNAK: https://nutrium.com/blog/cunningham-equation/
+İNDİRME TARİHİ: 2026-03-08 20:25:36
+============================================================
+
+Nutrition
+Cunningham Equation for nutrition professionals
+By
+Manuela Abreu
+April 15, 2023
+46.59k
+The basal metabolic rate (BMR) is the amount of energy an individual needs to maintain their basic body functions while at rest. It is an important indicator of daily energy expenditure and can affect weight management and overall health. Knowing your individual BMR is essential for knowing how many calories you should be taking in daily.
+The Cunningham equation is a
+predictive equation for resting/basal energy expenditure in healthy individuals
+.
+The origin of the Cunningham equation
+In 1980, through a study of 223 healthy adults, Cunnigham re-examined the factors that influence BMR, and came to the conclusion that although age, gender, exercise, and body composition have an influence,
+the most significant factor is lean body mass
+. Therefore, he arrived at the following equation:
+BMR (kcal/day) = 500 + 22 x lean body mass
+What sets it apart from other predictive equations for basal energy expenditure?
+This equation
+takes into account an individual's lean body mass, whereas most other equations consider only body weight, height, age, and gender
+.
+The Cunningham equation is considered
+more accurate than other equations
+because it takes into account individual differences in body composition. Additionally, it is specific to a certain population: in this case it was designed for use in normal healthy adults.
+When should you use the Cunnigham equation?
+This equation is useful when it is necessary to calculate
+BMR in healthy adult individuals and when you have access to lean body mass values
+. It is not necessary to know age, height, or gender.
+How to determine a client's energy requirements in a nutrition consultation?
+-Determine the lean body mass
+Subtract body fat from body weight. It is important to know
+the amount of fat, since muscle requires more energy than body fat to function properly
+.
+Eg.: 75 kg and 28% body fat
+(1 - 0.% body fat) x Kg weight = lean body mass
+(1-0,28) x 75 = 54 kg of lean body mass
+-Calculate the BMR
+BMR (kcal/day) = 500 + 22 x lean body mass
+500 + 22 x 54 = 1688 BMR
+-Multiply by the level of activity
+Sedentary - BMR X 1,2 (little to no exercise, desk job)
+Light Activity - BMR X 1.375 (exercise 1 to 3 days per week)
+Moderate Activity - BMR X 1,55 (exercise 3 to 5 days per week)
+Very Active - BMR X 1.725 (exercise 6 to 7 days per week)
+Extremely Active - BMR X 1,9 (exercise 2x a day)
+Eg.: Light Activity (1,375)
+900,28 x 1,375 = 1237,885 BMR
+Cunningham equation in athletes
+Cunningham's equation (1980), being based on lean body mass, is also appropriate for use in both female and male athletes. Since
+muscle tissue is more metabolically active than fat tissue
+, it has more accurate values in this specific population.
+However, the
+Katch McArdle equation is considered more accurate for individuals with low percentages of body fat or high amounts of muscle mass
+, such as athletes.
+Other equations to calculate the basal metabolic rate:
+Harris-Benedict Equation
+Katch McArdle
+Equation
+Mifflin-St. Jeor
+Equation
+References
+Cunningham JJ. A reanalysis of the factors influencing basal metabolic rate in normal adults. Am J Clin Nutr. 1980 Nov;33(11):2372-4. doi: 10.1093/ajcn/33.11.2372. PMID: 7435418.
+Tinsley GM, Graybeal AJ, Moore ML. Resting metabolic rate in muscular physique athletes: validity of existing methods and development of new prediction equations. Appl Physiol Nutr Metab. 2019 Apr;44(4):397-406. doi: 10.1139/apnm-2018-0412. Epub 2018 Sep 21. PMID: 30240568.
+Tags:
+BMR
+,
+Cunningham Equation
+,
+Equação de Cunningham
+,
+Equação de Cunningham
+Share:

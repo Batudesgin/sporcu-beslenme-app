@@ -1,0 +1,70 @@
+# We All Need a Good PAL on Most Days - ACSM
+
+We All Need a Good PAL on Most Days
+Close
+Skip to content
+We All Need a Good PAL on Most Days
+Published Date:
+May 9, 2023
+Charles E. Matthews, PhD and Pedro F. Saint-Maurice, PhD
+Higher levels of physical activity are unquestionably important for maintaining good physical and cognitive health. Surprisingly, however, we know relatively little about the amount of energy United States (U.S.) adults expend in physically active behaviors each day.
+One way to estimate the amount of energy expended in physical activity is to calculate one’s physical activity level (PAL) as the ratio of total energy expenditure to resting metabolic rate. Higher PALs have been associated with lower mortality risk in older adults, and they are often used to classify activity levels when calculating daily energy requirements.
+A PAL of < 1.4 is consistent with engaging only in basic activities of daily living and is classified as “inactive.” A PAL of > 1.6 is classified as “physically active.” Extreme PALs have been measured for elite riders during multiday cycling races (PAL > 2.5) and for hunter-gatherers in Tanzania (PAL ~2.0).
+Surprisingly, we were unaware of PAL estimates from representative samples of U.S. adults, or how much energy they expend in physically active behaviors on a given day.
+Our study
+, published in the May 2023 issue of
+Medicine & Science in Sports & Exercise
+®, addressed this gap by conducting a nationwide survey of 2,640 U.S. adults (20-75 years of age). The study used a self-administered previous-day recall instrument,
+Activities Completed over Time in 24 Hours
+(ACT24), to estimate PALs, and the results are a snapshot of PALs in U.S. adults on a given day. (The ACT24 is accurate for estimating PAL values in comparison to the
+doubly labeled water
+technique at the population level and is a freely available tool for researchers and educators to use in their work.)
+In our study, U.S. adults reported an average PAL of 1.63, and nearly 40% reported being “physically active” (PAL ≥ 1.6) on a given day. Men reported higher PALs (1.67) than women (1.59), and adults who were 65-74 years old reported lower PALs (1.58) than adults 20-34 years of age (1.66). Household and occupational activities were the behavioral drivers of higher PALs in the population, while exercise and recreational activities were instead minor contributors.
+The balance of time spent sedentary and physically active was a clear driver of higher PALs. Adults who were “physically active” spent 50% of their waking day sitting (8.0 hours/day) and the remaining time engaged in light-, moderate- or vigorous-intensity physical activity, for a total of 8.3 hours/day in daily activity. In contrast, “inactive” adults spent 81% of their waking day sedentary (12.1 hours/day).
+Our results provide the first estimates of physical activity energy expenditure in a representative sample of U.S. adults and describe the amount of sedentary time and types of physical activity that are associated with higher PALs.
+So, get up and go find a good PAL to be active with whenever you can. Nearly 40% of U.S. adult appear to be physically active on a given day — find your PAL and join them!
+We hope our findings spur further research in these areas.
+Charles E. Matthews, Ph
+D, is a physical activity epidemiologist and senior investigator in the Division of Cancer Epidemiology and Genetics within the Metabolic Epidemiology Branch at the National Cancer Institute. His research focuses on understanding the health benefits of physical activity, the adverse health effects of sedentary time, and works to develop new, “better” methods to measure these behaviors in large epidemiologic studies. Connect with Dr. Matthews:
+charles.matthews2@nih.gov
+.
+Pedro Saint-Maurice, PhD
+, is a physical activity and sleep epidemiologist and research fellow in the Division of Cancer Epidemiology and Genetics within the Metabolic Epidemiology Branch at the National Cancer Institute. His research examines how profiles of sleep and ambulatory movement throughout the day are associated with cancer risk and mortality. Connect with Dr. Saint-Maurice:
+pedro.saintmaurice@nih.gov
+.
+Share this post
+Other Related Posts
+Science Spotlight
+,
+Member Exclusive
+Science Spotlight | Apply for the SILC Basic Science Travel Award
+Call for applicants: Basic Science research travel award to the ACSM Annual Meeting   Now is the time for undergraduate, graduate,
+Feb 23 2026
+3 min read
+Hot Topic
+,
+Member Exclusive
+Hot Topic | Are Weighted Vests Worth the Hype?
+Weighted vest use has garnered wide-spread popularity, with many internet influencers and social media proponents promoting health and fitness claims.
+Feb 23 2026
+9 min read
+Science Spotlight
+,
+Member Exclusive
+Science Spotlight | New Consensus Statement Highlights Care for Adolescent Athletes
+New ACSM Team Physician Consensus Conference Statement Published In February 2026, the American College of Sports Medicine Team Physician Consensus
+Feb 10 2026
+7 min read
+View all Blog Posts
+GSSI Pre-Conference
+The Physiology of Hydration: More Than Water Alone
+This session explores the physiology of hydration through an integrated lens—examining how carbohydrate, sodium, flavor, and fluid interact to influence intake, absorption, retention, and performance. We’ll review current research on fluid balance, osmotic drivers, and palatability, highlighting mechanisms that underpin voluntary intake and thermoregulation. Attendees will gain insight into individualized strategies, including sweat profiling and timing approaches, to optimize euhydration and mitigate performance decrements associated with >2% body-mass loss. Practical applications will be linked to laboratory- and field-based research, ensuring translation from bench to field. This pre-conference equips you with evidence-based tools to support athlete hydration across diverse environments and sporting contexts.
+Session 1:
+Sweating the detail: New insights on hydration considerations for athlete performance
+Lewis James, PhD, Associate Professor in Human Nutrition in the School of Sport, Exercise and Health Sciences at Loughborough University
+Session 2:
+Functional ingredients in fluid replacement beverages for athletes
+Lindsay Baker, PhD, Director at the Gatorade Sports Science Institute
+Session 3:
+The hydration toolkit: Practical approaches to athlete support
+Floris Wardenaar, PhD, Associate Professor at the College of Health Solutions at Arizona State University

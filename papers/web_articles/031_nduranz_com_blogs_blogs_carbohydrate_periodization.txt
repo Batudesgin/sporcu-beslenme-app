@@ -1,0 +1,144 @@
+BAŞLIK: Carbohydrate Periodization: What the Science Says
+KAYNAK: https://nduranz.com/blogs/blogs/carbohydrate-periodization
+TARİH: 2026-03-08 21:18:50
+KELİME: 1784
+============================================================
+
+Carbohydrate Periodization for Endurance Athletes: What the Science Says
+Endurance athletes carefully plan their training to maximize performance gains, but what about fueling? Carbohydrate periodization—or adjusting carbohydrate intake—has become popular as a way to improve endurance and adaptation.
+But does carbohydrate periodization actually work?
+Here, we examine the science, approaches, and whether carbohydrate periodization really can make a difference.
+What Is Carbohydrate Periodization
+Carbohydrate periodization, often also called "train low," involves strategically manipulating glycogen levels. The manipulation can be done on a seasonal basis, between training sessions, or even within a single training day.
+Note:
+Glycogen is the stored form of carbohydrates in the body. Even though they aren't the same, the terms often get used interchangeably when talking about periodization. Read about
+carbohydrates vs. glycogen
+here.
+Goals of Carbohydrate Periodization
+There are two main reasons that athletes use carbohydrate periodization :
+Increase fat oxidation:
+The idea is that training with limited carbohydrates helps teach the body to burn fat for energy more efficiently and become "fat adapted," thus sparing carbohydrates and glycogen for when it matters most.
+Increase adaptations:
+There is also a theory that training without carbohydrates can increase adaptations in athletes.
+Common Train Low Methods
+There are five common train low methods of carbohydrate periodization:
+1. Train Low, Compete High
+This is one of the most popular methods of carbohydrate periodization. It involves restricting carbohydrate intake during specific types or periods of training. Then, carbohydrate intake is increased before competitions to increase energy availability.
+The idea is that the body will learn how to utilize fats for fuel, but also have the benefit of carbohydrates during competitions.
+2. Fasted Training
+Fasted training involves exercising without consuming food beforehand. This is something that many athletes do naturally if they don’t have time to eat before morning sessions.
+It’s worth noting that, if the athlete ate a carbohydrate-rich meal before sleeping, muscle glycogen levels may be stable during fasted sessions. However, liver glycogen levels will be lower than if they consumed carbohydrates before the session.
+3. Sleep Low, Train Low
+This method involves restricting carbohydrate intake before sleep and before morning training sessions. Unlike with fasted training, this approach means that both muscle and liver glycogen stores will be depleted during the training session.
+4. Twice-Per-Day Training
+This method involves training twice in a day to manipulate glycogen levels in the body. The first session reduces muscle glycogen stores. Carbohydrates are restricted after the first session, meaning the second session is started with low carbohydrate availability.
+5. Post-Exercise Carbohydrate Restriction
+This method involves deliberately delaying carbohydrate intake after training to prolong the period of low glycogen availability, stimulating endurance adaptations.
+Important:
+Carbohydrate periodization is
+not
+the same as a low-carb diet. Periodization restricts carbohydrates during specific periods, whereas a low-carb diet involves constantly restricting carbohydrates.
+Origins of the Train Low Approach
+The "train low" strategy for enhancing fat metabolism dates back to a research
+paper
+from 1983. It found restricting carbohydrates resulted in a "dramatic physiologic adaptation that conserved limited carbohydrate stores (both glucose and muscle glycogen) and made fat the predominant muscle substrate."
+In 2005, a different
+study
+provided a basis for the idea that exercising with low glycogen improves adaptations. Subjects performed single-leg kicking exercises, with one leg always training under reduced glycogen conditions and the other with normal glycogen levels. Researchers found that training with lower glycogen led to a longer time to failure and greater metabolic adaptations.
+Does Train Low Work? What Current Research Shows
+Since the original studies that sparked the train low approach, further research has produced mixed results. Some studies suggest that exercising with reduced carbohydrates does have benefits, whereas other studies indicate that these
+benefits do not translate into long-term improved endurance performance
+—especially at the elite level.
+Why the Mixed Results?
+The difference in results has to do with the limitations in how research is done. For example, most research suffers from one or more of these issues:
+Short Study Duration:
+Most studies don’t last more than a few weeks, so it is not possible to see if the benefits actually translate into long-term benefits.
+Recreational Athletes:
+Many studies use recreational athletes, and it is easier to produce improvements in these groups than in elite athletes.
+Varying Types of Exercise:
+Some studies focus on low-to-mid intensity exercise, which does not rely on glycogen as much as high-intensity, endurance exercise.
+Complexity:
+Numerous other factors affect performance, such as gender, chronic diet, and time between exercise sessions. Controlling all these variables is nearly impossible.
+Remember:
+It's easy for "experts" to cite one research paper as "proof" that carbohydrate periodization works. But, when we look at the entire body of research, it becomes much more nuanced.
+The Risks of Training Low
+Beyond its questionable effectiveness, train-low approaches also come with significant risks that can impact performance, recovery, and overall health.
+Decreased Carbohydrate Oxidation:
+Although fat oxidation may improve, prolonged carbohydrate restriction (around 15 days or more) can impair the body's ability to efficiently use carbohydrates and may even reduce insulin sensitivity. Since endurance athletes rely on carbohydrates for high-intensity efforts, this could lead to long-term performance declines.
+Reduced Performance Capacity:
+Carbohydrates are the body’s primary energy source for high-intensity exercise. Restricting them often results in lower energy levels and thus reduced training capacity. Simply put, athletes may struggle to sustain high-intensity workouts and maintain training volume, ultimately hindering progress toward their goals.
+Weakened Immune Function:
+Low carbohydrate availability can suppress immune function, increasing the risk of illness and prolonging recovery. Since high-intensity training already stresses the immune system, inadequate carbohydrate intake can leave athletes even more vulnerable to infections.
+Impaired Muscle Repair:
+While training low is intended to enhance muscle adaptations, some research suggests it may hinder muscle protein synthesis—even when post-workout protein intake is sufficient. This could slow recovery and reduce gains in strength and endurance.
+Increased Risk of Injury:
+Some studies suggest that athletes who restrict carbohydrates face a higher risk of injuries, including bone stress injuries. The exact mechanism is unclear, but potential factors include impaired recovery, weakened immunity, and reduced focus during exercise.
+RED-S:
+Low carbohydrate intake has been linked to
+RED-S
+, a condition where chronic energy deficiency harms both performance and overall health. Simply increasing fat intake isn't enough to compensate for lack of carbohydrates—recent studies show that carbohydrate and not overall energy intake is important for preventing RED-S.
+Another Approach: Fuel for the Work Required
+Because of the risks associated with train-low approaches, a more strategic method of carbohydrate periodization—known as
+fuel for the work required
+—has gained popularity.
+This approach involves adjusting carbohydrate and glycogen availability based on the specific demands of each training session, ensuring that athletes maintain performance while optimizing long-term adaptations.
+The Glycogen Threshold Hypothesis
+Fuel for the work required is based on the glycogen threshold hypothesis which suggests that training adaptations are optimized when glycogen levels are:
+Below
+300 mmol/kg dry weight muscle to stimulate adaptations
+Above
+100 mmol/kg to avoid impairing muscle protein synthesis
+Research supports this idea. Studies show that athletes who begin exercise with high glycogen levels must perform significantly more work to achieve the same level of cell signaling and muscle remodeling as those starting with lower glycogen levels.
+Additionally, while high-carbohydrate athletes tend to complete more work than low-carbohydrate athletes, both groups exhibit similar training adaptations, suggesting that glycogen availability—rather than total carbohydrate intake—plays a key role in optimizing endurance training.
+How to Utilize Fuel for the Work Required
+Fuel for the work required means fueling with enough carbohydrates to complete high-intensity sessions, but not so many carbohydrates that post-session glycogen levels go above the glycogen threshold.
+The image below gives an example of how this would look based on exercise intensity and duration.
+It's worth noting that, outside of a lab setting,
+there is no practical way for athletes to measure glycogen levels in real time
+, making it nearly impossible for athletes to know if they are within the "optimal" glycogen threshold range.
+Should Endurance Athletes Periodize Carbohydrates?
+Most athletes should
+not
+periodize carbohydrates. While the practice may have benefits, it also comes with risks and there is currently no solid evidence that suggests carbohydrate periodization produces long-term performance improvements, especially on the elite level.
+Further, Dr. Tim Podlogar points out that:
+Training itself naturally depletes glycogen levels:
+Even if an athlete consumes carbohydrates before a session, glycogen levels will be lower by the end—and these low levels may create suitable environments for adaptations without the need to restrict carbohydrate intake.
+Improved fat oxidation comes with improved training status:
+Reducing carbohydrate intake too early could limit an athlete’s ability to train at high intensities.
+Because of this, Dr. Podlogar says that
+carbohydrate periodization should only be attempted once desired training status has been achieved and performance improvements have plateaued
+.
+The Bottom Line?
+Rather than restricting carbohydrates unnecessarily, focus on fueling properly to support high-quality training sessions and long-term performance.
+Want to learn more? Read our
+Endurance Athlete’s Guide to Fueling
+.
+Resources +
+https://link.springer.com/article/10.1007/s40279-018-0867-7
+https://link.springer.com/article/10.1007/s40279-022-01757-1
+https://www.ej-sport.org/index.php/sport/article/view/200
+https://link.springer.com/article/10.1007/s00421-024-05574-4
+https://www.researchgate.net/publication/382364159_Prevalence_of_reducing_carbohydrate_intake_and_fasted_training_in_elite_endurance_athletes_and_association_with_bone_injury
+Dr. Tim Podlogar
+Exercise physiologist
+Dr. Tim Podlogar holds a PhD in exercise metabolism, specializing in endurance sports nutrition. He is currently a Lecturer in Exercise Physiology at the University of Exeter. Outside of academia, he works as a sports nutritionist in a professional cycling team.
+Endurance Fueling with T1D: Part 5 — Fuel Adjustments Based on Glucose Levels
+Part 5 in our series on fueling with T1D
+In the last parts of our series in Fueling as a T1D athlete, we talked about planning and monitoring glucose. This part addresses what inevitably h...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 4 — Monitoring Glucose Levels during Training and Races
+Part 4 in our series on fueling with T1D
+For endurance athletes with type 1 diabetes, fueling is never just about carbohydrates. It’s about knowing where your blood glucose is, where it’s ...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 3 — Ironman Fueling and Hydration Plans
+Part 3 in our series on fueling with T1D
+In this part of our series on endurance fueling with T1D, Riccardo Raso moves from pre-race preparation into race execution. The focus shifts from ...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 2 — Carb Loading
+Part 2 in our series on fueling with T1D
+Carbohydrate loading is challenging for many endurance athletes. For athletes with Type 1 diabetes, it adds another layer: increasing carbohydrate ...
+Reading time: 1 min resss
+Is poor nutrition holding you back?
+Get our free eBook:
+Nutrition for Endurance Athletes
+From managing glycogen to personalizing hydration, this 65-page eBook is packed with powerful strategies to help you go further.

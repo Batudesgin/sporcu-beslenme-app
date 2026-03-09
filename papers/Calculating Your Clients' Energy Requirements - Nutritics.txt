@@ -1,0 +1,98 @@
+# Calculating Your Clients' Energy Requirements - Nutritics
+
+Calculating Your Clients' Energy Requirements - Nutritics
+Skip to content
+5 menu mistakes that lose tenders
+- and how to fix them - Download now!
+Home
+»
+Customer Support
+»
+Calculating Your Clients’ Energy Requirements
+Nutritics is suitable for calculating Energy Requirements for all age ranges. An individual’s Estimated Energy Requirements (EER) (also referred to as Total Daily Energy Requirements (TDEE)), can be calculated in Nutritics. An individual’s energy requirements may be calculated independently of their other nutrition requirements.
+There are a number of methods available to calculate energy requirements, which may be selected from the ‘EER source’ drop down menus within Nutritics:
+1. Estimated Average Requirement (EAR
+) – Uses a target based on population average energy requirements determined by age and gender (e.g. from the SACN guidelines in the UK). The EER target will not be customised to your client’s specific activity level, weight, or height. Use this option if you do not have weight and height information available for your client, or if you wish to compare intakes to demographic averages, which are typically used for population based research studies.
+2. Formula with Physical Activity Level (PAL)
+– This option uses a predictive equation to first calculate RMR/BMR, and then applies a multiplication factor (PAL) to the RMR/BMR figure based on occupational and exercise activity level selectors in the Client Profile section (panel 2). This option is more specific to your client’s individual energy requirements and more appropriate when working with individuals.
+3. Formula with PAL and Exercise Associated Thermogenesis (EAT)
+– This is similar to option 2 but also adds any exercise activities included in the activity log. PAL should generally be set to 1.2-1.4 manually if using this method, to account for Non Exercise Activity Thermogenesis (NEAT) and Dietary Induced Thermogenesis (DIT).
+4. Formula with EAT, NEAT and DIT
+– Arguably the most accurate method, but requires a detailed and accurate food and 24hr activity log (to include sleeping, sitting, activities, exercise). Similar to options 2 and 3, this method uses a BMR/RMR formula, but also includes the sum of all energy expended through daily activities (NEAT) and exercise (EAT), plus the energy expenditure associated with the processes of digestion (calculated from food diary). These additional factors are normally estimated by means of the PAL multiplier, so with option 4, the PAL multiplier should not be used and PAL will be disabled automatically.
+If your client is <12 months old, pregnant or lactating, the Energy Calculation formula will default to the Estimated Average Requirement from the Dietary Reference Values selected, rather than using a predictive equation.
+RMR/BMR formula:
+Energy requirements are estimated using an established metabolic rate formula and a Physical Activity Level (PAL) multiplier. Choose the RMR formula most appropriate to your client (or your preferred formula) in the drop down box. Note that each formula requires specific details about your client.
+The following require gender, height, DOB and weight:
+Mifflin St. Jeor 1990
+Harris Benedict 1919
+Henry Oxford 2005 (weight or weight & height formulae)
+Institute of Medicine 2005
+Schofield 1985
+Ten Haaf 2014 (weight formula)
+The below require body fat percentage and weight:
+Cunningham 1980 if LBM (Lean Body Mass)
+Cunningham 1991 if FFM (Fat Free Mass)
+Body composition should be calculated elsewhere (from skin folds, bioimpedence, bodpod, DEXA or ultrasound methods) and the final body fat percent should be entered into this field.
+It is possible to override the RMR/BMR formula and directly enter a value, if you have assessed this by other means. Simply enter the value (kcals) in the RMR box in the client profile after clicking ‘
+Customise
+‘. You can see a guide on creating custom targets
+here
+.
+You can also use the generic energy values from your selected DRV by selecting ‘None: Use DRV’s generic energy value’.
+PAL Multiplier
+The ‘occupational’ and ‘exercise activity level’ drop down boxes will help you estimate your clients Physical Activity Level (PAL) multiplication factor. This is applied as a multiple to the RMR/BMR figure to calculate energy requirements. Simply choose the most appropriate activity factors from the drop down lists. You can override this multiplier if you wish by entering a PAL value in the client set up panel after clicking ‘
+Customise
+‘. You can see a guide on creating custom targets
+here
+also.
+Athlete Type Adjustment:
+Nutritics will adjust report nutrient targets based on the athletic factor selected. These guidelines are applied from current sports nutrition recommendations (see the section on Dietary Reference Values (DRV’s)).
+Your client must be aged 18-55 years and ‘Nutritics’ must be selected as the Dietary Reference Value source to enable this feature (Nutritics is the default DRV source).
+Estimated Energy Requirement Adjustment:
+This field enables an adjustment to the final EER target to allow for any weight modification goal. Simply use the plus or minus buttons to add/subtract 100 kcals per click, or type directly into the box. Nutritics provides a crude calculation of the estimated weight change this modification will induce. This adjustment applies regardless of which method of calculating EER is used.
+The calorie adjustment can be split between energy intake (diet) and energy expenditure (exercise) accordingly using the EER Adjustment balance.
+Pregnancy/Lactating Adjustment
+This modifier appears as an option if your client’s gender is set to Female. The EER and target intakes for certain nutrients often vary throughout stages of pregnancy or lactation. This adjustment applies regardless of which method of calculating EER is used (see above), but will be dependent on the individual Dietary Reference Value you have selected on the report analysis screen (Selecting the SACN DRV will apply UK adjustments as per the guideline, and the OIM DRV will apply US adjustments).
+Infant Feed Type Adjustment:
+This modifier appears as an option if your client’s D.O.B entered is within the last 12 months. If this option is active, the energy calculation formula will automatically be set to ‘Use Dietary Reference Values for Energy’, rather than using a predictive formula based on weight and height. Note that modifiers for feed type are currently only applicable to the UK SACN 2015 / COMA and Nutritics Dietary Reference Values.
+For more guidance on how to use energy equations check out our blog
+here
+.
+Nutritics is
+trusted globally
+by sector leaders
+Aramark
+Barons
+Brakes
+Cake Box
+The Cheesecake Factory
+Compass Group
+Emirates
+Fullers
+Giggling Squid
+Loungers
+Merlin
+Muffin Break
+NHS
+Patisserie Valerie
+Pepsico
+Shake Shack
+Starbucks
+Stonegate
+TGI Fridays
+Unilever
+Wagamama
+ssp
+Côte Brasserie
+Nando's
+TGI Friday's
+Wetherspoons
+Fuller's
+Franco Manca
+Individual User & Single Venue
+Individual licenses for nutrition professionals and single-site operators
+Find out more
+Start your free trial
+Multi Site
+Solutions for restaurant groups, franchises and multi-location businesses
+Find out more

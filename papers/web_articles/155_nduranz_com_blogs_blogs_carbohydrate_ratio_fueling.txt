@@ -1,0 +1,105 @@
+BAŞLIK: Ideal Carbohydrate Ratio for Fueling: What the Science Says
+KAYNAK: https://nduranz.com/blogs/blogs/carbohydrate-ratio-fueling
+TARİH: 2026-03-08 21:23:11
+KELİME: 953
+============================================================
+
+Ideal Carbohydrate Ratio for Fueling: What the Science Says
+Endurance nutrition
+has evolved significantly over the past few decades. We now know that
+consuming both glucose and fructose improves performance
+compared to glucose alone.
+But it’s not enough to just consume both carbohydrates—
+you also need to get the ratio right.
+This article breaks down the ideal glucose-to-fructose ratio and why so many sports fueling brands still get it wrong.
+Why Glucose Alone Isn’t Enough
+Glucose is the body’s preferred energy source, which is why early fueling products relied on it exclusively. It’s absorbed in the intestines via the SGLT1 transporter. However, there is a limit to how much glucose this transporter can absorb at once.
+Fructose, on the other hand, is absorbed through a different transporter—GLUT5. By consuming fructose alongside glucose, athletes can absorb more total carbohydrates per hour, leading to better fueling.
+Numerous studies confirm that a combination of glucose and fructose enhances endurance performance. The logic is simple:
+More carbohydrates = more energy = better performance.
+For a deeper dive into the science behind fueling, check out
+our Fueling Guide
+.
+The 2:1 Ratio—And Why It Falls Short
+Early research by Asker Jeukendrup suggested that glucose absorption maxes out at
+60g
+per hour and fructose at
+30g
+per hour. This led to the widely accepted 2:1 glucose-to-fructose ratio, which many sports nutrition brands still use today.
+However,
+this assumption is overly simplistic.
+First, researchers don't actually measure carbohydrate absorption—they measure oxidation rates and infer absorption from those results. But oxidation and absorption aren’t always the same.
+Second, individual differences, training adaptations, and environmental factors all influence how much glucose and fructose an athlete can process.
+In reality, oxidation rates likely exist within these ranges:
+Glucose:
+30g–80g per hour
+Fructose:
+20g–60g per hour
+So, if the 2:1 ratio isn’t optimal, what is?
+Evidence Shows a 1:0.8 Ratio Is Ideal
+Research by O’Brien, Rowlands, and others has tested different carbohydrate ratios in real-world endurance scenarios. The results consistently show that a
+1:0.8 glucose-to-fructose ratio outperforms the traditional 2:1 ratio
+.
+This suggests that the 2:1 guideline was based more on theoretical absorption. While 2:1 is better than glucose alone, the research shows that 1:0.8 offers even greater benefits:
+1. Enhanced Carbohydrate Oxidation
+Studies show that a 1:0.8 ratio leads to higher carbohydrate oxidation rates, meaning athletes likely convert more of what they consume into usable energy.
+2. Improved Performance
+A 1:0.8 ratio has been linked to higher peak power and increased time until exhaustion, crucial factors in endurance sports.
+3. Faster Absorption
+Some evidence suggests that 1:0.8 enhances carbohydrate and fluid absorption in the jejunum (a section of the small intestine), leading to better hydration and energy availability.
+4. Reduced Gut Discomfort
+One of the biggest advantages of the 1:0.8 ratio is its lower risk of gut distress—a common issue for endurance athletes. Faster carbohydrate and fluid absorption reduces bloating, cramping, and nausea.
+GI issues are very common with athletes and often the reason for race drop-outs.
+Why Many Brands Still Use 2:1
+Despite clear evidence supporting 1:0.8, many sports nutrition brands continue to use a 2:1 ratio. This is largely due to:
+Industry inertia:
+The 2:1 ratio was the gold standard for years, and change is slow.
+Manufacturing limitations:
+Some brands stick to old formulations rather than reformulating.
+Marketing habits:
+Consumers are familiar with 2:1, making brands hesitant to shift messaging.
+Does the 1:0.8 Ratio Really Make a Difference?
+For
+elite athletes
+, the improved carbohydrate absorption and oxidation rates of 1:0.8 can significantly enhance performance. This is why many professionals have already adopted it for both fueling and recovery.
+For
+amateur athletes
+or those consuming less than 60g of carbohydrates per hour, the difference in performance may be negligible. However, the
+reduced risk of gut issues
+makes 1:0.8 a smart choice for anyone fueling during endurance events.
+Bottom Line: Use a 1:0.8 Ratio for Maximum Performance
+Research clearly shows that a 1:0.8 glucose-to-fructose ratio enhances carbohydrate absorption, reduces gut issues, and improves endurance performance.
+That’s why
+Nduranz uses the 1:0.8 ratio across its entire line of fueling and recovery products
+—to provide athletes with the fuel they need to go farther and faster.
+Want to fine-tune your fueling strategy? Check out our
+Fueling Calculator
+or read our
+Science-Based Guides
+.
+Resources +
+https://pubmed.ncbi.nlm.nih.gov/23949097/
+https://pubmed.ncbi.nlm.nih.gov/26373645/
+https://www.gssiweb.org/docs/default-source/sse-docs/sse_231_005.pdf
+https://pubs.acs.org/doi/full/10.1021/acscentsci.4c00662#
+https://www.tandfonline.com/doi/abs/10.1080/02701367.1983.10605288
+Endurance Fueling with T1D: Part 5 — Fuel Adjustments Based on Glucose Levels
+Part 5 in our series on fueling with T1D
+In the last parts of our series in Fueling as a T1D athlete, we talked about planning and monitoring glucose. This part addresses what inevitably h...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 4 — Monitoring Glucose Levels during Training and Races
+Part 4 in our series on fueling with T1D
+For endurance athletes with type 1 diabetes, fueling is never just about carbohydrates. It’s about knowing where your blood glucose is, where it’s ...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 3 — Ironman Fueling and Hydration Plans
+Part 3 in our series on fueling with T1D
+In this part of our series on endurance fueling with T1D, Riccardo Raso moves from pre-race preparation into race execution. The focus shifts from ...
+Reading time: 1 min resss
+Endurance Fueling with T1D: Part 2 — Carb Loading
+Part 2 in our series on fueling with T1D
+Carbohydrate loading is challenging for many endurance athletes. For athletes with Type 1 diabetes, it adds another layer: increasing carbohydrate ...
+Reading time: 1 min resss
+Is poor nutrition holding you back?
+Get our free eBook:
+Nutrition for Endurance Athletes
+From managing glycogen to personalizing hydration, this 65-page eBook is packed with powerful strategies to help you go further.

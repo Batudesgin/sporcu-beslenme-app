@@ -1,0 +1,372 @@
+BAŞLIK: Recent Nutritional Guidelines for Endurance Athletes
+KAYNAK: https://www.germanjournalsportsmedicine.com/archive/archive-2016/heft-1/recent-nutritional-guidelines-for-endurance-athletes/
+TARİH: 2026-03-08 21:18:52
+KELİME: 3985
+============================================================
+
+ERNÄHRUNG & KÖRPERLICHE AKTIVITÄT
+Jahrgang 67, Nr. 1 (2016)
+DOI:
+10.5960/dzsm.2015.193
+accepted:
+July 2015
+published online:
+January 2016
+Carlsohn A. Recent Nutritional Guidelines for Endurance Athletes. Dtsch Z Sportmed. 2016; 67: 7-12. doi:10.5960/dzsm.2015.193
+REVIEW - REVISED VERSION, 26TH JANUARY 2016
+Nutritional Guidelines for Athletes
+Carlsohn A
+1,2
+Recent Nutritional Guidelines for Endurance Athletes
+Aktuelle Ernährungsempfehlungen für Ausdauersportler
+1
+UNIVERSITY OF EDUCATION SCHWAEBISCH GMUEND, Department of Health Sciences, Schwaebisch Gmuend, Germany
+2
+DEUTSCHER OLYMPISCHER SPORTBUND (DOSB) – GERMAN OLYMPIC SPORTS CONFEDERATION, Working Group for Nutritional Counselling at the Olympic Sports Centers, Neu-Isenburg, Germany
+SUMMARY
+Athletes may support health, training adaptations and performance by generally adequate diets and a prudent nutrient timing. However, for endurance athletes some obsolete recommendations and dietary myths are still widespread among recreational and elite athletes, coaches and health care professionals. This includes hydration strategies as well as nutrient intake before, during and after exercise. In addition, dietary recommendations for elite endurance athletes might differ in some aspects from nutrition recommendations for the general population including recreational athletes.
+Thus, this article aims to summarize the recent nutritional guidelines for endurance athletes during different training periods and to distinguish between elite and recreational endurance athletes where possible. Finally, some nutrition-associated clinical issues observed in endurance athletes are presented and dietary recommendations to reduce the risks are provided.
+To summarize, meeting the energy requirement is the major nutritional goal in endurance athletes. Energy availability should not fall below 30-45kcal/kg fat-free mass/d. Carbohydrate requirements vary from 3-5g/kg/d during low-intensity up to 8-12g/kg/d in high-intensity, high-volume training periods. Protein requirements of elite athletes are approximately twice as high as those ofsedentary people or recreational athletes, but not higher than the average protein intake of the general population in Germany (1.4-1.6g/kg/d).
+Health care professionals (e.g. nutritionists at the Olympic Sports Centers) may help endurance athletes to follow a healthy diet with prudent food choices and clever nutrient timing.
+KEY WORDS:
+Nutritional Guidelines, Nutrient Intake, Rehydration, Endurance Athletes
+ZUSAMMENFASSUNG
+Eine individuell bedarfsadäquate Ernährungmit einer zeitlich auf das Training abgestimmten Nährstoffzufuhr kann die Gesundheit, die Trainingsadaptationen und die Leistungsfähigkeit von Athleten positiv beeinflussen. Jedoch sind gerade im Ausdauersportbereich veraltete Ernährungsempfehlungen (und -mythen) unter Athleten, Trainern und Betreuungspersonal verbreitet. Dies umfasst beispielsweise Trinkempfehlungen oder Fragen zur Nährstoffzufuhr vor, während und nach der Belastung. Zudem unterscheiden sich Ernährungsempfehlungen für Spitzensportler von denen der Allgemeinbevölkerung einschließlich Freizeitsportlern, was zu weiteren Unklarheiten führen kann.
+Ziel der Übersichtsarbeitist es daher, aktuelle Ernährungsempfehlungen für Ausdauersportler für unterschiedliche Trainingsphasen zusammenzufassen und, wenn möglich, zwischen Spitzen- und Freizeitsportlern zu unterscheiden. Abschließend werden ausgewählte, klinisch relevante Fragestellungen im Zusammenhang mit Ausdauersport und den jeweiligen Ernährungsempfehlungen zur Risikominimierung dargestellt.
+Es lässt sich zusammenfassen,dass die Deckung des Energiebedarfs das wesentliche Ziel in der Ernährung von Ausdauersportlern darstellt. Die Energieverfügbarkeit sollte dabei nicht unter 30-45kcal/kg fettfreier Masse pro Tag liegen. Der tägliche Kohlenhydratbedarf variiert in Abhängigkeit der Trainingsbelastung zwischen 3-5g/kg/d während niedrig-intensiver und 8-12g/kg/d während hoch-intensiver Trainingsphasen. Der Proteinbedarf von Spitzen-Ausdauersportlern entspricht mit 1,4-1,6g/kg/d etwa dem Doppelten der Empfehlung für Nicht- und Freizeitsportler, liegt jedoch im Bereich der durchschnittlichen Proteinzufuhr der deutschen Allgemeinbevölkerung.
+Eine professionelle Ernährungsbetreuung(z. B. durch Ernährungsberater der Olympiastützpunkte) kann hilfreich sein, um Athleten bei einer individuell bedarfsgerechten Ernährung einschließlich der Lebensmittelauswahl und der (zeitlichen) Anpassung der Nährstoffzufuhr an das Training zu unterstützen.
+SCHLÜSSELWÖRTER:
+Ernährungsempfehlungen, Nährstoffzufuhr, Rehydratation, Ausdauersport
+NUTRITIONAL DEMANDS DURING GENERAL TRAINING PERIODS
+Endurance athletes represent different sports such as running, cycling, swimming, triathlon, canoeing, skiing or walking and different disciplines within these sports. Thus, energy requirements of endurance athletes may largely vary between sports, individuals and between different training periods. The total energy expenditure (TEE) of endurance athletes depends on their body mass, body composition, age, sex, non-exercise activity and frequency, duration and intensity of exercise.
+Total TEE of endurance athletes is approximately 1.8 to 2.3-fold as high as the individual’s resting energy expenditure (
+37
+), but may be up to 4-fold in professional endurance athletes during short periods (
+48
+). Meeting the energy demands is the major nutritional goal in endurance athletes. Especially in females the energy intake (EI) is often observed to be considerably below the estimated TEE (
+3
+,
+12
+). With low EI, even a high proportion of carbohydrates might be insufficient to support adequate glycogen resynthesis during intensive training periods. Nutrient recommendations should therefore be provided in absolute terms related to body mass (g/kg/d) instead of proportions relative to energy intake.
+Carbohydrate-rich foods (cereals, vegetables, legumes and products thereof) should be the major source to account for elevated energy demands (
+25
+,
+37
+). During low-intensity training periods, a carbohydrate intake of 3-5g/kg/d seems to be appropriate to meet the demands of endurance athletes, whereas requirements may rise up to 8-12g/kg/d during high-intensity training periods (
+5
+) (Table 1).
+Competitive endurance athletes should aim to ingest 1.2-1.4g/kg/d of proteins (
+45
+). Elite endurance athletes might require up to 1.6g/kg/d, whereas the protein requirement of recreational endurance athletes (exercising 4-5x/week for 30min) seems not to be higher than that of sedentary people with 0.8-1.0g/kg/d (45, Table 2).
+Sweat losses during exercise may considerably vary between endurance athletes and depend on individual sweat rates, type, duration and intensity of exercise, sex, fitness level and environmental factors such as heat or humidity (
+2
+). In the literature, typical sweat rates of 1.49L/h with an intra-individual range of 0.75-2.23L/h for male half-marathon runners are given (
+14
+). There is strong evidence that dehydration increases the physiologic strain and the perceived effort to perform an exercise. A dehydration >2% of body mass can adversely affect exercise performance (
+2
+,
+24
+). Thus, athletes should aim for a regular fluid intake during exercise and support adequate hydration by regular meal consumption spread over the day (
+2
+,
+24
+,
+40
+). However, to reduce the risk for exercise-induced hyponatremia overdrinking (i.e. weight gain during exercise) should be avoided (
+2
+).
+Sodium (~900mg/L), potassium (~200mg/L), calcium (~18mg/L), zinc (~0.6 mg/L), copper (~0,1mg/L) and magnesium (~1,4 mg/L) are the major minerals found in human sweat during exercise, with a huge intra-individual variety (
+43
+). As there is evidence that sodium loss may be linked to exercise-induced muscle cramps (
+27
+), athletes prone to heavy sodium loss (“salty sweaters”) should consume sodium-containing drinks during exercise lasting >90 min (
+24
+). In case food intake is adequate, no additional electrolytes or minerals are required in the sports drink during habitual training (
+24
+,
+40
+).
+Recently, there is no rationale to assume that recommended daily allowances (RDAs) of micronutrient intake for the general population do not cover demands of athletes (
+17
+,
+37
+), except for iron (
+49
+). For antioxidants such as vitamins C and E, an increased requirement due to exercise-induced production of reactive oxygen species has been postulated (
+39
+). However, there is no proof for detrimental effects on health or performance in case of marginal deficiencies (
+47
+). In contrast, supplementation with vitamin C and/or E may adversely affect health and training adaptation for both health-oriented and elite athletes (
+15
+,
+36
+).
+NUTRITIONAL COMPETITION PREPARATION
+Depletion of glycogen stores are a major cause of fatigue during endurance exercise (
+29
+). Therefore, glycogen status should be optimized before competition. Performance benefits (i.e. maintaining the speed at the end of the race) from carbohydrate loading seem to persist even when carbohydrates are consumed during competition (
+34
+,
+50
+). Increased carbohydrate intake and tapered exercise or rest are prerequisites for glycogen storage (
+18
+). Although there a different carbohydrate loading protocols available, a carbohydrate intake of 10-12g/kg/d for 36-48 hours combined with 1-2 days of rest before competitions lasting >90 min is recently recommended (
+5
+,
+7
+).
+The pre-exercise meal should provide sufficient fluids to ensure euhydration before exercise, be low in fat and fibre to reduce gastrointestinal complaints and improve gastric emptying and should be familiar to the athlete (
+37
+). Depending on the individual needs and palatability, 1-4g of carbohydrate per kg body mass 1-4 hours before exercise are recommended (
+5
+).
+NUTRITIONAL INTAKE DURING COMPETITION
+During endurance events, carbohydrates, fluids and sodium should be ingested depending on the exercise duration, intensity and environmental conditions. There is strong evidence for performance benefits when endurance athletes consume 0.7g/kg/h carbohydrates (~30-60g/h) during exercise (
+37
+). This recommendation takes into account that the oxidation rate from exogenous glucose is ~1g/min, even at higher rates of intake.
+However, more recent studies have shown that the carbohydrate oxidation rate may be increased up to 1.75 g/min, when multiple transportable carbohydrates using different intestinal transporters are ingested (
+10
+). A mixture of glucose (using sodium-dependent glucose transporter-1 [SGLT-1]) and fructose (using glucose transporter 5 [Glut5]) at a ratio of 2:1 in amounts of 1.8g/min (i.e. up to 70g of glucose +35g of fructose per hour) seems to be most effective (
+10
+). The administration form of carbohydrates does not influence the oxidation rate, thus athletes may combine beverages, carbohydrate bars or gels during long-distance events (
+32
+,
+33
+). To achieve an optimal balance between the requirements for carbohydrate absorption and fluid delivery, carbohydrate concentration should range between 5-10% in fluids, with the lower concentration when fluid delivery is more important than carbohydrate absorption (i.e. in hot and humid environments) (
+2
+).
+For endurance competitions of shorter duration (30-75min), mouth rinsing with carbohydrate solutions was shown to improve exercise performance, although the potential mechanisms are not fully understood yet (9, Fig. 1). Nutrient receptors in the oral cave seem to mediate central nervous effects and activate brain regions associated with reward and motor control and thus promote performance (
+6
+).
+NUTRITION TO PROMOTE POST-EXERCISE RECOVERY
+Adequate nutrition may support recovery from endurance events, especially rehydration and glycogen resynthesis. Shirreffs et al. analysed the effect of differently concentrated sodium solutions in varying amounts on fluid restoration and found that high-sodium solutions (~1330mg/L) at amounts of 150% of body mass loss are most effective in rehydration (
+41
+). Thus, expert panels recommend to ingest 1.5L of a sodium-containing fluid for each kg of body mass lost during exercise to support rapid recovery from dehydration (
+2
+). Voluntary drinking after exhausting exercise may be supported by adding palatable flavour and carbohydrates (
+40
+).
+Immediate consumption of carbohydrates following glycogen-depleting exercise can enhance glycogen resynthesis rates (
+26
+). Adequate glycogen resynthesis may promote recovery, ensure high carbohydrate availability during subsequent exercises and thus promote exercise performance (
+26
+). In addition, post-exercise carbohydrate ingestion was shown to reduce exercise-induced immune function impairment by reducing the exerciseinduced rise of plasma catecholamines and cytokines (
+13
+). A carbohydrate ingestion of 1.0-1.5g/h per kg body mass during the first few hours following exercise, was shown to significantly increase glycogen restoration (
+4
+,
+5
+,
+26
+). In case a high carbohydrate intake cannot be achieved, a reduced carbohydrate ingestion (~0.8g/kg/h) is effective, when ~0.2-0.4g/kg/h of protein is co-ingested (
+4
+,
+26
+). Co-ingestion of protein may also have beneficial effects on parameters of muscle damage and soreness (
+42
+) with chocolate milk being as effective as commercial recovery beverages (
+22
+). Protein supplementation alone seems not to promote recovery of muscle function, parameters of muscle damage or perceived muscle soreness following endurance exercise (
+30
+). To achieve these nutritional targets, athletes may consume beverages or non-liquid foods that are rich in carbohydrates, spread over smaller dosages every 15-20min (for examples, see Table 3).
+CLINICAL ISSUES CONCERNING THE NUTRITION OF ENDURANCE ATHLETES
+Hyponatremia
+Exercise-induced hyponatremia (EIH) was reported in endurance events and is characterized by a plasma-sodium level below 135mmol/L (
+1
+). Incidence of hyponatremia in ultra-endurance events ranges from 0.3% to 27% (
+16
+). EIH is a life-threatening condition that may be taken for symptoms of hypoglycaemia, heat stroke, exercise exhaustion or exercise-associated collapse when laboratory assessment is not available (
+16
+). A hot and humid environment, events lasting >4 hours, female sex, slower finishing times and the use of nonsteroidal anti-inflammatory drugs are considered as risk factors for EIH (
+16
+). To prevent EIH, athletes should follow a moderate hydration regime (~500mL per exercise hour or less) with carbohydrate-electrolyte solutions instead of drinking as much (water) as tolerable (
+2
+,
+19
+).
+Weight Management, Female Athlete Triad and Eating Disorders
+Reducing body mass and body fat is often seen as an competitive advantage by athletes (
+44
+). However, the purpose to reduce body mass may result in dieting, disordered eating or eating disorders. An eating disorder prevalence of 10 % was reported in endurance athletes (
+38
+). Long-term restricted eating or low energy availability may adversely affect both health and performance, including cardiovascular, endocrine, reproductive, gastrointestinal and renal disturbances (
+28
+). The prevalence of the female athlete triad (disordered eating, amenorrhea, osteoporosis, or subclinical presentations thereof) varies between 4-27% in elite athletes (
+11
+,
+28
+,
+46
+). Long-term health consequences (impairment of reproductive function, premature osteoporosis) may not be excluded. Similar health problems (e.g. osteopenia) may occur in male endurance athletes with restricted diets (
+35
+). To reduce the risk of detrimental effects on health and performance, athletes should follow a diet and training regime that ensures an energy availability of 30-45kcal per kg fat-free mass per day (
+21
+). Energy availability denotes the remaining energy from dietary intake for the body after subtracting exercise-related energy expenditure (
+21
+).
+Iron Deficiency and Iron Deficiency Anaemia
+Risk factors for iron depletion in endurance athletes include poor iron intake, poor iron availability (e.g. due to high cereal intake to meet elevated carbohydrate requirements), foot strike haemolysis, increased iron loss, altered intestinal absorption, vegetarian diets, altitude training and female sex (
+37
+). Iron requirements in endurance athletes (esp. runners) may be increased by approximately 70% (
+49
+). It is non-controversial that iron deficiency anaemia adversely affects endurance performance. The effect of iron deficiency without anaemia on exercise performance remains equivocal, at least at early stages of iron depletion (
+31
+,
+51
+). Athletes at risk should be individually counselled how to increase dietary iron intake and iron availability from food (
+8
+). A regular screening for iron deficiency in endurance athletes accompanied by a supervised iron supplementation to correct for iron depletion is recommended (
+23
+,
+37
+).
+CONCLUSION
+Meeting the energy requirement is the major nutritional goal in endurance athletes. Carbohydrate needs to avoid glycogen depletion vary from 3-5g/kg/d during low-intensity up to 8-12g/kg/d during high-intensity training. During endurance events, a carbohydrate intake of 30-60g/h or higher is recommended. Avoiding a dehydration >2 % of body mass by regular ingestion of sodium beverages during and/or proper hydration before exercise is required.
+Recovery from exercise is supported by proper rehydration and glycogen resynthesis. Rehydration is most effective when 1.5L of sodium beverages for each kg of body mass lost during exercise are consumed. For the first 2-4 hours post-exercise, ingestion of carbohydrates at amounts of 1.0-1.5g/kg/h in smaller dosages every 15-20min is recommended. Exercise-induced hyponatraemia is a life-threatening condition in events >4h, thus athletes should temper their fluid consumption not allowing for weight gain during exercise and prefer sodium beverages. Energy availability (i.e. energy intake – energy spent for exercise) should not fall below 30-45kcal/kg FFM/d to avoid health consequences such as symptoms of the female athlete triad. Health professionals including nutritionists of the German Olympic sports centres may help endurance athletes to follow a healthy diet with prudent food choices.
+Conflict of Interest
+The author has no conflict of interest.
+REFERENCES
+ALMOND CS, SHIN AY, FORTESCUE EB, MANNIX RC, WYPIJ D, BINSTADT BA, DUNCAN CN, OLSON DP, SALERNO AE, NEWBURGER JW, GREENES DS.
+Hyponatremia among runners in the Boston Marathon. N Engl J Med. 2005; 352: 1550-1556.
+doi:10.1056/NEJMoa043901
+AMERICAN COLLEGE OF SPORTS MEDICINE; SAWKA MN, BURKE LM, EICHNER ER, MAUGHAN RJ, MONTAIN SJ, STACHENFELD NS.
+American College of Sports Medicine position stand. Exercise and fluid replacement. Med Sci Sports Exerc. 2007; 39: 377-390.
+BEALS KA, MANORE MM.
+Nutritional status of female athletes with subclinical eating disorders. J Am Diet Assoc. 1998; 98: 419-425.
+doi:10.1016/S0002-8223(98)00096-0
+BEELEN M, BURKE LM, GIBALA MJ, VAN LOON LJC.
+Nutritional strategies to promote postexercise recovery. Int J Sport Nutr Exerc Metab. 2010; 20: 515-532.
+BURKE LM, HAWLEY JA, WONG SH, JEUKENDRUP AE.
+Carbohydrates for training and competition. J Sports Sci. 2011; 29: S17-S27.
+doi:10.1080/02640414.2011.585473
+BURKE LM, MAUGHAN RJ.
+The Governor has a sweet tooth - mouth sensing of nutrients to enhance sports performance. Eur J Sport Sci. 2015; 15: 29-40.
+doi:10.1080/17461391.2014.971880
+BUSSAU VA, FAIRCHILD TJ, RAO A, STEELE P, FOURNIER PA.
+Carbohydrate loading in human muscle: an improved 1 day protocol. Eur J Appl Physiol. 2002; 87: 290-295.
+doi:10.1007/s00421-002-0621-5
+CARLSOHN A, SCHARHAG J, MAYER F.
+Standards der Sportmedizin: Eisenreiche Ernährung. Dtsch Z Sportmed. 2009; 60: 130-131.
+CARTER JM, JEUKENDRUP AE, JONES DA.
+The effect of carbohydrate mouth rinse on 1-h cycle time trial performance. MedSci Sports Exerc. 2004; 36: 2107-2111.
+doi:10.1249/01.MSS.0000147585.65709.6F
+CURRELL K, JEUKENDRUP AE.
+Superior endurance performance with ingestion of multiple transportable carbohydrates. Med Sci Sports Exerc. 2008; 40: 275-281.
+doi:10.1249/mss.0b013e31815adf19
+DE SOUZA MJ, WILLIAMS NI.
+Physiological aspects and clinical sequelae of energy deficiency and hypoestrogenism in exercising women. Hum Reprod Update. 2004; 10: 433-448.
+doi:10.1093/humupd/dmh033
+FUDGE BW, WESTERTERP KR, KIPLAMAI FK, ONYWERA VO, BOIT MK, KAYSER B, PITSILADIS YP.
+Evidence of negative energy balance using doubly labelled water in elite Kenyan endurance runners prior to competition. Br J Nutr. 2006; 95: 59-66.
+doi:10.1079/BJN20051608
+GLEESON M.
+Can nutrition limit exercise-induced immunodepression? Nutr Rev. 2006; 64: 119-131.
+doi:10.1111/j.1753-4887.2006.tb00195.x
+GODEK SF, BARTOLOZZI AR, GODEK JJ.
+Sweat rate and fluid turnover in American football players compared with runners in a hot and humid environment. Br J Sports Med. 2005; 39: 205-211,discussion 205-211.
+doi:10.1136/bjsm.2004.011767
+GOMEZ-CABRERA MC, RISTOW M, VIÑA J.
+Antioxidant supplements in exercise: worse than useless? Am J Physiol Endocrinol Metab. 2012; 302: E476-E477
+doi:10.1152/ajpendo.00567.2011
+HSIEH M.
+Recommendations for treatment of hyponatraemia at endurance events. Sports Med. 2004; 34: 231-238.
+doi:10.2165/00007256-200434040-00003
+IOC CONSENSUS STATEMENT ON SPORTS NUTRITION 2010.
+J Sports Sci. 2011; 29: S3-S4.
+doi:10.1080/02640414.2011.619349
+JENTJENS RL, CALE C, GUTCH C, JEUKENDRUP AE.
+Effects of preexercise ingestion of differing amounts of carbohydrate onsubsequent metabolism and cycling performance. Eur J Appl Physiol. 2003; 88: 444-452.
+doi:10.1007/s00421-002-0727-9
+JEUKENDRUP AE, CURRELL K, CLARKE J, COLE J, BLANNIN AK.
+Effect of beverage glucose and sodium content on fluid delivery. NutrMetab (Lond). 2009; 6: 9.
+doi:10.1186/1743-7075-6-9
+JEUKENDRUP A.
+The new carbohydrate intake recommendations. Nestle Nutr Inst Workshop Ser. 2013; 75: 63-71.
+doi:10.1159/000345820
+LOUCKS AB, KIENS B, WRIGHT HH.
+Energy availability in athletes. J Sports Sci. 2011; 29: S7-S15.
+doi:10.1080/02640414.2011.588958
+LUNN WR, PASIAKOS SM, COLLETTO MR, KARFONTA KE, CARBONE JW, ANDERSON JM, RODRIGUEZ NR.
+Chocolate milk and endurance exercise recovery: protein balance, glycogen, and performance. Med Sci Sports Exerc. 2012; 44: 682-691.
+doi:10.1249/MSS.0b013e3182364162
+LJUNGQVIST A, JENOURE P, ENGEBRETSEN L, ALONSO JM, BAHR R, CLOUGH A, DE BONDT G, DVORAK J, MALOLEY R, MATHESON G, MEEUWISSE W, MEIJBOOM E, MOUNTJOY M,PELLICCIA A, SCHWELLNUS M, SPRUMONT D, SCHAMASCH P, GAUTHIER JB, DUBI C, STUPP H, THILL C.
+The International Olympic Committee (IOC) Consensus Statement on periodic health evaluation of elite athletes. Br J Sports Med. 2009; 43: 631-643.
+doi:10.1136/bjsm.2009.064394
+MAUGHAN RJ, SHIRREFFS SM.
+Development of individual hydration strategies for athletes. Int J Sport Nutr Exerc Metab. 2008; 18: 457-472.
+METTLER S, MANNHART C, COLOMBANI PC.
+Development and validation of a food pyramid for Swiss athletes. Int J Sport Nutr Exerc Metab. 2009; 19: 504-518.
+MILLARD-STAFFORD M, CHILDERS WL, CONGER SA, KAMPFER AJ, RAHNERT JA.
+Recovery nutrition: timing and composition after endurance exercise. Curr Sports Med Rep. 2008; 7: 193-201.
+doi:10.1249/JSR.0b013e31817fc0fd
+MONTAIN SJ, CHEUVRONT SN, LUKASKI HC.
+Sweat mineral-element responses during 7 h of exercise-heat stress. Int J Sport Nutr Exerc Metab. 2007; 17: 574-582.
+NATTIV A, LOUCKS AB, MANORE MM, NATTIV A, LOUCKS AB, MANORE MM, SANBORN CF, SUNDGOT-BORGEN J, WARREN MP.
+American College of Sports Medicine position stand. The female athlete triad. Med Sci Sports Exerc. 2007; 39: 1867-1882.
+ORMSBEE MJ, BACH CW, BAUR DA.
+Pre-exercise nutrition: the role of macronutrients, modified starches and supplements on metabolism and endurance performance. Nutrients. 2014; 29: 6: 1782-808.
+PASIAKOS SM, LIEBERMAN HR, MCLELLAN TM.
+Effects of protein supplements on muscle damage, soreness and recovery ofmuscle function and physical performance: a systematic review. Sports Med. 2014; 44: 655-670.
+doi:10.1007/s40279-013-0137-7
+PEELING P, BLEE T, GOODMAN C, DAWSON B, CLAYDON G, BEILBY J, PRINS A.
+Effect of iron injections on aerobic-exercise performance of iron-depleted female athletes. Int J Sport Nutr Exerc Metab. 2007; 17: 221-231.
+PFEIFFER B, STELLINGWERFF T, ZALTAS E, JEUKENDRUP AE.
+CHO oxidation from a CHO gel compared with a drink during exercise. Med Sci Sports Exerc. 2010; 42: 2038-2045.
+doi:10.1249/MSS.0b013e3181e0efe6
+PFEIFFER B, STELLINGWERFF T, ZALTAS E, JEUKENDRUP AE.
+Oxidation of solid versus liquid CHO sources during exercise. Med Sci Sports Exerc. 2010; 42: 2030-2037.
+doi:10.1249/MSS.0b013e3181e0efc9
+RAUCH LH, RODGER I, WILSON GR, BELONJE JD, DENNIS SC, NOAKES TD, HAWLEY JA.
+The effects of carbohydrate loading on muscle glycogen content and cycling performance. Int J Sport Nutr. 1995; 5: 25-36.
+RECTOR RS, ROGERS R, RUEBEL M, HINTON PS.
+Participation in road cycling vs running is associated with lower bone mineraldensity in men. Metabolism. 2008; 57: 226-232.
+doi:10.1016/j.metabol.2007.09.005
+RISTOW M, ZARSE K, OBERBACH A, KLÖTING N, BIRRINGER M, KIEHNTOPF M, STUMVOLL M, KAHN CR, BLÜHER M.
+Antioxidants prevent health-promoting effects of physical exercise inhumans. Proc Natl Acad Sci. 2009; 106: 8665-70.
+doi:10.1073/pnas.0903485106
+RODRIGUEZ NR, DIMARCO NM, LANGLEY S; AMERICAN DIETETIC ASSOCIATION.
+Dietitians of Canada; American College of Sports Medicine: Nutrition and Athletic Performance. J Am Diet Assoc. 2009; 109: 509-527.
+doi:10.1016/j.jada.2009.01.005
+ROSENDAHL J, BORMANN B, ASCHENBRENNER K, ASCHENBRENNER F, STRAUSS B.
+Dieting and disordered eating in German high school athletes and non-athletes. Scand J Med Sci Sports. 2009; 19: 731-739.
+doi:10.1111/j.1600-0838.2008.00821.x
+SEN CK.
+Antioxidants in exercise nutrition. Sports Med. 2001; 31: 891-908.
+doi:10.2165/00007256-200131130-00001
+SHARP RL.
+Role of whole foods in promoting hydration after exercise in humans. J Am Coll Nutr. 2007; 26: 592S-596S.
+doi:10.1080/07315724.2007.10719664
+SHIRREFFS SM, TAYLOR AJ, LEIPER JB, MAUGHAN RJ.
+Post-exercise rehydration in man: effects of volume consumed and drink sodium content. Med Sci Sports Exerc. 1996; 28: 1260-1271.
+doi:10.1097/00005768-199610000-00009
+SKILLEN RA, TESTA M, APPLEGATE EA, HEIDEN EA, FASCETTI AJ, CASAZZA GA.
+Effects of an amino acid carbohydrate drink on exercise performance after consecutive-day exercise bouts. Int J Sport Nutr Exerc Metab. 2008; 18: 473-492.
+STOFAN JR, ZACHWIEJA JJ, HORSWILL CA, MURRAY R, ANDERSON SA, EICHNER ER.
+Sweat and sodium losses in NCAA football players: a precursor to heat cramps? Int J Sport Nutr Exerc Metab. 2005; 15: 641-652.
+SUNDGOT-BORGEN J, TORSTVEIT MK.
+Aspects of disordered eating continuum in elite high-intensity sports. Scand J Med Sci Sports. 2010; 20: 112-121.
+doi:10.1111/j.1600-0838.2010.01190.x
+TARNOPOLSKY M.
+Protein and amino acid needs for training and bulking up. In: Burke L and Deakin V, ed. Clinical sports nutrition. 4th ed. McGraw-Hill Australia Pty Ltd; 2011: 61-95.
+TORSTVEIT MK, SUNDGOT-BORGEN J.
+The female athlete triad exists in both elite athletes and controls. Med Sci Sports Exerc. 2005; 37: 1449-1459.
+doi:10.1249/01.mss.0000177678.73041.38
+VAN DER BEEK EJ, VAN DOKKUM W, SCHRIJVER J, WESSTRA A, KISTEMAKER C, HERMUS RJ.
+Controlled vitamin C restriction and physical performance in volunteers. J Am Coll Nutr. 1990; 9: 332-339.
+doi:10.1080/07315724.1990.10720389
+WESTERTERP KR.
+Physical activity and physical activity induced energy expenditure in humans: measurement, determinants, and effects. Front Phys. 2013; 4: 90.
+doi:10.3389/fphys.2013.00090
+WHITING SJ, BARABASH WA.
+Dietary Reference Intakes for the micronutrients: considerations for physical activity. Appl Physiol Nutr Metab. 2006; 31: 80-85.
+doi:10.1139/h05-021
+WIDRICK JJ, COSTILL DL, FINK WJ, HICKEY MS, MCCONELL GK, TANAKA H.
+Carbohydrate feedings and exercise performance: effect of initial muscle glycogen concentration. J Appl Physiol. 1993; 74: 2998-3005.
+ZHU YI, HAAS JD.
+Response of serum transferrin receptor to iron supplementation in iron-depleted, nonanemic women. Am J Clin Nutr. 1998; 67: 271-275.
+Jun.-Prof. Dr. Anja Carlsohn
+Pädagogische Hochschule Schwäbisch Gmünd
+Institut für Gesundheitswissenschaften
+Oberbettringer Str. 200
+73525 Schwäbisch Gmünd
+anja.carlsohn@ph-gmuend.de

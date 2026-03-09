@@ -1,0 +1,60 @@
+BAŞLIK: Mifflin-St Jeor Equation in Nutrition - NutriAdmin Blog
+KAYNAK: https://nutriadmin.com/blog/mifflin-st-jeor-equation-in-nutrition/
+TARİH: 2026-03-08 21:22:25
+KELİME: 522
+============================================================
+
+3
+mins to read.
+The
+Mifflin-St Jeor equation
+is considered the
+most reliable in predicting Basal Metabolic Rate (BMR)
+among obese and non-obese individuals. Nutrition professionals must have an in-depth understanding of this topic because it is commonly used to calculate energy expenditure and caloric needs.
+History
+MD Mifflin and ST St Jeor
+introduced this BMR equation in a
+paper published in 1990
+, naming it after themselves. They derived it from 498 healthy individuals, including males and females aged 19-78 years old. They included both obese and non-obese individuals and measured BMR through indirect calorimetry.
+Importance of Mifflin-St Jeor equation
+A study in 2005
+, stated that out of the four commonly used BMR prediction equations in clinical practice, the Mifflin-St Jeor equation was the most reliable. This is in comparison to Harris-Benedict,Owen, and World Health Organization/Food and Agriculture Organization/United Nations University (WHO/FAO/UNU).
+It accurately predicted BMR within 10% of the measured values for both non-obese and obese individuals more consistently than any other equation. Additionally, it had the smallest margin of error.
+Using the Mifflin-St Jeor equation
+Assessing energy needs is a crucial part of developing and evaluating nutrition interventions. The Mifflin-St Jeor formula
+calculates the resting metabolic rate
+, which is essential for determining an individual’s calorie requirements.
+Mifflin-St Jeor Computation
+Step 1: Calculate BMR
+Male:
+BMR = (10 x weight in kg) + (6.25 x height in cm) – (5 x age in years) + 5
+Female:
+BMR = (10 x weight in kg) + (6.25 x height in cm) – (5 x age in years) – 161
+Step 2: Multiply BMR based on the person’s activity level
+Sedentary – BMR x 1.2 – Little or no exercise (e.g. office job)
+Lightly Active – BMR x 1.375 – Light exercise 3-5 times a week
+Moderately Active – BMR x 1.55 – Moderate exercise 3-5 times a week
+Very Active – BMR x 1.725 – Hard exercise 4-6 times a week
+Extremely Active – BMR x 1.9 – Hard daily exercise (or twice a day)
+Alternatively, you can use NutriAdmin’s free
+TDEE calculator
+to automatically calculate this.
+Note
+: These equations provide only an estimation, so it’s crucial to consider individual nutritional needs and goals. Continuously assess the client’s progress and well-being, and if needed, make adjustments to the meal plan accordingly.
+Utilizing Mifflin-St Jeor calculators online
+As much as possible, we always want to finish tasks in the shortest time possible. Through the technological advancements today, there are various
+free tools for nutritionists
+that are available on the internet including
+Mifflin-St Jeor calculators
+.
+NutriAdmin provides free tools for nutritionists and dietitians that can help them with several essential computations just by entering information as seen above.
+NutriAdmin
+members can additionally get formulas automatically calculated, including Mifflin-St Jeor. You can
+click here
+to learn more.
+This way,
+you don’t have to manually compute common formulas
+. It will help you
+save time and increase efficiency
+enabling you to focus on other more important tasks and provide quality care for your clients.
+NutriAdmin offers a range of automated formula options, including the Mifflin-St Jeor, for quick and convenient calculations.
