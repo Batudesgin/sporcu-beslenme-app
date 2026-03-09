@@ -1,13 +1,13 @@
-import os
-from openai import OpenAI
+import streamlit as st
+from google import genai
 
-# Initialize API client
-openai_api_key = os.environ.get("OPENAI_API_KEY")
-client = OpenAI(api_key=openai_api_key)
+# Initialize API client from Streamlit secrets (no .env required)
+gemini_api_key = st.secrets["GEMINI_API_KEY"]
+client = genai.Client(api_key=gemini_api_key)
 
 def generate_nutrition_plan(profile, nutrition_data, academic_context):
     """
-    Calls OpenAI GPT-4o-mini to generate a 7-day personalized meal plan 
+    Calls Google Gemini 2.0 Flash to generate a 7-day personalized meal plan 
     based on math modules and academic research context.
     """
     system_prompt = """Sen alanında uzman bir sporcu diyetisyeni ve beslenme danışmanısın. 
@@ -42,38 +42,36 @@ DİĞER KURALLAR:
 - **Günlük Ortalama Antrenman**: {profile['training_hours']} saat
 - **Antrenman Saati (Ortalama)**: {profile.get('training_time', 'Belirtilmedi')}
 - **Antrenman Yoğunluğu**: {profile.get('intensity', 'Belirtilmedi')}
-- **Genel Hedef**: {profile['goal']}
-- **Terleme Miktarı**: {profile.get('sweat_rate', 'Belirtilmedi')}
-- **Uyku Süresi**: {profile.get('sleep_duration', 'Belirtilmedi')}
+- **Hedef**: {profile['goal']}
+- **Dehidrasyon / Ter Oranı**: {profile.get('sweat_rate', 'Belirtilmedi')} L/saat
+- **Uyku Süresi**: {profile.get('sleep_duration', 'Belirtilmedi')} saat
 - **Diyet Tercihi**: {profile['diet_preference']}
-- **Alerjiler**: {profile.get('allergies') or 'Yok'}
+- **Alerjiler**: {profile['allergies']}
 - **Kullanılan Supplementler**: {profile.get('supplements') or 'Yok'}
 - **Kafein Toleransı**: {profile.get('caffeine_tolerance', 'Belirtilmedi')}
 - **Bütçe**: {profile.get('budget', 'Belirtilmedi')}
 
-### Günlük Hedeflenen Matematiksel Değerler:
-- **Hedef Kalori**: {nutrition_data['target_calories']} kcal
-- **Protein**: {nutrition_data['macros']['protein_g']} g
-- **Karbonhidrat**: {nutrition_data['macros']['carbs_g']} g
-- **Yağ**: {nutrition_data['macros']['fat_g']} g
+### Hesaplanmış Günlük İhtiyaçlar (BU RAKAMLARA UYMAK ZORUNLUDUR):
+- **Toplam Kalori**: {nutrition_data['target_calories']:.0f} kcal
+- **Protein**: {nutrition_data['macros']['protein_g']:.0f} g
+- **Karbonhidrat**: {nutrition_data['macros']['carbs_g']:.0f} g
+- **Yağ**: {nutrition_data['macros']['fat_g']:.0f} g
+- **Sıvı İhtiyacı**: {nutrition_data['hydration_L']:.1f} Litre
 
-### Akademik Araştırma Bağlamı:
-{academic_context if academic_context else "Özel bir bulgu veritabanından çekilemedi. Genel spor beslenmesi ilkelerine uyun."}
+### Akademik Bağlam (RAG Sonuçları):
+{academic_context if academic_context else "Akademik veri bulunamadı. Genel sporcu beslenmesi kurallarını uygula."}
 
-Lütfen bu değerlere ve akademik yönlendirmelere harfiyen uyarak sporcu için 7 günlük beslenme planını oluştur.
-Planın EN ALTINA 'Kaynaklar ve Gerekçeler' adında bir bölüm ekle. Burada Pinecone'dan gelen akademik bağlama dayanarak 'Şundan şundan dolayı sen böyle olduğun için bunu önerdim' şeklinde kararlarını liste halinde açıkla.
+Lütfen yukarıdaki kurallara, matematiksel hedeflere ve akademik bağlama sıkı sıkıya bağlı kalarak 7 günlük diyet planını markdown tablosu formatında oluştur.
 """
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
-            temperature=0.7,
-            max_tokens=8000
+        response = client.models.generate_content(
+            model='gemini-2.0-flash',
+            contents=system_prompt + "\n\n" + user_prompt,
+            generation_config=genai.types.GenerationConfig(
+                temperature=0.3,
+            )
         )
-        return response.choices[0].message.content
+        return response.text
     except Exception as e:
         print(f"OpenAI API Hatası: {e}")
         return f"Plan oluşturulurken teknik bir sorun oluştu: {str(e)}"

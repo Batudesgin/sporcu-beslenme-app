@@ -1,13 +1,10 @@
-import os
+import streamlit as st
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
-from dotenv import load_dotenv
 
-load_dotenv()
-
-# Initialize API clients
-pinecone_api_key = os.environ.get("PINECONE_API_KEY")
-openai_api_key = os.environ.get("OPENAI_API_KEY")
+# Initialize API clients exclusively from Streamlit secrets (no .env required)
+pinecone_api_key = st.secrets["PINECONE_API_KEY"]
+openai_api_key = st.secrets["OPENAI_API_KEY"]
 
 pc = Pinecone(api_key=pinecone_api_key)
 # Explicitly initialize OpenAI client to avoid using the older openai.api_key style

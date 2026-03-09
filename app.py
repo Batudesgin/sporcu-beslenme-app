@@ -3,7 +3,6 @@ import os
 import io
 from dotenv import load_dotenv
 import markdown
-from xhtml2pdf import pisa
 
 # Import modules
 from modules.calculator import get_athlete_nutrition
@@ -250,33 +249,40 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
     
     # Generate PDF in memory using xhtml2pdf and markdown
     def create_pdf(text_content):
-        from markdown_pdf import MarkdownPdf
-        from markdown_pdf import Section
+        from fpdf import FPDF
         
-        pdf = MarkdownPdf(toc_level=0)
+        class PDF(FPDF):
+            def header(self):
+                self.set_font("helvetica", "B", 15)
+                self.cell(0, 10, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
+                self.ln(5)
+
+            def footer(self):
+                self.set_y(-15)
+                self.set_font("helvetica", "I", 8)
+                self.cell(0, 10, f"Sayfa {self.page_no()}/{{nb}}", align="C")
+
+        pdf = PDF(orientation="landscape")
+        pdf.set_auto_page_break(auto=True, margin=15)
+        pdf.add_page()
         
-        # Ek CSS vererek tablonun A4 sayfasinda daralmasini önle
-        css = """
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #cbd5e1;
-            padding: 8px;
-            text-align: left;
-            word-break: break-all;
-            overflow-wrap: break-word;
-        }
-        th {
-            background-color: #f1f5f9;
-        }
-        """
+        # FPDF2 has native markdown support
+        pdf.set_font("helvetica", size=10)
         
-        pdf.add_section(Section(text_content), user_css=css)
+        # Clean up some markdown features that FPDF might struggle with
+        # FPDF2 supports basic markdown but we should ensure text is latin-1 safe or use unicode fonts
+        # For simplicity, we fallback to UTF-8 compliant unifont if available, but FPDF handles basic tr well if mapped
+        tr_map = str.maketrans("ğğıışşööççüüşşİIĞÜÖÇŞ", "ggiissooccoussIIGUOCS")
+        safe_text = text_content.translate(tr_map)
         
+        try:
+            pdf.write_html(markdown.markdown(safe_text, extensions=['tables']))
+        except AttributeError:
+            # Fallback if write_html is missing/fails, we just write text
+            pdf.multi_cell(0, 5, safe_text)
+            
         result = io.BytesIO()
-        pdf.save(result)
+        pdf.output(result)
         return result.getvalue()
     
     pdf_bytes = create_pdf(meal_plan)
