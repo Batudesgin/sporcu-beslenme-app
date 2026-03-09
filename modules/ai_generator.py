@@ -67,7 +67,7 @@ Lütfen yukarıdaki kurallara, matematiksel hedeflere ve akademik bağlama sık�
         response = client.models.generate_content(
             model='gemini-2.0-flash',
             contents=system_prompt + "\n\n" + user_prompt,
-            generation_config=genai.types.GenerationConfig(
+            config=genai.types.GenerateContentConfig(
                 temperature=0.3,
             )
         )
