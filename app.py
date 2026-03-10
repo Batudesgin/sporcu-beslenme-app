@@ -220,12 +220,14 @@ if submitted:
     with st.spinner("Biyometrik verileriniz ve antrenman parametreleriniz analiz ediliyor. Kişiye özel 7 günlük metabolik beslenme protokolü sentezleniyor. Lütfen bekleyin (30-50 sn)..."):
         meal_plan = generate_nutrition_plan(profile, nutrition_data, academic_context, rag_sources)
         
+    st.session_state.profile = profile
     st.session_state.nutrition_data = nutrition_data
     st.session_state.meal_plan = meal_plan
     st.session_state.generations_count += 1
     st.success("Plan başarıyla oluşturuldu!")
     
 if st.session_state.meal_plan and st.session_state.nutrition_data:
+    profile = st.session_state.get("profile", {})
     nutrition_data = st.session_state.nutrition_data
     meal_plan = st.session_state.meal_plan
     sport_type = st.session_state.sport_type
