@@ -402,7 +402,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                         
                         # Tr tag içine td ve font ekleyelim
                         row_html += f'<td bgcolor="{bg_color}" align="{align}"><font color="{font_hex}" size="{font_size}">{bold_tag_s} {cell} {bold_tag_e}</font></td>'
-                    row_html += '</tr><tr><td colspan="{col_count}" bgcolor="#e2e8f0" height="1"></td></tr>' # Fake bottom border
+                    row_html += f'</tr><tr><td colspan="{col_count}" bgcolor="#e2e8f0" height="1"></td></tr>' # Fake bottom border
                     html_parts.append(row_html)
                     row_idx += 1
                 continue
