@@ -287,30 +287,33 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
     
     # ── PDF İÇİN METİN BİRLEŞTİRME (Kullanıcı Verileri + Plan) ──
     pdf_content = f"""# KİŞİSEL PROFİL VE HEDEFLER
-**Yaş:** {profile['age']} | **Kilo:** {profile['weight']} kg | **Boy:** {profile['height']} cm | **Cinsiyet:** {profile['gender']}
-**Spor:** {profile['sport_type']} | **Günlük Antrenman:** {profile['training_hours']} saat | **Hedef:** {profile['goal']}
-**Bütçe:** {profile.get('budget', 'Belirtilmedi')} | **Alerjiler:** {profile['allergies']}
+| Kriter | Detay | Kriter | Detay |
+|---|---|---|---|
+| **Yaş** | {profile['age']} | **Kilo** | {profile['weight']} kg |
+| **Boy** | {profile['height']} cm | **Cinsiyet** | {profile['gender']} |
+| **Spor** | {profile['sport_type']} | **Antrenman** | {profile['training_hours']} saat |
+| **Hedef** | {profile['goal']} | **Bütçe** | {profile.get('budget', 'Belirtilmedi')} |
+| **Alerjiler** | {profile['allergies']} | | |
 
-## MATEMATİKSEL ANALİZ SONUÇLARI
-- **Bazal Metabolizma (BMR):** {nutrition_data['bmr']} kcal
-- **Günlük Harcanan Kalori (TDEE):** {nutrition_data['tdee']} kcal
-- **Hedef Kalori:** {nutrition_data['target_calories']} kcal
+## MATEMATİKSEL ANALİZ VE MAKROLAR
+| Metrik | Kalori (kcal) | Makro | Gram Hedefi |
+|---|---|---|---|
+| **BMR** | {nutrition_data['bmr']} | **Protein** | {nutrition_data['macros']['protein_g']} g |
+| **TDEE** | {nutrition_data['tdee']} | **Karbonhidrat** | {nutrition_data['macros']['carbs_g']} g |
+| **Hedef Kalori** | {nutrition_data['target_calories']} | **Yağ** | {nutrition_data['macros']['fat_g']} g |
 
-## GÜNLÜK HEDEF MAKROLAR
-- **Protein:** {nutrition_data['macros']['protein_g']} g
-- **Karbonhidrat:** {nutrition_data['macros']['carbs_g']} g
-- **Yağ:** {nutrition_data['macros']['fat_g']} g
-
-## GÜNLÜK HİDRASYON PLANI (ACSM/NSCA)
+## GÜNLÜK HİDRASYON PLANI
 """
     if hydration:
-        pdf_content += f"""- **Toplam Günlük İhtiyaç:** {hydration['total_L']} L
-- **Antrenman Kaybı:** {hydration['exercise_loss_ml']} ml (Ortalama {hydration['sweat_per_hour_avg']} ml/saat)
-- **Antrenman Öncesi (2-3 sa. önce):** {hydration['pre_training_ml']} ml
-- **Antrenman Sonrası (4 sa. içinde):** {hydration['post_training_total_ml']} ml
+        pdf_content += f"""| Aşama | Tüketim Önerisi |
+|---|---|
+| **Günlük Toplam Hedef** | {hydration['total_L']} L |
+| **Antrenman Kaybı** | {hydration['exercise_loss_ml']} ml (Ort. {hydration['sweat_per_hour_avg']} ml/saat) |
+| **Antrenman Öncesi** | {hydration['pre_training_ml']} ml (2-3 saat önce) |
+| **Antrenman Sonrası** | {hydration['post_training_total_ml']} ml (4 saat içinde) |
 """
         if hydration.get("needs_electrolyte"):
-            pdf_content += f"- **Hiponatremi Uyarısı:** Egzersiz sırasında ~{hydration['electrolyte_sodium_mg']} mg sodyum alımı gereklidir.\n"
+            pdf_content += f"| **Elektrolit Uyarısı** | Egzersiz sırasında ~{hydration['electrolyte_sodium_mg']} mg sodyum alınmalıdır |\n"
     pdf_content += "\n---\n" + meal_plan
     
     # Generate PDF in memory using fpdf2
