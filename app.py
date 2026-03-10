@@ -416,7 +416,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             
             # Bold text
             if stripped.startswith('**') or stripped.startswith('- **'):
-                clean = stripped.replace('**', '').replace('- ', '• ')
+                clean = stripped.replace('**', '').replace('- ', '- ')
                 html_parts.append(f'<font size="10" color="#0f172a"><b>{clean}</b></font><br>')
                 continue
             
@@ -424,7 +424,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             if stripped:
                 clean = stripped.replace('**', '')
                 if stripped.startswith('- '):
-                    clean = stripped.replace('- ', '• ')
+                    clean = stripped.replace('- ', '- ')
                 html_parts.append(f'<font size="10" color="#334155">{clean}</font><br>')
         
         if in_table:
