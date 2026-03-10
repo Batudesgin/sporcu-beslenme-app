@@ -283,7 +283,34 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
     st.header("📝 7 Günlük Kişiye Özel Beslenme Planı")
     st.markdown(meal_plan)
     
-    # Generate PDF in memory using fpdf2
+    # ── PDF İÇİN METİN BİRLEŞTİRME (Kullanıcı Verileri + Plan) ──
+    pdf_content = f"""# KİŞİSEL PROFİL VE HEDEFLER
+**Yaş:** {profile['age']} | **Kilo:** {profile['weight']} kg | **Boy:** {profile['height']} cm | **Cinsiyet:** {profile['gender']}
+**Spor:** {profile['sport_type']} | **Günlük Antrenman:** {profile['training_hours']} saat | **Hedef:** {profile['goal']}
+**Bütçe:** {profile.get('budget', 'Belirtilmedi')} | **Alerjiler:** {profile['allergies']}
+
+## MATEMATİKSEL ANALİZ SONUÇLARI
+- **Bazal Metabolizma (BMR):** {nutrition_data['bmr']} kcal
+- **Günlük Harcanan Kalori (TDEE):** {nutrition_data['tdee']} kcal
+- **Hedef Kalori:** {nutrition_data['target_calories']} kcal
+
+## GÜNLÜK HEDEF MAKROLAR
+- **Protein:** {nutrition_data['macros']['protein_g']} g
+- **Karbonhidrat:** {nutrition_data['macros']['carbs_g']} g
+- **Yağ:** {nutrition_data['macros']['fat_g']} g
+
+## GÜNLÜK HİDRASYON PLANI (ACSM/NSCA)
+"""
+    if hydration:
+        pdf_content += f"""- **Toplam Günlük İhtiyaç:** {hydration['total_L']} L
+- **Antrenman Kaybı:** {hydration['exercise_loss_ml']} ml (Ortalama {hydration['sweat_per_hour_avg']} ml/saat)
+- **Antrenman Öncesi (2-3 sa. önce):** {hydration['pre_training_ml']} ml
+- **Antrenman Sonrası (4 sa. içinde):** {hydration['post_training_total_ml']} ml
+"""
+        if hydration.get("needs_electrolyte"):
+            pdf_content += f"- **Hiponatremi Uyarısı:** Egzersiz sırasında ~{hydration['electrolyte_sodium_mg']} mg sodyum alımı gereklidir.\n"
+    pdf_content += "\n---\n" + meal_plan
+    
     # Generate PDF in memory using fpdf2
     def create_pdf(text_content):
         from fpdf import FPDF
@@ -295,22 +322,24 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                 self.set_fill_color(248, 249, 250) # #F8F9FA
                 self.rect(0, 0, 297, 210, "F") # A4 Landscape dimensions
                 
-                self.set_font("Helvetica", "B", 18)
-                self.set_text_color(15, 23, 42) # #0F172A
-                self.cell(0, 15, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
-                self.set_draw_color(226, 232, 240) # #E2E8F0
-                self.set_line_width(0.5)
-                self.line(15, self.get_y(), self.w - 15, self.get_y())
-                self.ln(8)
+                # Sadece 1. sayfada kapak/büyük başlık yazsın
+                if self.page_no() == 1:
+                    self.set_font("Helvetica", "B", 18)
+                    self.set_text_color(15, 23, 42) # #0F172A
+                    self.cell(0, 12, "Kisisel Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
+                    self.set_draw_color(226, 232, 240) # #E2E8F0
+                    self.set_line_width(0.5)
+                    self.line(15, self.get_y(), self.w - 15, self.get_y())
+                    self.ln(6)
 
             def footer(self):
-                self.set_y(-15)
-                self.set_font("Helvetica", "I", 9)
+                self.set_y(-12)
+                self.set_font("Helvetica", "I", 8)
                 self.set_text_color(100, 116, 139) # #64748B
                 self.cell(0, 10, f"Sayfa {self.page_no()}/{{nb}}", align="C")
 
         pdf = PDF(orientation="landscape", format="A4")
-        pdf.set_auto_page_break(auto=True, margin=20)
+        pdf.set_auto_page_break(auto=True, margin=15)
         pdf.add_page()
         
         # Transliterate Turkish chars for latin-1 compatibility
@@ -324,7 +353,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
         # Bulletproof way to remove any character that fpdf2 (latin-1) cannot render
         safe_text = safe_text.encode('latin-1', 'ignore').decode('latin-1')
         
-        # Convert markdown to styled HTML for fpdf2's write_html
+        # Formatted string assembly
         lines = safe_text.split('\n')
         html_parts = []
         in_table = False
@@ -337,30 +366,22 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             # Headings
             if stripped.startswith('### '):
                 if in_table:
-                    html_parts.append('</tbody></table><br>')
+                    html_parts.append('</tbody></table>')
                     in_table = False
-                
-                heading_text = stripped[4:]
-                # Eğer başlık "X. Gün" veya "X. Gun" içeriyorsa ve ilk sayfa değilse yeni sayfaya geç
-                is_day_heading = bool(re.search(r'\d+\.\s*(g|G)[üu]n', heading_text, re.IGNORECASE))
-                if is_day_heading:
-                    html_parts.append(f'<pagebreak><br><font size="15" color="#0f172a"><b>{heading_text}</b></font><br><br>')
-                else:
-                    html_parts.append(f'<br><font size="15" color="#0f172a"><b>{heading_text}</b></font><br><br>')
-                    
+                html_parts.append(f'<font size="13" color="#0f172a"><b>{stripped[4:]}</b></font><br>')
                 is_header_row = True
                 continue
             elif stripped.startswith('## '):
                 if in_table:
-                    html_parts.append('</tbody></table><br>')
+                    html_parts.append('</tbody></table>')
                     in_table = False
-                html_parts.append(f'<br><font size="17" color="#0f172a"><b>{stripped[3:]}</b></font><br><br>')
+                html_parts.append(f'<font size="15" color="#0f172a"><b>{stripped[3:]}</b></font><br>')
                 continue
             elif stripped.startswith('# '):
                 if in_table:
-                    html_parts.append('</tbody></table><br>')
+                    html_parts.append('</tbody></table>')
                     in_table = False
-                html_parts.append(f'<br><font size="19" color="#0f172a"><b>{stripped[2:]}</b></font><br><br>')
+                html_parts.append(f'<font size="17" color="#0f172a"><b>{stripped[2:]}</b></font><br>')
                 continue
             
             # Table separator row (|---|---|)
@@ -374,8 +395,8 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                 if not in_table:
                     col_count = len(cells)
                     # HTML table with no vertical borders, soft horizontal borders via CSS
-                    # Increased cellpadding for more breathing room (padding)
-                    html_parts.append('<br><table border="0" width="100%" cellpadding="8" cellspacing="0"><tbody>')
+                    # Reduced cellpadding to 4 for tighter layout
+                    html_parts.append('<table border="0" width="100%" cellpadding="4" cellspacing="0"><tbody>')
                     in_table = True
                     is_header_row = True
                     row_idx = 0
