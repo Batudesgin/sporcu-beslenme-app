@@ -339,7 +339,15 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                 if in_table:
                     html_parts.append('</tbody></table><br>')
                     in_table = False
-                html_parts.append(f'<br><font size="15" color="#0f172a"><b>{stripped[4:]}</b></font><br><br>')
+                
+                heading_text = stripped[4:]
+                # Eğer başlık "X. Gün" veya "X. Gun" içeriyorsa ve ilk sayfa değilse yeni sayfaya geç
+                is_day_heading = bool(re.search(r'\d+\.\s*(g|G)[üu]n', heading_text, re.IGNORECASE))
+                if is_day_heading:
+                    html_parts.append(f'<pagebreak><br><font size="15" color="#0f172a"><b>{heading_text}</b></font><br><br>')
+                else:
+                    html_parts.append(f'<br><font size="15" color="#0f172a"><b>{heading_text}</b></font><br><br>')
+                    
                 is_header_row = True
                 continue
             elif stripped.startswith('## '):
