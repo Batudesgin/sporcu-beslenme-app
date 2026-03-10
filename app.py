@@ -284,24 +284,29 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
     st.markdown(meal_plan)
     
     # Generate PDF in memory using fpdf2
+    # Generate PDF in memory using fpdf2
     def create_pdf(text_content):
         from fpdf import FPDF
         import re
         
         class PDF(FPDF):
             def header(self):
-                self.set_font("Helvetica", "B", 16)
-                self.set_text_color(30, 58, 138)
-                self.cell(0, 12, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
-                self.set_draw_color(30, 58, 138)
+                # Arka plan rengi (açık gri/kırık beyaz)
+                self.set_fill_color(248, 249, 250) # #F8F9FA
+                self.rect(0, 0, 297, 210, "F") # A4 Landscape dimensions
+                
+                self.set_font("Helvetica", "B", 18)
+                self.set_text_color(15, 23, 42) # #0F172A
+                self.cell(0, 15, "Sporcu Beslenme Plani", border=False, align="C", new_x="LMARGIN", new_y="NEXT")
+                self.set_draw_color(226, 232, 240) # #E2E8F0
                 self.set_line_width(0.5)
-                self.line(10, self.get_y(), self.w - 10, self.get_y())
-                self.ln(4)
+                self.line(15, self.get_y(), self.w - 15, self.get_y())
+                self.ln(8)
 
             def footer(self):
                 self.set_y(-15)
-                self.set_font("Helvetica", "I", 8)
-                self.set_text_color(128, 128, 128)
+                self.set_font("Helvetica", "I", 9)
+                self.set_text_color(100, 116, 139) # #64748B
                 self.cell(0, 10, f"Sayfa {self.page_no()}/{{nb}}", align="C")
 
         pdf = PDF(orientation="landscape", format="A4")
@@ -315,7 +320,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             'ç': 'c', 'Ç': 'C', 'ü': 'u', 'Ü': 'U'
         })
         safe_text = text_content.translate(tr_map)
-        # Remove emojis and other non-latin-1 characters (💧📚🏃 etc.)
+        # Remove emojis and other non-latin-1 characters (💧📚🏃 vs)
         safe_text = re.sub(r'[^\x00-\xff]', '', safe_text)
         
         # Convert markdown to styled HTML for fpdf2's write_html
@@ -323,6 +328,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
         html_parts = []
         in_table = False
         is_header_row = True
+        row_idx = 0
         
         for line in lines:
             stripped = line.strip()
@@ -330,22 +336,22 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             # Headings
             if stripped.startswith('### '):
                 if in_table:
-                    html_parts.append('</table><br>')
+                    html_parts.append('</tbody></table><br>')
                     in_table = False
-                html_parts.append(f'<br><font size="14" color="#1e3a8a"><b>{stripped[4:]}</b></font><br>')
+                html_parts.append(f'<br><font size="15" color="#0f172a"><b>{stripped[4:]}</b></font><br><br>')
                 is_header_row = True
                 continue
             elif stripped.startswith('## '):
                 if in_table:
-                    html_parts.append('</table><br>')
+                    html_parts.append('</tbody></table><br>')
                     in_table = False
-                html_parts.append(f'<br><font size="16" color="#1e3a8a"><b>{stripped[3:]}</b></font><br>')
+                html_parts.append(f'<br><font size="17" color="#0f172a"><b>{stripped[3:]}</b></font><br><br>')
                 continue
             elif stripped.startswith('# '):
                 if in_table:
-                    html_parts.append('</table><br>')
+                    html_parts.append('</tbody></table><br>')
                     in_table = False
-                html_parts.append(f'<br><font size="18" color="#1e3a8a"><b>{stripped[2:]}</b></font><br>')
+                html_parts.append(f'<br><font size="19" color="#0f172a"><b>{stripped[2:]}</b></font><br><br>')
                 continue
             
             # Table separator row (|---|---|)
@@ -358,51 +364,70 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                 
                 if not in_table:
                     col_count = len(cells)
-                    col_width = int(96 / col_count) if col_count > 0 else 16
-                    html_parts.append(f'<table border="1" width="100%">')
+                    # HTML table with no vertical borders, soft horizontal borders via CSS
+                    # Increased cellpadding for more breathing room (padding)
+                    html_parts.append('<br><table border="0" width="100%" cellpadding="8" cellspacing="0"><tbody>')
                     in_table = True
                     is_header_row = True
+                    row_idx = 0
                 
                 if is_header_row:
                     row_html = '<tr>'
-                    for cell in cells:
-                        row_html += f'<td width="{col_width}%" bgcolor="#1e3a8a" align="center"><font color="#ffffff" size="9"><b>{cell}</b></font></td>'
+                    for i, cell in enumerate(cells):
+                        align = 'left' if i < 2 else 'center'
+                        # Koyu antrasit header (#1E293B)
+                        row_html += f'<td bgcolor="#1e293b" align="{align}"><font color="#ffffff" size="10"><b>  {cell}  </b></font></td>'
                     row_html += '</tr>'
                     html_parts.append(row_html)
                     is_header_row = False
                 else:
-                    # Check if this is a "Toplam" row
                     is_total = any('toplam' in c.lower() for c in cells)
-                    bg = ' bgcolor="#e2e8f0"' if is_total else ''
+                    
+                    if is_total:
+                        # Pastel mavi/gri arka plan toplam satırı için
+                        bg_color = "#e0e7ff" # Çok açık indigo pastel
+                        font_hex = "#1e3a8a" # Koyu mavi yazı
+                        font_size = "9"
+                    else:
+                        # Zebra striping (#FFFFFF ve #F1F5F9)
+                        bg_color = "#ffffff" if row_idx % 2 == 0 else "#f1f5f9"
+                        font_hex = "#334155" # Koyu gri yazı
+                        font_size = "9"
+                        
                     row_html = '<tr>'
                     for i, cell in enumerate(cells):
                         align = 'left' if i < 2 else 'center'
-                        bold_s = '<b>' if is_total else ''
-                        bold_e = '</b>' if is_total else ''
-                        row_html += f'<td width="{col_width}%"{bg} align="{align}"><font size="8">{bold_s}{cell}{bold_e}</font></td>'
-                    row_html += '</tr>'
+                        bold_tag_s = '<b>' if is_total else ''
+                        bold_tag_e = '</b>' if is_total else ''
+                        
+                        # Tr tag içine td ve font ekleyelim
+                        row_html += f'<td bgcolor="{bg_color}" align="{align}"><font color="{font_hex}" size="{font_size}">{bold_tag_s} {cell} {bold_tag_e}</font></td>'
+                    row_html += '</tr><tr><td colspan="{col_count}" bgcolor="#e2e8f0" height="1"></td></tr>' # Fake bottom border
                     html_parts.append(row_html)
+                    row_idx += 1
                 continue
             
             # Close table if we were in one
             if in_table and not stripped.startswith('|'):
-                html_parts.append('</table><br>')
+                html_parts.append('</tbody></table><br>')
                 in_table = False
                 is_header_row = True
             
             # Bold text
             if stripped.startswith('**') or stripped.startswith('- **'):
-                clean = stripped.replace('**', '').replace('- ', '')
-                html_parts.append(f'<font size="10"><b>{clean}</b></font><br>')
+                clean = stripped.replace('**', '').replace('- ', '• ')
+                html_parts.append(f'<font size="10" color="#0f172a"><b>{clean}</b></font><br>')
                 continue
             
             # Regular text
             if stripped:
                 clean = stripped.replace('**', '')
-                html_parts.append(f'<font size="9">{clean}</font><br>')
+                if stripped.startswith('- '):
+                    clean = stripped.replace('- ', '• ')
+                html_parts.append(f'<font size="10" color="#334155">{clean}</font><br>')
         
         if in_table:
-            html_parts.append('</table>')
+            html_parts.append('</tbody></table>')
         
         full_html = '\n'.join(html_parts)
         
