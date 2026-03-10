@@ -320,8 +320,9 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
             'ç': 'c', 'Ç': 'C', 'ü': 'u', 'Ü': 'U'
         })
         safe_text = text_content.translate(tr_map)
-        # Remove emojis and other non-latin-1 characters (💧📚🏃 vs)
-        safe_text = re.sub(r'[^\x00-\xff]', '', safe_text)
+        
+        # Bulletproof way to remove any character that fpdf2 (latin-1) cannot render
+        safe_text = safe_text.encode('latin-1', 'ignore').decode('latin-1')
         
         # Convert markdown to styled HTML for fpdf2's write_html
         lines = safe_text.split('\n')
