@@ -376,8 +376,9 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
                     row_html = '<tr>'
                     for i, cell in enumerate(cells):
                         align = 'left' if i < 2 else 'center'
-                        # Koyu antrasit header (#1E293B)
-                        row_html += f'<td bgcolor="#1e293b" align="{align}"><font color="#ffffff" size="10"><b>  {cell}  </b></font></td>'
+                        # FPDF2 sometimes ignores white font inside tables, causing black text on dark bg.
+                        # Switched to a sophisticated light Slate (#cbd5e1) bg with dark navy (#0f172a) text.
+                        row_html += f'<td bgcolor="#cbd5e1" align="{align}"><b><font color="#0f172a" size="10">  {cell}  </font></b></td>'
                     row_html += '</tr>'
                     html_parts.append(row_html)
                     is_header_row = False
