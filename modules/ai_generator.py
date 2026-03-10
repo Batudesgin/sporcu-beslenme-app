@@ -5,7 +5,7 @@ from openai import OpenAI
 openai_api_key = st.secrets["OPENAI_API_KEY"]
 client = OpenAI(api_key=openai_api_key)
 
-def generate_nutrition_plan(profile, nutrition_data, academic_context):
+def generate_nutrition_plan(profile, nutrition_data, academic_context, rag_sources=None):
     """
     Calls OpenAI GPT-4o-mini to generate a 7-day personalized meal plan 
     based on math modules, academic research context, and advanced optimization rules.
@@ -86,7 +86,12 @@ Kullanıcının "Antrenman Saati" verisine göre öğünleri zamanlama:
 - Her gün için `### 1. Gün` başlığı aç.
 - Tablo: `| Öğün | Besinler ve Porsiyonlar | Kalori (kcal) | Protein (g) | Karbonhidrat (g) | Yağ (g) |`
 - Her öğün SADECE 1 SATIR. En alta "Günlük Toplam" satırı ekle.
-- Planın EN ALTINA 'Kaynaklar ve Gerekçeler' bölümü ekle.
+
+### ADIM 6: KAYNAKÇA BÖLÜMÜ (ZORUNLU)
+- Planın EN ALTINA `## Kaynaklar ve Referanslar` başlığı ekle.
+- Aşağıda verilen RAG kaynaklarını numaralı liste olarak yaz.
+- Her kaynağın yanına, plandaki hangi kararı etkilediğini kısaca açıkla.
+- Eğer RAG kaynağı yoksa, kullandığın genel bilimsel ilkelerin kaynaklarını yaz (ISSN, ACSM, IOC gibi).
 
 ### DOĞRULAMA CHECKLIST:
 - [ ] (P*4)+(K*4)+(Y*9) = Kalori her öğünde tutuyor mu?
@@ -130,10 +135,40 @@ Kullanıcının "Antrenman Saati" verisine göre öğünleri zamanlama:
 - **Yağ**: {nutrition_data['macros']['fat_g']:.0f} g
 - **Sıvı İhtiyacı**: {nutrition_data['hydration_L']:.1f} Litre
 
+### Hesaplanmış Hidrasyon Planı (BU RAKAMLARI AYNEN YAZ):
+- **Bazal Su (Antrenman Dışı)**: {nutrition_data['hydration']['basal_ml']} ml
+- **Egzersiz Sırasında Terleme Kaybı**: {nutrition_data['hydration']['exercise_loss_ml']} ml (Ortalama {nutrition_data['hydration']['sweat_per_hour_avg']} ml/saat)
+- **Toplam Günlük İhtiyaç**: {nutrition_data['hydration']['total_ml']} ml ({nutrition_data['hydration']['total_L']} L)
+- **Antrenman Öncesi (2-3 saat önce)**: {nutrition_data['hydration']['pre_training_ml']} ml (ACSM: 5-7 ml/kg)
+- **Antrenman Sonrası Replasman (4 saat içinde)**: {nutrition_data['hydration']['post_training_total_ml']} ml (Saatlik: ~{nutrition_data['hydration']['post_training_per_hour_ml']} ml)
+- **Kafein Ekstra**: {nutrition_data['hydration']['caffeine_extra_ml']} ml
+- **Sıcaklık Ek Sıvı**: {nutrition_data['hydration']['heat_bonus_ml']} ml
+- **Elektrolit İhtiyacı**: {"EVET - Egzersiz sırasında " + str(nutrition_data['hydration']['electrolyte_sodium_mg']) + " mg sodyum alımı gerekli (izotonik içecek/elektrolit tablet)" if nutrition_data['hydration']['needs_electrolyte'] else "Hayır - standart su yeterli"}
+
 ### Akademik Bağlam (RAG Sonuçları):
 {academic_context if academic_context else "Akademik veri bulunamadı. Genel sporcu beslenmesi kurallarını uygula."}
 
-Lütfen yukarıdaki kurallara, matematiksel hedeflere, besin zamanlamasına ve akademik bağlama sıkı sıkıya bağlı kalarak 7 günlük diyet planını markdown tablosu formatında oluştur.
+### Kullanılan Kaynak İsimleri (Kaynakça için kullan):
+{chr(10).join(f'{i+1}. {s}' for i, s in enumerate(rag_sources)) if rag_sources else "RAG kaynağı bulunamadı. Genel bilimsel referansları kullan (ISSN, ACSM, IOC vb.)."}
+
+ÇIKTININ ZORUNLU YAPISI (BU SIRAYA UYMAZSAN PLAN GEÇERSİZDİR):
+
+1. Önce 7 günlük diyet planını markdown tablosu formatında yaz (### 1. Gün ... ### 7. Gün)
+2. Ardından şu bölümü MUTLAKA yaz:
+
+## 💧 Günlük Su ve Hidrasyon Planı
+- Yukarıda verilen hesaplanmış hidrasyon rakamlarını (bazal su, egzersiz kaybı, toplam, antrenman öncesi/sonrası) tablo halinde sun.
+- Antrenman saatine göre su içme zamanlamasını belirt.
+- Elektrolit uyarısı varsa önemle vurgula.
+
+3. En son şu bölümü MUTLAKA yaz:
+
+## 📚 Kaynaklar ve Referanslar
+- Yukarıda verilen kaynak isimlerini numaralı liste olarak yaz.
+- Her kaynağın plandaki hangi kararı etkilediğini kısaca açıkla.
+- RAG kaynağı yoksa ISSN, ACSM, IOC gibi genel bilimsel referansları yaz.
+
+Bu 3 bölümü (Diyet Tabloları → Hidrasyon Planı → Kaynakça) MUTLAKA ve EKSİKSİZ yaz. Hiçbirini atlama.
 """
     try:
         response = client.chat.completions.create(
@@ -143,7 +178,7 @@ Lütfen yukarıdaki kurallara, matematiksel hedeflere, besin zamanlamasına ve a
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.3,
-            max_tokens=8000
+            max_tokens=16000
         )
         return response.choices[0].message.content
     except Exception as e:

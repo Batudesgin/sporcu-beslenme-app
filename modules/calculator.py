@@ -150,6 +150,92 @@ def calculate_macros(weight, sport_type, goal, avg_daily_hours, total_calories, 
         "total_kcal": round(total_calories)
     }
 
+def calculate_hydration(profile):
+    """
+    Calculates detailed hydration plan based on ACSM & NSCA standards.
+    Returns a dict with all hydration metrics in ml.
+    """
+    weight = profile['weight']
+    training_hours = profile['training_hours']
+    sweat_rate = profile.get('sweat_rate', 'Normal')
+    training_time = profile.get('training_time', '')
+    caffeine = profile.get('caffeine_tolerance', 'Kullanmam')
+    target_distance = profile.get('target_distance', 'Belirtilmedi')
+    
+    # ── 1. Bazal Su İhtiyacı (Antrenman Dışı) ──
+    # ACSM: Vücut ağırlığı × 35 ml
+    basal_ml = weight * 35
+    
+    # ── 2. Egzersiz Sırasında Terleme Bazlı Ek Sıvı ──
+    # Terleme şiddetine göre saatlik kayıp (ml/saat)
+    if sweat_rate in ["Az (Kıyafet kuru kalır)", "Normal"]:
+        sweat_per_hour_low = 500
+        sweat_per_hour_high = 700
+    elif sweat_rate == "Çok (Kıyafet sırılsıklam)":
+        sweat_per_hour_low = 1000
+        sweat_per_hour_high = 1500
+    else:  # Aşırı (Tuz lekesi kalır)
+        sweat_per_hour_low = 1200
+        sweat_per_hour_high = 1800
+    
+    # Ortalama terleme kaybı
+    sweat_per_hour_avg = (sweat_per_hour_low + sweat_per_hour_high) / 2
+    exercise_loss_ml = sweat_per_hour_avg * training_hours
+    
+    # ── 3. Sıcaklık Faktörü (Öğle Antrenmanı) ──
+    # Öğle saati (10:00-14:00) → +%15
+    heat_bonus_ml = 0
+    if "Öğle" in str(training_time):
+        heat_bonus_ml = exercise_loss_ml * 0.15
+        exercise_loss_ml += heat_bonus_ml
+    
+    # ── 4. Kafein Düzeltmesi ──
+    # 3+ fincan → +300 ml (diüretik etki kompanzasyonu)
+    caffeine_extra_ml = 0
+    if caffeine == "3+ fincan/gün":
+        caffeine_extra_ml = 300
+    
+    # ── 5. Toplam Günlük Su İhtiyacı ──
+    total_ml = basal_ml + exercise_loss_ml + caffeine_extra_ml
+    
+    # ── 6. Antrenman Öncesi Hidrasyon (ACSM) ──
+    # Antrenmandan 2-3 saat önce: 5-7 ml/kg
+    pre_training_ml_low = weight * 5
+    pre_training_ml_high = weight * 7
+    
+    # ── 7. Antrenman Sonrası Replasman ──
+    # Kayıp × 1.5, 4 saat içine yayarak (NSCA)
+    post_training_total_ml = exercise_loss_ml * 1.5
+    post_training_per_hour_ml = post_training_total_ml / 4 if post_training_total_ml > 0 else 0
+    
+    # ── 8. Elektrolit / Hiponatremi Uyarısı ──
+    # Uzun mesafe veya günlük antrenman > 90 dk → sodyum uyarısı
+    endurance_keywords = ["Maraton", "Ultra", "Gran Fondo", "100K", "70.3", "Ironman"]
+    is_long_endurance = any(k in str(target_distance) for k in endurance_keywords)
+    needs_electrolyte = is_long_endurance or (training_hours > 1.5)
+    
+    # Kayıp litre başına 500-700 mg sodyum
+    electrolyte_sodium_mg = 0
+    if needs_electrolyte:
+        lost_liters = exercise_loss_ml / 1000
+        electrolyte_sodium_mg = round(lost_liters * 600)  # orta değer 600 mg/L
+    
+    return {
+        "basal_ml": round(basal_ml),
+        "exercise_loss_ml": round(exercise_loss_ml),
+        "heat_bonus_ml": round(heat_bonus_ml),
+        "caffeine_extra_ml": round(caffeine_extra_ml),
+        "total_ml": round(total_ml),
+        "total_L": round(total_ml / 1000, 1),
+        "pre_training_ml": f"{round(pre_training_ml_low)}-{round(pre_training_ml_high)}",
+        "post_training_total_ml": round(post_training_total_ml),
+        "post_training_per_hour_ml": round(post_training_per_hour_ml),
+        "needs_electrolyte": needs_electrolyte,
+        "electrolyte_sodium_mg": electrolyte_sodium_mg,
+        "sweat_per_hour_avg": round(sweat_per_hour_avg),
+    }
+
+
 def get_athlete_nutrition(profile):
     """
     Main function to calculate comprehensive athlete nutrition data.
@@ -192,11 +278,8 @@ def get_athlete_nutrition(profile):
         avg_daily_hours, target_calories, target_distance
     )
     
-    # Hydration: base 35ml/kg + 500ml per training hour + sweat adjustment
-    hydration_L = (profile['weight'] * 0.035) + (avg_daily_hours * 0.5)
-    sweat_rate = profile.get('sweat_rate', 'Normal')
-    if sweat_rate in ["Çok (Kıyafet sırılsıklam)", "Aşırı (Tuz lekesi kalır)"]:
-        hydration_L += 0.5
+    # Full hydration calculation (ACSM/NSCA)
+    hydration = calculate_hydration(profile)
     
     return {
         "bmr": round(bmr),
@@ -204,6 +287,7 @@ def get_athlete_nutrition(profile):
         "tdee": round(tdee),
         "target_calories": round(target_calories),
         "activity_factor": round(activity_factor, 2),
-        "hydration_L": round(hydration_L, 1),
+        "hydration_L": hydration["total_L"],
+        "hydration": hydration,
         "macros": macros
     }

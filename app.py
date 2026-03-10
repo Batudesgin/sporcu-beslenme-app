@@ -213,10 +213,12 @@ if submitted:
         nutrition_data = get_athlete_nutrition(profile)
         
     with st.spinner("Akademik veritabanı (RAG) taranıyor... Pinecone'dan ilgili makaleler getiriliyor."):
-        academic_context = get_relevant_papers(profile)
+        rag_result = get_relevant_papers(profile)
+        academic_context = rag_result["text"]
+        rag_sources = rag_result["sources"]
         
-    with st.spinner("Yapay zeka (GPT-4o-mini) 7 günlük planınızı oluşturuyor. Lütfen bekleyin (30-50 sn)..."):
-        meal_plan = generate_nutrition_plan(profile, nutrition_data, academic_context)
+    with st.spinner("Biyometrik verileriniz ve antrenman parametreleriniz analiz ediliyor. Kişiye özel 7 günlük metabolik beslenme protokolü sentezleniyor. Lütfen bekleyin (30-50 sn)..."):
+        meal_plan = generate_nutrition_plan(profile, nutrition_data, academic_context, rag_sources)
         
     st.session_state.nutrition_data = nutrition_data
     st.session_state.meal_plan = meal_plan
@@ -247,6 +249,36 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
         st.metric("Karbonhidrat", f"{nutrition_data['macros']['carbs_g']} g")
     with col3:
         st.metric("Yağ", f"{nutrition_data['macros']['fat_g']} g")
+
+    # ── Hydration Section ──
+    hydration = nutrition_data.get("hydration", {})
+    if hydration:
+        st.subheader("💧 Günlük Hidrasyon Planı (ACSM/NSCA)")
+        col1, col2, col3, col4 = st.columns(4)
+        with col1:
+            st.metric("Bazal Su (Antrenman Dışı)", f"{hydration['basal_ml']} ml")
+        with col2:
+            st.metric("Egzersiz Sıvı Kaybı", f"{hydration['exercise_loss_ml']} ml")
+        with col3:
+            st.metric("Toplam Günlük İhtiyaç", f"{hydration['total_L']} L")
+        with col4:
+            st.metric("Terleme Hızı (ort.)", f"{hydration['sweat_per_hour_avg']} ml/saat")
+        
+        col5, col6, col7 = st.columns(3)
+        with col5:
+            st.metric("Antrenman Öncesi (2-3 saat önce)", f"{hydration['pre_training_ml']} ml")
+        with col6:
+            st.metric("Antrenman Sonrası (4 saat içinde)", f"{hydration['post_training_total_ml']} ml")
+        with col7:
+            if hydration.get("caffeine_extra_ml", 0) > 0:
+                st.metric("Kafein Kompanzasyonu", f"+{hydration['caffeine_extra_ml']} ml")
+            if hydration.get("heat_bonus_ml", 0) > 0:
+                st.metric("Sıcaklık Ek Sıvı (+%15)", f"+{round(hydration['heat_bonus_ml'])} ml")
+        
+        if hydration.get("needs_electrolyte"):
+            st.warning(f"⚠️ **Hiponatremi Uyarısı:** Uzun süreli/uzun mesafe antrenmanınız için SADECE su yeterli değildir. "
+                       f"Egzersiz sırasında tahmini **{hydration['electrolyte_sodium_mg']} mg sodyum** alımı gereklidir "
+                       f"(izotonik sporcu içeceği veya elektrolit tableti ile).")
 
     st.header("📝 7 Günlük Kişiye Özel Beslenme Planı")
     st.markdown(meal_plan)

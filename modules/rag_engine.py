@@ -76,17 +76,24 @@ def get_relevant_papers(profile):
         )
         
         contexts = []
+        sources = []
         for match in results.get("matches", []):
             if "metadata" in match and "text" in match["metadata"]:
                 contexts.append(match["metadata"]["text"])
+                source_name = match["metadata"].get("source", "Bilinmeyen Kaynak")
+                if source_name not in sources:
+                    sources.append(source_name)
                 
         if not contexts:
-            return ""
+            return {"text": "", "sources": []}
             
-        return "\n\n---\n\n".join(contexts)
+        return {
+            "text": "\n\n---\n\n".join(contexts),
+            "sources": sources
+        }
     except Exception as e:
         print(f"Pinecone query error: {e}")
-        return ""
+        return {"text": "", "sources": []}
 
 def add_knowledge_to_index(text_chunks, source_name, batch_size=100):
     """
