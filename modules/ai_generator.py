@@ -88,10 +88,9 @@ Kullanıcının "Antrenman Saati" verisine göre öğünleri zamanlama:
 - Her öğün SADECE 1 SATIR. En alta "Günlük Toplam" satırı ekle.
 
 ### ADIM 6: KAYNAKÇA BÖLÜMÜ (ZORUNLU)
-- Planın EN ALTINA `## Kaynaklar ve Referanslar` başlığı ekle.
-- Aşağıda verilen RAG kaynaklarını numaralı liste olarak yaz.
-- Her kaynağın yanına, plandaki hangi kararı etkilediğini kısaca açıkla.
-- Eğer RAG kaynağı yoksa, kullandığın genel bilimsel ilkelerin kaynaklarını yaz (ISSN, ACSM, IOC gibi).
+- Planın EN ALTINA `## 📚 Kaynaklar ve Referanslar` başlığı ekle.
+- Bu planı oluştururken dayandığın genel bilimsel referansları numaralı liste olarak yaz (Örn: ISSN, ACSM, IOC, NSCA kılavuzları).
+- RAG veritabanından gelen spesifik makale/belge adlarını (örn: Document_2, s12970 vb.) KESİNLİKLE yazma, sadece genel kurum/kurul isimlerini referans göster.
 
 ### DOĞRULAMA CHECKLIST:
 - [ ] (P*4)+(K*4)+(Y*9) = Kalori her öğünde tutuyor mu?
@@ -148,8 +147,7 @@ Kullanıcının "Antrenman Saati" verisine göre öğünleri zamanlama:
 ### Akademik Bağlam (RAG Sonuçları):
 {academic_context if academic_context else "Akademik veri bulunamadı. Genel sporcu beslenmesi kurallarını uygula."}
 
-### Kullanılan Kaynak İsimleri (Kaynakça için kullan):
-{chr(10).join(f'{i+1}. {s}' for i, s in enumerate(rag_sources)) if rag_sources else "RAG kaynağı bulunamadı. Genel bilimsel referansları kullan (ISSN, ACSM, IOC vb.)."}
+
 
 ÇIKTININ ZORUNLU YAPISI (BU SIRAYA UYMAZSAN PLAN GEÇERSİZDİR):
 
@@ -164,9 +162,8 @@ Kullanıcının "Antrenman Saati" verisine göre öğünleri zamanlama:
 3. En son şu bölümü MUTLAKA yaz:
 
 ## 📚 Kaynaklar ve Referanslar
-- Yukarıda verilen kaynak isimlerini numaralı liste olarak yaz.
-- Her kaynağın plandaki hangi kararı etkilediğini kısaca açıkla.
-- RAG kaynağı yoksa ISSN, ACSM, IOC gibi genel bilimsel referansları yaz.
+- Planda kullandığın genel bilimsel ilkelerin kaynaklarını (ISSN, ACSM vb.) maddeler halinde yaz.
+- Dosya veya belge isimleri belirtme.
 
 Bu 3 bölümü (Diyet Tabloları → Hidrasyon Planı → Kaynakça) MUTLAKA ve EKSİKSİZ yaz. Hiçbirini atlama.
 """
