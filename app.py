@@ -471,7 +471,7 @@ if st.session_state.meal_plan and st.session_state.nutrition_data:
         pdf.output(result)
         return result.getvalue()
     
-    pdf_bytes = create_pdf(meal_plan)
+    pdf_bytes = create_pdf(pdf_content)
     
     tr_map_file = str.maketrans("ğğıışşööççüüşş", "ggiissooccouss")
     safe_filename = f"{sport_type.lower().translate(tr_map_file)}_beslenme_plani.pdf"
