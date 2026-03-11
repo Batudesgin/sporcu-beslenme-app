@@ -60,17 +60,25 @@ h1, h2, h3, h4, p, label, li, span, td, th {
     color: #f8fafc !important;
 }
 /* Fix Dropdown options text color so they aren't invisible */
+/* Selected value inside the select box: dark text on white bg */
+div[data-baseweb="select"] {
+    background-color: white !important;
+}
+div[data-baseweb="select"] > div {
+    color: #0f172a !important;
+}
+/* Dropdown popover options: light text on dark bg for dark-mode compatibility */
 div[data-baseweb="popover"] ul li, 
 div[role="listbox"] span, 
 [data-baseweb="select"] ul li, 
 div[data-testid="stVirtualDropdown"] li {
-    color: #0f172a !important; 
+    color: #f8fafc !important; 
 }
-div[data-baseweb="select"] {
-    background-color: white !important;
-}
-div[data-baseweb="select"] span {
-    color: #0f172a !important;
+/* Highlighted/hovered option */
+div[data-baseweb="popover"] ul li:hover,
+div[data-testid="stVirtualDropdown"] li:hover {
+    background-color: rgba(59, 130, 246, 0.3) !important;
+    color: #ffffff !important;
 }
 /* Fix Download Button Text Contrast */
 .stDownloadButton button p {
