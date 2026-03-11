@@ -59,7 +59,7 @@ div[data-testid="metric-container"] {
 h1, h2, h3, h4, p, label, li, span, td, th {
     color: #f8fafc !important;
 }
-/* Fix Dropdown options text color so they aren't invisible */
+/* Fix Dropdown: force dark bg + light text so it works in BOTH light & dark mode */
 /* Selected value inside the select box: dark text on white bg */
 div[data-baseweb="select"] {
     background-color: white !important;
@@ -67,17 +67,28 @@ div[data-baseweb="select"] {
 div[data-baseweb="select"] > div {
     color: #0f172a !important;
 }
-/* Dropdown popover options: light text on dark bg for dark-mode compatibility */
+/* Force dropdown popover background to dark */
+div[data-baseweb="popover"],
+div[data-baseweb="popover"] ul,
+div[data-testid="stVirtualDropdown"],
+div[data-testid="stVirtualDropdown"] div,
+div[role="listbox"] {
+    background-color: #1e293b !important;
+}
+/* Dropdown option text: always light */
 div[data-baseweb="popover"] ul li, 
 div[role="listbox"] span, 
 [data-baseweb="select"] ul li, 
 div[data-testid="stVirtualDropdown"] li {
-    color: #f8fafc !important; 
+    color: #f8fafc !important;
+    background-color: #1e293b !important;
 }
 /* Highlighted/hovered option */
 div[data-baseweb="popover"] ul li:hover,
-div[data-testid="stVirtualDropdown"] li:hover {
-    background-color: rgba(59, 130, 246, 0.3) !important;
+div[data-testid="stVirtualDropdown"] li:hover,
+div[data-baseweb="popover"] ul li[aria-selected="true"],
+div[data-testid="stVirtualDropdown"] li[aria-selected="true"] {
+    background-color: #334155 !important;
     color: #ffffff !important;
 }
 /* Fix Download Button Text Contrast */
